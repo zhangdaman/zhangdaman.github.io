@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>About - Alex Chen</title>
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&amp;family=Playfair+Display:wght@600;700&amp;family=Source+Serif+4:opsz,wght@8..60,400&amp;display=swap" rel="stylesheet"/>
+<!-- Material Symbols -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<style>
+        .material-symbols-outlined {
+            font-family: 'Material Symbols Outlined';
+            font-weight: normal;
+            font-style: normal;
+            font-size: 24px;
+            line-height: 1;
+            letter-spacing: normal;
+            text-transform: none;
+            display: inline-block;
+            white-space: nowrap;
+            word-wrap: normal;
+            direction: ltr;
+            -webkit-font-feature-settings: 'liga';
+            -webkit-font-smoothing: antialiased;
+        }
+        /* Custom Terminal dots */
+        .terminal-dots::before {
+            content: "";
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background-color: #747878; /* outline color */
+            box-shadow: 16px 0 0 #747878, 32px 0 0 #747878;
+            margin-bottom: 16px;
+        }
+    </style>
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            "colors": {
+                    "secondary-container": "#fc8c74",
+                    "error-container": "#ffdad6",
+                    "outline": "#747878",
+                    "on-secondary-fixed-variant": "#7e2b1b",
+                    "on-tertiary-fixed": "#1d1b1a",
+                    "primary": "#000000",
+                    "inverse-primary": "#c8c6c5",
+                    "on-tertiary": "#ffffff",
+                    "surface-variant": "#e3e2e2",
+                    "on-secondary-container": "#742414",
+                    "tertiary-container": "#1d1b1a",
+                    "on-tertiary-container": "#868381",
+                    "secondary-fixed": "#ffdad3",
+                    "inverse-surface": "#303031",
+                    "secondary": "#9d422f",
+                    "surface-container-lowest": "#ffffff",
+                    "surface-container-highest": "#e3e2e2",
+                    "on-surface": "#1b1c1c",
+                    "surface": "#faf9f9",
+                    "on-error-container": "#93000a",
+                    "tertiary": "#000000",
+                    "primary-container": "#1c1b1b",
+                    "on-primary-fixed": "#1c1b1b",
+                    "on-secondary": "#ffffff",
+                    "surface-tint": "#5f5e5e",
+                    "error": "#ba1a1a",
+                    "primary-fixed-dim": "#c8c6c5",
+                    "surface-dim": "#dbdad9",
+                    "on-primary-container": "#858383",
+                    "on-background": "#1b1c1c",
+                    "surface-container-low": "#f5f3f3",
+                    "secondary-fixed-dim": "#ffb4a4",
+                    "on-primary": "#ffffff",
+                    "surface-container-high": "#e9e8e8",
+                    "on-error": "#ffffff",
+                    "surface-bright": "#faf9f9",
+                    "tertiary-fixed-dim": "#cac6c3",
+                    "inverse-on-surface": "#f2f0f0",
+                    "on-surface-variant": "#444748",
+                    "surface-container": "#efeded",
+                    "on-primary-fixed-variant": "#474646",
+                    "on-secondary-fixed": "#3e0500",
+                    "tertiary-fixed": "#e6e1df",
+                    "background": "#faf9f9",
+                    "outline-variant": "#c4c7c7",
+                    "primary-fixed": "#e5e2e1",
+                    "on-tertiary-fixed-variant": "#484645"
+            },
+            "borderRadius": {
+                    "DEFAULT": "0.25rem",
+                    "lg": "0.5rem",
+                    "xl": "0.75rem",
+                    "full": "9999px"
+            },
+            "spacing": {
+                    "margin-edge": "48px",
+                    "section-v-rhyme": "140px",
+                    "gutter": "24px",
+                    "stack-lg": "32px",
+                    "stack-md": "16px",
+                    "stack-sm": "8px"
+            },
+            "fontFamily": {
+                    "display": ["Playfair Display"],
+                    "body-md": ["Source Serif 4"],
+                    "headline-md": ["Playfair Display"],
+                    "kicker": ["JetBrains Mono"],
+                    "mono-ui": ["JetBrains Mono"],
+                    "body-lg": ["Source Serif 4"],
+                    "headline-lg-mobile": ["Playfair Display"],
+                    "headline-lg": ["Playfair Display"]
+            },
+            "fontSize": {
+                    "display": ["72px", { "lineHeight": "1.1", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+                    "body-md": ["17px", { "lineHeight": "1.6", "fontWeight": "400" }],
+                    "headline-md": ["32px", { "lineHeight": "1.3", "fontWeight": "600" }],
+                    "kicker": ["12px", { "lineHeight": "1.0", "letterSpacing": "0.2em", "fontWeight": "500" }],
+                    "mono-ui": ["14px", { "lineHeight": "1.5", "fontWeight": "400" }],
+                    "body-lg": ["20px", { "lineHeight": "1.6", "fontWeight": "400" }],
+                    "headline-lg-mobile": ["36px", { "lineHeight": "1.2", "fontWeight": "700" }],
+                    "headline-lg": ["48px", { "lineHeight": "1.2", "fontWeight": "700" }]
+            }
+          }
+        }
+      }
+    </script>
+</head>
+<body class="bg-surface text-on-surface antialiased selection:bg-secondary-container selection:text-on-secondary-container">
+<!-- TopNavBar (Generated from JSON) -->
+<header class="bg-surface docked full-width top-0 border-b border-outline-variant flat no shadows">
+<div class="flex justify-between items-center w-full px-margin-edge py-6 max-w-7xl mx-auto">
+<!-- Brand Logo -->
+<a class="font-mono-ui text-mono-ui font-bold text-primary tracking-tighter hover:opacity-70 transition-opacity" href="#">
+                ALEX CHEN
+            </a>
+<!-- Navigation Links -->
+<nav class="hidden md:flex space-x-8 font-mono-ui text-mono-ui uppercase tracking-widest">
+<a class="text-on-surface-variant hover:text-secondary transition-colors duration-200" href="#">Home</a>
+<!-- Active State -->
+<a aria-current="page" class="text-secondary font-bold border-b-2 border-secondary pb-1 hover:text-secondary transition-colors duration-200" href="#">About</a>
+<a class="text-on-surface-variant hover:text-secondary transition-colors duration-200" href="#">Work</a>
+<a class="text-on-surface-variant hover:text-secondary transition-colors duration-200" href="#">Notes</a>
+<a class="text-on-surface-variant hover:text-secondary transition-colors duration-200" href="#">Contact</a>
+</nav>
+<!-- Mobile Menu Icon (Hidden on md+) -->
+<button class="md:hidden text-primary hover:text-secondary transition-colors duration-200">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 0;">menu</span>
+</button>
+</div>
+</header>
+<!-- Main Content -->
+<main class="w-full max-w-7xl mx-auto px-6 md:px-margin-edge mt-24 mb-section-v-rhyme">
+<!-- 12-Column Grid Layout -->
+<div class="grid grid-cols-1 md:grid-cols-12 gap-gutter relative items-start">
+<!-- Side Rail (Sticky on Desktop) -->
+<aside class="hidden md:block md:col-span-3 lg:col-span-3 sticky top-32">
+<nav class="flex flex-col space-y-6 border-l border-outline-variant pl-6">
+<a class="font-kicker text-kicker uppercase text-primary hover:text-secondary transition-colors duration-200 tracking-widest" href="#pov">
+                        § POV
+                    </a>
+<a class="font-kicker text-kicker uppercase text-on-surface-variant hover:text-secondary transition-colors duration-200 tracking-widest" href="#arc">
+                        § Arc
+                    </a>
+<a class="font-kicker text-kicker uppercase text-on-surface-variant hover:text-secondary transition-colors duration-200 tracking-widest" href="#focus">
+                        § Focus
+                    </a>
+</nav>
+</aside>
+<!-- Main Reading Column (Max Width 720px) -->
+<article class="md:col-span-9 lg:col-span-8 max-w-[720px]">
+<!-- Section 1: POV on Product -->
+<section class="mb-section-v-rhyme scroll-mt-32" id="pov">
+<h1 class="font-headline-lg-mobile md:font-headline-lg text-headline-lg-mobile md:text-headline-lg text-primary mb-stack-lg">
+                        The Bridge Between Craft and Computation
+                    </h1>
+<div class="space-y-stack-md text-on-surface">
+<!-- Drop Cap Paragraph -->
+<p class="font-body-lg text-body-lg first-letter:font-display first-letter:text-display first-letter:float-left first-letter:mr-4 first-letter:mt-2 first-letter:text-primary first-letter:leading-none">
+                            The role of the product manager is shifting from gathering requirements to navigating probabilities. In an era where technical feasibility dictates strategy, understanding the underlying architecture of AI is no longer optional—it is the foundation of the craft. My practice is built on the belief that product management in artificial intelligence requires the intellectual rigor of an engineer combined with the narrative clarity of an editor.
+                        </p>
+<p class="font-body-lg text-body-lg">
+                            Shipping is not merely a milestone; it is the fundamental mechanism through which we learn. In non-deterministic systems, hypotheses cannot be validated on a whiteboard. They must be subjected to the friction of reality. By treating shipping as an iterative discipline rather than a discrete event, we can safely navigate the ambiguities inherent in large language models and generative applications.
+                        </p>
+<p class="font-body-lg text-body-lg">
+                            Finally, I believe in the power of learning in public. The frontier of AI is advancing too rapidly for siloed knowledge. Documenting failures, outlining architectural trade-offs, and publishing product frameworks openly accelerates collective understanding. The builder-scholar ethos demands that we not only construct the future but also leave a legible blueprint for those who follow.
+                        </p>
+</div>
+<!-- Display Serif Pull-quote -->
+<blockquote class="font-headline-md text-headline-md text-primary border-t border-b border-outline-variant py-stack-lg my-section-v-rhyme">
+                        "In non-deterministic systems, hypotheses cannot be validated on a whiteboard. They must be subjected to the friction of reality."
+                    </blockquote>
+</section>
+<!-- Section 2: Career Arc -->
+<section class="mb-section-v-rhyme scroll-mt-32 border-t border-outline-variant pt-section-v-rhyme" id="arc">
+<h2 class="font-mono-ui text-mono-ui uppercase tracking-widest text-on-surface-variant mb-stack-md">Career Arc</h2>
+<p class="font-body-md text-body-md text-on-surface">
+                        My trajectory into AI product management wasn't a calculated pivot, but a necessary evolution. I began my career building traditional deterministic SaaS platforms, where success was defined by rigidly structured data models and predictable user flows. The turning point arrived when I was tasked with integrating early semantic search capabilities into a mature enterprise product. The sheer unruliness of the system—the shift from discrete logic to probabilistic reasoning—was initially terrifying, then deeply compelling. I realized that the future of product design would not be about anticipating every user action, but about constructing intelligent orchestration layers that could adapt dynamically. This realization catalyzed a deliberate immersion into machine learning fundamentals, transitioning my focus entirely toward applied AI, agentic workflows, and the tooling required to evaluate them.
+                    </p>
+</section>
+<!-- Section 3: Technical Focus -->
+<section class="scroll-mt-32 border-t border-outline-variant pt-section-v-rhyme" id="focus">
+<h2 class="font-mono-ui text-mono-ui uppercase tracking-widest text-on-surface-variant mb-stack-lg">Technical Focus</h2>
+<!-- Terminal Panel Component -->
+<div class="bg-tertiary-container text-tertiary-fixed p-8 border border-outline rounded-none shadow-none">
+<div class="terminal-dots mb-6"></div>
+<p class="font-mono-ui text-mono-ui mb-6 text-on-tertiary">
+                            Current technical investigations and active engineering focus areas:
+                        </p>
+<ul class="font-mono-ui text-mono-ui space-y-4 text-surface-variant">
+<li class="flex items-start">
+<span aria-hidden="true" class="text-secondary mr-3 mt-1 block w-2 h-2 bg-secondary flex-shrink-0"></span>
+<div>
+<strong class="text-on-tertiary block">RAG (Retrieval-Augmented Generation)</strong>
+                                    Optimizing chunking strategies, embedding models, and hybrid search pipelines to reduce hallucination and ground outputs in enterprise corpora.
+                                </div>
+</li>
+<li class="flex items-start">
+<span aria-hidden="true" class="text-secondary mr-3 mt-1 block w-2 h-2 bg-secondary flex-shrink-0"></span>
+<div>
+<strong class="text-on-tertiary block">Agent Orchestration</strong>
+                                    Designing multi-agent frameworks using LangChain and LlamaIndex. Focusing on deterministic routing within probabilistic bounds.
+                                </div>
+</li>
+<li class="flex items-start">
+<span aria-hidden="true" class="text-secondary mr-3 mt-1 block w-2 h-2 bg-secondary flex-shrink-0"></span>
+<div>
+<strong class="text-on-tertiary block">Evals &amp; Telemetry</strong>
+                                    Building rigorous evaluation harnesses. Moving beyond vibes-based assessment to quantitative metrics for model performance and safety.
+                                </div>
+</li>
+<li class="flex items-start">
+<span aria-hidden="true" class="text-secondary mr-3 mt-1 block w-2 h-2 bg-secondary flex-shrink-0"></span>
+<div>
+<strong class="text-on-tertiary block">Ads &amp; Growth Surfaces</strong>
+                                    Exploring native integration of generative UI within performance marketing flows to drive contextual conversion.
+                                </div>
+</li>
+</ul>
+</div>
+</section>
+</article>
+</div>
+</main>
+<!-- Footer (Generated from JSON) -->
+<footer class="bg-surface docked full-width bottom-0 border-t border-outline-variant flat no shadows">
+<div class="flex flex-col md:flex-row justify-between items-center w-full px-margin-edge py-12 max-w-7xl mx-auto gap-6">
+<!-- Copyright Text -->
+<div class="font-mono-ui text-kicker uppercase text-on-surface-variant">
+                ALEX CHEN © 2024
+            </div>
+<!-- Links -->
+<div class="flex space-x-6 font-mono-ui text-kicker uppercase">
+<a class="text-on-surface-variant hover:text-secondary hover:underline transition-all" href="#">Built with React</a>
+<a class="text-on-surface-variant hover:text-secondary hover:underline transition-all" href="#">Vite</a>
+<a class="text-on-surface-variant hover:text-secondary hover:underline transition-all" href="#">Tailwind CSS</a>
+</div>
+</div>
+</footer>
+</body></html>

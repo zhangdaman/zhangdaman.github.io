@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Contact - ALEX CHEN</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&amp;family=Source+Serif+4:wght@400;600&amp;family=JetBrains+Mono:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+          darkMode: "class",
+          theme: {
+            extend: {
+              "colors": {
+                      "secondary-container": "#fc8c74",
+                      "error-container": "#ffdad6",
+                      "outline": "#747878",
+                      "on-secondary-fixed-variant": "#7e2b1b",
+                      "on-tertiary-fixed": "#1d1b1a",
+                      "primary": "#000000",
+                      "inverse-primary": "#c8c6c5",
+                      "on-tertiary": "#ffffff",
+                      "surface-variant": "#e3e2e2",
+                      "on-secondary-container": "#742414",
+                      "tertiary-container": "#1d1b1a",
+                      "on-tertiary-container": "#868381",
+                      "secondary-fixed": "#ffdad3",
+                      "inverse-surface": "#303031",
+                      "secondary": "#9d422f",
+                      "surface-container-lowest": "#ffffff",
+                      "surface-container-highest": "#e3e2e2",
+                      "on-surface": "#1b1c1c",
+                      "surface": "#faf9f9",
+                      "on-error-container": "#93000a",
+                      "tertiary": "#000000",
+                      "primary-container": "#1c1b1b",
+                      "on-primary-fixed": "#1c1b1b",
+                      "on-secondary": "#ffffff",
+                      "surface-tint": "#5f5e5e",
+                      "error": "#ba1a1a",
+                      "primary-fixed-dim": "#c8c6c5",
+                      "surface-dim": "#dbdad9",
+                      "on-primary-container": "#858383",
+                      "on-background": "#1b1c1c",
+                      "surface-container-low": "#f5f3f3",
+                      "secondary-fixed-dim": "#ffb4a4",
+                      "on-primary": "#ffffff",
+                      "surface-container-high": "#e9e8e8",
+                      "on-error": "#ffffff",
+                      "surface-bright": "#faf9f9",
+                      "tertiary-fixed-dim": "#cac6c3",
+                      "inverse-on-surface": "#f2f0f0",
+                      "on-surface-variant": "#444748",
+                      "surface-container": "#efeded",
+                      "on-primary-fixed-variant": "#474646",
+                      "on-secondary-fixed": "#3e0500",
+                      "tertiary-fixed": "#e6e1df",
+                      "background": "#faf9f9",
+                      "outline-variant": "#c4c7c7",
+                      "primary-fixed": "#e5e2e1",
+                      "on-tertiary-fixed-variant": "#484645"
+              },
+              "borderRadius": {
+                      "DEFAULT": "0.25rem",
+                      "lg": "0.5rem",
+                      "xl": "0.75rem",
+                      "full": "9999px"
+              },
+              "spacing": {
+                      "margin-edge": "48px",
+                      "section-v-rhyme": "140px",
+                      "gutter": "24px",
+                      "stack-lg": "32px",
+                      "stack-md": "16px",
+                      "stack-sm": "8px"
+              },
+              "fontFamily": {
+                      "display": [
+                              "Playfair Display"
+                      ],
+                      "body-md": [
+                              "Source Serif 4"
+                      ],
+                      "headline-md": [
+                              "Playfair Display"
+                      ],
+                      "kicker": [
+                              "JetBrains Mono"
+                      ],
+                      "mono-ui": [
+                              "JetBrains Mono"
+                      ],
+                      "body-lg": [
+                              "Source Serif 4"
+                      ],
+                      "headline-lg-mobile": [
+                              "Playfair Display"
+                      ],
+                      "headline-lg": [
+                              "Playfair Display"
+                      ]
+              },
+              "fontSize": {
+                      "display": [
+                              "72px",
+                              {
+                                      "lineHeight": "1.1",
+                                      "letterSpacing": "-0.02em",
+                                      "fontWeight": "700"
+                              }
+                      ],
+                      "body-md": [
+                              "17px",
+                              {
+                                      "lineHeight": "1.6",
+                                      "fontWeight": "400"
+                              }
+                      ],
+                      "headline-md": [
+                              "32px",
+                              {
+                                      "lineHeight": "1.3",
+                                      "fontWeight": "600"
+                              }
+                      ],
+                      "kicker": [
+                              "12px",
+                              {
+                                      "lineHeight": "1.0",
+                                      "letterSpacing": "0.2em",
+                                      "fontWeight": "500"
+                              }
+                      ],
+                      "mono-ui": [
+                              "14px",
+                              {
+                                      "lineHeight": "1.5",
+                                      "fontWeight": "400"
+                              }
+                      ],
+                      "body-lg": [
+                              "20px",
+                              {
+                                      "lineHeight": "1.6",
+                                      "fontWeight": "400"
+                              }
+                      ],
+                      "headline-lg-mobile": [
+                              "36px",
+                              {
+                                      "lineHeight": "1.2",
+                                      "fontWeight": "700"
+                              }
+                      ],
+                      "headline-lg": [
+                              "48px",
+                              {
+                                      "lineHeight": "1.2",
+                                      "fontWeight": "700"
+                              }
+                      ]
+              }
+      },
+          },
+        }
+      </script>
+</head>
+<body class="bg-surface text-on-surface font-body-md antialiased min-h-screen flex flex-col">
+<!-- TopNavBar -->
+<header class="bg-surface border-b border-outline-variant w-full">
+<div class="flex justify-between items-center w-full px-margin-edge py-6 max-w-7xl mx-auto">
+<a class="font-mono-ui text-mono-ui font-bold text-primary tracking-tighter" href="#">ALEX CHEN</a>
+<nav class="hidden md:flex gap-gutter items-center">
+<a class="font-mono-ui text-mono-ui tracking-widest text-on-surface-variant hover:text-secondary transition-colors duration-200" href="#">Home</a>
+<a class="font-mono-ui text-mono-ui tracking-widest text-on-surface-variant hover:text-secondary transition-colors duration-200" href="#">About</a>
+<a class="font-mono-ui text-mono-ui tracking-widest text-on-surface-variant hover:text-secondary transition-colors duration-200" href="#">Work</a>
+<a class="font-mono-ui text-mono-ui tracking-widest text-on-surface-variant hover:text-secondary transition-colors duration-200" href="#">Notes</a>
+<a class="font-mono-ui text-mono-ui tracking-widest text-secondary font-bold border-b-2 border-secondary pb-1 opacity-70 transition-opacity" href="#">Contact</a>
+</nav>
+<button class="md:hidden text-primary">
+<span class="material-symbols-outlined">menu</span>
+</button>
+</div>
+</header>
+<main class="flex-grow max-w-7xl mx-auto w-full px-margin-edge py-section-v-rhyme">
+<div class="mb-section-v-rhyme">
+<h1 class="font-display text-display text-primary mb-stack-md hidden md:block">Initiate Protocol</h1>
+<h1 class="font-headline-lg-mobile text-headline-lg-mobile text-primary mb-stack-md md:hidden">Initiate Protocol</h1>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-2xl">Select a communication vector. Direct inquiries or ongoing telemetry.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-0 border border-outline-variant">
+<!-- Left Column: Hiring -->
+<div class="p-8 md:p-12 border-b md:border-b-0 md:border-r border-outline-variant bg-surface-container-lowest relative overflow-hidden">
+<div class="absolute top-0 right-0 p-4 opacity-10">
+<span class="material-symbols-outlined text-6xl">work</span>
+</div>
+<h2 class="font-kicker text-kicker text-on-surface-variant mb-stack-lg uppercase tracking-widest flex items-center gap-2">
+<span class="w-2 h-2 bg-secondary inline-block"></span>
+                    Collaboration &amp; Hiring
+                </h2>
+<p class="font-body-md text-body-md text-on-surface mb-stack-lg">Currently evaluating strategic roles in AI product development. Open to discussions regarding leadership positions or specialized consulting engagements.</p>
+<div class="flex flex-col gap-stack-md mt-8">
+<a class="group flex items-center justify-between py-4 border-b border-outline-variant hover:bg-surface-container-low transition-colors duration-200 px-2 -mx-2" href="#">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-on-surface-variant group-hover:text-primary transition-colors">description</span>
+<span class="font-mono-ui text-mono-ui text-primary font-bold">Curriculum Vitae</span>
+</div>
+<span class="font-kicker text-kicker text-on-surface-variant border border-outline-variant px-2 py-1">PDF</span>
+</a>
+<a class="group flex items-center justify-between py-4 border-b border-outline-variant hover:bg-surface-container-low transition-colors duration-200 px-2 -mx-2" href="#">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-on-surface-variant group-hover:text-primary transition-colors">architecture</span>
+<span class="font-mono-ui text-mono-ui text-primary font-bold">Selected PRD Archive</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant">arrow_forward</span>
+</a>
+<button class="group flex items-center justify-between py-4 border-b border-outline-variant hover:bg-surface-container-low transition-colors duration-200 px-2 -mx-2 text-left w-full">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-on-surface-variant group-hover:text-primary transition-colors">mail</span>
+<span class="font-mono-ui text-mono-ui text-primary font-bold">hello@alexchen.ai</span>
+</div>
+<span class="font-kicker text-kicker text-on-surface-variant">COPY</span>
+</button>
+<a class="group flex items-center justify-between py-4 border-b border-outline-variant hover:bg-surface-container-low transition-colors duration-200 px-2 -mx-2" href="#">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-on-surface-variant group-hover:text-primary transition-colors">forum</span>
+<span class="font-mono-ui text-mono-ui text-primary font-bold">WeChat Connect</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant">qr_code</span>
+</a>
+</div>
+</div>
+<!-- Right Column: Following -->
+<div class="p-8 md:p-12 bg-surface-container-lowest relative overflow-hidden">
+<div class="absolute top-0 right-0 p-4 opacity-10">
+<span class="material-symbols-outlined text-6xl">rss_feed</span>
+</div>
+<h2 class="font-kicker text-kicker text-on-surface-variant mb-stack-lg uppercase tracking-widest flex items-center gap-2">
+<span class="w-2 h-2 bg-primary inline-block"></span>
+                    Broadcast &amp; Telemetry
+                </h2>
+<p class="font-body-md text-body-md text-on-surface mb-stack-lg">Subscribe to occasional dispatches on product strategy, technical implementation, and the evolving intersection of human cognition and artificial systems.</p>
+<div class="flex flex-col gap-stack-md mt-8">
+<a class="group flex items-center justify-between py-4 border-b border-outline-variant hover:bg-surface-container-low transition-colors duration-200 px-2 -mx-2" href="#">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-on-surface-variant group-hover:text-primary transition-colors">auto_stories</span>
+<span class="font-mono-ui text-mono-ui text-primary font-bold">Xiaohongshu</span>
+</div>
+<span class="font-kicker text-kicker text-on-surface-variant">@ALEX_PM</span>
+</a>
+<a class="group flex items-center justify-between py-4 border-b border-outline-variant hover:bg-surface-container-low transition-colors duration-200 px-2 -mx-2" href="#">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-on-surface-variant group-hover:text-primary transition-colors">code</span>
+<span class="font-mono-ui text-mono-ui text-primary font-bold">GitHub Repository</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant">open_in_new</span>
+</a>
+<a class="group flex items-center justify-between py-4 border-b border-outline-variant hover:bg-surface-container-low transition-colors duration-200 px-2 -mx-2" href="#">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-on-surface-variant group-hover:text-primary transition-colors">rss_feed</span>
+<span class="font-mono-ui text-mono-ui text-primary font-bold">RSS Feed</span>
+</div>
+<span class="font-kicker text-kicker text-on-surface-variant border border-outline-variant px-2 py-1">XML</span>
+</a>
+</div>
+</div>
+</div>
+<!-- Terminal Motif -->
+<div class="mt-section-v-rhyme max-w-3xl mx-auto">
+<div class="bg-[#1A1A1A] rounded-none border border-[#333333] shadow-none overflow-hidden">
+<!-- Terminal Header -->
+<div class="bg-[#252525] px-4 py-2 flex items-center gap-2 border-b border-[#333333]">
+<div class="w-3 h-3 rounded-full bg-[#444444]"></div>
+<div class="w-3 h-3 rounded-full bg-[#444444]"></div>
+<div class="w-3 h-3 rounded-full bg-[#444444]"></div>
+<span class="ml-4 font-mono-ui text-xs text-[#888888]">contact_interface.sh</span>
+</div>
+<!-- Terminal Body -->
+<div class="p-6 font-mono-ui text-mono-ui text-[#E5E5E2]">
+<div class="mb-4">
+<span class="text-secondary">alex@sys</span><span class="text-[#888888]">:~ $</span> ./contact.sh --interactive
+                    </div>
+<div class="mb-2 text-[#888888]">
+                        # Interactive contact mode initialized.
+                    </div>
+<div class="mb-6 text-[#888888]">
+                        # Available commands: <span class="text-on-tertiary">resume</span>, <span class="text-on-tertiary">email</span>, <span class="text-on-tertiary">github</span>, <span class="text-on-tertiary">exit</span>
+</div>
+<div class="flex items-center border-b border-[#333333] pb-2 relative">
+<span class="text-secondary mr-2">&gt;</span>
+<input class="bg-transparent border-none outline-none text-[#E5E5E2] font-mono-ui w-full focus:ring-0 p-0 placeholder-[#555555]" placeholder="try: resume, email" type="text"/>
+<span class="animate-pulse w-2 h-4 bg-[#E5E5E2] inline-block absolute left-2 opacity-0 focus-within:opacity-100 transition-opacity"></span>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!-- Footer -->
+<footer class="bg-surface border-t border-outline-variant w-full mt-auto">
+<div class="flex justify-between items-center w-full px-margin-edge py-12 max-w-7xl mx-auto">
+<div class="font-mono-ui text-kicker text-on-surface-variant">ALEX CHEN © 2024</div>
+<div class="flex gap-4">
+<a class="font-mono-ui text-kicker text-on-surface-variant hover:text-secondary underline uppercase" href="#">Built with React</a>
+<a class="font-mono-ui text-kicker text-on-surface-variant hover:text-secondary underline uppercase" href="#">Vite</a>
+<a class="font-mono-ui text-kicker text-on-surface-variant hover:text-secondary underline uppercase" href="#">Tailwind CSS</a>
+</div>
+</div>
+</footer>
+</body></html>
