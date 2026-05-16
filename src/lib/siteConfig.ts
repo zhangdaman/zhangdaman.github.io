@@ -10,10 +10,13 @@ export const site = {
   prdArchiveUrl: 'mailto:daman0613.dabai@gmail.com?subject=Selected%20PRD%20Request',
 }
 
-export const nav = [
-  { label: 'Home', to: '/' },
-  { label: 'About', to: '/about' },
-  { label: 'Work', to: '/work' },
-  { label: 'Notes', to: '/notes' },
-  { label: 'Contact', to: '/contact' },
-] as const
+// 路由配置 —— label 字段从 strings.ts 按当前语言取
+export type NavKey = 'home' | 'about' | 'work' | 'notes' | 'contact'
+
+export const nav: { key: NavKey; to: string }[] = [
+  { key: 'home', to: '/' },
+  { key: 'about', to: '/about' },
+  { key: 'work', to: '/work' },
+  { key: 'notes', to: '/notes' },
+  { key: 'contact', to: '/contact' },
+]

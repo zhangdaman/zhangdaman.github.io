@@ -19,6 +19,13 @@ export type NoteItemContent = {
 }
 
 export type Strings = {
+  nav: {
+    home: string
+    about: string
+    work: string
+    notes: string
+    contact: string
+  }
   home: {
     tagline: string[]
     credibility: string
@@ -43,6 +50,8 @@ export type Strings = {
   work: {
     title: string
     subtitle: string
+    kickerShipping: string
+    kickerShipped: string
     ctaPrefix: string
     ctaEmailLabel: string
     ctaWechatPrefix: string
@@ -72,13 +81,20 @@ export type Strings = {
 }
 
 const zh: Strings = {
+  nav: {
+    home: '首页',
+    about: '关于',
+    work: '作品',
+    notes: '手记',
+    contact: '联系',
+  },
   home: {
     tagline: ['在概率里做选择，', '不在白板上验证假设。'],
     credibility: 'RAG · Agents · 投放与增长',
     ctaWork: '看作品',
-    ctaWorkSub: '(for hiring)',
+    ctaWorkSub: '（求职向）',
     ctaNotes: '看我在公开学习什么',
-    ctaNotesSub: '(for following)',
+    ctaNotesSub: '（关注向）',
     terminal: [
       'Initializing environment...',
       'Loading mental models... [OK]',
@@ -88,17 +104,17 @@ const zh: Strings = {
   },
   about: {
     title: '工程师的脑子，编辑的笔。',
-    sideRail: { pov: '§ POV', arc: '§ Arc', focus: '§ Focus' },
+    sideRail: { pov: '§ 观点', arc: '§ 履历', focus: '§ 关注' },
     povParas: [
       '产品经理的工作正在从「收集需求」变成「在概率里做选择」。当技术可行性开始决定战略，理解 AI 的底层结构就不再是加分项，而是这门手艺的地基。我相信好的 AI 产品需要工程师的脑子，加上编辑的笔——技术上严谨，表达上清晰。',
       '上线不是终点，是学习产品的唯一方式。在非确定性的系统里，一个假设没法在白板上被验证——它必须经过真实世界的摩擦。把「上线」做成一种持续的纪律，而不是一次性的事件，才是穿过大模型本质模糊性的方式。',
       '最后，我相信公开学习的力量。AI 跑得太快，关在抽屉里的知识活不过一周。把失败写下来、把架构上的取舍讲清楚、把产品框架公开出来——不只推进自己，也是给后面进入这条路的人留一张能读懂的地图。',
     ],
     pullQuote: '「在非确定性的系统里，假设没法在白板上被验证——它必须经过真实世界的摩擦。」',
-    arcKicker: '§ 02 — Arc',
+    arcKicker: '§ 02 — 履历',
     arcBody:
       '走到 AI 产品这条路上，不是一次刻意的转向，是一次必然的延伸。我职业的开头是做传统、确定性的 SaaS 平台——做得好的标准是数据模型干净、用户流程可预测。转折点是有一次我必须在一个成熟的企业级产品里接入早期的语义搜索：那种系统的「不听话」——从离散逻辑切到概率推理——一开始让我恐慌，后来变成强烈的吸引力。我意识到，未来的产品设计不再是预判每一个用户动作，而是构造一层能自适应的智能编排。从那以后我刻意沉到机器学习的基础里，重心整体切到应用 AI、Agent 工作流，以及让它们可被评估的工具链上。',
-    focusKicker: '§ 03 — Focus',
+    focusKicker: '§ 03 — 关注',
     focusIntro: '当前在跑的技术调研与工程关注：',
     focusItems: [
       {
@@ -122,25 +138,27 @@ const zh: Strings = {
   work: {
     title: '作品。',
     subtitle: '在做的，和已经交付的。',
+    kickerShipping: '§ 01 — 进行中',
+    kickerShipped: '§ 02 — 已交付',
     ctaPrefix: '想看细节？',
     ctaEmailLabel: '发邮件',
     ctaWechatPrefix: '，或加微信',
     moreShipped: '更多已交付项目（OMS · 选书师 · 挂号助手）— 见简历 →',
   },
   notes: {
-    title: 'Index.',
+    title: '手记。',
     intro:
-      '一份手工挑出来的 AI 实践笔记索引。每一条都指向原始产物——小红书、GitHub，或者它最初被写下来的地方。这一页是索引，不是仓库。',
-    nowKicker: '§ now',
+      '一份手工挑出来的 AI 实践笔记索引。每一条都是我自己写下来或者读完后觉得值得反复回看的——指向小红书、GitHub，或者它最初出现的地方。这是索引，不是仓库。',
+    nowKicker: '§ 当下',
     nowEntries: ['在画多 Agent 编排的形态。', '在拆 RAG 的评估指标体系。', '在和实体卡牌供应商验 SKU。'],
-    archiveKicker: 'Archive',
+    archiveKicker: '存档',
   },
   contact: {
     title: '建立连接',
     subtitle: '两条路径，权重相同。挑一条。',
-    hiringKicker: '§ for hiring',
+    hiringKicker: '§ 给招聘方',
     hiringIntro: '在看 AI 产品负责人 / 资深 AI PM 的机会。也接问题足够具体的咨询。',
-    followingKicker: '§ for following',
+    followingKicker: '§ 给关注的人',
     followingIntro: '偶尔发一些关于 AI 产品策略、技术落地、以及还没做完的事的随手记录。',
     hiringItems: [
       { label: '简历', tag: '邮件索取 →', type: 'link' },
@@ -150,7 +168,7 @@ const zh: Strings = {
     ],
     followingItems: [
       { label: '小红书', tag: '__XHS__' },
-      { label: 'GitHub', tag: 'OPEN →' },
+      { label: 'GitHub', tag: '打开 →' },
       { label: 'RSS', tag: 'XML' },
     ],
     terminalHelp: '# Available commands: resume, prd, email, github, xhs, exit',
@@ -172,57 +190,57 @@ const zh: Strings = {
       state: 'shipped',
       meta: '2023 // 投放 & 增长',
       oneLiner: '一款自动化广告投放管理工具，给中型电商品牌做多渠道预算的动态调配。',
-      techTags: ['LLM', 'ADS / GROWTH'],
+      techTags: ['LLM', '投放 / 增长'],
     },
     {
       id: 'field-claw',
       name: 'FIELD CLAW',
       state: 'shipped',
-      meta: '2022 // OFFLINE-FIRST',
+      meta: '2022 // 离线优先',
       oneLiner: '一款给一线作业工人用的离线优先工具。在低连通环境下做核心业务流程的可靠操作。',
-      techTags: ['MOBILE', 'OFFLINE-FIRST'],
+      techTags: ['移动端', '离线优先'],
     },
   ],
   notesList: [
     {
       date: '2024.03',
       title: '把 prompt 当代码管：一份回归集的写法',
-      blurb: '我在团队里推行的工作流——黄金集、回归集、以及怎么定义「这一版更好」。',
+      blurb: '这套我在两个团队里跑过——只有真的把回归集建起来，prompt 迭代才不再靠感觉。',
       to: '#',
       via: 'GITHUB',
     },
     {
       date: '2024.02',
       title: '为什么大多数 Agent Demo 上不了生产',
-      blurb: '从 demo 推到真实营收场景时，反复看到的四种失败模式。',
+      blurb: '从我和团队踩过的坑里总结的四种死法——能避开三种，大概率不会死在生产线上。',
       to: '#',
       via: 'XIAOHONGSHU',
     },
     {
       date: '2024.01',
       title: 'RAG 的评估，比你想象的难',
-      blurb: '对比 trulens / ragas / 人审在环——哪一种能真正把检索 ground 在企业语料上。',
+      blurb: '我跑完一轮才发现：通用框架在企业语料上几乎都失效，最后只有 ragas 配人审在环活下来。',
       to: '#',
       via: 'GITHUB',
     },
     {
       date: '2023.11',
       title: 'AI 时代 PM 的阅读清单（只放短的）',
-      blurb: '我一直在转给转型 AI 的 PM 朋友的那张短清单。只放真正值得占一个位置的内容。',
+      blurb: '只放我自己反复回读过、还推给朋友的那几篇——名单很短，删起来比加上去更难。',
       to: '#',
       via: 'XIAOHONGSHU',
     },
     {
       date: '2023.09',
       title: '微调一个品牌的「说话方式」',
-      blurb: '准备对话数据集做 LoRA 微调，让模型稳稳待在品牌语气的边界里。',
+      blurb: '我自己微调过两次的复盘——数据集准备比 LoRA 参数本身还重要得多。',
       to: '#',
       via: 'XIAOHONGSHU',
     },
     {
       date: '2023.07',
       title: '我从 SaaS PM 转 AI PM 的那 6 个月',
-      blurb: '一份转型笔记。哪些路径走错了、哪些走对了、哪些到现在还不确定。',
+      blurb: '我自己写的转型笔记。哪些路径走对了、哪些到现在还在后悔。',
       to: '#',
       via: 'THREAD',
     },
@@ -230,6 +248,13 @@ const zh: Strings = {
 }
 
 const en: Strings = {
+  nav: {
+    home: 'Home',
+    about: 'About',
+    work: 'Work',
+    notes: 'Notes',
+    contact: 'Contact',
+  },
   home: {
     tagline: ['Choose inside probability.', 'Not on whiteboards.'],
     credibility: 'RAG · Agents · ads & growth',
@@ -281,6 +306,8 @@ const en: Strings = {
   work: {
     title: 'Work.',
     subtitle: 'Currently shipping, and already shipped.',
+    kickerShipping: '§ 01 — SHIPPING',
+    kickerShipped: '§ 02 — SHIPPED',
     ctaPrefix: 'Want the details?',
     ctaEmailLabel: 'Email me',
     ctaWechatPrefix: ', or on WeChat:',
@@ -289,7 +316,7 @@ const en: Strings = {
   notes: {
     title: 'Index.',
     intro:
-      'A hand-picked index of AI-practice notes. Each entry points to the original artifact — on Xiaohongshu, GitHub, or wherever it was first written down. This page is an index, not an archive.',
+      'A hand-picked index of AI-practice notes. Each one is something I either wrote myself or kept coming back to — linked to Xiaohongshu, GitHub, or wherever it first appeared. This page is an index, not an archive.',
     nowKicker: '§ now',
     nowEntries: [
       'Sketching multi-agent orchestration patterns.',
@@ -354,42 +381,42 @@ const en: Strings = {
     {
       date: '2024.03',
       title: 'Prompts as code: a regression suite that works',
-      blurb: 'The workflow I run with the team — golden sets, regression suites, and a clear bar for "this version is better."',
+      blurb: 'I’ve run this workflow with two teams — only when the regression suite is real does prompt iteration stop relying on vibes.',
       to: '#',
       via: 'GITHUB',
     },
     {
       date: '2024.02',
       title: 'Why most agent demos die in production',
-      blurb: 'The four failure modes I keep seeing when teams move a multi-step agent from demo to a real revenue surface.',
+      blurb: 'Four failure modes I’ve seen first-hand. Avoid three of them and you probably won’t crash in prod.',
       to: '#',
       via: 'XIAOHONGSHU',
     },
     {
       date: '2024.01',
       title: 'RAG evaluation is harder than you think',
-      blurb: 'Comparing trulens, ragas, and a human-in-the-loop harness for grounding retrieval in enterprise corpora.',
+      blurb: 'After one full round I realized: most generic frameworks crumble on enterprise corpora. Only ragas plus a human-in-the-loop survived.',
       to: '#',
       via: 'GITHUB',
     },
     {
       date: '2023.11',
       title: 'A short reading list for PMs entering AI',
-      blurb: 'The short list I keep sending to PMs transitioning into AI roles. Only entries that earn their slot stay.',
+      blurb: 'Only what I’ve re-read myself and still send to friends. The list is short; removing is harder than adding.',
       to: '#',
       via: 'XIAOHONGSHU',
     },
     {
       date: '2023.09',
       title: 'Fine-tuning for brand voice',
-      blurb: 'How to prepare conversational datasets for LoRA fine-tunes that stay inside corporate tonal guidelines.',
+      blurb: 'My retrospective after two real fine-tunes — preparing the dataset matters more than the LoRA hyperparams.',
       to: '#',
       via: 'XIAOHONGSHU',
     },
     {
       date: '2023.07',
       title: 'Six months of switching from SaaS PM to AI PM',
-      blurb: 'A transition log. What I got right, what I got wrong, what I’m still not sure about.',
+      blurb: 'My transition log. What worked, what I still regret, what I’m still not sure about.',
       to: '#',
       via: 'THREAD',
     },

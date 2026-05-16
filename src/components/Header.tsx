@@ -6,7 +6,7 @@ import { useLang } from '../lib/LanguageContext'
 
 export default function Header() {
   const [open, setOpen] = useState(false)
-  const { lang, setLang } = useLang()
+  const { lang, setLang, t } = useLang()
 
   const LangToggle = (
     <div className="flex items-center gap-2 font-mono-ui text-mono-ui uppercase tracking-widest">
@@ -49,7 +49,7 @@ export default function Header() {
         </Link>
 
         <div className="hidden md:flex items-center gap-8">
-          <nav className="flex space-x-8 font-mono-ui text-mono-ui uppercase tracking-widest">
+          <nav className="flex space-x-8 font-mono-ui text-mono-ui tracking-widest">
             {nav.map((item) => (
               <NavLink
                 key={item.to}
@@ -61,7 +61,7 @@ export default function Header() {
                     : 'text-on-surface-variant hover:text-secondary transition-colors duration-200'
                 }
               >
-                {item.label}
+                {t.nav[item.key]}
               </NavLink>
             ))}
           </nav>
@@ -80,7 +80,7 @@ export default function Header() {
 
       {open && (
         <div className="md:hidden border-t border-outline-variant">
-          <nav className="flex flex-col px-5 py-6 gap-5 font-mono-ui text-mono-ui uppercase tracking-widest">
+          <nav className="flex flex-col px-5 py-6 gap-5 font-mono-ui text-mono-ui tracking-widest">
             {nav.map((item) => (
               <NavLink
                 key={item.to}
@@ -91,7 +91,7 @@ export default function Header() {
                   isActive ? 'text-secondary font-bold' : 'text-on-surface-variant'
                 }
               >
-                {item.label}
+                {t.nav[item.key]}
               </NavLink>
             ))}
             <div className="pt-4 border-t border-outline-variant">{LangToggle}</div>

@@ -29,8 +29,8 @@ export default function Work() {
         </p>
       </header>
 
-      <WorkSection kicker="§ 01 — SHIPPING" state="shipping" />
-      <WorkSection kicker="§ 02 — SHIPPED" state="shipped" />
+      <WorkSection kicker={t.work.kickerShipping} state="shipping" />
+      <WorkSection kicker={t.work.kickerShipped} state="shipped" />
     </div>
   )
 }
