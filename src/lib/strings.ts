@@ -10,14 +10,6 @@ export type WorkItemContent = {
   techTags?: string[]
 }
 
-export type NoteItemContent = {
-  date: string
-  title: string
-  blurb: string
-  to: string
-  via: 'GITHUB' | 'XIAOHONGSHU' | 'THREAD'
-}
-
 export type Strings = {
   nav: {
     home: string
@@ -60,9 +52,18 @@ export type Strings = {
   notes: {
     title: string
     intro: string
-    nowKicker: string
-    nowEntries: string[]
+    todayKicker: string
+    sectionAihotKicker: string
+    sectionBuildersKicker: string
+    sectionIndieKicker: string
     archiveKicker: string
+    podcastLabel: string
+    buildLabel: string
+    signalsLabel: string
+    fullReport: string
+    emptyState: string
+    updatedPrefix: string
+    sourceNote: string
   }
   contact: {
     title: string
@@ -77,7 +78,6 @@ export type Strings = {
     terminalHint: string
   }
   workItems: WorkItemContent[]
-  notesList: NoteItemContent[]
 }
 
 const zh: Strings = {
@@ -148,10 +148,19 @@ const zh: Strings = {
   notes: {
     title: '手记。',
     intro:
-      '一份我亲手挑出来的 AI 实践笔记。每一条都是我自己写过的，或者读完之后还会再回头看的——指向小红书、GitHub，或者它最初被写下来的地方。这是索引，不是仓库。',
-    nowKicker: '§ 当下',
-    nowEntries: ['在画多 Agent 编排的形态。', '在拆 RAG 的评估指标体系。', '在和实体卡牌供应商验 SKU。'],
-    archiveKicker: '存档',
+      '我每天读的三条 AI 线索——中文资讯、海外 builder 在说什么、indie 今天值得做什么——自动汇到这里。机器抓取、每日更新，不是我手写的，但都是我自己在追的源。',
+    todayKicker: '§ 今日',
+    sectionAihotKicker: '§ AI HOT · 最近 24 小时',
+    sectionBuildersKicker: '§ BUILDERS · 海外在说什么',
+    sectionIndieKicker: '§ INDIE · 今日值得做的',
+    archiveKicker: '§ 近 7 日',
+    podcastLabel: '本期播客',
+    buildLabel: '今日 2 小时构建',
+    signalsLabel: 'Top 3 信号',
+    fullReport: '完整版 →',
+    emptyState: '上游今天还没更新，明天再来看看。',
+    updatedPrefix: '更新于',
+    sourceNote: '数据来自 aihot · follow-builders · BuilderPulse，每日自动更新。',
   },
   contact: {
     title: '联系我',
@@ -199,50 +208,6 @@ const zh: Strings = {
       meta: '2022 // 离线优先',
       oneLiner: '一款给一线作业工人用的离线优先工具。在低连通环境下做核心业务流程的可靠操作。',
       techTags: ['移动端', '离线优先'],
-    },
-  ],
-  notesList: [
-    {
-      date: '2024.03',
-      title: '把 prompt 当代码管：一份回归集的写法',
-      blurb: '这套我在两个团队里跑过——只有真的把回归集建起来，prompt 迭代才不再靠感觉。',
-      to: '#',
-      via: 'GITHUB',
-    },
-    {
-      date: '2024.02',
-      title: '为什么大多数 Agent Demo 上不了生产',
-      blurb: '从我和团队踩过的坑里总结的四种死法——能避开三种，大概率不会死在生产线上。',
-      to: '#',
-      via: 'XIAOHONGSHU',
-    },
-    {
-      date: '2024.01',
-      title: 'RAG 的评估，比你想象的难',
-      blurb: '我跑完一轮才发现：通用框架在企业语料上几乎都失效，最后只有 ragas 配人审在环活下来。',
-      to: '#',
-      via: 'GITHUB',
-    },
-    {
-      date: '2023.11',
-      title: 'AI 时代 PM 的阅读清单（只放短的）',
-      blurb: '只放我自己反复回读过、还推给朋友的那几篇——名单很短，删起来比加上去更难。',
-      to: '#',
-      via: 'XIAOHONGSHU',
-    },
-    {
-      date: '2023.09',
-      title: '微调一个品牌的「说话方式」',
-      blurb: '我自己微调过两次的复盘——数据集准备比 LoRA 参数本身还重要得多。',
-      to: '#',
-      via: 'XIAOHONGSHU',
-    },
-    {
-      date: '2023.07',
-      title: '我从 SaaS PM 转 AI PM 的那 6 个月',
-      blurb: '我自己写的转型笔记。哪些路径走对了、哪些到现在还在后悔。',
-      to: '#',
-      via: 'THREAD',
     },
   ],
 }
@@ -316,14 +281,19 @@ const en: Strings = {
   notes: {
     title: 'Index.',
     intro:
-      'A hand-picked index of AI-practice notes. Each one is something I either wrote myself or kept coming back to — linked to Xiaohongshu, GitHub, or wherever it first appeared. This page is an index, not an archive.',
-    nowKicker: '§ now',
-    nowEntries: [
-      'Sketching multi-agent orchestration patterns.',
-      'Unpacking the eval metric stack for RAG.',
-      'Validating SKUs with a physical-card supplier.',
-    ],
-    archiveKicker: 'Archive',
+      "The three AI feeds I read every day — Chinese news, what builders abroad are saying, and what's worth building as an indie today — pulled together here. Machine-fetched, updated daily. Not hand-written, but every source is one I actually follow.",
+    todayKicker: '§ TODAY',
+    sectionAihotKicker: '§ AI HOT · LAST 24H',
+    sectionBuildersKicker: '§ BUILDERS · WHAT THEY SAID',
+    sectionIndieKicker: '§ INDIE · WORTH BUILDING TODAY',
+    archiveKicker: '§ LAST 7 DAYS',
+    podcastLabel: 'PODCAST',
+    buildLabel: "Today's 2-hour build",
+    signalsLabel: 'Top 3 signals',
+    fullReport: 'Full report →',
+    emptyState: "Upstream hasn't updated yet today — check back tomorrow.",
+    updatedPrefix: 'Updated',
+    sourceNote: 'Sources: aihot · follow-builders · BuilderPulse, refreshed daily.',
   },
   contact: {
     title: 'Initiate Protocol',
@@ -375,50 +345,6 @@ const en: Strings = {
       oneLiner:
         'An offline-first tool for frontline operators. Reliable execution of core workflows in low-connectivity environments.',
       techTags: ['MOBILE', 'OFFLINE-FIRST'],
-    },
-  ],
-  notesList: [
-    {
-      date: '2024.03',
-      title: 'Prompts as code: a regression suite that works',
-      blurb: 'I’ve run this workflow with two teams — only when the regression suite is real does prompt iteration stop relying on vibes.',
-      to: '#',
-      via: 'GITHUB',
-    },
-    {
-      date: '2024.02',
-      title: 'Why most agent demos die in production',
-      blurb: 'Four failure modes I’ve seen first-hand. Avoid three of them and you probably won’t crash in prod.',
-      to: '#',
-      via: 'XIAOHONGSHU',
-    },
-    {
-      date: '2024.01',
-      title: 'RAG evaluation is harder than you think',
-      blurb: 'After one full round I realized: most generic frameworks crumble on enterprise corpora. Only ragas plus a human-in-the-loop survived.',
-      to: '#',
-      via: 'GITHUB',
-    },
-    {
-      date: '2023.11',
-      title: 'A short reading list for PMs entering AI',
-      blurb: 'Only what I’ve re-read myself and still send to friends. The list is short; removing is harder than adding.',
-      to: '#',
-      via: 'XIAOHONGSHU',
-    },
-    {
-      date: '2023.09',
-      title: 'Fine-tuning for brand voice',
-      blurb: 'My retrospective after two real fine-tunes — preparing the dataset matters more than the LoRA hyperparams.',
-      to: '#',
-      via: 'XIAOHONGSHU',
-    },
-    {
-      date: '2023.07',
-      title: 'Six months of switching from SaaS PM to AI PM',
-      blurb: 'My transition log. What worked, what I still regret, what I’m still not sure about.',
-      to: '#',
-      via: 'THREAD',
     },
   ],
 }

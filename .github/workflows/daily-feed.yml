@@ -1,0 +1,85 @@
+name: Daily feed update
+
+on:
+  schedule:
+    # 01:00 UTC = 09:00 Asia/Shanghai. GitHub cron is always UTC.
+    - cron: '0 1 * * *'
+  workflow_dispatch: # allow manual "Run workflow" from the Actions tab
+
+# This workflow is self-contained: it fetches the feeds, commits the refreshed
+# feed.json, and then builds + deploys Pages in the SAME run.
+#
+# Why not just push and let deploy.yml redeploy? Because commits made with the
+# built-in GITHUB_TOKEN do NOT trigger other workflows (GitHub's anti-recursion
+# rule). So a push from here would update feed.json but never rebuild the site.
+# Deploying inline avoids that entirely.
+permissions:
+  contents: write # commit feed.json back to main
+  pages: write # deploy to GitHub Pages
+  id-token: write # OIDC token for the Pages deployment
+
+# Share the 'pages' concurrency group with deploy.yml so a manual push and the
+# daily run never deploy on top of each other.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Fetch feeds → src/content/feed.json
+        run: node scripts/fetch-feeds.mjs
+
+      - name: Commit refreshed feed.json (if changed)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- src/content/feed.json; then
+            echo "No changes in feed.json — nothing to commit."
+          else
+            git add src/content/feed.json
+            git commit -m "chore(feed): daily update $(date -u +%Y-%m-%d)"
+            git push
+            echo "feed.json committed."
+          fi
+
+      - name: Build
+        run: npm run build
+
+      - name: Add SPA fallback (404.html)
+        run: cp ./dist/index.html ./dist/404.html
+
+      - name: Add .nojekyll
+        run: touch ./dist/.nojekyll
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
