@@ -1,200 +1,104 @@
 {
-  "generatedAt": "2026-05-30T04:52:41.438Z",
-  "date": "2026-05-30",
+  "generatedAt": "2026-05-31T05:18:05.615Z",
+  "date": "2026-05-31",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "xAI放弃JAX GPU转向自研训练框架",
-        "source": "X：SemiAnalysis (@SemiAnalysis_)",
-        "url": "https://x.com/SemiAnalysis_/status/2060571944575963482",
-        "summary": "突发新闻：JAX NVIDIA GPU & XLA：GPU最大客户刚刚宣布已放弃JAX GPU，宁愿用Grok Build\"氛围编程\"一个C训练框架。据报道xAI的JAX堆栈MFU低于10%。NVIDIA JAX团队过去两年全部主力996专注于支持xAI却失败了，我想他们现在可以休息并兑现期权了。",
-        "publishedAt": "2026-05-30T04:00:09.000Z",
+        "title": "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/0/957/718.htm",
+        "summary": "一辆特斯拉汽车搭载 FSD V14.3.3 版本软件，完成了全球首次全程零人工干预、横穿加拿大的自动驾驶行程。车辆从温哥华出发，历时 4 天 21 小时，行驶 3760 英里（6051 公里）抵达哈利法克斯，全程所有驾驶操作（包括高速并线、应对复杂路况与自动泊车）均由系统自主完成，无任何系统退出或人工修正。该版本随 2026.14.6.6 更新推送，整合了春季软件功能。",
+        "publishedAt": "2026-05-31T01:30:46.000Z",
         "category": "industry"
       },
       {
-        "title": "Show HN： Tiny-vLLM--基于 C 和 CUDA 的高性能大型语言模型推理引擎",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://github.com/jmaczan/tiny-vllm",
-        "summary": "Tiny-vLLM 是一个用 C 和 CUDA 编写的高性能大语言模型推理引擎，项目代码已开源至 GitHub。",
-        "publishedAt": "2026-05-30T03:25:01.798Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "阿里云与Qwen成为UEFA多年全球AI合作伙伴",
-        "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "url": "https://x.com/alibaba_cloud/status/2060520586489770167",
-        "summary": "阿里云和Qwen成为UEFA官方独家AI、云计算与电子商务合作伙伴，合作期覆盖2027/2028赛季至2032/2033赛季的UEFA男子俱乐部赛事，以及UEFA EURO 2028。阿里巴巴集团主席蔡崇信表示，将投入云计算、全栈AI及全球电商平台能力，支持赛事运营。合作将利用Qwen大语言模型部署先进AI技术，增强球迷互动与媒体内容体验，并依托阿里云基础设施打造全球沉浸式观赛体验。",
-        "publishedAt": "2026-05-30T00:36:05.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "ComfyUI现已支持OpenRouter模型直接调用",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "url": "https://x.com/OpenRouter/status/2060511136932315259",
-        "summary": "现在你可以直接在ComfyUI工作流中使用你的OpenRouter模型了！\n\n【引用 @ComfyUI】：ComfyUI刚刚添加了@OpenRouter支持。\n\n你不再局限于单一的大语言模型，现在可以直接在Comfy中访问20多个模型。\n\n更多灵活性，更少摩擦，同样的工作流。\n\n工作流链接在下方👇",
-        "publishedAt": "2026-05-29T23:58:32.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。",
-        "source": "X：洪明 (@hongming731)",
-        "url": "https://x.com/hongming731/status/2060487110906527820",
-        "summary": "claude-design-card 是一款专为中文内容创作者设计的 Skill。它能将文字、URL 或文章直接转化为可发布的视觉卡片，如公众号首图、小红书图文卡、教程步骤卡等，支持 28 种布局与 10 种主题。其核心价值在于自动化了\"写完文章\"后最繁琐的流程：自动提炼重点、选择版式、生成 HTML 并截图成 PNG，替代了以往手动使用 Figma 或 Canva 等工具的步骤。该工具开源，适合经常撰写相关内容的创作者尝试。",
-        "publishedAt": "2026-05-29T22:23:03.000Z",
+        "title": "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
+        "source": "Simon Willison 博客",
+        "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser",
+        "summary": "作者展示了如何在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用。此前的 Datasette Lite 使用 Web Workers，但无法执行 `<script>` 标签中的 JavaScript。新方案由 Claude Opus 4.8 协助完成开发，解决了这一问题。作者已展示了基础的 ASGI FastCGI 演示和运行 Datasette 1.0a31 的演示，并计划后续将此方法应用于升级 Datasette Lite",
+        "publishedAt": "2026-05-30T21:02:16.000Z",
         "category": "tip"
       },
       {
-        "title": "Codex可自主管理对话线程与并行任务",
-        "source": "X：Greg Brockman (@gdb)",
-        "url": "https://x.com/gdb/status/2060486309886443787",
-        "summary": "Codex用于管理Codex界面：\n\n【引用 @guinnesschen】：如果你厌倦了管理Codex对话线程，就让Codex自己管理自己吧！Codex现在可以创建对话线程、搜索它们、整理它们、固定重要的线程，并为并行任务启动工作树。",
-        "publishedAt": "2026-05-29T22:19:52.000Z",
-        "category": "ai-products"
+        "title": "据报道：软银将在法国投资750亿欧元用于AI",
+        "source": "Bloomberg：Technology（RSS）",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say",
+        "summary": "软银集团计划投资高达750亿欧元（约合870亿美元），用于在法国建设人工智能数据中心。该投资计划由《论坛报》与《金融时报》报道。",
+        "publishedAt": "2026-05-30T18:55:33.000Z",
+        "category": "industry"
       },
       {
-        "title": "ChatGPT对话目录功能现已上线",
-        "source": "X：ChatGPT (@ChatGPTapp)",
-        "url": "https://x.com/ChatGPTapp/status/2060467129066070182",
-        "summary": "对于每个始于\"就问一件事\"却演变成完整长篇的ChatGPT对话：目录功能现已推出。\n适用于包含5条以上回复的对话。",
-        "publishedAt": "2026-05-29T21:03:39.000Z",
-        "category": "ai-products"
+        "title": "NVIDIA 或将于六月发布整合 Blackwell GPU 与 AI 单元的 ARM 笔记本芯片 N1X",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "url": "https://x.com/AYi_AInotes/status/2060779431648547016",
+        "summary": "NVIDIA、微软与 Arm 同步发布指向台北音乐中心的坐标，暗示 6 月 1 日发布会将有重大动作。此举被认为是 NVIDIA 与联发科合作的 ARM 笔记本芯片 N1X 的预告。该芯片整合了 CPU、基于 Blackwell 架构的 GPU 及 AI 单元，目标是使轻薄本具备接近 RTX 4070 的图形性能。这标志着 NVIDIA 的战略转变：从显卡供应商，转型为定义整机核心方案的提供商，将直接冲击 Intel、AMD 和高通在 PC 市场的地位。",
+        "publishedAt": "2026-05-30T17:44:38.000Z",
+        "category": "tip"
       },
       {
-        "title": "Luma Agents 自动生成宣传图，输入内容即可",
-        "source": "X：Luma AI (@LumaLabsAI)",
-        "url": "https://x.com/LumaLabsAI/status/2060461313713909783",
-        "summary": "博客文章完成了思考。现在让宣传来发挥作用。\n\n输入内容。定义钩子。Luma Agents 从那里构建每一张宣传图。\n\n投入使用 → http：//lumalabs.ai/app",
-        "publishedAt": "2026-05-29T20:40:33.000Z",
-        "category": "ai-products"
+        "title": "\"开玩笑吧\"：GitHub Copilot 新的基于 token 的计费模式引发开发者不满",
+        "source": "TechCrunch：AI（RSS）",
+        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs",
+        "summary": "微软旗下 GitHub Copilot 的黄金时代似乎正在终结。其新推出的计费模式改为按 token 计量，这一变化引发了开发者的广泛担忧与不满。",
+        "publishedAt": "2026-05-30T16:30:00.000Z",
+        "category": "industry"
       },
       {
-        "title": "Runway API持续扩展模型与端点支持",
-        "source": "X：Runway (@runwayml)",
-        "url": "https://x.com/runwayml/status/2060453805519765548",
-        "summary": "我们持续为 Runway API 添加新模型和端点，以便您能将最佳生成能力直接集成到应用、产品和平台中。通过 Runway API，您可以在一个地方获得所需的所有模型，包括 Seedance 2.0、GPT Image 2、HappyHorse 1.0、Nano Banana Pro、Magnific Precision Upscaler V2 等更多内容。请通过下方链接开始使用。",
-        "publishedAt": "2026-05-29T20:10:43.000Z",
-        "category": "ai-products"
+        "title": "随着成本飙升，美国企业开始对人工智能实施配给",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+        "summary": "由于运行和使用AI工具的成本持续飙升，美国企业正开始对人工智能的使用实施配给制。企业通过限制使用量、设置分层级审批流程等方式控制开支，以应对AI费用增长过快的问题。这种从广泛采用转向精细化管理的策略，标志着企业在AI应用上从追求速度转向注重成本效益。",
+        "publishedAt": "2026-05-30T15:40:48.502Z",
+        "category": "tip"
       },
       {
-        "title": "OpenAI推出实时翻译模型，支持70+语言输入",
-        "source": "X：Greg Brockman (@gdb)",
-        "url": "https://x.com/gdb/status/2060452095279415725",
-        "summary": "OpenAI 实时翻译功能--使用70多种输入语言说话，翻译成13种输出语言：\n\ngpt-realtime-translate 接收任意语言的语音输入，并输出目标语言的语音。\n\n大语言模型很棒，但特定用例需要专用模型。\n\n我们正在智能眼镜上运行此功能。",
-        "publishedAt": "2026-05-29T20:03:55.000Z",
+        "title": "免费领取6个月ChatGPT Pro及AI工具思考",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "url": "https://x.com/AYi_AInotes/status/2060740414273941874",
+        "summary": "OpenAI为开源项目维护者提供福利，可免费领取6个月ChatGPT Pro（价值$1200），申请无硬性Star数要求，有项目链接即可。同时，文章引用讨论了AI工具的分类：一类是\"agent型\"（如Claude Code、Codex），可自主运行；另一类是\"实习生型\"（如Cursor），需人工决策，有助于使用者以术入道、培养判断力，但受限于需人在场。作者推荐了网易的UU远程工具，称其免费两年，支持4K 144帧无延迟连接Mac并可使用原生终端，解决了\"实习生型\"工具的地点限",
+        "publishedAt": "2026-05-30T15:09:36.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "AI 骗子正在创建虚假的黑人形象来销售 Shein 劣质商品",
+        "source": "The Verge：AI（RSS）",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+        "summary": "有卖家利用 AI 生成虚假的黑人形象，在 TikTok、Facebook 和 Instagram 上扮演手工制品创作者进行销售。例如一个名为 Aliyah 的 AI 生成形象，以带泪诉说的方式售卖所谓手工皮带扣，但该形象及其产品均为虚构。此类 AI 虚拟网红被用于推广通过代发货模式销售的批量生产品。",
+        "publishedAt": "2026-05-30T13:00:00.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "新加坡防务论坛：AI 风险超过核武器",
+        "source": "Bloomberg：Technology（RSS）",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-30/ai-dangers-eclipse-nuclear-weapons-at-singapore-defense-forum",
+        "summary": "在新加坡举行的防务论坛上，专家警告AI风险已超越核武器。面板讨论指出，AI可能大幅压缩反应时间，导致决策者做出草率决定，对战略稳定构成威胁。",
+        "publishedAt": "2026-05-30T11:59:32.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Nano Banana Pro与Nano Banana 2正式发布",
+        "source": "X：Google AI for Developers (@googleaidevs)",
+        "url": "https://x.com/googleaidevs/status/2060685345738375640",
+        "summary": "ICYMI：Nano Banana Pro 【gemini-3-pro-image】 和 Nano Banana 2 【gemini-3.1-flash-image】 现已正式发布，可通过 Gemini API 投入生产使用。\n\n查看这些优秀的社区示例，了解两个模型的实际能力 🧵",
+        "publishedAt": "2026-05-30T11:30:46.000Z",
         "category": "ai-models"
       },
       {
-        "title": "LlamaIndex 团队基于 Google Agents API 构建 LlamaParse/LiteParse 智能体模板",
-        "source": "X：Google AI for Developers (@googleaidevs)",
-        "url": "https://x.com/googleaidevs/status/2060439904929382700",
-        "summary": "LlamaIndex 团队基于 Google 新发布的 Agents API 构建了一个模板，使智能体能够访问 LlamaParse 和 LiteParse，从而自动处理非结构化文档。其工作流程为：配置数据与输出的 Git 仓库，将仓库克隆至智能体沙箱，安装 LiteParse CLI 与 LlamaParse SDK 及相关技能，最后通过提示词驱动智能体自主执行任务。该模板最终形成一个可直接使用 LlamaParse 和 LiteParse 处理真实世界文档的智能体。",
-        "publishedAt": "2026-05-29T19:15:29.000Z",
+        "title": "小即是美：开源多模态模型发布",
+        "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+        "url": "https://x.com/StepFun_ai/status/2060678753030947226",
+        "summary": "小即是美。😌",
+        "publishedAt": "2026-05-30T11:04:34.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "最后一次技术面试",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+        "summary": "Steve Yegge 在 Medium 发表观点文章《最后一次技术面试》，探讨 AI 时代传统技术面试的意义变化。文章在 Hacker News 社区获得 100 分关注。",
+        "publishedAt": "2026-05-30T07:25:10.263Z",
         "category": "tip"
-      },
-      {
-        "title": "参与我们的 I/O 2026 测验：该测验由 Google AI Studio 氛围编程生成",
-        "source": "Google Blog：AI（RSS）",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
-        "summary": "Google 使用其开发工具 Google AI Studio，通过氛围编程（vibe coding）方式，创建了一个关于 Google I/O 2026 主要公告的在线测验。",
-        "publishedAt": "2026-05-29T19:00:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Gemini Omni可将草图变为现实",
-        "source": "X：Gemini (@GeminiApp)",
-        "url": "https://x.com/GeminiApp/status/2060435981946503243",
-        "summary": "Gemini Omni甚至能将简单的草图变为新的现实。\n\n在Gemini应用中亲自尝试。上传一段有人画圆的视频，然后输入这个提示词：当我画完这个圆时，它变成了___。",
-        "publishedAt": "2026-05-29T18:59:53.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Codex现已支持Windows端计算机使用功能",
-        "source": "X：OpenAI (@OpenAI)",
-        "url": "https://x.com/OpenAI/status/2060428604727771421",
-        "summary": "Windows用户，这条消息是给你的。\n\n计算机使用功能现已在Windows上可用，因此Codex可以在你的Windows电脑上执行操作。\n\n通过ChatGPT移动应用中Codex的Windows支持，你可以在工作继续在Windows电脑上进行时，随时随地启动、审查和引导任务。\n\n这是一项早期体验，但我们正在努力提供更多方式，让你的工作无论身在何处都能持续进行。",
-        "publishedAt": "2026-05-29T18:30:34.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "当公司过于\"AI上瘾\"时会发生什么？",
-        "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled",
-        "summary": "Box创始人Aaron Levie指出，决定用AI替代员工的人往往最不了解工作的实际内容，他将此称为\"AI psychosis\"。ClickUp近期为部署AI智能体裁员22%即是一例。2026年的科技行业裁员规模已接近2025年全年。",
-        "publishedAt": "2026-05-29T17:57:05.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "亲测为实：难以置信的推理速度",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2060409504693645440",
-        "summary": "Kog团队在标准数据中心GPU上实现了极高的单用户推理速度，在8× AMD MI300X GPUs上达到3，000 tokens/s，在8× NVIDIA H200上达到2，100 tokens/s。相比常规推理速度（约100-300 tokens/s），实现了10-30倍提升。其核心思路是将LLM解码视为内存流问题，通过协同设计monokernel、重建同步机制、针对性内存访问映射及采用延迟张量并行的Laneformer模型架构，消除了传统流程的阻塞点。",
-        "publishedAt": "2026-05-29T17:14:41.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "GPIC：大规模视觉生成基准数据集发布",
-        "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-        "url": "https://x.com/drfeifei/status/2060404846734512205",
-        "summary": "我对这个适用于大规模生成模型新时代的视觉生成基准数据集感到非常兴奋！🤩",
-        "publishedAt": "2026-05-29T16:56:10.000Z",
-        "category": "paper"
-      },
-      {
-        "title": "OpenRouter支持模型生成文件补丁",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "url": "https://x.com/OpenRouter/status/2060395056196936054",
-        "summary": "OpenRouter 现已支持 \"apply_patch\"，这是一个服务器工具，允许任何模型通过 Responses API 使用 V4A diffs 提出文件编辑建议。\n\n模型生成一个补丁（创建、更新或删除文件）。OpenRouter 在服务器端验证 diff 语法。",
-        "publishedAt": "2026-05-29T16:17:16.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Cognition的Scott Wu表示：AI编程智能体不应取代人类",
-        "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans",
-        "summary": "Cognition公司开发了Devvin，这是一个号称首个且最成功的AI编程智能体。其著名程序员创始人Scott Wu明确表示，该智能体并非旨在取代人类程序员。",
-        "publishedAt": "2026-05-29T16:13:47.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Gemini架构师分享AI前沿探索幕后故事",
-        "source": "X：Google AI (@GoogleAI)",
-        "url": "https://x.com/GoogleAI/status/2060392191508488493",
-        "summary": "聆听Gemini的架构师们回顾他们持续推动AI前沿的旅程，本期Release Notes节目。\n\n@JeffDean、@koraykv、@OriolVinyalsML和@NoamShazeer一同出镜，分享模型背后团队的幕后故事，以及他们如何见证愿景的实现。",
-        "publishedAt": "2026-05-29T16:05:53.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Canvas新功能与Clerk自定义登录介绍",
-        "source": "X：Replit (@Replit)",
-        "url": "https://x.com/Replit/status/2060390354910859401",
-        "summary": "Canvas 新功能 + 使用 Clerk 自定义登录 https：//x.com/i/broadcasts/1pJdRRzreMRKW",
-        "publishedAt": "2026-05-29T15:58:35.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Gemini 本月更新：全新界面与智能体助手",
-        "source": "X：Gemini (@GeminiApp)",
-        "url": "https://x.com/GeminiApp/status/2060389565052096911",
-        "summary": "从全新设计的 Gemini 界面，到 Gemini Spark 提供的全天候智能体辅助，以下是本月 Gemini 更新概览。🧵",
-        "publishedAt": "2026-05-29T15:55:27.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Kling AI助力电影RAPHAEL创作全流程揭秘",
-        "source": "X：可灵 Kling AI (@Kling_ai)",
-        "url": "https://x.com/Kling_ai/status/2060375625404432757",
-        "summary": "Kling AI戛纳展示--RAPHAEL：AI工作流幕后\n\n深入了解RAPHAEL，一部使用Kling AI创作的AI驱动故事片。看看创作者如何在整个电影制作流程中运用Kling AI，从创意构思到最终电影画面，简化制作并释放新的创作可能性。",
-        "publishedAt": "2026-05-29T15:00:03.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Guardrails：保护你的智能体、数据与成本",
-        "source": "OpenRouter：Announcements（RSS）",
-        "url": "https://openrouter.ai/announcements/guardrails",
-        "summary": "Guardrails 是一套可配置的安全与治理工具，提供预算执行、零数据保留、模型与提供商限制、提示词注入防御及数据丢失预防等功能，旨在保护智能体（Agents）、数据与控制成本。",
-        "publishedAt": "2026-05-29T12:00:00.000Z",
-        "category": "ai-products"
       }
     ]
   },
@@ -202,151 +106,157 @@
     "ok": true,
     "items": [
       {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co",
-        "text": "Google's free 5-day AI Agents course is back, and this time it's all about vibe coding with agents. The last one had 1.5M learners. Here's what the course covers: → Day 1: Agents + vibe coding. Build agents with Google Agents CLI and your coding agent. → Day 2: Tools + interop. C",
-        "url": "https://x.com/petergyang/status/2060149158615609474",
-        "createdAt": "2026-05-29T00:00:09.000Z",
-        "engagement": 911
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "I smell a takedown in 3...2...1 https://t.co/KfxM4Dp0Qh",
+        "url": "https://x.com/steipete/status/2060294413377519808",
+        "createdAt": "2026-05-29T09:37:21.000Z",
+        "engagement": 2964
       },
       {
-        "handle": "mattturck",
-        "name": "Matt Turck",
-        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-        "text": "A day in the life of a VC in 2026: 9am: Board meeting. My main value-add is aggressively pushing for Anthropic/OpenAI usage in non-engineering functions. Briefly ponder how I became an SDR for foundation model companies. 1pm: Lunch with another VC. We discuss how startups can fin",
-        "url": "https://x.com/mattturck/status/2060136766238028213",
-        "createdAt": "2026-05-28T23:10:55.000Z",
-        "engagement": 650
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out. A migration they'd scoped at 231 days shipped in 13. One PR delivered 21 endpoints at 100% test coverage.",
+        "url": "https://x.com/bcherny/status/2060390852619272526",
+        "createdAt": "2026-05-29T16:00:34.000Z",
+        "engagement": 2926
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Have to report: Opus 4.8 is fucking awesome with OpenClaw It's much more clear about its fixes, what it's thinking, and how it works with you to fix problems.",
-        "url": "https://x.com/garrytan/status/2060387204774633720",
-        "createdAt": "2026-05-29T15:46:04.000Z",
-        "engagement": 635
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀 Thanks to everyone who keeps adopting codex. We are still early. So early.",
+        "url": "https://x.com/thsottiaux/status/2060565265906290786",
+        "createdAt": "2026-05-30T03:33:37.000Z",
+        "engagement": 1729
       },
       {
         "handle": "steipete",
         "name": "Peter Steinberger",
         "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "No LLMs for finding bugs even? https://t.co/VWyyrXwoBh",
-        "url": "https://x.com/steipete/status/2060358460831682895",
-        "createdAt": "2026-05-29T13:51:51.000Z",
-        "engagement": 206
+        "text": "Couldn’t be more excited to have Vince on board. 🦞 Very few people understand the new ways, how software is built. He gets it. https://t.co/6MmfCVHGLW",
+        "url": "https://x.com/steipete/status/2060306947035832628",
+        "createdAt": "2026-05-29T10:27:09.000Z",
+        "engagement": 1336
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Do you still trust benchmarks or do you just listen to your friends? What makes you try a new model?",
+        "url": "https://x.com/thsottiaux/status/2060563528596287874",
+        "createdAt": "2026-05-30T03:26:43.000Z",
+        "engagement": 955
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "The world is more fun with codex glasses https://t.co/HYgxSCdaks",
+        "url": "https://x.com/thsottiaux/status/2060529970523603099",
+        "createdAt": "2026-05-30T01:13:22.000Z",
+        "engagement": 850
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "The teams seeing the biggest wins from AI are completely changing how they work, not speeding up what they already do. What steps can you delete, what handoffs go away, what can an agent just own end to end. Great to see Salesforce go this deep. Shoutout to Srini, @Benioff & team",
+        "url": "https://x.com/bcherny/status/2060390855383400729",
+        "createdAt": "2026-05-29T16:00:34.000Z",
+        "engagement": 485
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "Quality went up alongside output. Even with more PRs shipping, total incidents dropped 5%. They built security guardrails and quality standards into the agentic workflow itself. Productivity vs quality is sometimes framed as a tradeoff. They're not seeing it.",
+        "url": "https://x.com/bcherny/status/2060390853835726946",
+        "createdAt": "2026-05-29T16:00:34.000Z",
+        "engagement": 418
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "A founder kept saying \"if only we had money we'd do X.\" Money is not the fire. Money is gasoline you pour on a fire that already exists. You don't have a funding problem. You have a \"people don't want it yet\" problem. Go make the first fire.",
+        "url": "https://x.com/garrytan/status/2060600088079356292",
+        "createdAt": "2026-05-30T05:51:59.000Z",
+        "engagement": 369
+      },
+      {
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it. Obviously lots of nuance here that can’t be captured in the headline, but this should make you very bullish on software. https://t.co/laysmOjyo7",
+        "url": "https://x.com/levie/status/2060525104384418271",
+        "createdAt": "2026-05-30T00:54:02.000Z",
+        "engagement": 366
       },
       {
         "handle": "danshipper",
         "name": "Dan Shipper",
         "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "Extremely smart take on the tokenmaxxing panic and why it won’t last: https://t.co/Su1yOhAuL7",
-        "url": "https://x.com/danshipper/status/2060382815821209801",
-        "createdAt": "2026-05-29T15:28:38.000Z",
-        "engagement": 177
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "“clanker” is not a slur. “vibe coding” is. https://t.co/emcRyuNADJ",
-        "url": "https://x.com/steipete/status/2060371944168358250",
-        "createdAt": "2026-05-29T14:45:26.000Z",
-        "engagement": 169
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Vercel CLI as a self-updating binary with zero external dependencies. Our CLI is one of the key interfaces enabling the 'cloud for agents'. This solves a huge bottleneck, as we ship changes to our CLI more than ever, and it's embedded in more places than ever. Fun fact: we built ",
-        "url": "https://x.com/rauchg/status/2060105470460010993",
-        "createdAt": "2026-05-28T21:06:33.000Z",
-        "engagement": 168
+        "text": "extremely sick https://t.co/aV3SISsMbv",
+        "url": "https://x.com/danshipper/status/2060487621915152571",
+        "createdAt": "2026-05-29T22:25:05.000Z",
+        "engagement": 234
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "The craziest thing every business can do in 2026 is just zap the rocks more and make more money https://t.co/myDNtEWWKR",
-        "url": "https://x.com/garrytan/status/2060443383752282360",
-        "createdAt": "2026-05-29T19:29:18.000Z",
-        "engagement": 120
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Docker inside ▲ Sandbox live 𝚗𝚘𝚠 https://t.co/o9qDvMcX3I",
-        "url": "https://x.com/rauchg/status/2060443982342357032",
-        "createdAt": "2026-05-29T19:31:41.000Z",
-        "engagement": 117
-      },
-      {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Generate images, video, audio and remix them. Draw something and make it real. Point-click edit, move things around, drag them, drop them. Invite a friend and cook some marketing, websites, or art. All on Replit Canvas! https://t.co/LLoiJCx8uI",
-        "url": "https://x.com/amasad/status/2060122956429472027",
-        "createdAt": "2026-05-28T22:16:02.000Z",
-        "engagement": 114
-      },
-      {
-        "handle": "swyx",
-        "name": "Swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @dx",
-        "text": "met with @ACM_President today! we awarded Industry Spotlights at @CAISconf, and all posters and OpEx talks will be presenting at @aiDotEngineer next month more AIE x ACM collaboration incoming! wonder what a “Turing award of AI Engineering” could look like… https://t.co/hsDcvOxGm",
-        "url": "https://x.com/swyx/status/2060148078754267426",
-        "createdAt": "2026-05-28T23:55:52.000Z",
-        "engagement": 76
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Since many folks misunderstood my comment - this is about the domain. At least that was the main rename-drama I had. Content is fine.",
-        "url": "https://x.com/steipete/status/2060369325895094607",
-        "createdAt": "2026-05-29T14:35:01.000Z",
-        "engagement": 75
+        "text": "Anti Asian racism alive and well in University of California admissions https://t.co/iZuW7HE9nl",
+        "url": "https://x.com/garrytan/status/2060582680216084925",
+        "createdAt": "2026-05-30T04:42:49.000Z",
+        "engagement": 177
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "State of Enterprise AI 2026: Aaron Levie on Tokenmaxxing, Rise of Headless, and AI-Proofing Your Job",
-      "url": "https://www.youtube.com/watch?v=Gs2styCcwro",
-      "publishedAt": "2026-05-28T11:30:00.000Z"
+      "name": "No Priors",
+      "title": "Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan",
+      "url": "https://www.youtube.com/watch?v=QDsbFLEt9ro",
+      "publishedAt": "2026-05-28T10:00:00.000Z"
     }
   },
   "builderpulse": {
     "ok": true,
-    "date": "2026-05-28",
-    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-05-28.md",
+    "date": "2026-05-31",
+    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-05-31.md",
     "zh": {
-      "lead": "大家都在看那条关于人们把 AI 当成社交挡箭牌的 897 条评论长帖。更可卖给 builder 的信号更小，也更扎： Recurflux 说，仪表盘会显示 MRR，却不会显示失败付款造成的漏损；而 Reconcra 是一位有 20 年银行经验的人用 7 天做出来的，用来审计 Shopify 和 Stripe。",
+      "lead": "今天声音最大的故事，是 AI 会不会把经济里的人工工作掏空。但更干净的构建信号小得多：MCP is dead? 在测量后引发 371 条讨论：四个已连接的 MCP 服务器，一种让 AI 助手调用外部工具的标准，在真正开始工作前就占用了模型 10.5% 的工作空间；随后 Openstatus MCP Health Checker 发布，获得 179 票和 12 条评论，卖点是像真实 AI 客户端一样测试这些服务器。",
       "build": {
-        "title": "Failed-Payment Leak Receipt",
-        "oneLiner": "面向小型 SaaS 和电商创始人的 Stripe / Shopify 收入审计：指出本周哪些失败扣款、续费漏收、退款和打款不匹配正在悄悄抽走现金。这个方向由 Recurflux、Reconcra、一条 $900 到 $2,100 MRR 的增长故事，以及一篇 $1,078 广告费复盘共同支撑。"
+        "title": "MCP Health Receipt",
+        "oneLiner": "面向把 AI 助手接入内部工具的团队，做一页式测试报告：展示哪些连接浪费工作空间、无法执行真实命令、暴露高风险动作，或者更适合被普通 command-line 工作流替代。这个方向背后有 371 条关于 MCP 可靠性的讨论，以及一个新发布的 Product Hunt 健康检查产品。"
       },
       "signals": [
-        "AI 反弹已经变成普通用户的行为信号：I'm Tired of Talking to AI 引发 897 条讨论，DuckDuckGo search saw 28% more visits after Google said people love AI mode 引发 334 条讨论，YouTube to automatically label AI-generated videos 引发 319 条讨论。",
-        "创始人仪表盘暴露的是漏钱点，而不只是增长捷报：Recurflux 盯失败付款，Reconcra 审计 Shopify / Stripe，Reddit 出现 $900 到 $2,100 MRR 的 28 天增长，另一个创始人在花掉 $1,078 广告费、获得 226 个用户后关停。",
-        "工具所有权正在从 AI 扩展到更广的领域：Last.fm is now independent 引发 175 条讨论，Posthorn 把自托管邮件带到 Show HN，意思是软件运行在你自己的服务器上；Open-source Workspace 则打包了邮件、文档、表格和网盘。"
+        "AI-tool 管线开始变成买家问题：MCP is dead? 引发 371 条讨论，在一个技术栈里测到 10.5% 的上下文开销，并把调试和可靠性指向真正痛点。",
+        "关于人工工作的争论变得更大也更暗：The dead economy theory 引发 1,381 条讨论，I am retiring from tech to live offline 引发 563 条讨论，Please Use AI 引发 390 条讨论。",
+        "Model routing 从 indie hack 升级成基础设施市场：OpenRouter 宣布 $113M Series B，六个月内每周 token 量从 5 trillion 增至 25 trillion，覆盖 8M+ developers 和 400+ models。"
       ]
     },
     "en": {
-      "lead": "Everyone is reading the 897-comment thread about people using AI as a social shield. The more sellable builder signal is smaller and meaner: Recurflux says dashboards show MRR but not failed-payment leakage, while Reconcra was built by a 20-year banking veteran in 7 days to audit Shopify and Stripe.",
+      "lead": "The loudest story is whether AI is emptying the economy of human work. The cleaner builder signal is smaller: MCP is dead? drew 371 comments after measuring that four connected MCP servers, a standard for letting AI assistants call external tools, used 10.5% of the model's working space before any real work began; Openstatus MCP Health Checker then launched with 179 votes and 12 comments for testing those servers like a real AI client.",
       "build": {
-        "title": "Failed-Payment Leak Receipt",
-        "oneLiner": "a Stripe and Shopify revenue audit for small SaaS and commerce founders that shows which failed charges, renewal misses, refunds, and payout mismatches are silently draining cash this week, backed by Recurflux, Reconcra, a $900 to $2,100 MRR growth story, and a $1,078 ads postmortem."
+        "title": "MCP Health Receipt",
+        "oneLiner": "a one-page test report for teams connecting AI assistants to internal tools, showing which connections waste working space, fail real commands, expose risky actions, or should be replaced by a normal command-line workflow, backed by 371 comments on MCP reliability and a fresh Product Hunt health-check launch."
       },
       "signals": [
-        "AI backlash became a normal-user behavior signal: I'm Tired of Talking to AI drew 897 comments, DuckDuckGo search saw 28% more visits after Google said people love AI mode drew 334, and YouTube to automatically label AI-generated videos drew 319.",
-        "Founder dashboards are exposing money leaks, not just growth wins: Recurflux targets failed payments, Reconcra audits Shopify/Stripe, Reddit showed $900 to $2,100 MRR in 28 days, and another founder shut down after $1,078 in ads and 226 users.",
-        "Tool ownership is broadening beyond AI: Last.fm is now independent drew 175 comments, Posthorn brought self-hosted email, meaning software run on your own server, to Show HN, and Open-source Workspace packaged mail, docs, spreadsheets, and drive."
+        "AI-tool plumbing became a buyer problem: MCP is dead? drew 371 comments, measured 10.5% context overhead in one stack, and pointed at debugging and reliability as the real pain.",
+        "The human-work debate got larger and darker: The dead economy theory drew 1,381 comments, I am retiring from tech to live offline drew 563, and Please Use AI drew 390.",
+        "Model routing graduated from indie hack to infrastructure market: OpenRouter announced a $113M Series B, 5 trillion to 25 trillion weekly token growth in six months, 8M+ developers, and 400+ models."
       ]
     }
   },
   "archive": [
+    {
+      "date": "2026-05-31",
+      "aihotCount": 12,
+      "buildersCount": 12,
+      "bpBuild": "MCP Health Receipt"
+    },
     {
       "date": "2026-05-30",
       "aihotCount": 24,
