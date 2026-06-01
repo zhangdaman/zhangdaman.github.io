@@ -1,0 +1,13 @@
+{"date":"2026-06-01","items":[
+{"handle":"thsottiaux","textZh":"从 GPT-5.0 → GPT-5.1 → … → GPT-5.5 一路走来，每次小版本号往上跳，都对应着能力提升和 token 效率的优化（也就是速度更快）。GPT-5.5 是我们目前最强的模型。这套简单的策略，我们想继续走下去。"},
+{"handle":"petergyang","textZh":"刚陪女儿用 @brilliantorg 学了一小时 CS 101。她不打败 Joyce B 就不罢休 🔥"},
+{"handle":"rauchg","textZh":"做出最好的产品。用很多 AI、用一点 AI、甚至不用 AI 都行。只要做到最好就够了。"},
+{"handle":"levie","textZh":"可能有点反直觉：我跟大企业的 CIO、CTO、CEO 聊下来，大多数公司要么因为 AI 在扩张（新增 FDE、工程师这些岗位），要么至少把 AI 带来的效率节省重新投回业务里（销售、市场等）。\n\n高盛 CEO David Solomon 上周在《纽约时报》的专栏里把这事讲得很透。AI 这波热潮一方面在搭建 AI 系统和各行业落地的过程中创造了全新的岗位，另一方面也把钱腾出来投到那些过去投入不足、或者因为 AI 而需求暴涨的领域。\n\n以前公司被很多东西卡着：能写多少软件、能招多少销售、能跑多少营销活动、能多精细地做 outbound 客户成功、能挖出多少业务风险并提前止损——还有一百多件类似的事。当 AI 让这些事情都能做得更多，钱自然就投回业务里。长期看，赢家是那些能更好服务客户的公司，只想着省钱的最后反而做得更差。"},
+{"handle":"ryolu_","textZh":"我特别喜欢 auto-review 的一点：Cursor 会解释这条命令是什么、风险在哪，新手码农学起来轻松多了，直接动手就能干。"},
+{"handle":"garrytan","textZh":"别忘了 6 月 2 日投票。看看我整理的指南，了解我们怎么改变 California——garrysguide.org"},
+{"handle":"zarazhangrui","textZh":"我注意到 Opus 4.8 一个变化：写作时不再用破折号了。"},
+{"handle":"nikunj","textZh":"时间是个圆。最近又看到大家在聊这个，提醒一下 🙏"},
+{"handle":"steipete","textZh":"有了 GPT 5.5、/goal、autoreview 和 crabbox，我下的 prompt 从原来 30-60 分钟的任务，变成现在常常能跑 4-10 小时，而且我对它完成度的信心比以前高得多。\n\n会放手让 agent 自己跑，本身就是一种本事。"},
+{"handle":"danshipper","textZh":"Business Insider 2013 vs 2026"},
+{"handle":"adityaag","textZh":"在印度，我接触的大多数人只有 1 个孩子，少数有 2 个。\n\n当我告诉别人我有三个，对方第一反应永远是震惊，紧接着来一句\"嗯，意外嘛，难免\"。\n\n只生一个最主要的原因？养孩子真的太难了，城市里的核心家庭尤其如此。"}
+]}
