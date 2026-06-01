@@ -1,13 +1,14 @@
-{"date":"2026-06-01","items":[
-{"handle":"thsottiaux","textZh":"从 GPT-5.0 → GPT-5.1 → … → GPT-5.5 一路走来，每次小版本号往上跳，都对应着能力提升和 token 效率的优化（也就是速度更快）。GPT-5.5 是我们目前最强的模型。这套简单的策略，我们想继续走下去。"},
-{"handle":"petergyang","textZh":"刚陪女儿用 @brilliantorg 学了一小时 CS 101。她不打败 Joyce B 就不罢休 🔥"},
-{"handle":"rauchg","textZh":"做出最好的产品。用很多 AI、用一点 AI、甚至不用 AI 都行。只要做到最好就够了。"},
-{"handle":"levie","textZh":"可能有点反直觉：我跟大企业的 CIO、CTO、CEO 聊下来，大多数公司要么因为 AI 在扩张（新增 FDE、工程师这些岗位），要么至少把 AI 带来的效率节省重新投回业务里（销售、市场等）。\n\n高盛 CEO David Solomon 上周在《纽约时报》的专栏里把这事讲得很透。AI 这波热潮一方面在搭建 AI 系统和各行业落地的过程中创造了全新的岗位，另一方面也把钱腾出来投到那些过去投入不足、或者因为 AI 而需求暴涨的领域。\n\n以前公司被很多东西卡着：能写多少软件、能招多少销售、能跑多少营销活动、能多精细地做 outbound 客户成功、能挖出多少业务风险并提前止损——还有一百多件类似的事。当 AI 让这些事情都能做得更多，钱自然就投回业务里。长期看，赢家是那些能更好服务客户的公司，只想着省钱的最后反而做得更差。"},
-{"handle":"ryolu_","textZh":"我特别喜欢 auto-review 的一点：Cursor 会解释这条命令是什么、风险在哪，新手码农学起来轻松多了，直接动手就能干。"},
-{"handle":"garrytan","textZh":"别忘了 6 月 2 日投票。看看我整理的指南，了解我们怎么改变 California——garrysguide.org"},
-{"handle":"zarazhangrui","textZh":"我注意到 Opus 4.8 一个变化：写作时不再用破折号了。"},
-{"handle":"nikunj","textZh":"时间是个圆。最近又看到大家在聊这个，提醒一下 🙏"},
-{"handle":"steipete","textZh":"有了 GPT 5.5、/goal、autoreview 和 crabbox，我下的 prompt 从原来 30-60 分钟的任务，变成现在常常能跑 4-10 小时，而且我对它完成度的信心比以前高得多。\n\n会放手让 agent 自己跑，本身就是一种本事。"},
-{"handle":"danshipper","textZh":"Business Insider 2013 vs 2026"},
-{"handle":"adityaag","textZh":"在印度，我接触的大多数人只有 1 个孩子，少数有 2 个。\n\n当我告诉别人我有三个，对方第一反应永远是震惊，紧接着来一句\"嗯，意外嘛，难免\"。\n\n只生一个最主要的原因？养孩子真的太难了，城市里的核心家庭尤其如此。"}
+{"date":"2026-06-02","items":[
+{"handle":"swyx","textZh":"2026 年，每一家做 evals/analytics 的创业公司都在经历一次世代级的升级——往 continual learning 平台转型。大多数会挂掉，但和以往一样，有品味的那批会赢。"},
+{"handle":"thsottiaux","textZh":"所有付费 ChatGPT 订阅的 Codex 用量额度都已重置。周额度和小时额度都回到 100%。今天就让 token 去干点了不起的事，玩得开心。"},
+{"handle":"petergyang","textZh":"问一下，Codex automations 和 Claude Code routines 到底有啥区别？哪个更好用？我想把所有 cron job 集中到一个地方管。"},
+{"handle":"rauchg","textZh":"不确定是不是长期趋势，但 CEO 和 CTO 们因为 coding agent 又疯狂回去写代码了。上市公司 CEO 私信我，跟我说他们靠 Claude Code 和 Vercel 重新爱上了发版这件事。这些都是我们一直想合作的\"梦中情司\"——过去 C-level 几乎不可能在早期就真正搞懂底层基础设施。Coding agent 是企业市场终极的 PLG 化。烂的、老旧的软件再也藏不住了。哪套技术栈真正能跑，从实习生到 CEO 全公司一目了然。"},
+{"handle":"levie","textZh":"这基本上是 AI agent 在企业里的头号问题。我们正从 agentic coding（大量上下文就在 codebase 里，用户也够技术，能把剩下的喂给 agent）走向 knowledge work agent 的时代，context 问题变得尖锐得多。我们在 Box 每天都看到这种情况：现有的数字化知识往往散落在跟 agent 不兼容的老系统里，权限控制也跟真实工作流对不上，这些都是 agent 拿到所需 context 的巨大障碍。这些东西都得迁移到现代的、安全的云环境里。但另一方面，公司常常连一些关键 context 都还没沉淀和数字化——决策、流程、工作方式都活在人的脑子里、活在\"江湖经验\"里，需要先转成非结构化数据，agent 才能用。这其实是应用层 AI 公司最大的杠杆点之一——他们可以专门把 agent 需要的信息和领域专业知识喂进去。这也是 FDE 和新一代系统集成商现在能做起来的原因。把这件事搞明白的公司，未来才能真正吃到 AI 的红利。"},
+{"handle":"garrytan","textZh":"你应该想要自己掌控、自己托管自己的 memory。这是唯一一样你应该能带去任何平台的东西。盯紧了，这将是新一轮浏览器大战里决定胜负的关键：2027 年的 AI harness 之争。"},
+{"handle":"zarazhangrui","textZh":"\"真正的精通不是付出最多的努力，而是用最小必要的力气拿到结果。对任何创造性问题来说，蛮干从来都不是好事。\""},
+{"handle":"nikunj","textZh":"有人有靠谱的研究吗——AI 到底\"实质性地\"替代了哪些岗位？我想要的是基于历史数据、当前招聘开口和前瞻表述的统计分析。我知道现在还早，但还是想多读点。大方向上，每家创业公司都在吹自己的成果、模型公司收入暴涨、公司又在裁员——但我觉得\"永久底层阶级\"这种风险被严重夸大了。"},
+{"handle":"steipete","textZh":"最近在训 codex 当我的 QA 助手。每次 commit 它都会生成一个用户测试场景，然后用 webVNC（crabbox）、computer/browser use（peekaboo/mcporter）像真实用户/QA 那样去测 OpenClaw。整个流程在后台跑，发现问题就开 PR 带修复方案过来。"},
+{"handle":"danshipper","textZh":"如果你天天把自己的创业公司跟曼哈顿计划比，但每天没干这件事……ngmi。"},
+{"handle":"adityaag","textZh":"印度的活力。@arctusaerospace"},
+{"handle":"sama","textZh":"OpenAI Robotics 在招人——找顶级的全栈硬件、运维、系统、ML 工程师，一起来设计和制造对社会有用的机器人。AI 应该能在物理世界里帮到人。短期内我们专注于让机器人辅助技术工人去搭建未来的基础设施；长期我们想象每个人都有一台个人机器人，帮你做任何你需要做的事。我们的 world simulation 研究项目，由 Aditya Ramesh（@model_mechanic）带队，过去一年已经演化成了 OpenAI Robotics。进展很快，基础是机器人硬件和 ML 研究的协同设计。如果你热爱在机器人技术栈里亲手干活、想一起建造未来，欢迎加入我们。把你的背景和过往的卓越成绩发到：robotics-recruiting@openai.com"}
 ]}
