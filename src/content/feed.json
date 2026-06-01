@@ -1,104 +1,144 @@
 {
-  "generatedAt": "2026-05-31T05:18:05.615Z",
-  "date": "2026-05-31",
+  "generatedAt": "2026-06-01T06:02:35.886Z",
+  "date": "2026-06-01",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶",
+        "title": "介绍Cosmos Coalition",
+        "source": "Runway：News（网页）",
+        "url": "https://runwayml.com/news/introducing-cosmos-coalition",
+        "summary": "Runway宣布作为创始成员加入Cosmos Coalition，该联盟与NVIDIA及多家领先AI实验室合作，旨在构建并开源面向物理AI的前沿世界模型。首个项目将由Runway与NVIDIA共同开发一个基础模型，以推动下一代开放世界模型的研究与发展。",
+        "publishedAt": "2026-06-01T05:24:22.746Z",
+        "category": "industry"
+      },
+      {
+        "title": "NVIDIA与Google Cloud助力下一波AI构建者",
+        "source": "NVIDIA Blog：Generative AI（网页）",
+        "url": "https://blogs.nvidia.com/blog/category/enterprise/cloud-2",
+        "summary": "在Google I/O大会上，NVIDIA与Google Cloud宣布深化合作，旨在支持其联合开发者社区中超过10万名开发者。合作将重点提供NVIDIA L4 Tensor Core GPU以优化AI推理与图形工作负载，并通过支持Vertex AI平台来增强Gemini模型性能。双方还将提供开源软件工具，以简化AI应用的构建与部署流程。",
+        "publishedAt": "2026-06-01T05:00:56.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "NVIDIA 发布工厂运营蓝图，为工厂提供自主智能管理智能体",
+        "source": "NVIDIA Blog：Agentic AI（网页）",
+        "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain",
+        "summary": "NVIDIA 在 GTC Taipei 发布了 NVIDIA 工厂运营蓝图（FOX），这是一个用于构建自主工厂管理智能体的参考设计。该蓝图基于 NVIDIA NemoClaw、AI-Q Blueprint 和 NVIDIA Nemotron 开源模型构建，旨在为工厂提供一个统一的决策层，以连接实时机器信号、质量数据和操作警报，实现快速问题解决。蓝图针对 NVIDIA DGX Station 桌面 AI 超级计算机进行了优化。首批采用者包括富士康、和硕、研华和纬创。富士康利用 ",
+        "publishedAt": "2026-06-01T05:00:47.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "如何使用 NVIDIA Alpamayo 在闭环中后训练自动驾驶模型",
+        "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
+        "url": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo",
+        "summary": "开发自动驾驶策略需要弥合训练与部署之间的鸿沟。现有的视觉-语言-动作模型虽然能推理更复杂的驾驶场景并产生更丰富的中间推理，但主要在开放循环中训练，即模型输出与真实行为直接比较，而不考虑其对环境产生的实际影响。NVIDIA Alpamayo 提供了一种在闭环环境中进行后训练的方法。",
+        "publishedAt": "2026-06-01T04:49:15.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "使用NVIDIA Cosmos 3开发物理AI推理、世界与行动模型",
+        "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
+        "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3",
+        "summary": "NVIDIA Cosmos 3是一款面向物理AI的前沿基础模型。它能够帮助机器人、自动驾驶车辆和智能空间理解真实世界、预测事件发展并生成适应特定环境与任务的行动。该模型融合了物理推理、世界理解与行动生成能力。",
+        "publishedAt": "2026-06-01T04:43:58.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Nemotron 3 Ultra 本周即将发布",
+        "source": "X：NVIDIA AI (@NVIDIAAI)",
+        "url": "https://x.com/NVIDIAAI/status/2061305524700758050",
+        "summary": "Nemotron 3 Ultra 本周即将发布。 ⌛️",
+        "publishedAt": "2026-06-01T04:35:08.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "NVIDIA 发布 RTX Spark 及本地 AI 智能体安全与性能更新",
+        "source": "NVIDIA Blog：Agentic AI（网页）",
+        "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents",
+        "summary": "NVIDIA 发布了 RTX Spark，一款专为本地 AI 智能体设计的 Windows 电脑，提供 1 petaflops AI 算力与 128GB 统一内存。其推出的 OpenShell 运行时与微软合作，基于新的 Windows 安全原语，确保智能体在设备端安全私密运行。性能方面，通过在 llama.cpp 中采用多 token 预测等优化，Qwen 3.6 和 3.5 27B 模型推理吞吐量提升最高达 2 倍，35B 模型提升 1.6 倍；多 GPU 优化使 lla",
+        "publishedAt": "2026-06-01T04:30:11.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "NVIDIA Vera CPU 为AI工厂的智能体工作负载设立新标准",
+        "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
+        "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories",
+        "summary": "NVIDIA Vera CPU 旨在为AI工厂中智能体工作负载树立新性能标杆。文章阐述了AI领域扩展规律的演变：预训练通过更大数据集、更多参数和大规模并行GPU系统扩展智能；后训练通过指令微调扩展实用性，并重新调整GPU用于生成式推理；测试时缩放则通过给模型更多生成token来提升推理能力。当前，智能体AI与强化学习正推动下一阶段的扩展。",
+        "publishedAt": "2026-06-01T03:59:15.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "MiniMax M3：前沿编码、100万token上下文与原生多模态一体模型",
+        "source": "MiniMax：Blog（网页）",
+        "url": "https://www.minimax.io/blog/minimax-m3",
+        "summary": "MiniMax M3 是一个开源前沿模型，具备先进的编码与AI智能体能力。它支持100万token的超长上下文窗口，并采用名为MSA（MiniMax Sparse Attention）的新型稀疏注意力架构。该架构使模型在100万token上下文下的每token计算成本降至前代的1/20，预填充速度提升9倍以上，解码速度提升15倍以上。在SWE-Bench Pro编码基准上，MiniMax M3得分59.0%，超越GPT-5.5和Gemini 3.1 Pro，性能接近Opus ",
+        "publishedAt": "2026-06-01T03:39:41.634Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "NVIDIA DSX OS 提供开放、模块化软件用于规模化运营AI工厂",
+        "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
+        "url": "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale",
+        "summary": "NVIDIA DSX 平台为设计、模拟和构建 AI 工厂提供完整解决方案，旨在应对不断增长的智能需求。该平台通过开放、模块化的软件栈，帮助运营方更快地扩展规模、提高效率，并降低从能源、芯片、基础设施、模型到应用这五层架构的整体智能成本。",
+        "publishedAt": "2026-06-01T03:36:52.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "上海：支持多模态智能体开发与应用，有序推进智能驾驶在共享出行、物流运输等多场景应用",
         "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/957/718.htm",
-        "summary": "一辆特斯拉汽车搭载 FSD V14.3.3 版本软件，完成了全球首次全程零人工干预、横穿加拿大的自动驾驶行程。车辆从温哥华出发，历时 4 天 21 小时，行驶 3760 英里（6051 公里）抵达哈利法克斯，全程所有驾驶操作（包括高速并线、应对复杂路况与自动泊车）均由系统自主完成，无任何系统退出或人工修正。该版本随 2026.14.6.6 更新推送，整合了春季软件功能。",
-        "publishedAt": "2026-05-31T01:30:46.000Z",
+        "url": "https://www.ithome.com/0/957/985.htm",
+        "summary": "上海市人民政府办公厅印发《上海市服务业发展\"十五五\"规划》，提出发展AI软件技术及服务产业集群。规划支持多模态智能体开发与应用，推动智能客服等工具规模化；有序推进智能驾驶在共享出行、物流运输等多场景应用；做强算运存协同布局的智算云网络，推广模型即服务（MaaS）；并支持开发面向家庭、养老、文旅等场景的具身智能整机产品，加速机器人向通用智能与精细化服务跃升。",
+        "publishedAt": "2026-06-01T02:16:40.000Z",
         "category": "industry"
       },
       {
-        "title": "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
-        "source": "Simon Willison 博客",
-        "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser",
-        "summary": "作者展示了如何在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用。此前的 Datasette Lite 使用 Web Workers，但无法执行 `<script>` 标签中的 JavaScript。新方案由 Claude Opus 4.8 协助完成开发，解决了这一问题。作者已展示了基础的 ASGI FastCGI 演示和运行 Datasette 1.0a31 的演示，并计划后续将此方法应用于升级 Datasette Lite",
-        "publishedAt": "2026-05-30T21:02:16.000Z",
+        "title": "全球首次：MWC26 上海将举办\"人形机器人点球大战\"，宇树科技等 8 支队伍参赛、参演",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/0/957/938.htm",
+        "summary": "全球首次\"人形机器人点球大战\"将于2026年6月在MWC上海举行。8支中国顶尖具身智能战队将进行自主对抗，无需人工操控或预设脚本。赛事旨在集中展示人形机器人在动态平衡、精准控制与自主决策等方面的技术突破。",
+        "publishedAt": "2026-06-01T00:55:00.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "教皇似乎比Geoffrey Hinton更懂人工智能",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "url": "https://garymarcus.substack.com/p/the-pope-appears-to-understand-ai",
+        "summary": "这一观点强调，单纯分析AI的输出内容，无法还原其生成过程与背后的推理逻辑，触及了当前AI可解释性研究的核心挑战。",
+        "publishedAt": "2026-05-31T16:38:20.000Z",
         "category": "tip"
       },
       {
-        "title": "据报道：软银将在法国投资750亿欧元用于AI",
-        "source": "Bloomberg：Technology（RSS）",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say",
-        "summary": "软银集团计划投资高达750亿欧元（约合870亿美元），用于在法国建设人工智能数据中心。该投资计划由《论坛报》与《金融时报》报道。",
-        "publishedAt": "2026-05-30T18:55:33.000Z",
+        "title": "OpenAI正式进军机器人领域并启动招聘",
+        "source": "X：Sam Altman (@sama)",
+        "url": "https://x.com/sama/status/2061117302528188712",
+        "summary": "OpenAI宣布成立OpenAI Robotics团队，并开始招聘全栈硬件、系统及ML工程师，以编程和制造能服务社会的机器人。该项目由Aditya Ramesh领导，其世界模拟研究计划已演变为机器人研究，强调硬件与ML研究的协同设计。短期目标是支持技术工人构建未来基础设施，长期愿景是为每个人提供个人机器人。",
+        "publishedAt": "2026-05-31T16:07:13.000Z",
         "category": "industry"
       },
       {
-        "title": "NVIDIA 或将于六月发布整合 Blackwell GPU 与 AI 单元的 ARM 笔记本芯片 N1X",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "url": "https://x.com/AYi_AInotes/status/2060779431648547016",
-        "summary": "NVIDIA、微软与 Arm 同步发布指向台北音乐中心的坐标，暗示 6 月 1 日发布会将有重大动作。此举被认为是 NVIDIA 与联发科合作的 ARM 笔记本芯片 N1X 的预告。该芯片整合了 CPU、基于 Blackwell 架构的 GPU 及 AI 单元，目标是使轻薄本具备接近 RTX 4070 的图形性能。这标志着 NVIDIA 的战略转变：从显卡供应商，转型为定义整机核心方案的提供商，将直接冲击 Intel、AMD 和高通在 PC 市场的地位。",
-        "publishedAt": "2026-05-30T17:44:38.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "\"开玩笑吧\"：GitHub Copilot 新的基于 token 的计费模式引发开发者不满",
-        "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs",
-        "summary": "微软旗下 GitHub Copilot 的黄金时代似乎正在终结。其新推出的计费模式改为按 token 计量，这一变化引发了开发者的广泛担忧与不满。",
-        "publishedAt": "2026-05-30T16:30:00.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "随着成本飙升，美国企业开始对人工智能实施配给",
+        "title": "我花200英镑把一台数据中心级GPU装进了我的游戏电脑",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-        "summary": "由于运行和使用AI工具的成本持续飙升，美国企业正开始对人工智能的使用实施配给制。企业通过限制使用量、设置分层级审批流程等方式控制开支，以应对AI费用增长过快的问题。这种从广泛采用转向精细化管理的策略，标志着企业在AI应用上从追求速度转向注重成本效益。",
-        "publishedAt": "2026-05-30T15:40:48.502Z",
+        "url": "https://blog.tymscar.com/posts/v100localllm",
+        "summary": "一名用户以200英镑的价格购入了一块数据中心级GPU，并将其成功安装到自己的游戏电脑中。文章记述了这一非标准硬件改装过程、遇到的技术挑战以及最终实现本地运行大语言模型的体验。",
+        "publishedAt": "2026-05-31T15:55:27.025Z",
         "category": "tip"
       },
       {
-        "title": "免费领取6个月ChatGPT Pro及AI工具思考",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "url": "https://x.com/AYi_AInotes/status/2060740414273941874",
-        "summary": "OpenAI为开源项目维护者提供福利，可免费领取6个月ChatGPT Pro（价值$1200），申请无硬性Star数要求，有项目链接即可。同时，文章引用讨论了AI工具的分类：一类是\"agent型\"（如Claude Code、Codex），可自主运行；另一类是\"实习生型\"（如Cursor），需人工决策，有助于使用者以术入道、培养判断力，但受限于需人在场。作者推荐了网易的UU远程工具，称其免费两年，支持4K 144帧无延迟连接Mac并可使用原生终端，解决了\"实习生型\"工具的地点限",
-        "publishedAt": "2026-05-30T15:09:36.000Z",
-        "category": "tip"
+        "title": "OpenAI发布生物防御AI工具Rosalind",
+        "source": "X：Sam Altman (@sama)",
+        "url": "https://x.com/sama/status/2061101875303530871",
+        "summary": "我们希望帮助世界在生物防御领域抢占先机：",
+        "publishedAt": "2026-05-31T15:05:55.000Z",
+        "category": "ai-products"
       },
       {
-        "title": "AI 骗子正在创建虚假的黑人形象来销售 Shein 劣质商品",
-        "source": "The Verge：AI（RSS）",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-        "summary": "有卖家利用 AI 生成虚假的黑人形象，在 TikTok、Facebook 和 Instagram 上扮演手工制品创作者进行销售。例如一个名为 Aliyah 的 AI 生成形象，以带泪诉说的方式售卖所谓手工皮带扣，但该形象及其产品均为虚构。此类 AI 虚拟网红被用于推广通过代发货模式销售的批量生产品。",
-        "publishedAt": "2026-05-30T13:00:00.000Z",
+        "title": "苹果WWDC将推AI升级：Gemini蒸馏模型本地运行，但技术栈外部依赖显著",
+        "source": "X：Kim (@kimmonismus)",
+        "url": "https://x.com/kimmonismus/status/2061058117304262999",
+        "summary": "苹果下月WWDC将重点展示延迟已久的Siri及设备端AI升级，核心是在iPhone芯片本地运行从Google Gemini蒸馏而来的更小模型，以强调隐私与降低token成本。但该技术栈大部分源自外部：本地模型由Gemini蒸馏，设备无法处理的复杂查询将路由至Google Cloud处理，并采用了Nvidia的机密计算技术。苹果据称正在寻觅小型设备端AI初创公司以加速模型缩减工作。此外，苹果2024年承诺的Private Cloud Compute方案原计划使用苹果芯片，因无法",
+        "publishedAt": "2026-05-31T12:12:02.000Z",
         "category": "industry"
-      },
-      {
-        "title": "新加坡防务论坛：AI 风险超过核武器",
-        "source": "Bloomberg：Technology（RSS）",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-30/ai-dangers-eclipse-nuclear-weapons-at-singapore-defense-forum",
-        "summary": "在新加坡举行的防务论坛上，专家警告AI风险已超越核武器。面板讨论指出，AI可能大幅压缩反应时间，导致决策者做出草率决定，对战略稳定构成威胁。",
-        "publishedAt": "2026-05-30T11:59:32.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Nano Banana Pro与Nano Banana 2正式发布",
-        "source": "X：Google AI for Developers (@googleaidevs)",
-        "url": "https://x.com/googleaidevs/status/2060685345738375640",
-        "summary": "ICYMI：Nano Banana Pro 【gemini-3-pro-image】 和 Nano Banana 2 【gemini-3.1-flash-image】 现已正式发布，可通过 Gemini API 投入生产使用。\n\n查看这些优秀的社区示例，了解两个模型的实际能力 🧵",
-        "publishedAt": "2026-05-30T11:30:46.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "小即是美：开源多模态模型发布",
-        "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-        "url": "https://x.com/StepFun_ai/status/2060678753030947226",
-        "summary": "小即是美。😌",
-        "publishedAt": "2026-05-30T11:04:34.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "最后一次技术面试",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-        "summary": "Steve Yegge 在 Medium 发表观点文章《最后一次技术面试》，探讨 AI 时代传统技术面试的意义变化。文章在 Hacker News 社区获得 100 分关注。",
-        "publishedAt": "2026-05-30T07:25:10.263Z",
-        "category": "tip"
       }
     ]
   },
@@ -106,151 +146,157 @@
     "ok": true,
     "items": [
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "I smell a takedown in 3...2...1 https://t.co/KfxM4Dp0Qh",
-        "url": "https://x.com/steipete/status/2060294413377519808",
-        "createdAt": "2026-05-29T09:37:21.000Z",
-        "engagement": 2964
-      },
-      {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out. A migration they'd scoped at 231 days shipped in 13. One PR delivered 21 endpoints at 100% test coverage.",
-        "url": "https://x.com/bcherny/status/2060390852619272526",
-        "createdAt": "2026-05-29T16:00:34.000Z",
-        "engagement": 2926
-      },
-      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀 Thanks to everyone who keeps adopting codex. We are still early. So early.",
-        "url": "https://x.com/thsottiaux/status/2060565265906290786",
-        "createdAt": "2026-05-30T03:33:37.000Z",
-        "engagement": 1729
+        "text": "When we go from GPT-5.0 -&gt; GPT-5.1 -&gt; ... -&gt; GPT-5.5, the number incrementing goes with improvements in capabilities and token efficiency (which translates to speed gains). With GPT-5.5 our best model yet. A simple strategy that we would like to continue.",
+        "url": "https://x.com/thsottiaux/status/2060627747760984429",
+        "createdAt": "2026-05-30T07:41:54.000Z",
+        "engagement": 3931
       },
       {
         "handle": "steipete",
         "name": "Peter Steinberger",
         "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Couldn’t be more excited to have Vince on board. 🦞 Very few people understand the new ways, how software is built. He gets it. https://t.co/6MmfCVHGLW",
-        "url": "https://x.com/steipete/status/2060306947035832628",
-        "createdAt": "2026-05-29T10:27:09.000Z",
-        "engagement": 1336
+        "text": "With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence that it’s ready is much much higher. Yielding agents is a skill.",
+        "url": "https://x.com/steipete/status/2060678430031597696",
+        "createdAt": "2026-05-30T11:03:17.000Z",
+        "engagement": 3008
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Ship the best product. Use lots of AI, some AI, maybe no AI. Just be the best.",
+        "url": "https://x.com/rauchg/status/2060803480823193840",
+        "createdAt": "2026-05-30T19:20:12.000Z",
+        "engagement": 2835
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "I do this with codex all the time. Ask it to review code for bugs and it will tell you all good, tell it there is a bug and it will LOOP AND LOOP and will find issues. https://t.co/SOAa7Z1H4I",
+        "url": "https://x.com/steipete/status/2060672154727825718",
+        "createdAt": "2026-05-30T10:38:21.000Z",
+        "engagement": 2829
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Do you still trust benchmarks or do you just listen to your friends? What makes you try a new model?",
-        "url": "https://x.com/thsottiaux/status/2060563528596287874",
-        "createdAt": "2026-05-30T03:26:43.000Z",
-        "engagement": 955
+        "text": "Five million users would agree. Resetting the limits tomorrow morning to celebrate. Time to go /fast https://t.co/MdRBfp8Od0",
+        "url": "https://x.com/thsottiaux/status/2060964284117782996",
+        "createdAt": "2026-05-31T05:59:10.000Z",
+        "engagement": 2298
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "The world is more fun with codex glasses https://t.co/HYgxSCdaks",
-        "url": "https://x.com/thsottiaux/status/2060529970523603099",
-        "createdAt": "2026-05-30T01:13:22.000Z",
-        "engagement": 850
+        "text": "What’s something we haven’t fixed in codex for a while and that’s plain annoying?",
+        "url": "https://x.com/thsottiaux/status/2060960564676034726",
+        "createdAt": "2026-05-31T05:44:24.000Z",
+        "engagement": 556
       },
       {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "The teams seeing the biggest wins from AI are completely changing how they work, not speeding up what they already do. What steps can you delete, what handoffs go away, what can an agent just own end to end. Great to see Salesforce go this deep. Shoutout to Srini, @Benioff & team",
-        "url": "https://x.com/bcherny/status/2060390855383400729",
-        "createdAt": "2026-05-29T16:00:34.000Z",
-        "engagement": 485
+        "handle": "ryolu_",
+        "name": "Ryo Lu",
+        "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone c",
+        "text": "what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and just do things https://t.co/3d2gt9uRKq",
+        "url": "https://x.com/ryolu_/status/2060766674203353190",
+        "createdAt": "2026-05-30T16:53:56.000Z",
+        "engagement": 229
       },
       {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "Quality went up alongside output. Even with more PRs shipping, total incidents dropped 5%. They built security guardrails and quality standards into the agentic workflow itself. Productivity vs quality is sometimes framed as a tradeoff. They're not seeing it.",
-        "url": "https://x.com/bcherny/status/2060390853835726946",
-        "createdAt": "2026-05-29T16:00:34.000Z",
-        "engagement": 418
+        "handle": "adityaag",
+        "name": "Aditya Agarwal",
+        "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @",
+        "text": "Most people I talk to in India have 1 child. Some have 2. When I tell them I have three, their first reaction is total surprise followed by \"well, accidents happen\". The main reason for one? Raising kids is just really hard, especially for nuclear families in cities.",
+        "url": "https://x.com/adityaag/status/2060644549408739621",
+        "createdAt": "2026-05-30T08:48:40.000Z",
+        "engagement": 220
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "A founder kept saying \"if only we had money we'd do X.\" Money is not the fire. Money is gasoline you pour on a fire that already exists. You don't have a funding problem. You have a \"people don't want it yet\" problem. Go make the first fire.",
-        "url": "https://x.com/garrytan/status/2060600088079356292",
-        "createdAt": "2026-05-30T05:51:59.000Z",
-        "engagement": 369
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "Autoreview: https://t.co/zbUjIS2e1i crabbox: https://t.co/SEj2XRpaD1",
+        "url": "https://x.com/steipete/status/2060691552486175041",
+        "createdAt": "2026-05-30T11:55:26.000Z",
+        "engagement": 199
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it. Obviously lots of nuance here that can’t be captured in the headline, but this should make you very bullish on software. https://t.co/laysmOjyo7",
-        "url": "https://x.com/levie/status/2060525104384418271",
-        "createdAt": "2026-05-30T00:54:02.000Z",
-        "engagement": 366
+        "text": "Again, maybe counterintuitive, but in the majority of conversations I have with CIOs, CTOs, and CEOs in large enterprises, they are either growing due to AI (in new job functions like FDEs, engineering, etc.) or at a minimum reinvesting efficiency savings back into the business i",
+        "url": "https://x.com/levie/status/2060923684295221390",
+        "createdAt": "2026-05-31T03:17:51.000Z",
+        "engagement": 173
       },
       {
         "handle": "danshipper",
         "name": "Dan Shipper",
         "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "extremely sick https://t.co/aV3SISsMbv",
-        "url": "https://x.com/danshipper/status/2060487621915152571",
-        "createdAt": "2026-05-29T22:25:05.000Z",
-        "engagement": 234
+        "text": "business insider 2013 vs. 2026 https://t.co/DVCelvXlgK",
+        "url": "https://x.com/danshipper/status/2060861670184870225",
+        "createdAt": "2026-05-30T23:11:25.000Z",
+        "engagement": 172
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Anti Asian racism alive and well in University of California admissions https://t.co/iZuW7HE9nl",
-        "url": "https://x.com/garrytan/status/2060582680216084925",
-        "createdAt": "2026-05-30T04:42:49.000Z",
-        "engagement": 177
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "38b tokens and a 56h longest task 41 day current streak lfg codex https://t.co/FpIkhoyJTP",
+        "url": "https://x.com/danshipper/status/2060771279280513362",
+        "createdAt": "2026-05-30T17:12:14.000Z",
+        "engagement": 171
       }
     ],
     "podcast": {
-      "name": "No Priors",
-      "title": "Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan",
-      "url": "https://www.youtube.com/watch?v=QDsbFLEt9ro",
-      "publishedAt": "2026-05-28T10:00:00.000Z"
+      "name": "Unsupervised Learning",
+      "title": "Ep 87: Gemini Co-Lead on World Models, RL&apos;s Next Domains &amp; Continual Learning",
+      "url": "https://www.youtube.com/watch?v=NQczevdpxq0",
+      "publishedAt": "2026-05-22T12:50:04.000Z"
     }
   },
   "builderpulse": {
     "ok": true,
-    "date": "2026-05-31",
-    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-05-31.md",
+    "date": "2026-06-01",
+    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-06-01.md",
     "zh": {
-      "lead": "今天声音最大的故事，是 AI 会不会把经济里的人工工作掏空。但更干净的构建信号小得多：MCP is dead? 在测量后引发 371 条讨论：四个已连接的 MCP 服务器，一种让 AI 助手调用外部工具的标准，在真正开始工作前就占用了模型 10.5% 的工作空间；随后 Openstatus MCP Health Checker 发布，获得 179 票和 12 条评论，卖点是像真实 AI 客户端一样测试这些服务器。",
+      "lead": "今天表面上最吵的故事，是机器人正在逼迫整个 Web 加固防线。真正能卖给开发者的信号恰好相反：Cloudflare Turnstile requiring fingerprintable WebGL 在 Hacker News 引发 278 条讨论，在 Lobsters 又有 8 条评论，因为一个安全门禁现在可能在创始人发现注册流失之前，就把真正注重隐私的访客挡在门外。",
       "build": {
-        "title": "MCP Health Receipt",
-        "oneLiner": "面向把 AI 助手接入内部工具的团队，做一页式测试报告：展示哪些连接浪费工作空间、无法执行真实命令、暴露高风险动作，或者更适合被普通 command-line 工作流替代。这个方向背后有 371 条关于 MCP 可靠性的讨论，以及一个新发布的 Product Hunt 健康检查产品。"
+        "title": "Bot-Gate Receipt",
+        "oneLiner": "面向 SaaS 注册、登录和付款页的浏览器兼容性报告，展示哪些隐私浏览器、WebGL 设置和反机器人页面会挡住真实用户；证据来自 Cloudflare Turnstile 失效引发的 278 条讨论，以及最新的指纹识别抱怨。"
       },
       "signals": [
-        "AI-tool 管线开始变成买家问题：MCP is dead? 引发 371 条讨论，在一个技术栈里测到 10.5% 的上下文开销，并把调试和可靠性指向真正痛点。",
-        "关于人工工作的争论变得更大也更暗：The dead economy theory 引发 1,381 条讨论，I am retiring from tech to live offline 引发 563 条讨论，Please Use AI 引发 390 条讨论。",
-        "Model routing 从 indie hack 升级成基础设施市场：OpenRouter 宣布 $113M Series B，六个月内每周 token 量从 5 trillion 增至 25 trillion，覆盖 8M+ developers 和 400+ models。"
+        "反机器人软件变成了转化问题：Cloudflare Turnstile 因要求 WebGL 指纹识别而引发 278 条讨论，这种要求会让隐私浏览器陷入无限验证循环。",
+        "软件所有权有了截止日期：Microsoft Office 2019 and 2021 for Mac view-only conversion) 围绕 2026 年 7 月 13 日的切换引发 364 条评论，讨论从可编辑的永久软件变成只读模式。",
+        "AI 让领域专业知识更值钱，而不是更不值钱：Domain expertise has always been the real moat 引发 513 条讨论，因为稀缺技能正在从代码生成转向验证。"
       ]
     },
     "en": {
-      "lead": "The loudest story is whether AI is emptying the economy of human work. The cleaner builder signal is smaller: MCP is dead? drew 371 comments after measuring that four connected MCP servers, a standard for letting AI assistants call external tools, used 10.5% of the model's working space before any real work began; Openstatus MCP Health Checker then launched with 179 votes and 12 comments for testing those servers like a real AI client.",
+      "lead": "The noisy story is that bots are forcing the web to defend itself. The sellable builder signal is the reverse: Cloudflare Turnstile requiring fingerprintable WebGL drew 278 Hacker News comments and 8 more on Lobsters because a security gate can now block real privacy-conscious visitors before a founder ever sees the lost signup.",
       "build": {
-        "title": "MCP Health Receipt",
-        "oneLiner": "a one-page test report for teams connecting AI assistants to internal tools, showing which connections waste working space, fail real commands, expose risky actions, or should be replaced by a normal command-line workflow, backed by 371 comments on MCP reliability and a fresh Product Hunt health-check launch."
+        "title": "Bot-Gate Receipt",
+        "oneLiner": "a browser compatibility report for SaaS signup, login, and checkout pages that shows which privacy browsers, WebGL settings, and anti-bot screens block real users, backed by 278 comments on Cloudflare Turnstile breakage and fresh complaints about fingerprinting."
       },
       "signals": [
-        "AI-tool plumbing became a buyer problem: MCP is dead? drew 371 comments, measured 10.5% context overhead in one stack, and pointed at debugging and reliability as the real pain.",
-        "The human-work debate got larger and darker: The dead economy theory drew 1,381 comments, I am retiring from tech to live offline drew 563, and Please Use AI drew 390.",
-        "Model routing graduated from indie hack to infrastructure market: OpenRouter announced a $113M Series B, 5 trillion to 25 trillion weekly token growth in six months, 8M+ developers, and 400+ models."
+        "Anti-bot software became a conversion problem: Cloudflare Turnstile drew 278 comments for requiring WebGL fingerprinting that can loop forever in privacy-focused browsers.",
+        "Software ownership got a deadline: Microsoft Office 2019 and 2021 for Mac view-only conversion) drew 364 comments around a July 13, 2026 switch from editable perpetual software to view-only mode.",
+        "AI made domain expertise more valuable, not less: Domain expertise has always been the real moat drew 513 comments because verification, not code generation, is becoming the scarce skill."
       ]
     }
   },
   "archive": [
+    {
+      "date": "2026-06-01",
+      "aihotCount": 17,
+      "buildersCount": 12,
+      "bpBuild": "Bot-Gate Receipt"
+    },
     {
       "date": "2026-05-31",
       "aihotCount": 12,
