@@ -151,7 +151,7 @@ const zh: Strings = {
       '我每天读的三条 AI 线索——中文资讯、海外 builder 在说什么、indie 今天值得做什么——自动汇到这里。机器抓取、每日更新，不是我手写的，但都是我自己在追的源。',
     todayKicker: '§ 今日',
     sectionAihotKicker: '§ AI HOT · 最近 24 小时',
-    sectionBuildersKicker: '§ BUILDERS · WHAT THEY SAID',
+    sectionBuildersKicker: '§ BUILDERS · 海外在说什么',
     sectionIndieKicker: '§ INDIE · 今日值得做的',
     archiveKicker: '§ 近 7 日',
     podcastLabel: '本期播客',
