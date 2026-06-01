@@ -275,20 +275,27 @@ export default function Notes() {
         <section className="mt-section-v-rhyme">
           <SectionHeader kicker={n.archiveKicker} />
           <div className="border-t border-outline-variant">
-            {feed.archive.map((a) => (
-              <div
-                key={a.date}
-                className="py-stack-md border-b border-outline-variant grid grid-cols-1 md:grid-cols-12 gap-gutter"
-              >
-                <div className="md:col-span-2 font-kicker text-kicker text-on-surface-variant uppercase pt-1">
-                  {a.date}
-                </div>
-                <div className="md:col-span-10 font-mono-ui text-mono-ui text-on-surface-variant">
-                  {a.aihotCount} · AI HOT &nbsp;·&nbsp; {a.buildersCount} · BUILDERS
-                  {a.bpBuild ? <span className="text-primary"> &nbsp;·&nbsp; {a.bpBuild}</span> : null}
-                </div>
-              </div>
-            ))}
+            {feed.archive.map((a) => {
+              const [y] = a.date.split('-')
+              const bpUrl = `https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/${y}/${a.date}.md`
+              return (
+                <a
+                  key={a.date}
+                  href={bpUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="py-stack-md border-b border-outline-variant grid grid-cols-1 md:grid-cols-12 gap-gutter group hover:bg-surface-container-low transition-colors duration-300"
+                >
+                  <div className="md:col-span-2 font-kicker text-kicker text-on-surface-variant uppercase pt-1 group-hover:text-secondary transition-colors duration-300">
+                    {a.date}
+                  </div>
+                  <div className="md:col-span-10 font-mono-ui text-mono-ui text-on-surface-variant">
+                    {a.aihotCount} · AI HOT &nbsp;·&nbsp; {a.buildersCount} · BUILDERS
+                    {a.bpBuild ? <span className="text-primary"> &nbsp;·&nbsp; {a.bpBuild}</span> : null}
+                  </div>
+                </a>
+              )
+            })}
           </div>
         </section>
       ) : null}
