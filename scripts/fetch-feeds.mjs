@@ -72,6 +72,20 @@ async function fetchAihot() {
   return { ok: true, items }
 }
 
+// ─── MyMemory translate (free, no key, 5000 chars/day) ──────────────────────
+async function translateZh(text) {
+  if (!text) return ''
+  try {
+    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh`
+    const res = await fetch(url, { headers: { 'User-Agent': UA } })
+    if (!res.ok) return ''
+    const data = await res.json()
+    return data?.responseData?.translatedText || ''
+  } catch {
+    return ''
+  }
+}
+
 // ─── follow-builders ────────────────────────────────────────────────────────
 async function fetchBuilders() {
   const [x, pod] = await Promise.all([
@@ -93,9 +107,16 @@ async function fetchBuilders() {
     }
   }
   items.sort((a, b) => (b.engagement || 0) - (a.engagement || 0))
+  const top = items.slice(0, MAX_BUILDERS)
+
+  // Translate top items to Chinese sequentially to stay within MyMemory rate limits
+  for (const item of top) {
+    item.textZh = await translateZh(item.text)
+  }
+
   const ep = pod?.podcasts?.[0]
   const podcast = ep ? { name: ep.name, title: ep.title, url: ep.url, publishedAt: ep.publishedAt || null } : null
-  return { ok: true, items: items.slice(0, MAX_BUILDERS), podcast }
+  return { ok: true, items: top, podcast }
 }
 
 // ─── BuilderPulse ───────────────────────────────────────────────────────────

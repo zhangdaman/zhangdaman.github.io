@@ -15,6 +15,7 @@ type BuilderItem = {
   name: string
   bio: string
   text: string
+  textZh?: string
   url: string
   createdAt: string | null
   engagement: number
@@ -189,7 +190,7 @@ export default function Notes() {
                   ) : null}
                 </div>
                 <div className="md:col-span-9 pr-4">
-                  <p className="font-body-md text-body-md text-on-surface max-w-3xl">{b.text}</p>
+                  <p className="font-body-md text-body-md text-on-surface max-w-3xl">{lang === 'zh' && b.textZh ? b.textZh : b.text}</p>
                   <div className="font-kicker text-kicker text-on-surface-variant uppercase mt-stack-sm">
                     {relTime(b.createdAt, lang)} · X
                   </div>
