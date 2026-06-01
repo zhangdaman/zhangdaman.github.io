@@ -16,6 +16,7 @@ import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUT = resolve(__dirname, '../src/content/feed.json')
+const BUILDERS_ZH = resolve(__dirname, '../src/content/builders-zh.json')
 
 // aihot's nginx blocks default curl/fetch UAs; a browser UA is required.
 const UA =
@@ -72,20 +73,6 @@ async function fetchAihot() {
   return { ok: true, items }
 }
 
-// ─── MyMemory translate (free, no key, 5000 chars/day) ──────────────────────
-async function translateZh(text) {
-  if (!text) return ''
-  try {
-    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh`
-    const res = await fetch(url, { headers: { 'User-Agent': UA } })
-    if (!res.ok) return ''
-    const data = await res.json()
-    return data?.responseData?.translatedText || ''
-  } catch {
-    return ''
-  }
-}
-
 // ─── follow-builders ────────────────────────────────────────────────────────
 async function fetchBuilders() {
   const [x, pod] = await Promise.all([
@@ -109,9 +96,15 @@ async function fetchBuilders() {
   items.sort((a, b) => (b.engagement || 0) - (a.engagement || 0))
   const top = items.slice(0, MAX_BUILDERS)
 
-  // Translate top items to Chinese sequentially to stay within MyMemory rate limits
-  for (const item of top) {
-    item.textZh = await translateZh(item.text)
+  // Merge Chinese translations from builders-zh.json (generated daily by OpenClaw routine)
+  try {
+    const zh = JSON.parse(await readFile(BUILDERS_ZH, 'utf8'))
+    const zhMap = Object.fromEntries((zh.items || []).map((it) => [it.handle, it.textZh]))
+    for (const item of top) {
+      if (zhMap[item.handle]) item.textZh = zhMap[item.handle]
+    }
+  } catch {
+    // file not yet generated — textZh stays absent, UI falls back to English
   }
 
   const ep = pod?.podcasts?.[0]
