@@ -185,6 +185,15 @@ const zh: Strings = {
   },
   workItems: [
     {
+      id: 'ai-cockpit',
+      name: 'AI 公司驾驶舱',
+      state: 'shipping',
+      tag: 'IN FLIGHT · 2026.06',
+      oneLiner:
+        '把一个人活成一个团队。一个 CEO agent（Elon）带四名各管一块的 AI 同事：飞书里指挥、每日自动晨报、还能照我的反馈自我迭代。我在驾驶舱里像经营公司一样调度他们。',
+      techTags: ['MULTI-AGENT', 'OPENCLAW', 'CLAUDE', 'FEISHU'],
+    },
+    {
       id: 'petrelic',
       name: 'PetRelic',
       state: 'shipping',
@@ -319,6 +328,15 @@ const en: Strings = {
     terminalHint: 'try: resume, email, github',
   },
   workItems: [
+    {
+      id: 'ai-cockpit',
+      name: 'AI Company Cockpit',
+      state: 'shipping',
+      tag: 'IN FLIGHT · 2026.06',
+      oneLiner:
+        'Living as a team of one. A CEO agent (Elon) commands four specialist AI colleagues: dispatched from a cockpit, briefed automatically every morning over Feishu, and able to iterate on themselves from my feedback. I run them like a company.',
+      techTags: ['MULTI-AGENT', 'OPENCLAW', 'CLAUDE', 'FEISHU'],
+    },
     {
       id: 'petrelic',
       name: 'PetRelic',
