@@ -70,23 +70,23 @@ export default function About() {
               {t.about.focusKicker}
             </h2>
 
-            <div className="bg-tertiary-container border border-outline rounded-[6px] relative overflow-hidden">
+            <div className="bg-inverse-surface border border-outline rounded-[6px] relative overflow-hidden">
               <div className="absolute inset-0">
                 <ShapeGrid
                   shape="square"
                   direction="diagonal"
                   speed={0.3}
                   squareSize={36}
-                  borderColor="rgba(255, 255, 255, 0.07)"
-                  hoverFillColor="rgba(157, 66, 47, 0.6)"
+                  borderColor="rgba(255, 255, 255, 0.06)"
+                  hoverFillColor="rgba(201, 123, 114, 0.5)"
                   hoverTrailAmount={6}
                 />
               </div>
               <div className="relative z-10 p-8 pointer-events-none">
-                <p className="font-mono-ui text-mono-ui mb-6 text-on-tertiary">
+                <p className="font-mono-ui text-mono-ui mb-6 text-inverse-on-surface opacity-60">
                   {t.about.focusIntro}
                 </p>
-                <ul className="font-mono-ui text-mono-ui space-y-4 text-surface-variant">
+                <ul className="font-mono-ui text-mono-ui space-y-4">
                   {t.about.focusItems.map((it) => (
                     <li key={it.title} className="flex items-start">
                       <span
@@ -94,8 +94,8 @@ export default function About() {
                         className="mr-3 mt-1 block w-2 h-2 bg-secondary flex-shrink-0"
                       />
                       <div>
-                        <strong className="text-on-tertiary block">{it.title}</strong>
-                        <span className="text-tertiary-fixed-dim">{it.desc}</span>
+                        <strong className="text-inverse-on-surface block">{it.title}</strong>
+                        <span className="text-inverse-on-surface opacity-50">{it.desc}</span>
                       </div>
                     </li>
                   ))}
