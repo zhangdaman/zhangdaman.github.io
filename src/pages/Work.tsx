@@ -1,6 +1,12 @@
+import { Link } from 'react-router-dom'
 import { site } from '../lib/siteConfig'
 import { useLang } from '../lib/LanguageContext'
 import type { WorkItemContent } from '../lib/strings'
+
+// 有详情页的作品 id → 路由
+const DETAIL_ROUTES: Record<string, string> = {
+  'ai-cockpit': '/work/ai-cockpit',
+}
 
 type WorkState = WorkItemContent['state']
 
@@ -63,6 +69,7 @@ function WorkSection({ kicker, state }: { kicker: string; state: WorkState }) {
 }
 
 function WorkCard({ item }: { item: WorkItemContent }) {
+  const { lang } = useLang()
   return (
     <article className="border border-outline-variant p-stack-lg md:p-10 hover:bg-surface-container-low transition-colors">
       <div className="flex flex-col md:flex-row md:justify-between md:items-baseline gap-2 mb-stack-md">
@@ -93,6 +100,15 @@ function WorkCard({ item }: { item: WorkItemContent }) {
           </span>
         ))}
       </div>
+
+      {DETAIL_ROUTES[item.id] && (
+        <Link
+          to={DETAIL_ROUTES[item.id]}
+          className="inline-block mt-stack-md font-mono-ui text-mono-ui text-primary border-b border-primary hover:text-secondary hover:border-secondary transition-colors"
+        >
+          {lang === 'zh' ? '读这个故事 →' : 'Read the story →'}
+        </Link>
+      )}
     </article>
   )
 }
