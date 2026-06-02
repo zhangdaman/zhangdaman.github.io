@@ -11,12 +11,13 @@ export const site = {
 }
 
 // 路由配置 —— label 字段从 strings.ts 按当前语言取
-export type NavKey = 'home' | 'about' | 'work' | 'notes' | 'contact'
+export type NavKey = 'home' | 'about' | 'work' | 'writing' | 'notes' | 'contact'
 
 export const nav: { key: NavKey; to: string }[] = [
   { key: 'home', to: '/' },
   { key: 'about', to: '/about' },
   { key: 'work', to: '/work' },
+  { key: 'writing', to: '/writing' },
   { key: 'notes', to: '/notes' },
   { key: 'contact', to: '/contact' },
 ]

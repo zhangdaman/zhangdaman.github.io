@@ -5,6 +5,10 @@
 @import '@fontsource/jetbrains-mono/400.css';
 @import '@fontsource/jetbrains-mono/500.css';
 @import '@fontsource/jetbrains-mono/700.css';
+/* 霞鹜文楷：中文标题衬线，Google Fonts CDN（无 npm 包，用 @import） */
+@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai&display=swap');
+/* 思源黑体：中文正文 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500&display=swap');
 
 @tailwind base;
 @tailwind components;

@@ -1,66 +1,57 @@
 import { Link } from 'react-router-dom'
-import { ArrowRight } from 'lucide-react'
-import { TerminalPanel, TerminalLine } from '../components/TerminalPanel'
-import ProximityText from '../components/ProximityText'
 import { useLang } from '../lib/LanguageContext'
+import { nav } from '../lib/siteConfig'
+
+// 首页：PRD 极简一屏版
+// 姓名 + slogan + 引言 + 导航，无动效，无终端组件
+
+const NAV_EXCLUDE = ['home']
 
 export default function Home() {
-  const { t } = useLang()
+  const { t, lang } = useLang()
+
   return (
-    <div className="px-5 md:px-margin-edge max-w-7xl mx-auto w-full pt-16 md:pt-section-v-rhyme pb-16 md:pb-section-v-rhyme">
-      <section className="grid grid-cols-1 md:grid-cols-12 gap-gutter mb-section-v-rhyme items-center">
-        <div className="md:col-span-8 flex flex-col gap-stack-xl">
-          <h1 className="font-display text-headline-lg-mobile md:text-display">
-            <ProximityText
-              lines={t.home.tagline}
-              baseColor="#1b1c1c"
-              accentColor="#9d422f"
-              radius={140}
-              falloff="gaussian"
-            />
+    <div className="min-h-[calc(100vh-120px)] flex items-center">
+      <div className="px-5 md:px-margin-edge max-w-3xl mx-auto w-full py-16 md:py-24">
+
+        {/* 姓名 */}
+        <div className="mb-16 md:mb-20">
+          <h1 className="font-display text-headline-lg-mobile md:text-headline-lg text-primary mb-1">
+            张丹
           </h1>
-
-          <div className="font-mono-ui text-mono-ui text-on-surface-variant flex flex-wrap items-center gap-2">
-            <span>{t.home.credibility}</span>
-          </div>
-
-          <div className="flex flex-col sm:flex-row gap-stack-md mt-stack-xl border-t border-outline-variant pt-stack-xl">
-            <CTA to="/work" title={t.home.ctaWork} sub={t.home.ctaWorkSub} />
-            <CTA to="/notes" title={t.home.ctaNotes} sub={t.home.ctaNotesSub} />
-          </div>
+          <p className="font-mono-ui text-mono-ui text-on-surface-variant">
+            Zhang Dan · {lang === 'zh' ? 'AI 产品经理 / 写作者' : 'AI Product Manager / Writer'}
+          </p>
         </div>
 
-        <div className="md:col-span-4 mt-8 md:mt-0">
-          <TerminalPanel>
-            <div className="flex flex-col gap-3">
-              {t.home.terminal.map((line) => (
-                <TerminalLine key={line}>{line}</TerminalLine>
-              ))}
-              <TerminalLine emphasize>{t.home.terminalReady}</TerminalLine>
-            </div>
-          </TerminalPanel>
-        </div>
-      </section>
+        {/* slogan */}
+        <blockquote className="mb-12 md:mb-16">
+          <p className="font-display text-headline-md md:text-headline-lg text-primary leading-snug">
+            {t.home.slogan}
+          </p>
+        </blockquote>
 
-      <div className="w-full h-px bg-outline-variant" />
-    </div>
-  )
-}
+        {/* 一句话引言 */}
+        <p className="font-body-md text-body-md text-on-surface-variant max-w-prose mb-16 md:mb-20">
+          {t.home.lede}
+        </p>
 
-function CTA({ to, title, sub }: { to: string; title: string; sub: string }) {
-  return (
-    <Link
-      to={to}
-      className="group flex items-center justify-between flex-1 p-6 border border-outline-variant hover:border-primary transition-colors bg-surface-container-lowest"
-    >
-      <div className="flex flex-col gap-2">
-        <span className="font-mono-ui text-mono-ui font-bold text-primary">{title}</span>
-        <span className="font-kicker text-kicker text-on-surface-variant uppercase">{sub}</span>
+        {/* 导航 */}
+        <nav className="flex flex-wrap gap-x-6 gap-y-3">
+          {nav
+            .filter((item) => !NAV_EXCLUDE.includes(item.key))
+            .map((item) => (
+              <Link
+                key={item.key}
+                to={item.to}
+                className="font-body-md text-body-md text-on-surface-variant hover:text-primary border-b border-transparent hover:border-primary transition-colors pb-px"
+              >
+                {t.nav[item.key]}
+              </Link>
+            ))}
+        </nav>
+
       </div>
-      <ArrowRight
-        size={20}
-        className="text-primary group-hover:translate-x-1 transition-transform"
-      />
-    </Link>
+    </div>
   )
 }

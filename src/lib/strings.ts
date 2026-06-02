@@ -15,6 +15,7 @@ export type Strings = {
     home: string
     about: string
     work: string
+    writing: string
     notes: string
     contact: string
   }
@@ -27,6 +28,13 @@ export type Strings = {
     ctaNotesSub: string
     terminal: string[]
     terminalReady: string
+    slogan: string
+    lede: string
+  }
+  writing: {
+    title: string
+    intro: string
+    emptyState: string
   }
   about: {
     title: string
@@ -85,6 +93,7 @@ const zh: Strings = {
     home: '首页',
     about: '关于',
     work: '作品',
+    writing: '文字',
     notes: '手记',
     contact: '联系',
   },
@@ -101,6 +110,13 @@ const zh: Strings = {
       'Connecting to LLM cluster...',
     ],
     terminalReady: 'Ready.',
+    slogan: '喜欢在热闹里独处的我。',
+    lede: '把 LLM 系统放进真实的、略带混乱的运营场景里——并让它真的运转起来。',
+  },
+  writing: {
+    title: '文字 / Writing',
+    intro: 'AI 产品方法论、个人思考、以及那些值得写下来的片段。',
+    emptyState: '文章陆续更新中，先到「手记」看看每日动态。',
   },
   about: {
     title: '想得像工程师，写得像编辑。',
@@ -226,6 +242,7 @@ const en: Strings = {
     home: 'Home',
     about: 'About',
     work: 'Work',
+    writing: 'Writing',
     notes: 'Notes',
     contact: 'Contact',
   },
@@ -242,6 +259,13 @@ const en: Strings = {
       'Connecting to LLM cluster...',
     ],
     terminalReady: 'Ready.',
+    slogan: 'Solitude in a crowd.',
+    lede: 'Putting LLM systems into real, slightly chaotic operations — and making them actually work.',
+  },
+  writing: {
+    title: '文字 / Writing',
+    intro: 'AI product thinking, personal essays, and fragments worth keeping.',
+    emptyState: 'More writing on the way. For now, see Notes for daily signals.',
   },
   about: {
     title: 'The mind of an engineer, the pen of an editor.',
