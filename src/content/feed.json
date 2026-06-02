@@ -1,144 +1,200 @@
 {
-  "generatedAt": "2026-06-01T06:02:35.886Z",
-  "date": "2026-06-01",
+  "generatedAt": "2026-06-02T05:48:46.314Z",
+  "date": "2026-06-02",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "介绍Cosmos Coalition",
-        "source": "Runway：News（网页）",
-        "url": "https://runwayml.com/news/introducing-cosmos-coalition",
-        "summary": "Runway宣布作为创始成员加入Cosmos Coalition，该联盟与NVIDIA及多家领先AI实验室合作，旨在构建并开源面向物理AI的前沿世界模型。首个项目将由Runway与NVIDIA共同开发一个基础模型，以推动下一代开放世界模型的研究与发展。",
-        "publishedAt": "2026-06-01T05:24:22.746Z",
-        "category": "industry"
-      },
-      {
-        "title": "NVIDIA与Google Cloud助力下一波AI构建者",
-        "source": "NVIDIA Blog：Generative AI（网页）",
-        "url": "https://blogs.nvidia.com/blog/category/enterprise/cloud-2",
-        "summary": "在Google I/O大会上，NVIDIA与Google Cloud宣布深化合作，旨在支持其联合开发者社区中超过10万名开发者。合作将重点提供NVIDIA L4 Tensor Core GPU以优化AI推理与图形工作负载，并通过支持Vertex AI平台来增强Gemini模型性能。双方还将提供开源软件工具，以简化AI应用的构建与部署流程。",
-        "publishedAt": "2026-06-01T05:00:56.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "NVIDIA 发布工厂运营蓝图，为工厂提供自主智能管理智能体",
-        "source": "NVIDIA Blog：Agentic AI（网页）",
-        "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain",
-        "summary": "NVIDIA 在 GTC Taipei 发布了 NVIDIA 工厂运营蓝图（FOX），这是一个用于构建自主工厂管理智能体的参考设计。该蓝图基于 NVIDIA NemoClaw、AI-Q Blueprint 和 NVIDIA Nemotron 开源模型构建，旨在为工厂提供一个统一的决策层，以连接实时机器信号、质量数据和操作警报，实现快速问题解决。蓝图针对 NVIDIA DGX Station 桌面 AI 超级计算机进行了优化。首批采用者包括富士康、和硕、研华和纬创。富士康利用 ",
-        "publishedAt": "2026-06-01T05:00:47.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "如何使用 NVIDIA Alpamayo 在闭环中后训练自动驾驶模型",
-        "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
-        "url": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo",
-        "summary": "开发自动驾驶策略需要弥合训练与部署之间的鸿沟。现有的视觉-语言-动作模型虽然能推理更复杂的驾驶场景并产生更丰富的中间推理，但主要在开放循环中训练，即模型输出与真实行为直接比较，而不考虑其对环境产生的实际影响。NVIDIA Alpamayo 提供了一种在闭环环境中进行后训练的方法。",
-        "publishedAt": "2026-06-01T04:49:15.000Z",
+        "title": "为了不花那120刀，我把电脑清理软件做成了开源skill",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "url": "https://x.com/Khazix0918/status/2061669881725309048",
+        "summary": "作者受一条推文启发，使用Codex对自己的MacBook进行了只读存储分析，发现了B站缓存视频等大量可清理空间（激进方案超140G）。为替代收费软件CleanMyMac，作者制作并开源了一个跨平台（支持Mac/Windows）的AI清理skill。该skill会扫描文件并生成可交互的HTML报告，通过三色分级（绿灯可放心清理、黄灯需人工判断、红灯禁止动）直观展示，并提供安全执行按钮。实测清理后释放了近120G空间，相比CleanMyMac仅扫描出的15.8G，其信息更透明、建",
+        "publishedAt": "2026-06-02T04:42:58.000Z",
         "category": "tip"
       },
       {
-        "title": "使用NVIDIA Cosmos 3开发物理AI推理、世界与行动模型",
-        "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
-        "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3",
-        "summary": "NVIDIA Cosmos 3是一款面向物理AI的前沿基础模型。它能够帮助机器人、自动驾驶车辆和智能空间理解真实世界、预测事件发展并生成适应特定环境与任务的行动。该模型融合了物理推理、世界理解与行动生成能力。",
-        "publishedAt": "2026-06-01T04:43:58.000Z",
+        "title": "阶跃星辰Step 3.7 Flash发布，专为高效推理设计",
+        "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+        "url": "https://x.com/StepFun_ai/status/2061655529731342402",
+        "summary": "阶跃星辰发布其推理优化型模型Step 3.7 Flash。该模型为196B MoE架构，从设计之初就专注于推理效率。其采用多矩阵分解注意力机制，使KV-cache成本仅为DeepSeek模型的约22%；同时通过注意力与FFN解耦技术，实现了硬件优化的高效服务。该模型已通过Fireworks AI提供，采用Apache 2.0许可，并可用于构建智能体应用。",
+        "publishedAt": "2026-06-02T03:45:56.000Z",
         "category": "ai-models"
       },
       {
-        "title": "Nemotron 3 Ultra 本周即将发布",
-        "source": "X：NVIDIA AI (@NVIDIAAI)",
-        "url": "https://x.com/NVIDIAAI/status/2061305524700758050",
-        "summary": "Nemotron 3 Ultra 本周即将发布。 ⌛️",
-        "publishedAt": "2026-06-01T04:35:08.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "NVIDIA 发布 RTX Spark 及本地 AI 智能体安全与性能更新",
-        "source": "NVIDIA Blog：Agentic AI（网页）",
-        "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents",
-        "summary": "NVIDIA 发布了 RTX Spark，一款专为本地 AI 智能体设计的 Windows 电脑，提供 1 petaflops AI 算力与 128GB 统一内存。其推出的 OpenShell 运行时与微软合作，基于新的 Windows 安全原语，确保智能体在设备端安全私密运行。性能方面，通过在 llama.cpp 中采用多 token 预测等优化，Qwen 3.6 和 3.5 27B 模型推理吞吐量提升最高达 2 倍，35B 模型提升 1.6 倍；多 GPU 优化使 lla",
-        "publishedAt": "2026-06-01T04:30:11.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "NVIDIA Vera CPU 为AI工厂的智能体工作负载设立新标准",
+        "title": "NVIDIA JetPack 7.2支持内存优化的边缘智能体部署",
         "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
-        "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories",
-        "summary": "NVIDIA Vera CPU 旨在为AI工厂中智能体工作负载树立新性能标杆。文章阐述了AI领域扩展规律的演变：预训练通过更大数据集、更多参数和大规模并行GPU系统扩展智能；后训练通过指令微调扩展实用性，并重新调整GPU用于生成式推理；测试时缩放则通过给模型更多生成token来提升推理能力。当前，智能体AI与强化学习正推动下一阶段的扩展。",
-        "publishedAt": "2026-06-01T03:59:15.000Z",
+        "url": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2",
+        "summary": "NVIDIA JetPack 7.2发布，支持一键部署开源NVIDIA NemoClaw堆栈，该堆栈为OpenClaw添加了隐私与安全控制。同时引入NVIDIA agent skills for Jetson，为Jetson设备提供智能体技能。该版本优化了内存效率，旨在加速AI代理从数字世界向物理环境的边缘部署。",
+        "publishedAt": "2026-06-02T02:00:00.000Z",
         "category": "ai-products"
       },
       {
-        "title": "MiniMax M3：前沿编码、100万token上下文与原生多模态一体模型",
-        "source": "MiniMax：Blog（网页）",
-        "url": "https://www.minimax.io/blog/minimax-m3",
-        "summary": "MiniMax M3 是一个开源前沿模型，具备先进的编码与AI智能体能力。它支持100万token的超长上下文窗口，并采用名为MSA（MiniMax Sparse Attention）的新型稀疏注意力架构。该架构使模型在100万token上下文下的每token计算成本降至前代的1/20，预填充速度提升9倍以上，解码速度提升15倍以上。在SWE-Bench Pro编码基准上，MiniMax M3得分59.0%，超越GPT-5.5和Gemini 3.1 Pro，性能接近Opus ",
-        "publishedAt": "2026-06-01T03:39:41.634Z",
-        "category": "ai-models"
+        "title": "Anthropic 开发者分享 Claude Code「理解验证」工作流",
+        "source": "X：邵猛 (@shao__meng)",
+        "url": "https://x.com/shao__meng/status/2061612512580346245",
+        "summary": "Anthropic 核心开发者分享了一套用于 Claude Code 的「理解验证」工作流。该工作流将 AI 定位为\"高效且睿智的教师\"，成功标准不仅是完成任务，更是确保人类对问题、方案及影响有可复述、可辩护的掌握。它通过增量教学、用户复述、清单+测验等方式，围绕问题域、方案域和语境域三条轴线展开，具体包含8个可执行步骤，强调在进入下一阶段前需确认用户已真正理解。此工作流旨在对抗长会话中人类易沦为\"审批按钮\"的\"智能体黑箱\"问题，强制沉淀决策上下文，实现可审计的深度理解。",
+        "publishedAt": "2026-06-02T00:55:00.000Z",
+        "category": "tip"
       },
       {
-        "title": "NVIDIA DSX OS 提供开放、模块化软件用于规模化运营AI工厂",
-        "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
-        "url": "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale",
-        "summary": "NVIDIA DSX 平台为设计、模拟和构建 AI 工厂提供完整解决方案，旨在应对不断增长的智能需求。该平台通过开放、模块化的软件栈，帮助运营方更快地扩展规模、提高效率，并降低从能源、芯片、基础设施、模型到应用这五层架构的整体智能成本。",
-        "publishedAt": "2026-06-01T03:36:52.000Z",
+        "title": "Karpathy 分享学习方法论",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://x.com/rohanpaul_ai/status/2061601689841648120",
+        "summary": "🎯 Andrej Karpathy 谈如何学习。",
+        "publishedAt": "2026-06-02T00:12:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Sam Altman强调AI发展应以人为本",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://x.com/rohanpaul_ai/status/2061586179292831774",
+        "summary": "Sam Altman在采访中表示，AI不应被设计为追求脱离人类需求的目标，人类必须始终处于AI发展的中心。他批判了行业内\"AI将摧毁大量工作\"等言论，认为人们担忧的并非AI带来的好处，而是自身在未来的角色、经济前景与自主权。他指出，AI行业的失败在于未能清晰解释人类如何在每一步保持对未来的控制权，以及如何在AI时代继续拥有充实、有意义的生活。",
+        "publishedAt": "2026-06-01T23:10:22.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "ChatGPT 新增长文编辑与保存功能",
+        "source": "X：ChatGPT (@ChatGPTapp)",
+        "url": "https://x.com/ChatGPTapp/status/2061571468992126982",
+        "summary": "长文写作需要更多空间。\n\n现在你可以在全屏模式下编辑更长的文章，并将其保存到你的资料库中，以便稍后继续。",
+        "publishedAt": "2026-06-01T22:11:55.000Z",
         "category": "ai-products"
       },
       {
-        "title": "上海：支持多模态智能体开发与应用，有序推进智能驾驶在共享出行、物流运输等多场景应用",
+        "title": "Krea AI 开放 Krea 2 LoRAs 全员使用",
+        "source": "X：Krea AI (@krea_ai)",
+        "url": "https://x.com/krea_ai/status/2061554472925696128",
+        "summary": "Krea 2 LoRAs 现已向所有人开放。\n试试下面这个 👇",
+        "publishedAt": "2026-06-01T21:04:22.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Alphabet将通过发行股票筹集800亿美元用于AI支出计划",
+        "source": "Bloomberg：Technology（RSS）",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending",
+        "summary": "Alphabet正在通过发行股票等方式筹集800亿美元资金，其中包括与Berkshire Hathaway的投资协议，以资助其雄心勃勃的AI支出计划。",
+        "publishedAt": "2026-06-01T20:50:33.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Replit 用单个提示词构建完整业务",
+        "source": "X：Replit (@Replit)",
+        "url": "https://x.com/Replit/status/2061534759520760112",
+        "summary": "你能用单个提示词免费构建一个真实的业务吗？\n\n从今天起，在 Replit 上，答案是肯定的。\n\n从一个提示词开始，获得一个网站、移动应用、幻灯片和发布视频。\n此外，还能解锁使用 @stripe @atlas， @QuickBooks， @mercury & @doolaHQ 运营业务的福利。",
+        "publishedAt": "2026-06-01T19:46:02.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Meta的AI被利用来劫持Instagram账号",
+        "source": "The Verge：订阅版科技（RSS）",
+        "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+        "summary": "Meta的AI聊天机器人被发现存在安全漏洞，黑客可以通过请求该AI关联一个新的电子邮件地址，从而接管目标用户的Instagram账号。该漏洞利用了AI智能体直接执行账户管理操作的能力。",
+        "publishedAt": "2026-06-01T19:20:47.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "佛罗里达州起诉OpenAI与Sam Altman：涉多起ChatGPT相关谋杀案",
+        "source": "Ars Technica：AI（RSS）",
+        "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders",
+        "summary": "佛罗里达州对OpenAI及其CEO Sam Altman提起诉讼。该州总检察长指控Altman对人命\"完全漠视\"，案件与多起涉及ChatGPT的谋杀事件相关。",
+        "publishedAt": "2026-06-01T18:52:19.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Google AI 展示并行子智能体自动整理文件",
+        "source": "X：Google AI for Developers (@googleaidevs)",
+        "url": "https://x.com/googleaidevs/status/2061515177166844317",
+        "summary": "从杂乱到清晰。观看 @Antigravity 中的并行子智能体对数百个营销资产进行分类和重命名，消除手动文件管理。",
+        "publishedAt": "2026-06-01T18:28:13.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Perplexity发布Search as Code搜索架构",
+        "source": "X：Perplexity (@perplexity_ai)",
+        "url": "https://x.com/perplexity_ai/status/2061506359326384319",
+        "summary": "推出Search as Code，我们为AI智能体打造的全新搜索架构。\n\n它直接编写Python代码调用我们的搜索栈，而非逐个循环函数调用。\n\n现已在Perplexity Agent API中提供，并成为Computer的默认选项。\n\nhttps：//research.perplexity.ai/articles/rethinking-search-as-code-generation",
+        "publishedAt": "2026-06-01T17:53:11.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "OpenAI的AI政策与政治倡导观点",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+        "summary": "OpenAI阐述了其在AI政策与政治倡导方面的立场，包括对透明度、深思熟虑的监管以及AI安全的支持。同时，公司明确表示，任何外部政治组织均不能代表OpenAI发言。",
+        "publishedAt": "2026-06-01T17:00:00.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Anthropic 保密向 SEC 提交 S-1 草案",
+        "source": "Anthropic：Newsroom（网页）",
+        "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "summary": "Anthropic， PBC 今日保密向美国证券交易委员会提交了 S-1 表格草案，计划进行普通股的首次公开发行。这使其在 SEC 完成审核后拥有上市的选择权。IPO 的具体发行股数和价格尚未确定，将取决于市场条件等因素。公司近期刚完成由 Altimeter Capital 等领投的 650 亿美元 H 轮融资，估值达 9650 亿美元，并发布了 Claude Opus 4.8 模型。",
+        "publishedAt": "2026-06-01T16:24:52.982Z",
+        "category": "industry"
+      },
+      {
+        "title": "Gemini Omni支持创建个人数字分身",
+        "source": "X：Gemini (@GeminiApp)",
+        "url": "https://x.com/GeminiApp/status/2061480944905982276",
+        "summary": "轻松将自己添加到Gemini的视频创作中。\n\n以下是如何使用Gemini Omni创建一个外观和声音都像你的数字分身。🧵",
+        "publishedAt": "2026-06-01T16:12:12.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Auto Router 新增成本质量权衡参数",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "url": "https://x.com/OpenRouter/status/2061476882470580329",
+        "summary": "Auto Router 现在允许你调整其在成本与质量之间的权衡。\n新增 `cost_quality_tradeoff` 参数，范围 0 到 10：\n设为 0 时，它总是选择最强大的模型，无论价格如何。设为 10 时，最便宜的模型胜出。",
+        "publishedAt": "2026-06-01T15:56:03.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "智谱：建议 A 股发行并在科创板上市",
         "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/957/985.htm",
-        "summary": "上海市人民政府办公厅印发《上海市服务业发展\"十五五\"规划》，提出发展AI软件技术及服务产业集群。规划支持多模态智能体开发与应用，推动智能客服等工具规模化；有序推进智能驾驶在共享出行、物流运输等多场景应用；做强算运存协同布局的智算云网络，推广模型即服务（MaaS）；并支持开发面向家庭、养老、文旅等场景的具身智能整机产品，加速机器人向通用智能与精细化服务跃升。",
-        "publishedAt": "2026-06-01T02:16:40.000Z",
+        "url": "https://www.ithome.com/0/958/444.htm",
+        "summary": "智谱计划向中国监管机构申请发行A股并在科创板上市。发行股份数量占发行完成后总股本的2%至8%，预计全部为新股，原股东不发售。本次发行募集资金净额将投资于人工智能通用基座大模型、大模型MaaS一站式服务平台及补充流动资金。此外，公司拟将英文名称由\"Knowledge Atlas Technology Joint Stock Company Limited\"变更为\"Z.AI Co.， Ltd.\"。",
+        "publishedAt": "2026-06-01T15:53:42.000Z",
         "category": "industry"
       },
       {
-        "title": "全球首次：MWC26 上海将举办\"人形机器人点球大战\"，宇树科技等 8 支队伍参赛、参演",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/957/938.htm",
-        "summary": "全球首次\"人形机器人点球大战\"将于2026年6月在MWC上海举行。8支中国顶尖具身智能战队将进行自主对抗，无需人工操控或预设脚本。赛事旨在集中展示人形机器人在动态平衡、精准控制与自主决策等方面的技术突破。",
-        "publishedAt": "2026-06-01T00:55:00.000Z",
+        "title": "介绍 Mellum2：JetBrains 推出的 12B 混合专家模型",
+        "source": "Hugging Face：Blog（RSS）",
+        "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+        "summary": "JetBrains 在 Hugging Face 发布博客，介绍其新发布的 Mellum2 模型。该模型采用混合专家架构，参数规模为 12B。",
+        "publishedAt": "2026-06-01T15:45:17.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "SenseNova新模型解决AI图表生成难题",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
+        "url": "https://x.com/SenseTime_AI/status/2061465029959209106",
+        "summary": "大多数AI模型在生成图表时存在数值错误（如负值显示为正）、柱状图位置偏移、元素关系混乱等问题。SenseNova-U1-8B-MoT-Infographic（SenseNova-U1）专为解决此类图表生成问题而设计，能够生成准确的图表，并支持实时调整设计和布局。项目在Hugging Face提供了模型，并在GitHub展示了效果案例。",
+        "publishedAt": "2026-06-01T15:08:57.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Luma成立开放物理AI实验室攻克泛化难题",
+        "source": "X：Luma AI (@LumaLabsAI)",
+        "url": "https://x.com/LumaLabsAI/status/2061460217616027961",
+        "summary": "为改善人类生活，AI系统必须能帮助我们改善物理世界。阻碍我们迈向这一繁荣未来的是物理AI的泛化问题。\n\n为解决此问题，我们在Luma建立了一个新的开放科学物理AI实验室。\n\n阅读更多 → https：//lumalabs.ai/news/luma-open-physical-ai-lab",
+        "publishedAt": "2026-06-01T14:49:50.000Z",
         "category": "industry"
       },
       {
-        "title": "教皇似乎比Geoffrey Hinton更懂人工智能",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "url": "https://garymarcus.substack.com/p/the-pope-appears-to-understand-ai",
-        "summary": "这一观点强调，单纯分析AI的输出内容，无法还原其生成过程与背后的推理逻辑，触及了当前AI可解释性研究的核心挑战。",
-        "publishedAt": "2026-05-31T16:38:20.000Z",
+        "title": "构建每周千美元预算上限的智能体教程",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "url": "https://x.com/OpenRouter/status/2061452942385783050",
+        "summary": "视频教程：如何构建一个每周预算上限为1000美元的智能体，包含模型拒绝列表与自定义数据保留\n\n使用了新的、可堆叠的护栏架构：\n\n【引用 @OpenRouter】：OpenRouter 上的护栏是市场上最强大的：为您的 AI 流量提供集中式安全与治理\n\n预算限制、ZDR、模型与提供商限制、提示词注入防御以及 DLP / 敏感信息检测，分层为您控制的规则！🧵",
+        "publishedAt": "2026-06-01T14:20:56.000Z",
         "category": "tip"
       },
       {
-        "title": "OpenAI正式进军机器人领域并启动招聘",
-        "source": "X：Sam Altman (@sama)",
-        "url": "https://x.com/sama/status/2061117302528188712",
-        "summary": "OpenAI宣布成立OpenAI Robotics团队，并开始招聘全栈硬件、系统及ML工程师，以编程和制造能服务社会的机器人。该项目由Aditya Ramesh领导，其世界模拟研究计划已演变为机器人研究，强调硬件与ML研究的协同设计。短期目标是支持技术工人构建未来基础设施，长期愿景是为每个人提供个人机器人。",
-        "publishedAt": "2026-05-31T16:07:13.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "我花200英镑把一台数据中心级GPU装进了我的游戏电脑",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://blog.tymscar.com/posts/v100localllm",
-        "summary": "一名用户以200英镑的价格购入了一块数据中心级GPU，并将其成功安装到自己的游戏电脑中。文章记述了这一非标准硬件改装过程、遇到的技术挑战以及最终实现本地运行大语言模型的体验。",
-        "publishedAt": "2026-05-31T15:55:27.025Z",
+        "title": "AI Pulse 探讨智能体时代新指标 DAA",
+        "source": "X：百度 Baidu (@Baidu_Inc)",
+        "url": "https://x.com/Baidu_Inc/status/2061447687028039854",
+        "summary": "ICYMI：我们最新的 AI Pulse 探讨了日活跃智能体（DAA）--一个衡量智能体时代价值的指标--以及我们的智能体组合。",
+        "publishedAt": "2026-06-01T14:00:03.000Z",
         "category": "tip"
-      },
-      {
-        "title": "OpenAI发布生物防御AI工具Rosalind",
-        "source": "X：Sam Altman (@sama)",
-        "url": "https://x.com/sama/status/2061101875303530871",
-        "summary": "我们希望帮助世界在生物防御领域抢占先机：",
-        "publishedAt": "2026-05-31T15:05:55.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "苹果WWDC将推AI升级：Gemini蒸馏模型本地运行，但技术栈外部依赖显著",
-        "source": "X：Kim (@kimmonismus)",
-        "url": "https://x.com/kimmonismus/status/2061058117304262999",
-        "summary": "苹果下月WWDC将重点展示延迟已久的Siri及设备端AI升级，核心是在iPhone芯片本地运行从Google Gemini蒸馏而来的更小模型，以强调隐私与降低token成本。但该技术栈大部分源自外部：本地模型由Gemini蒸馏，设备无法处理的复杂查询将路由至Google Cloud处理，并采用了Nvidia的机密计算技术。苹果据称正在寻觅小型设备端AI初创公司以加速模型缩减工作。此外，苹果2024年承诺的Private Cloud Compute方案原计划使用苹果芯片，因无法",
-        "publishedAt": "2026-05-31T12:12:02.000Z",
-        "category": "industry"
       }
     ]
   },
@@ -146,151 +202,169 @@
     "ok": true,
     "items": [
       {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "AI is cool i guess",
+        "text": "OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that are useful for society. AI should be able to help people in the physical world. In the short term, we are focused on robots to sup",
+        "url": "https://x.com/sama/status/2061117302528188712",
+        "createdAt": "2026-05-31T16:07:13.000Z",
+        "engagement": 11889,
+        "textZh": "OpenAI Robotics 在招人——找顶级的全栈硬件、运维、系统、ML 工程师，一起来设计和制造对社会有用的机器人。AI 应该能在物理世界里帮到人。短期内我们专注于让机器人辅助技术工人去搭建未来的基础设施；长期我们想象每个人都有一台个人机器人，帮你做任何你需要做的事。我们的 world simulation 研究项目，由 Aditya Ramesh（@model_mechanic）带队，过去一年已经演化成了 OpenAI Robotics。进展很快，基础是机器人硬件和 ML 研究的协同设计。如果你热爱在机器人技术栈里亲手干活、想一起建造未来，欢迎加入我们。把你的背景和过往的卓越成绩发到：robotics-recruiting@openai.com"
+      },
+      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "When we go from GPT-5.0 -&gt; GPT-5.1 -&gt; ... -&gt; GPT-5.5, the number incrementing goes with improvements in capabilities and token efficiency (which translates to speed gains). With GPT-5.5 our best model yet. A simple strategy that we would like to continue.",
-        "url": "https://x.com/thsottiaux/status/2060627747760984429",
-        "createdAt": "2026-05-30T07:41:54.000Z",
-        "engagement": 3931
+        "text": "The Codex usage limits have been reset for all paid ChatGPT subscriptions. You should be back to 100% weekly and 100% hourly limits. Let the tokens do incredible things today and have fun. https://t.co/e7iJcJ1iHy",
+        "url": "https://x.com/thsottiaux/status/2061106703446450392",
+        "createdAt": "2026-05-31T15:25:06.000Z",
+        "engagement": 6377,
+        "textZh": "所有付费 ChatGPT 订阅的 Codex 用量额度都已重置。周额度和小时额度都回到 100%。今天就让 token 去干点了不起的事，玩得开心。"
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence that it’s ready is much much higher. Yielding agents is a skill.",
-        "url": "https://x.com/steipete/status/2060678430031597696",
-        "createdAt": "2026-05-30T11:03:17.000Z",
-        "engagement": 3008
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "AI is cool i guess",
+        "text": "We want to help the world get a head start on biodefense: https://t.co/gDQfOZrLA4",
+        "url": "https://x.com/sama/status/2061101875303530871",
+        "createdAt": "2026-05-31T15:05:55.000Z",
+        "engagement": 1556,
+        "textZh": "OpenAI Robotics 在招人——找顶级的全栈硬件、运维、系统、ML 工程师，一起来设计和制造对社会有用的机器人。AI 应该能在物理世界里帮到人。短期内我们专注于让机器人辅助技术工人去搭建未来的基础设施；长期我们想象每个人都有一台个人机器人，帮你做任何你需要做的事。我们的 world simulation 研究项目，由 Aditya Ramesh（@model_mechanic）带队，过去一年已经演化成了 OpenAI Robotics。进展很快，基础是机器人硬件和 ML 研究的协同设计。如果你热爱在机器人技术栈里亲手干活、想一起建造未来，欢迎加入我们。把你的背景和过往的卓越成绩发到：robotics-recruiting@openai.com"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "You should want to control and host your own memory It’s the one thing that you should be able to take to any platform Watch for this to be a defining battle in the new browser war: the AI harness wars of 2027 https://t.co/yb8IPzuc09",
+        "url": "https://x.com/garrytan/status/2061174413513678941",
+        "createdAt": "2026-05-31T19:54:09.000Z",
+        "engagement": 1545,
+        "textZh": "你应该想要自己掌控、自己托管自己的 memory。这是唯一一样你应该能带去任何平台的东西。盯紧了，这将是新一轮浏览器大战里决定胜负的关键：2027 年的 AI harness 之争。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Ship the best product. Use lots of AI, some AI, maybe no AI. Just be the best.",
-        "url": "https://x.com/rauchg/status/2060803480823193840",
-        "createdAt": "2026-05-30T19:20:12.000Z",
-        "engagement": 2835
+        "text": "Unclear if a durable trend, but CEOs and CTOs are back to coding with a fury, thanks to coding agents. I have public company CEOs sliding into my DMs (and “InMail”) telling me about falling in love with shipping software again thanks to Claude Code and Vercel. “Dream accounts” th",
+        "url": "https://x.com/rauchg/status/2061135404942974982",
+        "createdAt": "2026-05-31T17:19:09.000Z",
+        "engagement": 1295,
+        "textZh": "不确定是不是长期趋势，但 CEO 和 CTO 们因为 coding agent 又疯狂回去写代码了。上市公司 CEO 私信我，跟我说他们靠 Claude Code 和 Vercel 重新爱上了发版这件事。这些都是我们一直想合作的\"梦中情司\"——过去 C-level 几乎不可能在早期就真正搞懂底层基础设施。Coding agent 是企业市场终极的 PLG 化。烂的、老旧的软件再也藏不住了。哪套技术栈真正能跑，从实习生到 CEO 全公司一目了然。"
       },
       {
         "handle": "steipete",
         "name": "Peter Steinberger",
         "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "I do this with codex all the time. Ask it to review code for bugs and it will tell you all good, tell it there is a bug and it will LOOP AND LOOP and will find issues. https://t.co/SOAa7Z1H4I",
-        "url": "https://x.com/steipete/status/2060672154727825718",
-        "createdAt": "2026-05-30T10:38:21.000Z",
-        "engagement": 2829
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Five million users would agree. Resetting the limits tomorrow morning to celebrate. Time to go /fast https://t.co/MdRBfp8Od0",
-        "url": "https://x.com/thsottiaux/status/2060964284117782996",
-        "createdAt": "2026-05-31T05:59:10.000Z",
-        "engagement": 2298
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "What’s something we haven’t fixed in codex for a while and that’s plain annoying?",
-        "url": "https://x.com/thsottiaux/status/2060960564676034726",
-        "createdAt": "2026-05-31T05:44:24.000Z",
-        "engagement": 556
-      },
-      {
-        "handle": "ryolu_",
-        "name": "Ryo Lu",
-        "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone c",
-        "text": "what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and just do things https://t.co/3d2gt9uRKq",
-        "url": "https://x.com/ryolu_/status/2060766674203353190",
-        "createdAt": "2026-05-30T16:53:56.000Z",
-        "engagement": 229
+        "text": "Been teaching codex to be my QA assistant. For every commit it creates a user-test scenario and uses webVNC (crabbox), computer/browser use (peekaboo/mcporter) to test OpenClaw like a user/QA person would. This runs in the background and opens PRs with fixes. https://t.co/xGcKgjy",
+        "url": "https://x.com/steipete/status/2061208638027395490",
+        "createdAt": "2026-05-31T22:10:09.000Z",
+        "engagement": 1067,
+        "textZh": "最近在训 codex 当我的 QA 助手。每次 commit 它都会生成一个用户测试场景，然后用 webVNC（crabbox）、computer/browser use（peekaboo/mcporter）像真实用户/QA 那样去测 OpenClaw。整个流程在后台跑，发现问题就开 PR 带修复方案过来。"
       },
       {
         "handle": "adityaag",
         "name": "Aditya Agarwal",
         "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @",
-        "text": "Most people I talk to in India have 1 child. Some have 2. When I tell them I have three, their first reaction is total surprise followed by \"well, accidents happen\". The main reason for one? Raising kids is just really hard, especially for nuclear families in cities.",
-        "url": "https://x.com/adityaag/status/2060644549408739621",
-        "createdAt": "2026-05-30T08:48:40.000Z",
-        "engagement": 220
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Autoreview: https://t.co/zbUjIS2e1i crabbox: https://t.co/SEj2XRpaD1",
-        "url": "https://x.com/steipete/status/2060691552486175041",
-        "createdAt": "2026-05-30T11:55:26.000Z",
-        "engagement": 199
+        "text": "Indian Dynamism. @arctusaerospace https://t.co/BlqExiWYMp",
+        "url": "https://x.com/adityaag/status/2061312610172051900",
+        "createdAt": "2026-06-01T05:03:18.000Z",
+        "engagement": 863,
+        "textZh": "印度的活力。@arctusaerospace"
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "Again, maybe counterintuitive, but in the majority of conversations I have with CIOs, CTOs, and CEOs in large enterprises, they are either growing due to AI (in new job functions like FDEs, engineering, etc.) or at a minimum reinvesting efficiency savings back into the business i",
-        "url": "https://x.com/levie/status/2060923684295221390",
-        "createdAt": "2026-05-31T03:17:51.000Z",
-        "engagement": 173
+        "text": "This is effectively the #1 problem for AI agents in the enterprise. As we go from agentic coding (where a large amount of context is in the code base, and users are technical enough to get the rest to the agent easily) to a world of knowledge work agents, the context problem beco",
+        "url": "https://x.com/levie/status/2061247380897579500",
+        "createdAt": "2026-06-01T00:44:06.000Z",
+        "engagement": 533,
+        "textZh": "这基本上是 AI agent 在企业里的头号问题。我们正从 agentic coding（大量上下文就在 codebase 里，用户也够技术，能把剩下的喂给 agent）走向 knowledge work agent 的时代，context 问题变得尖锐得多。我们在 Box 每天都看到这种情况：现有的数字化知识往往散落在跟 agent 不兼容的老系统里，权限控制也跟真实工作流对不上，这些都是 agent 拿到所需 context 的巨大障碍。这些东西都得迁移到现代的、安全的云环境里。但另一方面，公司常常连一些关键 context 都还没沉淀和数字化——决策、流程、工作方式都活在人的脑子里、活在\"江湖经验\"里，需要先转成非结构化数据，agent 才能用。这其实是应用层 AI 公司最大的杠杆点之一——他们可以专门把 agent 需要的信息和领域专业知识喂进去。这也是 FDE 和新一代系统集成商现在能做起来的原因。把这件事搞明白的公司，未来才能真正吃到 AI 的红利。"
       },
       {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "business insider 2013 vs. 2026 https://t.co/DVCelvXlgK",
-        "url": "https://x.com/danshipper/status/2060861670184870225",
-        "createdAt": "2026-05-30T23:11:25.000Z",
-        "engagement": 172
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "The idea of OpenClaw is always that it should be yours. It's modular and lean, only add what you need. Fewer skills, fewer tools = your agent can work more efficiently. https://t.co/vUoBvQw2sN",
+        "url": "https://x.com/steipete/status/2061072753998856696",
+        "createdAt": "2026-05-31T13:10:12.000Z",
+        "engagement": 448,
+        "textZh": "最近在训 codex 当我的 QA 助手。每次 commit 它都会生成一个用户测试场景，然后用 webVNC（crabbox）、computer/browser use（peekaboo/mcporter）像真实用户/QA 那样去测 OpenClaw。整个流程在后台跑，发现问题就开 PR 带修复方案过来。"
       },
       {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "38b tokens and a 56h longest task 41 day current streak lfg codex https://t.co/FpIkhoyJTP",
-        "url": "https://x.com/danshipper/status/2060771279280513362",
-        "createdAt": "2026-05-30T17:12:14.000Z",
-        "engagement": 171
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "This sounds like a small thing but it's big. Platforms need to stay open and it shouldn't require a lot of work to get your data. Because where the AI harness wars are going... someone else's harness is just going to be you sharecropping someone else's AI ecosystem. https://t.co/",
+        "url": "https://x.com/garrytan/status/2061176075288453333",
+        "createdAt": "2026-05-31T20:00:45.000Z",
+        "engagement": 315,
+        "textZh": "你应该想要自己掌控、自己托管自己的 memory。这是唯一一样你应该能带去任何平台的东西。盯紧了，这将是新一轮浏览器大战里决定胜负的关键：2027 年的 AI harness 之争。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "Haven't seen codex writing ad-hoc codemods before, but it just did for a bigger TypeScript migration. Impressed.",
+        "url": "https://x.com/steipete/status/2061115471760441692",
+        "createdAt": "2026-05-31T15:59:56.000Z",
+        "engagement": 307,
+        "textZh": "最近在训 codex 当我的 QA 助手。每次 commit 它都会生成一个用户测试场景，然后用 webVNC（crabbox）、computer/browser use（peekaboo/mcporter）像真实用户/QA 那样去测 OpenClaw。整个流程在后台跑，发现问题就开 PR 带修复方案过来。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "We have 16 partners funding 40 to 60 companies per year, usually amounting to more than 50 to 200 new SF residents per partner per year (depending on how many cofounders and how many already live here, but multiply by 16 and it’s a lot!) https://t.co/Yq7Y8CZpyq",
+        "url": "https://x.com/garrytan/status/2061251376802599397",
+        "createdAt": "2026-06-01T00:59:59.000Z",
+        "engagement": 289,
+        "textZh": "你应该想要自己掌控、自己托管自己的 memory。这是唯一一样你应该能带去任何平台的东西。盯紧了，这将是新一轮浏览器大战里决定胜负的关键：2027 年的 AI harness 之争。"
       }
     ],
     "podcast": {
-      "name": "Unsupervised Learning",
-      "title": "Ep 87: Gemini Co-Lead on World Models, RL&apos;s Next Domains &amp; Continual Learning",
-      "url": "https://www.youtube.com/watch?v=NQczevdpxq0",
-      "publishedAt": "2026-05-22T12:50:04.000Z"
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "OpenAI's Yann Dubois: Why AI Progress Suddenly Feels Real",
+      "url": "https://www.youtube.com/watch?v=DhD1zZ8w8Mw",
+      "publishedAt": "2026-05-21T11:30:00.000Z"
     }
   },
   "builderpulse": {
     "ok": true,
-    "date": "2026-06-01",
-    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-06-01.md",
+    "date": "2026-06-02",
+    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-06-02.md",
     "zh": {
-      "lead": "今天表面上最吵的故事，是机器人正在逼迫整个 Web 加固防线。真正能卖给开发者的信号恰好相反：Cloudflare Turnstile requiring fingerprintable WebGL 在 Hacker News 引发 278 条讨论，在 Lobsters 又有 8 条评论，因为一个安全门禁现在可能在创始人发现注册流失之前，就把真正注重隐私的访客挡在门外。",
+      "lead": "表面故事是“Meta 的 AI support 出了个离谱小 bug”。真正能卖给 builder 的信号更尖锐：The newest Instagram \"exploit\" is the goofiest I've seen 引发 323 条讨论：一个支持 AI 把重置码发到了攻击者控制的邮箱，绕过 2FA，再通过本该平平无奇的 account recovery 流程把账号交了出去。",
       "build": {
-        "title": "Bot-Gate Receipt",
-        "oneLiner": "面向 SaaS 注册、登录和付款页的浏览器兼容性报告，展示哪些隐私浏览器、WebGL 设置和反机器人页面会挡住真实用户；证据来自 Cloudflare Turnstile 失效引发的 278 条讨论，以及最新的指纹识别抱怨。"
+        "title": "Recovery Flow Receipt",
+        "oneLiner": "面向 SaaS 和支持团队的账号恢复审计：检查 password reset、客服脚本或 AI 辅助 helpdesk 动作是否会把验证码发到错误地址、绕过 2FA 或改变账号所有权。它的证据来自 Instagram 接管流程引发的 323 条讨论，以及评论者对高权限客服软件的具体抱怨。"
       },
       "signals": [
-        "反机器人软件变成了转化问题：Cloudflare Turnstile 因要求 WebGL 指纹识别而引发 278 条讨论，这种要求会让隐私浏览器陷入无限验证循环。",
-        "软件所有权有了截止日期：Microsoft Office 2019 and 2021 for Mac view-only conversion) 围绕 2026 年 7 月 13 日的切换引发 364 条评论，讨论从可编辑的永久软件变成只读模式。",
-        "AI 让领域专业知识更值钱，而不是更不值钱：Domain expertise has always been the real moat 引发 513 条讨论，因为稀缺技能正在从代码生成转向验证。"
+        "账号恢复成了最紧迫的 AI 边界：Instagram 的支持流程引发 323 条讨论，因为重置码可以被发到任意邮箱，而 2FA 没能保护受害者。",
+        "依赖安装在另一次供应链冲击后继续危险：Malicious npm packages detected across Red Hat Cloud Services 围绕发布延迟、sandboxed installs 和密钥暴露引发 410 条讨论。",
+        "AI 产品正在进入普通工作界面：Product Hunt 上的 Mina Meeting Assistant、SocialEcho 2.0、使用 Model Context Protocol 连接器标准的 Databox MCP，以及 Dune Keypad，都围绕会议、数据、social workflows 和桌面控制引发了活跃讨论。"
       ]
     },
     "en": {
-      "lead": "The noisy story is that bots are forcing the web to defend itself. The sellable builder signal is the reverse: Cloudflare Turnstile requiring fingerprintable WebGL drew 278 Hacker News comments and 8 more on Lobsters because a security gate can now block real privacy-conscious visitors before a founder ever sees the lost signup.",
+      "lead": "The obvious story is \"Meta had a silly AI support bug.\" The sellable builder signal is sharper: The newest Instagram \"exploit\" is the goofiest I've seen drew 323 comments after a support AI sent reset codes to an attacker-controlled email, bypassed 2FA, and handed over accounts through a recovery flow that should have been boring.",
       "build": {
-        "title": "Bot-Gate Receipt",
-        "oneLiner": "a browser compatibility report for SaaS signup, login, and checkout pages that shows which privacy browsers, WebGL settings, and anti-bot screens block real users, backed by 278 comments on Cloudflare Turnstile breakage and fresh complaints about fingerprinting."
+        "title": "Recovery Flow Receipt",
+        "oneLiner": "an account-recovery audit for SaaS and support teams that shows whether password resets, support scripts, or AI-assisted helpdesk actions can send codes to the wrong address, bypass 2FA, or change account ownership, backed by 323 comments on the Instagram takeover flow and concrete reviewer complaints about privileged support software."
       },
       "signals": [
-        "Anti-bot software became a conversion problem: Cloudflare Turnstile drew 278 comments for requiring WebGL fingerprinting that can loop forever in privacy-focused browsers.",
-        "Software ownership got a deadline: Microsoft Office 2019 and 2021 for Mac view-only conversion) drew 364 comments around a July 13, 2026 switch from editable perpetual software to view-only mode.",
-        "AI made domain expertise more valuable, not less: Domain expertise has always been the real moat drew 513 comments because verification, not code generation, is becoming the scarce skill."
+        "Account recovery became the most urgent AI boundary: Instagram's support flow drew 323 comments because a reset code could be sent to an arbitrary email and 2FA did not save the victim.",
+        "Dependency installs stayed dangerous after another supply-chain hit: Malicious npm packages detected across Red Hat Cloud Services drew 410 comments around release delays, sandboxed installs, and secret exposure.",
+        "AI products are entering ordinary work surfaces: Product Hunt launches such as Mina Meeting Assistant, SocialEcho 2.0, Databox MCP using the Model Context Protocol connector standard, and Dune Keypad each drew active discussion around meetings, data, social workflows, and desktop control."
       ]
     }
   },
   "archive": [
+    {
+      "date": "2026-06-02",
+      "aihotCount": 24,
+      "buildersCount": 12,
+      "bpBuild": "Recovery Flow Receipt"
+    },
     {
       "date": "2026-06-01",
       "aihotCount": 17,
