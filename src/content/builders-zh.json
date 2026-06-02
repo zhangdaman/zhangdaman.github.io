@@ -1,14 +1,61 @@
-{"date":"2026-06-02","items":[
-{"handle":"swyx","textZh":"2026 年，每一家做 evals/analytics 的创业公司都在经历一次世代级的升级——往 continual learning 平台转型。大多数会挂掉，但和以往一样，有品味的那批会赢。"},
-{"handle":"thsottiaux","textZh":"所有付费 ChatGPT 订阅的 Codex 用量额度都已重置。周额度和小时额度都回到 100%。今天就让 token 去干点了不起的事，玩得开心。"},
-{"handle":"petergyang","textZh":"问一下，Codex automations 和 Claude Code routines 到底有啥区别？哪个更好用？我想把所有 cron job 集中到一个地方管。"},
-{"handle":"rauchg","textZh":"不确定是不是长期趋势，但 CEO 和 CTO 们因为 coding agent 又疯狂回去写代码了。上市公司 CEO 私信我，跟我说他们靠 Claude Code 和 Vercel 重新爱上了发版这件事。这些都是我们一直想合作的\"梦中情司\"——过去 C-level 几乎不可能在早期就真正搞懂底层基础设施。Coding agent 是企业市场终极的 PLG 化。烂的、老旧的软件再也藏不住了。哪套技术栈真正能跑，从实习生到 CEO 全公司一目了然。"},
-{"handle":"levie","textZh":"这基本上是 AI agent 在企业里的头号问题。我们正从 agentic coding（大量上下文就在 codebase 里，用户也够技术，能把剩下的喂给 agent）走向 knowledge work agent 的时代，context 问题变得尖锐得多。我们在 Box 每天都看到这种情况：现有的数字化知识往往散落在跟 agent 不兼容的老系统里，权限控制也跟真实工作流对不上，这些都是 agent 拿到所需 context 的巨大障碍。这些东西都得迁移到现代的、安全的云环境里。但另一方面，公司常常连一些关键 context 都还没沉淀和数字化——决策、流程、工作方式都活在人的脑子里、活在\"江湖经验\"里，需要先转成非结构化数据，agent 才能用。这其实是应用层 AI 公司最大的杠杆点之一——他们可以专门把 agent 需要的信息和领域专业知识喂进去。这也是 FDE 和新一代系统集成商现在能做起来的原因。把这件事搞明白的公司，未来才能真正吃到 AI 的红利。"},
-{"handle":"garrytan","textZh":"你应该想要自己掌控、自己托管自己的 memory。这是唯一一样你应该能带去任何平台的东西。盯紧了，这将是新一轮浏览器大战里决定胜负的关键：2027 年的 AI harness 之争。"},
-{"handle":"zarazhangrui","textZh":"\"真正的精通不是付出最多的努力，而是用最小必要的力气拿到结果。对任何创造性问题来说，蛮干从来都不是好事。\""},
-{"handle":"nikunj","textZh":"有人有靠谱的研究吗——AI 到底\"实质性地\"替代了哪些岗位？我想要的是基于历史数据、当前招聘开口和前瞻表述的统计分析。我知道现在还早，但还是想多读点。大方向上，每家创业公司都在吹自己的成果、模型公司收入暴涨、公司又在裁员——但我觉得\"永久底层阶级\"这种风险被严重夸大了。"},
-{"handle":"steipete","textZh":"最近在训 codex 当我的 QA 助手。每次 commit 它都会生成一个用户测试场景，然后用 webVNC（crabbox）、computer/browser use（peekaboo/mcporter）像真实用户/QA 那样去测 OpenClaw。整个流程在后台跑，发现问题就开 PR 带修复方案过来。"},
-{"handle":"danshipper","textZh":"如果你天天把自己的创业公司跟曼哈顿计划比，但每天没干这件事……ngmi。"},
-{"handle":"adityaag","textZh":"印度的活力。@arctusaerospace"},
-{"handle":"sama","textZh":"OpenAI Robotics 在招人——找顶级的全栈硬件、运维、系统、ML 工程师，一起来设计和制造对社会有用的机器人。AI 应该能在物理世界里帮到人。短期内我们专注于让机器人辅助技术工人去搭建未来的基础设施；长期我们想象每个人都有一台个人机器人，帮你做任何你需要做的事。我们的 world simulation 研究项目，由 Aditya Ramesh（@model_mechanic）带队，过去一年已经演化成了 OpenAI Robotics。进展很快，基础是机器人硬件和 ML 研究的协同设计。如果你热爱在机器人技术栈里亲手干活、想一起建造未来，欢迎加入我们。把你的背景和过往的卓越成绩发到：robotics-recruiting@openai.com"}
-]}
+{
+  "date": "2026-06-03",
+  "items": [
+    {
+      "handle": "swyx",
+      "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
+    },
+    {
+      "handle": "thsottiaux",
+      "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+    },
+    {
+      "handle": "petergyang",
+      "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+    },
+    {
+      "handle": "trq212",
+      "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+    },
+    {
+      "handle": "amasad",
+      "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+    },
+    {
+      "handle": "rauchg",
+      "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+    },
+    {
+      "handle": "levie",
+      "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+    },
+    {
+      "handle": "garrytan",
+      "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+    },
+    {
+      "handle": "mattturck",
+      "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
+    },
+    {
+      "handle": "nikunj",
+      "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
+    },
+    {
+      "handle": "steipete",
+      "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+    },
+    {
+      "handle": "danshipper",
+      "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+    },
+    {
+      "handle": "adityaag",
+      "textZh": "Schrep 和 Gigascale 团队在做一些很特别的事。他们是 @southpkcommons 被投公司的绝佳合作伙伴。@schrep 是我仰望已久的人，期待继续合作。"
+    },
+    {
+      "handle": "sama",
+      "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+    }
+  ]
+}
