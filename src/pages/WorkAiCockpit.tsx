@@ -92,9 +92,6 @@ const team = [
   { emoji: '📦', name: 'Bezos', zh: '增长 + 商业', en: 'Growth + Business' },
 ]
 
-// 截图：放在 public/work/ 下；缺失时 onError 自动隐藏，不会留破图。
-const shots = ['/work/cockpit-1.png', '/work/cockpit-2.png', '/work/cockpit-3.png']
-
 export default function WorkAiCockpit() {
   const { lang } = useLang()
   const c = content[lang]
@@ -183,25 +180,6 @@ export default function WorkAiCockpit() {
             {s.run.ps.map((p, i) => (
               <p key={i} className="font-body-lg text-body-lg">{p}</p>
             ))}
-            <div className="mt-stack-lg">
-              <p className="font-kicker text-kicker uppercase text-on-surface-variant tracking-widest mb-stack-md">
-                {c.shotsLabel} <span className="normal-case tracking-normal">{c.shotsHint}</span>
-              </p>
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-gutter">
-                {shots.map((src) => (
-                  <img
-                    key={src}
-                    src={src}
-                    alt="AI cockpit screenshot"
-                    loading="lazy"
-                    className="w-full border border-outline-variant"
-                    onError={(e) => {
-                      e.currentTarget.style.display = 'none'
-                    }}
-                  />
-                ))}
-              </div>
-            </div>
           </Section>
 
           {/* §我学到的 */}
