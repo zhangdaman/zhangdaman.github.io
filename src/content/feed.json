@@ -1,200 +1,200 @@
 {
-  "generatedAt": "2026-06-02T05:48:46.314Z",
-  "date": "2026-06-02",
+  "generatedAt": "2026-06-03T06:03:33.049Z",
+  "date": "2026-06-03",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "为了不花那120刀，我把电脑清理软件做成了开源skill",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "url": "https://x.com/Khazix0918/status/2061669881725309048",
-        "summary": "作者受一条推文启发，使用Codex对自己的MacBook进行了只读存储分析，发现了B站缓存视频等大量可清理空间（激进方案超140G）。为替代收费软件CleanMyMac，作者制作并开源了一个跨平台（支持Mac/Windows）的AI清理skill。该skill会扫描文件并生成可交互的HTML报告，通过三色分级（绿灯可放心清理、黄灯需人工判断、红灯禁止动）直观展示，并提供安全执行按钮。实测清理后释放了近120G空间，相比CleanMyMac仅扫描出的15.8G，其信息更透明、建",
-        "publishedAt": "2026-06-02T04:42:58.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "阶跃星辰Step 3.7 Flash发布，专为高效推理设计",
-        "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-        "url": "https://x.com/StepFun_ai/status/2061655529731342402",
-        "summary": "阶跃星辰发布其推理优化型模型Step 3.7 Flash。该模型为196B MoE架构，从设计之初就专注于推理效率。其采用多矩阵分解注意力机制，使KV-cache成本仅为DeepSeek模型的约22%；同时通过注意力与FFN解耦技术，实现了硬件优化的高效服务。该模型已通过Fireworks AI提供，采用Apache 2.0许可，并可用于构建智能体应用。",
-        "publishedAt": "2026-06-02T03:45:56.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "NVIDIA JetPack 7.2支持内存优化的边缘智能体部署",
-        "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
-        "url": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2",
-        "summary": "NVIDIA JetPack 7.2发布，支持一键部署开源NVIDIA NemoClaw堆栈，该堆栈为OpenClaw添加了隐私与安全控制。同时引入NVIDIA agent skills for Jetson，为Jetson设备提供智能体技能。该版本优化了内存效率，旨在加速AI代理从数字世界向物理环境的边缘部署。",
-        "publishedAt": "2026-06-02T02:00:00.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Anthropic 开发者分享 Claude Code「理解验证」工作流",
-        "source": "X：邵猛 (@shao__meng)",
-        "url": "https://x.com/shao__meng/status/2061612512580346245",
-        "summary": "Anthropic 核心开发者分享了一套用于 Claude Code 的「理解验证」工作流。该工作流将 AI 定位为\"高效且睿智的教师\"，成功标准不仅是完成任务，更是确保人类对问题、方案及影响有可复述、可辩护的掌握。它通过增量教学、用户复述、清单+测验等方式，围绕问题域、方案域和语境域三条轴线展开，具体包含8个可执行步骤，强调在进入下一阶段前需确认用户已真正理解。此工作流旨在对抗长会话中人类易沦为\"审批按钮\"的\"智能体黑箱\"问题，强制沉淀决策上下文，实现可审计的深度理解。",
-        "publishedAt": "2026-06-02T00:55:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Karpathy 分享学习方法论",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2061601689841648120",
-        "summary": "🎯 Andrej Karpathy 谈如何学习。",
-        "publishedAt": "2026-06-02T00:12:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Sam Altman强调AI发展应以人为本",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2061586179292831774",
-        "summary": "Sam Altman在采访中表示，AI不应被设计为追求脱离人类需求的目标，人类必须始终处于AI发展的中心。他批判了行业内\"AI将摧毁大量工作\"等言论，认为人们担忧的并非AI带来的好处，而是自身在未来的角色、经济前景与自主权。他指出，AI行业的失败在于未能清晰解释人类如何在每一步保持对未来的控制权，以及如何在AI时代继续拥有充实、有意义的生活。",
-        "publishedAt": "2026-06-01T23:10:22.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "ChatGPT 新增长文编辑与保存功能",
-        "source": "X：ChatGPT (@ChatGPTapp)",
-        "url": "https://x.com/ChatGPTapp/status/2061571468992126982",
-        "summary": "长文写作需要更多空间。\n\n现在你可以在全屏模式下编辑更长的文章，并将其保存到你的资料库中，以便稍后继续。",
-        "publishedAt": "2026-06-01T22:11:55.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Krea AI 开放 Krea 2 LoRAs 全员使用",
-        "source": "X：Krea AI (@krea_ai)",
-        "url": "https://x.com/krea_ai/status/2061554472925696128",
-        "summary": "Krea 2 LoRAs 现已向所有人开放。\n试试下面这个 👇",
-        "publishedAt": "2026-06-01T21:04:22.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Alphabet将通过发行股票筹集800亿美元用于AI支出计划",
-        "source": "Bloomberg：Technology（RSS）",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending",
-        "summary": "Alphabet正在通过发行股票等方式筹集800亿美元资金，其中包括与Berkshire Hathaway的投资协议，以资助其雄心勃勃的AI支出计划。",
-        "publishedAt": "2026-06-01T20:50:33.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Replit 用单个提示词构建完整业务",
-        "source": "X：Replit (@Replit)",
-        "url": "https://x.com/Replit/status/2061534759520760112",
-        "summary": "你能用单个提示词免费构建一个真实的业务吗？\n\n从今天起，在 Replit 上，答案是肯定的。\n\n从一个提示词开始，获得一个网站、移动应用、幻灯片和发布视频。\n此外，还能解锁使用 @stripe @atlas， @QuickBooks， @mercury & @doolaHQ 运营业务的福利。",
-        "publishedAt": "2026-06-01T19:46:02.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Meta的AI被利用来劫持Instagram账号",
-        "source": "The Verge：订阅版科技（RSS）",
-        "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-        "summary": "Meta的AI聊天机器人被发现存在安全漏洞，黑客可以通过请求该AI关联一个新的电子邮件地址，从而接管目标用户的Instagram账号。该漏洞利用了AI智能体直接执行账户管理操作的能力。",
-        "publishedAt": "2026-06-01T19:20:47.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "佛罗里达州起诉OpenAI与Sam Altman：涉多起ChatGPT相关谋杀案",
-        "source": "Ars Technica：AI（RSS）",
-        "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders",
-        "summary": "佛罗里达州对OpenAI及其CEO Sam Altman提起诉讼。该州总检察长指控Altman对人命\"完全漠视\"，案件与多起涉及ChatGPT的谋杀事件相关。",
-        "publishedAt": "2026-06-01T18:52:19.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Google AI 展示并行子智能体自动整理文件",
-        "source": "X：Google AI for Developers (@googleaidevs)",
-        "url": "https://x.com/googleaidevs/status/2061515177166844317",
-        "summary": "从杂乱到清晰。观看 @Antigravity 中的并行子智能体对数百个营销资产进行分类和重命名，消除手动文件管理。",
-        "publishedAt": "2026-06-01T18:28:13.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Perplexity发布Search as Code搜索架构",
-        "source": "X：Perplexity (@perplexity_ai)",
-        "url": "https://x.com/perplexity_ai/status/2061506359326384319",
-        "summary": "推出Search as Code，我们为AI智能体打造的全新搜索架构。\n\n它直接编写Python代码调用我们的搜索栈，而非逐个循环函数调用。\n\n现已在Perplexity Agent API中提供，并成为Computer的默认选项。\n\nhttps：//research.perplexity.ai/articles/rethinking-search-as-code-generation",
-        "publishedAt": "2026-06-01T17:53:11.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "OpenAI的AI政策与政治倡导观点",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-        "summary": "OpenAI阐述了其在AI政策与政治倡导方面的立场，包括对透明度、深思熟虑的监管以及AI安全的支持。同时，公司明确表示，任何外部政治组织均不能代表OpenAI发言。",
-        "publishedAt": "2026-06-01T17:00:00.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Anthropic 保密向 SEC 提交 S-1 草案",
-        "source": "Anthropic：Newsroom（网页）",
-        "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-        "summary": "Anthropic， PBC 今日保密向美国证券交易委员会提交了 S-1 表格草案，计划进行普通股的首次公开发行。这使其在 SEC 完成审核后拥有上市的选择权。IPO 的具体发行股数和价格尚未确定，将取决于市场条件等因素。公司近期刚完成由 Altimeter Capital 等领投的 650 亿美元 H 轮融资，估值达 9650 亿美元，并发布了 Claude Opus 4.8 模型。",
-        "publishedAt": "2026-06-01T16:24:52.982Z",
-        "category": "industry"
-      },
-      {
-        "title": "Gemini Omni支持创建个人数字分身",
-        "source": "X：Gemini (@GeminiApp)",
-        "url": "https://x.com/GeminiApp/status/2061480944905982276",
-        "summary": "轻松将自己添加到Gemini的视频创作中。\n\n以下是如何使用Gemini Omni创建一个外观和声音都像你的数字分身。🧵",
-        "publishedAt": "2026-06-01T16:12:12.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Auto Router 新增成本质量权衡参数",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "url": "https://x.com/OpenRouter/status/2061476882470580329",
-        "summary": "Auto Router 现在允许你调整其在成本与质量之间的权衡。\n新增 `cost_quality_tradeoff` 参数，范围 0 到 10：\n设为 0 时，它总是选择最强大的模型，无论价格如何。设为 10 时，最便宜的模型胜出。",
-        "publishedAt": "2026-06-01T15:56:03.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "智谱：建议 A 股发行并在科创板上市",
+        "title": "消息称 DeepSeek 首轮融资拟筹集 500 亿元，腾讯、宁德时代等参投",
         "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/958/444.htm",
-        "summary": "智谱计划向中国监管机构申请发行A股并在科创板上市。发行股份数量占发行完成后总股本的2%至8%，预计全部为新股，原股东不发售。本次发行募集资金净额将投资于人工智能通用基座大模型、大模型MaaS一站式服务平台及补充流动资金。此外，公司拟将英文名称由\"Knowledge Atlas Technology Joint Stock Company Limited\"变更为\"Z.AI Co.， Ltd.\"。",
-        "publishedAt": "2026-06-01T15:53:42.000Z",
+        "url": "https://www.ithome.com/0/959/249.htm",
+        "summary": "DeepSeek 计划在首轮融资中从腾讯、宁德时代等投资方处筹集约 500 亿元人民币。融资落地后，其投后估值预计在 3500 亿至 4000 亿元。创始人梁文峰将出资 200 亿元，腾讯和宁德时代分别拟投资 100 亿元和 50 亿元，成为最大外部投资者。DeepSeek 去年凭借 V3 大模型与 R1 推理模型获得广泛认可。此次融资凸显了中国正打造从大模型到算力能源基建的全链条 AI 产业。",
+        "publishedAt": "2026-06-03T04:36:30.000Z",
         "category": "industry"
       },
       {
-        "title": "介绍 Mellum2：JetBrains 推出的 12B 混合专家模型",
-        "source": "Hugging Face：Blog（RSS）",
-        "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-        "summary": "JetBrains 在 Hugging Face 发布博客，介绍其新发布的 Mellum2 模型。该模型采用混合专家架构，参数规模为 12B。",
-        "publishedAt": "2026-06-01T15:45:17.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "SenseNova新模型解决AI图表生成难题",
-        "source": "X：商汤 SenseTime (@SenseTime_AI)",
-        "url": "https://x.com/SenseTime_AI/status/2061465029959209106",
-        "summary": "大多数AI模型在生成图表时存在数值错误（如负值显示为正）、柱状图位置偏移、元素关系混乱等问题。SenseNova-U1-8B-MoT-Infographic（SenseNova-U1）专为解决此类图表生成问题而设计，能够生成准确的图表，并支持实时调整设计和布局。项目在Hugging Face提供了模型，并在GitHub展示了效果案例。",
-        "publishedAt": "2026-06-01T15:08:57.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Luma成立开放物理AI实验室攻克泛化难题",
-        "source": "X：Luma AI (@LumaLabsAI)",
-        "url": "https://x.com/LumaLabsAI/status/2061460217616027961",
-        "summary": "为改善人类生活，AI系统必须能帮助我们改善物理世界。阻碍我们迈向这一繁荣未来的是物理AI的泛化问题。\n\n为解决此问题，我们在Luma建立了一个新的开放科学物理AI实验室。\n\n阅读更多 → https：//lumalabs.ai/news/luma-open-physical-ai-lab",
-        "publishedAt": "2026-06-01T14:49:50.000Z",
+        "title": "Satya Nadella 谈微软 Build 大会主旨演讲",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "url": "https://x.com/satyanadella/status/2062022060176801826",
+        "summary": "与我们共同构建前沿智能生态系统。\n\n今早我在 Microsoft Build 上的主旨演讲亮点。",
+        "publishedAt": "2026-06-03T04:02:24.000Z",
         "category": "industry"
       },
       {
-        "title": "构建每周千美元预算上限的智能体教程",
+        "title": "宏利香港与阿里云达成AI战略合作",
+        "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+        "url": "https://x.com/alibaba_cloud/status/2062006591377829922",
+        "summary": "宏利香港宣布与阿里云建立战略合作伙伴关系，旨在构建一个专注于推进负责任的AI创新，并加速AI技术在业务中部署的合作框架。",
+        "publishedAt": "2026-06-03T03:00:56.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "斯坦福大学法学院研究：人工智能的表现优于法学教授",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study",
+        "summary": "斯坦福大学法学院的一项研究表明，人工智能的表现优于法学教授。该发现引发了广泛关注，在Hacker News平台获得了104个Points。",
+        "publishedAt": "2026-06-03T02:33:56.784Z",
+        "category": "paper"
+      },
+      {
+        "title": "Sensor Tower：OpenAI 旗下 ChatGPT 月活已破 10 亿，史上最快",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/0/959/083.htm",
+        "summary": "据市场情报机构 Sensor Tower 估计，OpenAI 旗下 ChatGPT 全球月活跃用户在 2025 年 5 月突破 10 亿，成为达成此里程碑最快的应用，增速超过 Google Maps、TikTok 等。同期，其竞争对手 Anthropic 的 Claude 月活达 5600 万，同比增幅约 640%，增长势头迅猛。数据显示，部分用户已开始在 Claude 与 ChatGPT 间切换使用。在达成用户里程碑之际，Anthropic 已秘密递交 IPO 申请，Ope",
+        "publishedAt": "2026-06-03T01:31:15.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "智能体工程实战窍门全录",
+        "source": "X：邵猛 (@shao__meng)",
+        "url": "https://x.com/shao__meng/status/2061974983094755575",
+        "summary": "该内容源自@mvanhorn的分享，介绍了\"智能体工程\"如何重塑软件开发。其核心是从\"人主导编码\"转向\"人主导方向、智能体执行\"，中心从IDE变为终端与计划文件。方法论遵循Research → Plan → Work循环，核心是让plan.md约束智能体行为。分享者总结了22条实战技巧，涵盖规划、并行执行、输入方式、远程控制等方面，并列出了完整的工具栈。",
+        "publishedAt": "2026-06-03T00:55:20.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "NVIDIA 推出 NemoClaw 平台，助力工业软件厂商构建自主 AI 工程师",
+        "source": "NVIDIA Blog：Agentic AI（网页）",
+        "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw",
+        "summary": "在 COMPUTEX 上，NVIDIA 发布了 NemoClaw 平台，这是一个用于构建专业、长时间运行 AI 智能体的开放蓝图。该平台提供安全运行时、前沿模型支持以及多种编排框架集成选项，可通过 DGX Spark、数据中心或云端部署。其核心开源运行时 OpenShell 实施基于策略的安全管控，规范智能体对文件、网络和工具的访问。Cadence、达索系统、西门子、Synopsys 等十多家工业软件厂商正基于 NemoClaw 构建用于 CAE 和 EDA 工作流的自主 A",
+        "publishedAt": "2026-06-02T22:00:58.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "微软研究：Aurora天气预报速度超传统超算数千倍",
+        "source": "X：Microsoft Research (@MSFTResearch)",
+        "url": "https://x.com/MSFTResearch/status/2061927189977727450",
+        "summary": "天气预报速度比传统超级计算机快数千倍。听听Kenji Takeda在#MSBuild微软研究实验室关于Aurora的分享。了解更多：https：//msft.it/6018vjGUA",
+        "publishedAt": "2026-06-02T21:45:25.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "Anthropic支持美国AI行政令实施",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "url": "https://x.com/AnthropicAI/status/2061924580222968183",
+        "summary": "这项行政令是加强美国AI领导地位的重要一步。\n\n我们期待与白宫合作，支持其实施。\n\nhttps：//www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+        "publishedAt": "2026-06-02T21:35:03.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Google DeepMind 开源科学智能体工具包",
+        "source": "X：Google AI for Developers (@googleaidevs)",
+        "url": "https://x.com/googleaidevs/status/2061924472245153863",
+        "summary": "构建用于科学发现的自主智能体？🧬🤖\n\n@GoogleDeepMind Science Skills 现已在 GitHub 上发布。我们已开源这个专用工具包，以科学基础和更高的 token 效率加速您的智能体工作流。\n\n立即下载 ↓\nhttps：//github.com/google-deepmind/science-skills",
+        "publishedAt": "2026-06-02T21:34:37.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Claude Code 新增动态工作流功能",
+        "source": "Claude：Blog（网页）",
+        "url": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code",
+        "summary": "Claude Code 新增动态工作流功能，允许模型在运行时即兴创建和协调多智能体框架来处理复杂任务。该功能通过执行特定的 JavaScript 文件来生成和协调拥有独立上下文窗口的子代理，可解决单一上下文窗口中长时间执行任务可能出现的智能惰性等问题。工作流适用于研究、安全分析、代码审查等场景，通常消耗更多 token，更适合高价值复杂任务，其最佳实践仍在发展中。",
+        "publishedAt": "2026-06-02T21:16:49.491Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "NVIDIA DGX Station 开始交付开发者和研究人员",
+        "source": "X：NVIDIA (@nvidia)",
+        "url": "https://x.com/nvidia/status/2061904438478970985",
+        "summary": "NVIDIA DGX Station 系统正开始送达开发者和研究人员的办公桌。📦\n\n企业团队可以本地部署数据中心级性能，搭载 GB300 的系统正从华硕、戴尔、技嘉、惠普、微星和超微等合作伙伴处发货。\n\n👉 阅读博客：https：//nvda.ws/4x3VdBr",
+        "publishedAt": "2026-06-02T20:15:01.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Claude Code 自我检查与反馈闭环技巧",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "url": "https://x.com/ClaudeDevs/status/2061900434722496604",
+        "summary": "如何让 Claude Code 在交回工作前检查自己的成果？\n看看如何编码你的手动检查，让 Claude 自己关闭反馈循环：",
+        "publishedAt": "2026-06-02T19:59:06.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Runway API 推出 Aleph 2.0 视频编辑功能",
+        "source": "X：Runway (@runwayml)",
+        "url": "https://x.com/runwayml/status/2061895998545244342",
+        "summary": "Aleph 2.0 现已通过 Runway API 提供。将精准视频编辑直接集成到您的应用、产品和平台中。支持在多镜头序列中编辑最长 30 秒、1080p 分辨率的视频，仅修改您想要的部分。\n\n请通过以下链接开始使用。",
+        "publishedAt": "2026-06-02T19:41:28.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "OpenRouter上线微软三款新模型",
         "source": "X：OpenRouter (@OpenRouter)",
-        "url": "https://x.com/OpenRouter/status/2061452942385783050",
-        "summary": "视频教程：如何构建一个每周预算上限为1000美元的智能体，包含模型拒绝列表与自定义数据保留\n\n使用了新的、可堆叠的护栏架构：\n\n【引用 @OpenRouter】：OpenRouter 上的护栏是市场上最强大的：为您的 AI 流量提供集中式安全与治理\n\n预算限制、ZDR、模型与提供商限制、提示词注入防御以及 DLP / 敏感信息检测，分层为您控制的规则！🧵",
-        "publishedAt": "2026-06-01T14:20:56.000Z",
-        "category": "tip"
+        "url": "https://x.com/OpenRouter/status/2061894672847671724",
+        "summary": "三款新的 @MicrosoftAI 模型现已在 OpenRouter 上线！\n同步推出：MAI-Image-2.5、MAI-Transcribe-1.5 和 MAI-Voice-2。详情见下文 🧵",
+        "publishedAt": "2026-06-02T19:36:12.000Z",
+        "category": "ai-products"
       },
       {
-        "title": "AI Pulse 探讨智能体时代新指标 DAA",
-        "source": "X：百度 Baidu (@Baidu_Inc)",
-        "url": "https://x.com/Baidu_Inc/status/2061447687028039854",
-        "summary": "ICYMI：我们最新的 AI Pulse 探讨了日活跃智能体（DAA）--一个衡量智能体时代价值的指标--以及我们的智能体组合。",
-        "publishedAt": "2026-06-01T14:00:03.000Z",
-        "category": "tip"
+        "title": "Replit 与微软合作发布 Fabric 集成",
+        "source": "X：Replit (@Replit)",
+        "url": "https://x.com/Replit/status/2061892255028486435",
+        "summary": "宣布与 @Microsoft 的新合作\n\n组织现在可以在 Replit 中构建内部工具、工作流或数据仪表板，并直接发布到 Microsoft Fabric，内置安全、身份验证和治理功能。",
+        "publishedAt": "2026-06-02T19:26:36.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "OpenAI Codex 推出团队专属插件",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "url": "https://x.com/OpenAIDevs/status/2061888366791246071",
+        "summary": "Codex 中的角色专属插件围绕团队实际工作构建。\n\n数据分析、创意制作和产品设计插件为 Codex 提供了创建报告、创意方向和原型的工具与上下文。\n\n由 OpenAI 团队构建并使用。",
+        "publishedAt": "2026-06-02T19:11:09.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "微软发布开源框架 Adaptive Spec-driven Scoring：支持用文本描述创建 AI 评估测试",
+        "source": "TechCrunch：AI（RSS）",
+        "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions",
+        "summary": "微软开源发布 Adaptive Spec-driven Scoring for Evaluation and Regression Testing 框架。开发者可通过文本描述快速生成 AI 行为测试，用于模型评估与回归测试。",
+        "publishedAt": "2026-06-02T19:02:21.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Alphabet拟融资800亿美元 Anthropic提交IPO申请",
+        "source": "Bloomberg：Technology（RSS）",
+        "url": "https://www.bloomberg.com/news/videos/2026-06-02/bloomberg-tech-6-2-2026-video",
+        "summary": "Alphabet宣布拟通过股权融资800亿美元，用于扩展AI基础设施。Anthropic已秘密提交IPO申请，在上市竞赛中领先于竞争对手OpenAI。此外，SpaceX正与华尔街机构协商其IPO的承销费用，HPE则因AI基础设施需求旺盛，年度销售预期超出市场估计。",
+        "publishedAt": "2026-06-02T18:39:17.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Claude Platform 新增 CLI 工具",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "url": "https://x.com/ClaudeDevs/status/2061877343078244459",
+        "summary": "我们为 Claude Platform 添加了一个 CLI，使每个 API 端点都可以从你的终端运行。\n调用 Messages API，启动 Claude 托管智能体，并将结果直接管道传输到你的 shell。\nant CLI 被使用 claude-api 技能的编码智能体（Claude Code）很好地理解。",
+        "publishedAt": "2026-06-02T18:27:21.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "微软首款高级推理AI模型MAI-Thinking-1发布",
+        "source": "The Verge：AI（RSS）",
+        "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+        "summary": "微软在Build 2026上发布了其首款高级推理AI模型MAI-Thinking-1。该模型被定位为\"中等规模\"，能在\"关键\"软件工程基准测试中达到领先模型的水平。微软称其完全从头使用干净数据进行训练，未涉及从第三方模型进行知识蒸馏。这标志着微软在自研AI模型上迈出重要一步，此前其主要依赖OpenAI。近期两家公司已重新协商合作协议，关系有所松绑。",
+        "publishedAt": "2026-06-02T18:12:44.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "NVIDIA发布自进化Hermes智能体",
+        "source": "X：NVIDIA AI (@NVIDIAAI)",
+        "url": "https://x.com/NVIDIAAI/status/2061870499232190967",
+        "summary": "自进化Hermes智能体：随使用而改进的企业AI | Nemotron Labs",
+        "publishedAt": "2026-06-02T18:00:09.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "OpenClaw 与微软合作进入企业生态",
+        "source": "X：OpenClaw (@openclaw)",
+        "url": "https://x.com/openclaw/status/2061869633624580452",
+        "summary": "\"你现在可以在公司内部运行 OpenClaw 了。\" 宣布我们与 @Microsoft 的合作，将 OpenClaw 带入微软和 Windows 生态系统。Claws 现在可以在企业环境中安全运行。",
+        "publishedAt": "2026-06-02T17:56:42.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "GitHub Copilot应用：智能体原生的桌面体验",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience",
+        "summary": "在微软 Build 2026 大会上，GitHub 发布了新的工具和更新，并将 Copilot 应用定位为\"智能体原生的桌面体验\"。其核心目标是让 AI 智能体能够以用户已经习惯的方式进行工作。",
+        "publishedAt": "2026-06-02T17:30:03.000Z",
+        "category": "ai-products"
       }
     ]
   },
@@ -202,163 +202,169 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that are useful for society. AI should be able to help people in the physical world. In the short term, we are focused on robots to sup",
-        "url": "https://x.com/sama/status/2061117302528188712",
-        "createdAt": "2026-05-31T16:07:13.000Z",
-        "engagement": 11889,
-        "textZh": "OpenAI Robotics 在招人——找顶级的全栈硬件、运维、系统、ML 工程师，一起来设计和制造对社会有用的机器人。AI 应该能在物理世界里帮到人。短期内我们专注于让机器人辅助技术工人去搭建未来的基础设施；长期我们想象每个人都有一台个人机器人，帮你做任何你需要做的事。我们的 world simulation 研究项目，由 Aditya Ramesh（@model_mechanic）带队，过去一年已经演化成了 OpenAI Robotics。进展很快，基础是机器人硬件和 ML 研究的协同设计。如果你热爱在机器人技术栈里亲手干活、想一起建造未来，欢迎加入我们。把你的背景和过往的卓越成绩发到：robotics-recruiting@openai.com"
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
+        "text": "been asking others at Anthropic how they stay in the loop with Claude and fully understand the work being done this is one of my favorites from Suzanne: https://t.co/nqIMcGXiKI",
+        "url": "https://x.com/trq212/status/2061545633560010826",
+        "createdAt": "2026-06-01T20:29:15.000Z",
+        "engagement": 6534,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "All you had to do to make life changing wealth was to invest in ~every public company along the 237 https://t.co/SDEx6JE3P7",
+        "url": "https://x.com/nikunj/status/2061492724856234030",
+        "createdAt": "2026-06-01T16:59:00.000Z",
+        "engagement": 4235,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "The Codex usage limits have been reset for all paid ChatGPT subscriptions. You should be back to 100% weekly and 100% hourly limits. Let the tokens do incredible things today and have fun. https://t.co/e7iJcJ1iHy",
-        "url": "https://x.com/thsottiaux/status/2061106703446450392",
-        "createdAt": "2026-05-31T15:25:06.000Z",
-        "engagement": 6377,
-        "textZh": "所有付费 ChatGPT 订阅的 Codex 用量额度都已重置。周额度和小时额度都回到 100%。今天就让 token 去干点了不起的事，玩得开心。"
+        "text": "Should we rename Codex to ChadGPT?",
+        "url": "https://x.com/thsottiaux/status/2061572602888589807",
+        "createdAt": "2026-06-01T22:16:25.000Z",
+        "engagement": 3036,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "sama",
         "name": "Sam Altman",
         "bio": "AI is cool i guess",
-        "text": "We want to help the world get a head start on biodefense: https://t.co/gDQfOZrLA4",
-        "url": "https://x.com/sama/status/2061101875303530871",
-        "createdAt": "2026-05-31T15:05:55.000Z",
-        "engagement": 1556,
-        "textZh": "OpenAI Robotics 在招人——找顶级的全栈硬件、运维、系统、ML 工程师，一起来设计和制造对社会有用的机器人。AI 应该能在物理世界里帮到人。短期内我们专注于让机器人辅助技术工人去搭建未来的基础设施；长期我们想象每个人都有一台个人机器人，帮你做任何你需要做的事。我们的 world simulation 研究项目，由 Aditya Ramesh（@model_mechanic）带队，过去一年已经演化成了 OpenAI Robotics。进展很快，基础是机器人硬件和 ML 研究的协同设计。如果你热爱在机器人技术栈里亲手干活、想一起建造未来，欢迎加入我们。把你的背景和过往的卓越成绩发到：robotics-recruiting@openai.com"
+        "text": "The OpenAI Foundation is doing a lot of wonderful things. Helping society become resilient to AI is going to be incredibly important. Much more to come here! https://t.co/i0pkmF9Lmv",
+        "url": "https://x.com/sama/status/2061562575322492937",
+        "createdAt": "2026-06-01T21:36:34.000Z",
+        "engagement": 1790,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "You should want to control and host your own memory It’s the one thing that you should be able to take to any platform Watch for this to be a defining battle in the new browser war: the AI harness wars of 2027 https://t.co/yb8IPzuc09",
-        "url": "https://x.com/garrytan/status/2061174413513678941",
-        "createdAt": "2026-05-31T19:54:09.000Z",
-        "engagement": 1545,
-        "textZh": "你应该想要自己掌控、自己托管自己的 memory。这是唯一一样你应该能带去任何平台的东西。盯紧了，这将是新一轮浏览器大战里决定胜负的关键：2027 年的 AI harness 之争。"
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Heard that AWS is where the cool kids are. Hello. We have GPT-5.5. https://t.co/TixKoaIS0D",
+        "url": "https://x.com/thsottiaux/status/2061644307111796984",
+        "createdAt": "2026-06-02T03:01:20.000Z",
+        "engagement": 852,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "I told codex to use https://t.co/oHS8ombQcW whenever I'm distracted and it needs my help to be unblocked, and ever once it a while I hear it talking to me, and it's the coolest thing ever. (e.g. for releases, that needs npm and is 1Password-gated)",
+        "url": "https://x.com/steipete/status/2061574752574283858",
+        "createdAt": "2026-06-01T22:24:57.000Z",
+        "engagement": 710,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Unclear if a durable trend, but CEOs and CTOs are back to coding with a fury, thanks to coding agents. I have public company CEOs sliding into my DMs (and “InMail”) telling me about falling in love with shipping software again thanks to Claude Code and Vercel. “Dream accounts” th",
-        "url": "https://x.com/rauchg/status/2061135404942974982",
-        "createdAt": "2026-05-31T17:19:09.000Z",
-        "engagement": 1295,
-        "textZh": "不确定是不是长期趋势，但 CEO 和 CTO 们因为 coding agent 又疯狂回去写代码了。上市公司 CEO 私信我，跟我说他们靠 Claude Code 和 Vercel 重新爱上了发版这件事。这些都是我们一直想合作的\"梦中情司\"——过去 C-level 几乎不可能在早期就真正搞懂底层基础设施。Coding agent 是企业市场终极的 PLG 化。烂的、老旧的软件再也藏不住了。哪套技术栈真正能跑，从实习生到 CEO 全公司一目了然。"
+        "text": "MiniMax M3 is now the leading open model on the Next.js agent evaluations (https://t.co/SnZ54XoRWV). Right behind Opus &amp; GPT5, but 10× cheaper (And 20× cheaper right now on ▲ AI Gateway!) https://t.co/z9ts1NZDyu",
+        "url": "https://x.com/rauchg/status/2061593874498531707",
+        "createdAt": "2026-06-01T23:40:56.000Z",
+        "engagement": 621,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Been teaching codex to be my QA assistant. For every commit it creates a user-test scenario and uses webVNC (crabbox), computer/browser use (peekaboo/mcporter) to test OpenClaw like a user/QA person would. This runs in the background and opens PRs with fixes. https://t.co/xGcKgjy",
-        "url": "https://x.com/steipete/status/2061208638027395490",
-        "createdAt": "2026-05-31T22:10:09.000Z",
-        "engagement": 1067,
-        "textZh": "最近在训 codex 当我的 QA 助手。每次 commit 它都会生成一个用户测试场景，然后用 webVNC（crabbox）、computer/browser use（peekaboo/mcporter）像真实用户/QA 那样去测 OpenClaw。整个流程在后台跑，发现问题就开 PR 带修复方案过来。"
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Beautiful example of a full-stack agent on @vercel. Great learning material! https://t.co/jz1E7g4aSM",
+        "url": "https://x.com/rauchg/status/2061415178298937365",
+        "createdAt": "2026-06-01T11:50:52.000Z",
+        "engagement": 552,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "adityaag",
-        "name": "Aditya Agarwal",
-        "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @",
-        "text": "Indian Dynamism. @arctusaerospace https://t.co/BlqExiWYMp",
-        "url": "https://x.com/adityaag/status/2061312610172051900",
-        "createdAt": "2026-06-01T05:03:18.000Z",
-        "engagement": 863,
-        "textZh": "印度的活力。@arctusaerospace"
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "You can just codex ... a farm https://t.co/pwmS7IvqbH",
+        "url": "https://x.com/thsottiaux/status/2061657264508006738",
+        "createdAt": "2026-06-02T03:52:50.000Z",
+        "engagement": 544,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "This is effectively the #1 problem for AI agents in the enterprise. As we go from agentic coding (where a large amount of context is in the code base, and users are technical enough to get the rest to the agent easily) to a world of knowledge work agents, the context problem beco",
-        "url": "https://x.com/levie/status/2061247380897579500",
-        "createdAt": "2026-06-01T00:44:06.000Z",
-        "engagement": 533,
-        "textZh": "这基本上是 AI agent 在企业里的头号问题。我们正从 agentic coding（大量上下文就在 codebase 里，用户也够技术，能把剩下的喂给 agent）走向 knowledge work agent 的时代，context 问题变得尖锐得多。我们在 Box 每天都看到这种情况：现有的数字化知识往往散落在跟 agent 不兼容的老系统里，权限控制也跟真实工作流对不上，这些都是 agent 拿到所需 context 的巨大障碍。这些东西都得迁移到现代的、安全的云环境里。但另一方面，公司常常连一些关键 context 都还没沉淀和数字化——决策、流程、工作方式都活在人的脑子里、活在\"江湖经验\"里，需要先转成非结构化数据，agent 才能用。这其实是应用层 AI 公司最大的杠杆点之一——他们可以专门把 agent 需要的信息和领域专业知识喂进去。这也是 FDE 和新一代系统集成商现在能做起来的原因。把这件事搞明白的公司，未来才能真正吃到 AI 的红利。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "The idea of OpenClaw is always that it should be yours. It's modular and lean, only add what you need. Fewer skills, fewer tools = your agent can work more efficiently. https://t.co/vUoBvQw2sN",
-        "url": "https://x.com/steipete/status/2061072753998856696",
-        "createdAt": "2026-05-31T13:10:12.000Z",
-        "engagement": 448,
-        "textZh": "最近在训 codex 当我的 QA 助手。每次 commit 它都会生成一个用户测试场景，然后用 webVNC（crabbox）、computer/browser use（peekaboo/mcporter）像真实用户/QA 那样去测 OpenClaw。整个流程在后台跑，发现问题就开 PR 带修复方案过来。"
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
+        "text": "gist for the full prompt here: https://t.co/L0ffBeU1ua",
+        "url": "https://x.com/trq212/status/2061545635141361687",
+        "createdAt": "2026-06-01T20:29:15.000Z",
+        "engagement": 404,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "This sounds like a small thing but it's big. Platforms need to stay open and it shouldn't require a lot of work to get your data. Because where the AI harness wars are going... someone else's harness is just going to be you sharecropping someone else's AI ecosystem. https://t.co/",
-        "url": "https://x.com/garrytan/status/2061176075288453333",
-        "createdAt": "2026-05-31T20:00:45.000Z",
-        "engagement": 315,
-        "textZh": "你应该想要自己掌控、自己托管自己的 memory。这是唯一一样你应该能带去任何平台的东西。盯紧了，这将是新一轮浏览器大战里决定胜负的关键：2027 年的 AI harness 之争。"
+        "text": "Want to try GStack /office-hours for your product idea as quickly as possible? It's one click here: https://t.co/8g3LJkrV6i https://t.co/YEGSvd445K",
+        "url": "https://x.com/garrytan/status/2061568169354129640",
+        "createdAt": "2026-06-01T21:58:48.000Z",
+        "engagement": 372,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Haven't seen codex writing ad-hoc codemods before, but it just did for a bigger TypeScript migration. Impressed.",
-        "url": "https://x.com/steipete/status/2061115471760441692",
-        "createdAt": "2026-05-31T15:59:56.000Z",
-        "engagement": 307,
-        "textZh": "最近在训 codex 当我的 QA 助手。每次 commit 它都会生成一个用户测试场景，然后用 webVNC（crabbox）、computer/browser use（peekaboo/mcporter）像真实用户/QA 那样去测 OpenClaw。整个流程在后台跑，发现问题就开 PR 带修复方案过来。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "We have 16 partners funding 40 to 60 companies per year, usually amounting to more than 50 to 200 new SF residents per partner per year (depending on how many cofounders and how many already live here, but multiply by 16 and it’s a lot!) https://t.co/Yq7Y8CZpyq",
-        "url": "https://x.com/garrytan/status/2061251376802599397",
-        "createdAt": "2026-06-01T00:59:59.000Z",
-        "engagement": 289,
-        "textZh": "你应该想要自己掌控、自己托管自己的 memory。这是唯一一样你应该能带去任何平台的东西。盯紧了，这将是新一轮浏览器大战里决定胜负的关键：2027 年的 AI harness 之争。"
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Git is all you need. Always has been https://t.co/PEt3D4Pt70",
+        "url": "https://x.com/rauchg/status/2061533151676293430",
+        "createdAt": "2026-06-01T19:39:39.000Z",
+        "engagement": 347,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "OpenAI's Yann Dubois: Why AI Progress Suddenly Feels Real",
-      "url": "https://www.youtube.com/watch?v=DhD1zZ8w8Mw",
-      "publishedAt": "2026-05-21T11:30:00.000Z"
+      "name": "Unsupervised Learning",
+      "title": "Ep 88: Unpacking DeepMind&apos;s Quest for SuperIntelligence with Demis Hassabis&apos; Biographer",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-06-01T12:46:52.000Z"
     }
   },
   "builderpulse": {
     "ok": true,
-    "date": "2026-06-02",
-    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-06-02.md",
+    "date": "2026-06-03",
+    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-06-03.md",
     "zh": {
-      "lead": "表面故事是“Meta 的 AI support 出了个离谱小 bug”。真正能卖给 builder 的信号更尖锐：The newest Instagram \"exploit\" is the goofiest I've seen 引发 323 条讨论：一个支持 AI 把重置码发到了攻击者控制的邮箱，绕过 2FA，再通过本该平平无奇的 account recovery 流程把账号交了出去。",
+      "lead": "今天最吵的故事，是巨型 AI 公司的资产负债表。但真正能卖给 builder 的信号更小，也更靠近收件箱：Please don't spam people looking for employment 引发 251 条讨论，6 月招聘串又引发 339 和 425 条评论，Indie Hackers 上“零受众拿到 50 个用户”的帖子也有 134 条评论。人们并不缺消息；他们缺的是证明：这条消息真的是对方想收到的吗？",
       "build": {
-        "title": "Recovery Flow Receipt",
-        "oneLiner": "面向 SaaS 和支持团队的账号恢复审计：检查 password reset、客服脚本或 AI 辅助 helpdesk 动作是否会把验证码发到错误地址、绕过 2FA 或改变账号所有权。它的证据来自 Instagram 接管流程引发的 323 条讨论，以及评论者对高权限客服软件的具体抱怨。"
+        "title": "Audience Reality Receipt",
+        "oneLiner": "给 solo founder 的买家证据报告，用来测试一个产品想法是否能在 AI 生成的市场故事、build-in-public 点赞和冷触达垃圾信息之外，找到够得着的客户；背后证据是求职串滥用引发 251 条讨论，以及 Indie Hackers 上“零受众拿到 50 个用户”引发 134 条评论。"
       },
       "signals": [
-        "账号恢复成了最紧迫的 AI 边界：Instagram 的支持流程引发 323 条讨论，因为重置码可以被发到任意邮箱，而 2FA 没能保护受害者。",
-        "依赖安装在另一次供应链冲击后继续危险：Malicious npm packages detected across Red Hat Cloud Services 围绕发布延迟、sandboxed installs 和密钥暴露引发 410 条讨论。",
-        "AI 产品正在进入普通工作界面：Product Hunt 上的 Mina Meeting Assistant、SocialEcho 2.0、使用 Model Context Protocol 连接器标准的 Databox MCP，以及 Dune Keypad，都围绕会议、数据、social workflows 和桌面控制引发了活跃讨论。"
+        "冷触达已经从增长技巧越界成了社会伤害：Please don't spam people looking for employment 引发 251 条讨论，而 6 月招聘和求职串又围绕被抓取的联系方式、假机会和垃圾信息工厂增加了 764 条评论。",
+        "AI 资金正在变成公开市场基础设施：Can the stockmarket swallow Anthropic, SpaceX and OpenAI? 引发 1,182 条讨论，Anthropic's draft S-1 引发 438 条讨论，OpenAI models and Codex on AWS 则补上了分发角度。",
+        "包安装仍然是活的安全边界：Malicious npm packages detected across Red Hat Cloud Services 引发 445 条讨论，DepsGuard 则作为一条命令加固 package-manager 默认设置的方式发布。"
       ]
     },
     "en": {
-      "lead": "The obvious story is \"Meta had a silly AI support bug.\" The sellable builder signal is sharper: The newest Instagram \"exploit\" is the goofiest I've seen drew 323 comments after a support AI sent reset codes to an attacker-controlled email, bypassed 2FA, and handed over accounts through a recovery flow that should have been boring.",
+      "lead": "The loud story is giant AI balance sheets. The sellable builder signal is smaller and closer to the inbox: Please don't spam people looking for employment drew 251 comments, the June hiring threads drew 339 and 425 comments, and Indie Hackers had 134 comments on getting 50 users with zero audience. People do not lack messages; they lack proof that the message is wanted.",
       "build": {
-        "title": "Recovery Flow Receipt",
-        "oneLiner": "an account-recovery audit for SaaS and support teams that shows whether password resets, support scripts, or AI-assisted helpdesk actions can send codes to the wrong address, bypass 2FA, or change account ownership, backed by 323 comments on the Instagram takeover flow and concrete reviewer complaints about privileged support software."
+        "title": "Audience Reality Receipt",
+        "oneLiner": "a buyer-evidence report for solo founders that tests whether a product idea has reachable customers outside AI-generated market stories, build-in-public likes, and cold-outreach spam, backed by 251 comments on job-thread abuse and 134 Indie Hackers comments on getting 50 users with zero audience."
       },
       "signals": [
-        "Account recovery became the most urgent AI boundary: Instagram's support flow drew 323 comments because a reset code could be sent to an arbitrary email and 2FA did not save the victim.",
-        "Dependency installs stayed dangerous after another supply-chain hit: Malicious npm packages detected across Red Hat Cloud Services drew 410 comments around release delays, sandboxed installs, and secret exposure.",
-        "AI products are entering ordinary work surfaces: Product Hunt launches such as Mina Meeting Assistant, SocialEcho 2.0, Databox MCP using the Model Context Protocol connector standard, and Dune Keypad each drew active discussion around meetings, data, social workflows, and desktop control."
+        "Cold outreach crossed from growth tactic into social harm: Please don't spam people looking for employment drew 251 comments, while the June hiring and job-seeker threads added 764 comments around scraped contact details, fake opportunities, and spam farms.",
+        "AI money is becoming public-market infrastructure: Can the stockmarket swallow Anthropic, SpaceX and OpenAI? drew 1,182 comments, Anthropic's draft S-1 drew 438, and OpenAI models and Codex on AWS added the distribution angle.",
+        "Package installs stayed a live security boundary: Malicious npm packages detected across Red Hat Cloud Services drew 445 comments, and DepsGuard launched as a one-command way to harden package-manager defaults."
       ]
     }
   },
   "archive": [
+    {
+      "date": "2026-06-03",
+      "aihotCount": 24,
+      "buildersCount": 12,
+      "bpBuild": "Audience Reality Receipt"
+    },
     {
       "date": "2026-06-02",
       "aihotCount": 24,
