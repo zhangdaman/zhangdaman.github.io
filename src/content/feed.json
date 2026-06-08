@@ -1,96 +1,120 @@
 {
-  "generatedAt": "2026-06-07T05:21:35.578Z",
-  "date": "2026-06-07",
+  "generatedAt": "2026-06-08T05:50:41.280Z",
+  "date": "2026-06-08",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Harness 工程：在智能体优先的世界中运用 Codex",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://openai.com/index/harness-engineering",
-        "summary": "Harness 工程在智能体优先的世界中利用 OpenAI Codex 的实践文章，6月6日发布于 openai.com，在 Hacker News 上获得 102 点热度。",
-        "publishedAt": "2026-06-07T03:39:37.239Z",
-        "category": "tip"
+        "title": "NVIDIA与LG集团合作建设AI工厂，加速物理AI与自动驾驶",
+        "source": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory",
+        "summary": "NVIDIA与LG集团合作建设AI工厂，为LG的机器人、自动驾驶、数据中心和GPU云服务提供加速计算基础设施。双方整合NVIDIA AI工厂平台与LG的消费电子、机器人技术，连接AI模型开发、物理AI数据生成、机器人仿真训练、边缘部署和工厂数字孪生。LG电子将利用NVIDIA Isaac Sim和Isaac Lab仿真训练CLOiD家用机器人，探索采用Isaac GR00T模型，并开发物理AI数据工厂。LG Innotek提供针对NVIDIA GPU优化的机器人传感组件，LG",
+        "publishedAt": "2026-06-08T03:00:50.000Z",
+        "category": "industry"
       },
       {
-        "title": "对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果",
+        "title": "Nvidia 与 SK Hynix 签署多年协议，共同开发下一代 AI 存储芯片",
+        "source": "Bloomberg：Technology（RSS）",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-07/nvidia-sk-hynix-sign-multi-year-pact-to-develop-next-gen-chips",
+        "summary": "Nvidia 与 SK Hynix 达成合作，将共同设计面向 AI 应用的未来几代存储芯片。此举巩固了 SK Hynix 在高端半导体领域的领先地位。",
+        "publishedAt": "2026-06-07T23:26:02.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "英伟达与斗山集团合作推进物理AI及AI工厂基础设施",
+        "source": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai",
+        "summary": "英伟达与斗山集团扩大合作，覆盖斗山机器人、斗山山猫、斗山能源及斗山电子材料四大板块。斗山机器人将集成英伟达Isaac Sim、Isaac Lab、Cosmos世界基础模型、Newton物理引擎及Jetson Thor，推进Agentic Robot OS，探索卸垛、打磨等参考用例及双臂/人形机器人。斗山山猫计划将物理AI技术用于建筑、园林、农业设备，加速开发专用世界模型。斗山能源评估通过燃气轮机、汽轮机、小型模块化反应堆及氢燃料电池为AI工厂供电。斗山电子材料为英伟达MGX生",
+        "publishedAt": "2026-06-07T23:00:36.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "ChatGPT 要变 AgentGPT 了",
         "source": "X：宝玉 (@dotey)",
-        "url": "https://x.com/dotey/status/2063464057647075379",
-        "summary": "宝玉对比了GPT-5.5与Opus 4.8的设计能力，认为Opus 4.8效果远优于GPT-5.5。他使用了基于Cursor浏览器和元素标注的baoyu-design Skill，该Skill通过npx skills add JimLiu/baoyu-design安装，可在本地运行：描述屏幕需求即可生成精良HTML，点击预览中任意元素即可发出修改指令。官方推荐搭配Opus 4.8以获得最佳效果。工具GitHub仓库：https：//github.com/JimLiu/baoy",
-        "publishedAt": "2026-06-07T03:32:23.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "M3与Opus代码审计13个bug：$0.07 vs $1.30",
-        "source": "X：MiniMax (@MiniMax_AI)",
-        "url": "https://x.com/MiniMax_AI/status/2063397618034844135",
-        "summary": "对 Claude Opus 4.8 和 MiniMax M3 进行相同的代码审计：同一代码库、同一提示词，预先植入 17 个已知 bug。MiniMax M3 以 $0.07 抓到 13 个；最便宜的 Claude 运行同样抓到 13 个，花费 $1.30。MiniMax 表示这一对比非常有趣，绝对值得一读。",
-        "publishedAt": "2026-06-06T23:08:22.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04",
-        "summary": "美国众议院议员发布一项法案草案，旨在禁止各州自行制定人工智能相关法规，将AI监管权力集中到联邦层面。",
-        "publishedAt": "2026-06-06T21:47:39.887Z",
+        "url": "https://x.com/dotey/status/2063686036895478162",
+        "summary": "OpenAI 正筹备 ChatGPT 自 2022 年上线以来最大规模改版，从聊天机器人转向超级应用/Agent 平台，整合编程工具 Codex、图像生成及第三方应用（Canva、Booking）。高管称\"聊天已死\"，目标成为跨平台个人 AI 助手，未来甚至省去用户输入提示词。改版预计未来几周在网页和手机端上线。商业压力：ChatGPT 有 9 亿周活用户、5000 万付费用户、月收入 20 亿美元但未盈利；企业客户贡献约 40% 收入，目标年底达 50%；Codex 桌面版",
+        "publishedAt": "2026-06-07T18:14:27.000Z",
         "category": "industry"
       },
       {
-        "title": "五个实验室，五个心智：用小模型构建多模型金融剧情游戏",
-        "source": "Hugging Face：Blog（RSS）",
-        "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-        "summary": "Thousand Token Wood v2使用四个不同实验室的小模型（gpt-oss-20b、MiniCPM3-4B、Nemotron-Mini-4B及微调Qwen 0.5B）驱动金融模拟游戏的智能体。核心发现是异构服务层摩擦在于vLLM 0.22.1需CUDA工具包，而非模型本身。通过容忍性JSON解析层，添加模型只需一条配置。信息隔离确保内幕标志不在提示词中，扫描测试验证无泄露。记忆用情绪摘要截断避免淹没。微调0.5B模型实现0%自成交、100%有效报价，真相防火墙零泄",
-        "publishedAt": "2026-06-06T19:02:33.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "AI 的黑色星期五",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "url": "https://garymarcus.substack.com/p/ais-black-friday",
-        "summary": "Gary Marcus 在文章中分享了对 AI 领域刚刚发生事件的看法，表达了对当前 AI 发展方向的思考。",
-        "publishedAt": "2026-06-06T16:24:04.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Job Searcher",
-        "source": "Hugging Face：Blog（RSS）",
-        "url": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
-        "summary": "Hugging Face 发布 Job Searcher，一个基于 AI 的求职搜索工具。用户上传简历并设定偏好后，系统使用教师模型 DeepSeek V4 Pro 生成 LinkedIn 搜索查询，通过 JobSpy 抓取职位，再对学生模型 Qwen3-8B（8B 参数）进行 LoRA 微调，对每个职位从技能匹配、经验相关性、教育背景、行业领域契合度和资历对齐五个维度给出评分和推理。训练在 Modal 平台单张 A100 上完成。推理部署于 Hugging Face Zer",
-        "publishedAt": "2026-06-06T15:36:51.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码",
+        "title": "特朗普政府与OpenAI讨论通过公共财富基金入股AI初创公司",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2063246343842501091",
-        "summary": "GitHub 发布开源工具包 Spec Kit，旨在解决 \"vibe coding\" 的最大弱点--AI 常在规则未明确时就开始编码。它把流程从 \"让 AI 直接构建\" 改为 \"先写产品规范，再让 AI 根据规范实现\"。当前 AI 编码模式常因松散提示直接跳入代码，导致需求薄弱、边界遗漏和反复返工。Spec Kit 推动反向流程：先定义产品功能，再澄清差距、制订技术计划、分解任务，最后让 agent 执行。规范成为可执行的开发合约，支持 Copilot、Claude Code",
-        "publishedAt": "2026-06-06T13:07:16.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "OpenCV 5 发布：升级全新 DNN 引擎、原生支持大模型",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/960/969.htm",
-        "summary": "OpenCV 5 正式发布，采用基于图的 DNN 引擎，ONNX 算子覆盖率从 4.x 的不到 23% 提升至超 80%，原生支持 Transformer、视觉语言模型（VLM）和大语言模型（LLM）。其他更新包括：更好的 Python 集成与命名参数、更紧凑核心代码、清晰硬件加速层、原生 FP16/BF16、规范化 0D/1D 张量、扩展 3D 视觉及现代化文档。该库 GitHub 拥有超 86，000 stars，每日安装量超一百万次。",
-        "publishedAt": "2026-06-06T12:48:12.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Persona Atlas：Hugging Face 上的开源人物思维映射工具",
-        "source": "Hugging Face：Blog（RSS）",
-        "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
-        "summary": "Persona Atlas 是一个运行在 Hugging Face Inference Providers 上的开源项目。它通过工具调用代理执行真实网络搜索，生成公众人物的资料、事实清单和风格假设，然后让该人物回答十个关于身份、伦理等开放式问题。每个回答被转化为嵌入向量，从而在向量空间中对不同人物进行距离比较，并基于十个特质锚点绘制热力图。前端采用 Gradio，提供研究、比较和检查代理完整追溯三个标签页，预设多个人物角色，无需 token 即可直接体验。",
-        "publishedAt": "2026-06-06T11:42:01.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "阶跃首席科学家张祥雨合著论文 ResNet 获 CVPR 2026 「时间检验奖」",
-        "source": "公众号：阶跃星辰（Step）",
-        "url": "https://mp.weixin.qq.com/s/ZVgqdH_fE42jO4kcI-lF3g",
-        "summary": "",
-        "publishedAt": "2026-06-06T06:46:02.000Z",
+        "url": "https://x.com/rohanpaul_ai/status/2063662672835703126",
+        "summary": "据FT报道，特朗普政府正与OpenAI探讨通过公共财富基金机制让政府入股AI初创公司。方案是AI企业捐赠小部分股权至该基金，基金通过账户或分红将收益返还美国公民，而非政府直接运营公司。这不同于特朗普去年对Intel的90亿美元直接持股。OpenAI此前已提出公共财富基金概念，持有长期资产，让公民分享AI增长红利。政治背景方面，选民担忧失业、数据中心成本与企业控制，而AI公司需要华盛顿在基建、采购和监管上的支持。",
+        "publishedAt": "2026-06-07T16:41:36.000Z",
         "category": "industry"
+      },
+      {
+        "title": "OpenAI 仍推进超级应用计划",
+        "source": "TechCrunch：AI（RSS）",
+        "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app",
+        "summary": "OpenAI 一位高级员工表示\"聊天已死\"，同时公司仍在继续推进超级应用计划。",
+        "publishedAt": "2026-06-07T16:23:22.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Slop、生产力，以及为何AI驱动的世界进展甚微",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "url": "https://garymarcus.substack.com/p/slop-productivity-and-why-the-ai",
+        "summary": "Gary Marcus在金融时报上看到John Burn-Murdoch的一张图表，认为它精准提炼了自己一直试图表达的观点。",
+        "publishedAt": "2026-06-07T15:31:43.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "苹果秘密会议内幕：它终于认真对待AI",
+        "source": "Bloomberg：Technology（RSS）",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27",
+        "summary": "苹果在一次内部秘密会议后，终于决定将AI作为核心战略。这场会议促使公司全面转向AI领域，相关进展预计将在WWDC 2026上公布。",
+        "publishedAt": "2026-06-07T14:00:01.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Symbolica 2.0：适用于 Python 和 Rust 的可编程符号系统",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://symbolica.io/posts/symbolica_2_0_release",
+        "summary": "Symbolica 2.0 发布，这是一款可编程符号系统，支持 Python 和 Rust 语言。该版本在 Hacker News 上获得 100 点热度。",
+        "publishedAt": "2026-06-07T12:59:12.136Z",
+        "category": "tip"
+      },
+      {
+        "title": "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "url": "https://x.com/AYi_AInotes/status/2063573709672104286",
+        "summary": "日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 Airtable 的农场管理数据库。他说 AI 让传统昂贵的自动化变得低成本可及，\"如同身边有一位超级工程师\"。",
+        "publishedAt": "2026-06-07T10:48:06.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Her · हेर - Claude Code 会话分析工具",
+        "source": "Hugging Face：Blog（RSS）",
+        "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+        "summary": "Her（हेर）是专为 Claude Code 设计的会话分析工具。用户上传 `.jsonl` 文件后，Her 用自然语言重建每轮交互，标记部署、配置变更、秘密等高风险操作并定位到具体轮次。它展示 token 消耗、所用工具、子智能体、技能和 MCP 服务器，并结合 Anthropic 与社区最佳实践给出改进建议（仅在有明确可修复模式时）。内置\"Ask Her\"问答功能，支持单会话与跨会话项目分析。工具不调用第三方 AI API，使用 Nemotron-Mini-4B-Ins",
+        "publishedAt": "2026-06-07T10:13:41.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布",
+        "source": "NVIDIA AI Blog",
+        "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark",
+        "summary": "继上周 GTC Taipei 发布后，NVIDIA CEO Jensen Huang 前往韩国，向当地游戏社区正式介绍 RTX Spark 超芯片。该芯片集成 30 年 NVIDIA 技术，可在 Windows 笔记本上实现全天续航，并以 1440p 分辨率、超过 100fps 运行 AAA 游戏，支持包括 DLSS 4.5 Ray Reconstruction（基于第二代 Transformer 模型）在内的全套 RTX 技术。KRAFTON、NC 与 Riot Games",
+        "publishedAt": "2026-06-07T07:00:15.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Harness-1：基于强化学习训练的有状态搜索20B检索子智能体",
+        "source": "MarkTechPost（RSS）",
+        "url": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b",
+        "summary": "UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它通过强化学习在一个有状态搜索框架中训练，该框架维护候选池、重要性标注集、证据图和验证记录，由策略决定搜索、筛选、验证及停止的时机。Harness-1在8个基准测试上达到0.730平均curated recall，比下一个最佳开源子智能体高出11.4个百分点，仅落后于Opus-4.6。模型权重和框架代码均已公开。",
+        "publishedAt": "2026-06-07T06:25:18.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Opus 4.8 缓存命中率与有效价格可实时查看",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "url": "https://x.com/OpenRouter/status/2063504950429147376",
+        "summary": "不同模型提供商在缓存命中率和有效价格上有什么差异？\n\n现在你可以从 Pricing 标签查看实时缓存命中率和历史流量。这里是 Opus 4.8：https：//openrouter.ai/anthropic/claude-opus-4.8/pricing",
+        "publishedAt": "2026-06-07T06:14:52.000Z",
+        "category": "ai-products"
       }
     ]
   },
@@ -98,159 +122,169 @@
     "ok": true,
     "items": [
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "We've doubled usage limits in Claude Cowork for the next month. Delegate bigger, more complex tasks to Claude. https://t.co/ivHZuaMbZV",
-        "url": "https://x.com/claudeai/status/2063018337567670285",
-        "createdAt": "2026-06-05T22:01:15.000Z",
-        "engagement": 9374
-      },
-      {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "We doubled Claude Cowork usage limits for the next month. This applies to your 5-hr rate limits. If you’ve been saving up a big messy project, now’s the time. https://t.co/qwjn8cVTUk",
-        "url": "https://x.com/bcherny/status/2063028954546733462",
-        "createdAt": "2026-06-05T22:43:26.000Z",
-        "engagement": 2823
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Better memory = Shorter prompts = More utility per token https://t.co/IT5h4ZSbEl",
-        "url": "https://x.com/thsottiaux/status/2062966625733861752",
-        "createdAt": "2026-06-05T18:35:46.000Z",
-        "engagement": 1715,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Codex papercuts 📉 Codex adoption 📈 https://t.co/KwVlGIB9ed",
-        "url": "https://x.com/thsottiaux/status/2062997768470474765",
-        "createdAt": "2026-06-05T20:39:31.000Z",
-        "engagement": 999,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "mattturck",
-        "name": "Matt Turck",
-        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-        "text": "Ok bad stories about VCs are spreading on X right now, but VCs have horror stories about founders too Like, that one time when a founder decided to take another term sheet with a higher valuation despite our obvious ability to add value, thought leadership and vendor discounts",
-        "url": "https://x.com/mattturck/status/2063035894790345200",
-        "createdAt": "2026-06-05T23:11:01.000Z",
-        "engagement": 926,
-        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Use the Skills API to make all your agents and platforms smarter. Think of it as the npm registry for agent capabilities and extensibility. Free and open. https://t.co/kcVnJSupTf",
-        "url": "https://x.com/rauchg/status/2062951924677128455",
-        "createdAt": "2026-06-05T17:37:21.000Z",
-        "engagement": 332,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "Coding is basically the pinnacle of what you could reasonably automate with AI, and yet we still need human engineers to oversee agents for them to be effective. The AI models are trained on an incredible amount of sophisticated code. The users are highly technical and can use th",
-        "url": "https://x.com/levie/status/2063055332545540096",
-        "createdAt": "2026-06-06T00:28:15.000Z",
-        "engagement": 314,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
-      },
-      {
-        "handle": "ryolu_",
-        "name": "Ryo Lu",
-        "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone c",
-        "text": "designing in code is now as easy as: click, chat, hold shift to multi-select. works best with Composer 2.5 https://t.co/jKDWktp69K",
-        "url": "https://x.com/ryolu_/status/2063038983408615435",
-        "createdAt": "2026-06-05T23:23:17.000Z",
-        "engagement": 295
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Live now on all paid plans through July 5. Download the Claude desktop app to give Cowork a try: https://t.co/EYHUToV3eS",
-        "url": "https://x.com/claudeai/status/2063018339710992794",
-        "createdAt": "2026-06-05T22:01:15.000Z",
-        "engagement": 289
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Agent filesystem state can now be read, written and mounted independently of Sandbox lifecycle. We’ve been developing a novel virtual storage infrastructure solution for all our compute products. Storage that’s decoupled, but attachable to Builds, Functions, Sandboxes &amp; more.",
-        "url": "https://x.com/rauchg/status/2063009510503932181",
-        "createdAt": "2026-06-05T21:26:10.000Z",
-        "engagement": 182,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co",
-        "text": "How to build AI skills that check their own work and improve over time: 1. Give it context Ask AI: \"Create a skill for this [repeated task]. Here are examples of good output so it knows what good looks like.\" 2. Make it easy to trigger “Write a clear skill description using this ",
-        "url": "https://x.com/petergyang/status/2062899832965255443",
-        "createdAt": "2026-06-05T14:10:21.000Z",
-        "engagement": 173,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "When I spoke out against the Gaza genocide, a bunch of midwit VCs ganged up on me both in public and tried to hurt me in private too. Many of those who stood by me were also VCs. Just the better ones. Both morally, and in return profile. The best way to avoid sociopaths is to hav",
+        "url": "https://x.com/amasad/status/2063344460705288401",
+        "createdAt": "2026-06-06T19:37:09.000Z",
+        "engagement": 5331,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
         "handle": "amasad",
         "name": "Amjad Masad",
         "bio": "ceo @replit. civilizationist",
-        "text": "I hear a version of this almost daily. https://t.co/OEI3CkrtcX",
-        "url": "https://x.com/amasad/status/2063089288997491063",
-        "createdAt": "2026-06-06T02:43:11.000Z",
-        "engagement": 148,
+        "text": "Vibecon https://t.co/ggY7LLaB8y https://t.co/9YBgC412BZ",
+        "url": "https://x.com/amasad/status/2063300737296400516",
+        "createdAt": "2026-06-06T16:43:24.000Z",
+        "engagement": 507,
         "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI in general because it means these systems are being used at a scale that wasn’t contemplated before. It also gives way to another form of differentiation that wil",
+        "url": "https://x.com/levie/status/2063320673217609936",
+        "createdAt": "2026-06-06T18:02:37.000Z",
+        "engagement": 467,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "I also want to help people become more legit with Paxel https://t.co/9Atu5RfZ1C",
+        "url": "https://x.com/garrytan/status/2063409501706018903",
+        "createdAt": "2026-06-06T23:55:36.000Z",
+        "engagement": 154,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "swyx",
+        "name": "Swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @dx",
+        "text": "one popular theory is that research paper alpha* and lab publishing ~died when researchers realized that instead of fighting with marketing depts they could simply walk out the door and get >$100m for their legally protected tacit knowledge gained california non-noncompetes have ",
+        "url": "https://x.com/swyx/status/2063432747432268259",
+        "createdAt": "2026-06-07T01:27:58.000Z",
+        "engagement": 139,
+        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co",
+        "text": "this agentic coding crack is more addictive than video games smh",
+        "url": "https://x.com/petergyang/status/2063486871037153558",
+        "createdAt": "2026-06-07T05:03:02.000Z",
+        "engagement": 107,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Local government matters Oakland mismanagement is fixable but there has not yet been a resurgence of common sense the way SF had it @empoweroak is working on this https://t.co/sPKswjImqY",
+        "url": "https://x.com/garrytan/status/2063280482922663980",
+        "createdAt": "2026-06-06T15:22:55.000Z",
+        "engagement": 105,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "A Walk In The Park (part II) feat @taiuti 🌎 (00:00) 👋 (01:10) What world models are (03:42) Origin story from text-to-3D to @reactorworld (09:22) Deciding to start the company (11:22) GTA, games, and the path into programming (15:09) Building in stealth and keeping secrets (18:",
+        "url": "https://x.com/nikunj/status/2063263389238087745",
+        "createdAt": "2026-06-06T14:15:00.000Z",
+        "engagement": 73,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "don’t forget to touch sand this weekend 🌞 https://t.co/oeVCnITvpF",
+        "url": "https://x.com/nikunj/status/2063381764782116914",
+        "createdAt": "2026-06-06T22:05:23.000Z",
+        "engagement": 50,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "We never said we don't upload any user data to the cloud. We said the code (file contents) specifically doesn't. Paxel is here to help you, and over time as local models get better, we'll be able to do even more locally. Can't wait, tbh. https://t.co/B0nygC4aph",
+        "url": "https://x.com/garrytan/status/2063418130714800487",
+        "createdAt": "2026-06-07T00:29:53.000Z",
+        "engagement": 46,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "LLMs are not conscious. LLMs are not not conscious. Both true.",
+        "url": "https://x.com/danshipper/status/2063426632824562167",
+        "createdAt": "2026-06-07T01:03:40.000Z",
+        "engagement": 45,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+      },
+      {
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "to add two more that increase in value: Aidōs—reverence and responsiveness to others Dikē—the capacity to perceive what is right https://t.co/X3LsGPfZa5",
+        "url": "https://x.com/danshipper/status/2063436919967522848",
+        "createdAt": "2026-06-07T01:44:33.000Z",
+        "engagement": 35,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
       }
     ],
     "podcast": {
-      "name": "AI & I by Every",
-      "title": "The SaaS Apocalypse Is a Goldmine With Figma’s Matt Colyer",
-      "url": "https://www.youtube.com/watch?v=kYKebKB3-d0",
-      "publishedAt": "2026-06-03T15:00:00.000Z"
+      "name": "Unsupervised Learning",
+      "title": "Ep 89: AI Research Legend’s Honest Assessment of Where We Are",
+      "url": "https://www.youtube.com/watch?v=N1geOimmdDo",
+      "publishedAt": "2026-06-03T12:50:11.000Z"
     }
   },
   "builderpulse": {
     "ok": true,
-    "date": "2026-06-06",
-    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-06-06.md",
+    "date": "2026-06-07",
+    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-06-07.md",
     "zh": {
-      "lead": "表面上的故事是，AI 能写更多代码。真正可卖给构建者的信号是：代码本身已经不再能证明可信度。Ladybird 停止接受公开 pull request 引发 521 条 Hacker News 讨论和 75 条 Lobsters 讨论，因为过去一个大补丁通常意味着投入了很多精力，而现在它也可能只是一堆低成本风险。",
+      "lead": "最容易讲的故事仍然是：AI 已经能做出很厉害的工作。真正能卖给建设者的信号更窄：当软件可以重置账号、更新 Shopify 店铺，或者重写一个网站时，买家需要的是一张权限地图，先于智能体拿到按钮。 Meta confirming thousands of Instagram account takeovers 引发 180 条讨论，而 Manus Shopify Connector 因为可以从一个聊天入口管理店铺，获得 224 票。",
       "build": {
-        "title": "PR Trust Report",
-        "oneLiner": "面向维护者的 pull-request 接收报告，解释拟议代码变更中哪些地方缺少测试、所有者证明、高风险文件说明和审查者可读摘要。它背后有 Ladybird 521 条讨论的政策变化，以及 rsync 相关 364 条讨论的 AI bug 争议作为支撑。"
+        "title": "Agent Permission Map",
+        "oneLiner": "面向 SaaS、客服和电商团队的一页报告，展示哪些 AI 助手或客服机器人可以更改账号、商品、页面、账单或私有数据。证据来自 Meta 的账号接管确认、Manus Shopify Connector 的 224 个 Product Hunt 投票，以及正在上升的business-agent搜索。"
       },
       "signals": [
-        "维护者信任成了今天最清晰的软件信号：Ladybird 在 521 条讨论之后关闭公开代码提交，Lobsters 又补充了 75 条讨论，评论者反复指出，生成式代码已经让“投入过努力”不再能可靠代表“愿意负责”。",
-        "AI 代码现在需要审计轨迹，而不是更快的演示：rsync bug 分析引发 364 条讨论，GenAI “oh shit” 讨论串引发 480 条讨论，DEV 上关于 $200 崩溃、6 小时调试和 AI 膨胀代码库的文章，也在持续暴露同一种担忧。",
-        "AI agent 产品，也就是能代表用户执行动作的软件，正在离开开发者新奇玩具阶段，进入运营预算：SellerClaw 在 Product Hunt 有 138 条评论，Minimi 有 94 条，Agent Browser Shield 作为 prompt-injection 防护发布，而围绕 WhatsApp 工作流的 Meta business-agent 搜索也在上升。"
+        "客服 AI 已经从便利工具跨进账号权限：Meta 确认，AI 聊天机器人被滥用后导致数千个 Instagram 账号被接管，把过去关于恢复流程的警告变成了平台级事件。",
+        "智能体产品正在进入业务运营：Manus Shopify Connector 获得 224 个 Product Hunt 投票，webMCP 引发 110 条 DEV 评论，而 \"microsoft scout autonomous ai agent\" 搜索上涨 4,050%。",
+        "AI 算力正在变成资产负债表级基础设施：Google 将每月向 SpaceX 支付 $920M，以获得约 110,000 张 NVIDIA GPU；与此同时，S&P 500 拒绝 SpaceX、OpenAI 和 Anthropic 入选的讨论引发 480 条评论。"
       ]
     },
     "en": {
-      "lead": "The obvious story is that AI can write more code. The sellable builder signal is that code no longer proves trust: Ladybird stopped accepting public pull requests after 521 Hacker News comments and 75 Lobsters comments because a big patch used to mean effort, and now it can mean a cheap pile of risk.",
+      "lead": "The easy story is still that AI can do impressive work. The sellable builder signal is narrower: when software can reset an account, update a Shopify store, or rewrite a website, buyers need a permission map before the agent gets a button. Meta confirming thousands of Instagram account takeovers drew 180 comments, while Manus Shopify Connector drew 224 votes for managing stores from one chat.",
       "build": {
-        "title": "PR Trust Report",
-        "oneLiner": "a pull-request intake report for maintainers that explains which proposed code changes lack tests, owner proof, risky-file notes, and reviewer-ready summaries, backed by Ladybird's 521-comment policy change and the 364-comment rsync AI-bug debate."
+        "title": "Agent Permission Map",
+        "oneLiner": "a one-page report for SaaS, support, and ecommerce teams that shows which AI assistant or support bot can change accounts, products, pages, billing, or private data, backed by Meta's account-takeover confirmation, Manus Shopify Connector's 224 Product Hunt votes, and rising business-agent searches."
       },
       "signals": [
-        "Maintainer trust became the day's cleanest software signal: Ladybird closed public code submissions after 521 comments, Lobsters added 75 more, and commenters kept repeating that generated code has made effort a weak proxy for responsibility.",
-        "AI code now needs audit trails, not faster demos: the rsync bug analysis drew 364 comments, the GenAI \"oh shit\" thread drew 480, and DEV posts on $200 crashes, 6-hour debugging, and AI-grown codebases kept the same worry visible.",
-        "AI agent products, meaning software that can take actions for a user, are leaving developer novelty and entering operating budgets: SellerClaw drew 138 Product Hunt comments, Minimi drew 94, Agent Browser Shield launched for prompt-injection defense, and Meta business-agent searches rose around WhatsApp workflows."
+        "Support AI crossed from convenience into account authority: Meta confirmed thousands of Instagram takeovers after an AI chatbot was abused, turning the old recovery-flow warning into a platform-scale incident.",
+        "Agent products are moving into business operations: Manus Shopify Connector drew 224 Product Hunt votes, webMCP drew 110 DEV comments, and searches for \"microsoft scout autonomous ai agent\" rose 4,050%.",
+        "AI compute is becoming balance-sheet infrastructure: Google will pay SpaceX $920M per month for roughly 110,000 NVIDIA GPUs, while the S&P 500 rejection of SpaceX, OpenAI, and Anthropic drew 480 comments."
       ]
     }
   },
   "archive": [
+    {
+      "date": "2026-06-08",
+      "aihotCount": 14,
+      "buildersCount": 12,
+      "bpBuild": "Agent Permission Map"
+    },
     {
       "date": "2026-06-07",
       "aihotCount": 11,
@@ -286,12 +320,6 @@
       "aihotCount": 24,
       "buildersCount": 12,
       "bpBuild": "Recovery Flow Receipt"
-    },
-    {
-      "date": "2026-06-01",
-      "aihotCount": 17,
-      "buildersCount": 12,
-      "bpBuild": "Bot-Gate Receipt"
     }
   ]
 }
