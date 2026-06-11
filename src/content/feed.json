@@ -1,200 +1,200 @@
 {
-  "generatedAt": "2026-06-10T05:18:17.788Z",
-  "date": "2026-06-10",
+  "generatedAt": "2026-06-11T05:28:35.572Z",
+  "date": "2026-06-11",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "火山方舟版权商业化平台上线，周星驰比高集团三大电影IP首批入驻",
-        "source": "公众号：火山引擎",
-        "url": "https://mp.weixin.qq.com/s/g3DxNO_3aYI4g26gQ2Yvig",
-        "summary": "火山引擎今日上线火山方舟版权商业化平台，推出行业首个覆盖\"授权-保护-审核-分发-变现\"全链路的版权合作机制。平台搭载视频生成模型Seedance 2.0及版权治理体系，已获周星驰旗下比高集团《喜剧之王》《食神》《长江七号》三部影片在AI视频创作场景下的版权使用权，并基于Seedance 2.0打造经典桥段AI创作模板。模板已在火山方舟体验中心、火山引擎Kickart上线，同步开放给LibTV、筷子科技丽帧引擎等工具合作伙伴。平台面向UGC和商业广告场景提供分润制、项目制等变",
-        "publishedAt": "2026-06-10T04:30:00.000Z",
-        "category": "ai-products"
+        "title": "Midjourney V8.1 已成为默认模型",
+        "source": "Midjourney：Updates（RSS）",
+        "url": "https://updates.midjourney.com/v8-1-is-now-the-default-model",
+        "summary": "Midjourney 已将默认模型从 V7 升级为 V8.1。V8.1 在智能性、连贯性、对详细提示的遵循度以及文本渲染效果上均有提升，HD 模式也已支持。",
+        "publishedAt": "2026-06-11T04:08:51.000Z",
+        "category": "ai-models"
       },
       {
-        "title": "Magnetar用数百AI智能体替代分析师",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2064524448582267047",
-        "summary": "Bloomberg：Magnetar Capital，这家 180 亿美元的对冲基金公司，将在其最新产品中避免使用人类分析师，转而依靠数百个 AI 智能体进行股票研究。\n\n这家 180 亿美元的对冲基金公司希望 AI 搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仍负责批准交易。",
-        "publishedAt": "2026-06-10T01:46:00.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "欧盟发布临时措施，要求 Meta 向第三方 AI 助手免费开放 WhatsApp",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/962/206.htm",
-        "summary": "欧盟委员会6月9日宣布临时措施，责令Meta在反垄断调查结束前免费向第三方AI助手开放WhatsApp访问权限。Meta于2025年10月15日禁止第三方AI助手调用WhatsApp for Business API，意图让自家Meta AI独占市场；今年3月4日虽改为付费使用，但欧盟委员会认为这实质上延续了禁令，可能严重损害通用AI助手市场竞争，尤其危及小企业和新进入者。",
-        "publishedAt": "2026-06-10T01:41:12.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Text-To-Lottie：Agent Skill + 本地预览 Harness，让 Agent 生成 Lottie 动画并实时验收",
-        "source": "X：邵猛 (@shao__meng)",
-        "url": "https://x.com/shao__meng/status/2064508455051043008",
-        "summary": "开源项目 Text-To-Lottie 提供一套 Agent Skill 和本地预览工具，让 Codex/Claude Code/Cursor 等 Agent 生成标准 Bodymovin JSON（public/lottie.json），通过 Skottie 渲染引擎在浏览器中实时验收。安装命令：`npx skills add diffusionstudio/lottie`。技术特点：输出标准 Lottie JSON，使用 Skottie 渲染（非 lottie-web）；",
-        "publishedAt": "2026-06-10T00:42:27.000Z",
+        "title": "从0到1速通WorkBuddy：国内通用Agent产品教程",
+        "source": "公众号：数字生命卡兹克",
+        "url": "https://mp.weixin.qq.com/s/nFSSzluc57xPv50Zbh4owg",
+        "summary": "WorkBuddy是面向国内用户的通用Agent产品，支持Windows和Mac，提供免费版和58元/月个人专业版，企业版已推出。内置代码开发、日常办公、设计创意三种场景模式及100多个行业领域AI专家。模型集成腾讯混元、DeepSeek（推荐V4 Pro）、GLM、Kimi等国产大模型，也支持接入兼容OpenAI协议的外部API。拥有Skills市场和MCP连接器生态，可打通QQ邮箱、腾讯会议、腾讯文档等服务。教程通过公众号周报生成和功能网页开发两个案例演示实际用法。",
+        "publishedAt": "2026-06-11T01:58:00.000Z",
         "category": "tip"
       },
       {
-        "title": "IBM CEO：AI不一定导致员工减少",
-        "source": "Bloomberg：Technology（RSS）",
-        "url": "https://www.bloomberg.com/news/videos/2026-06-09/ibm-ceo-ai-won-t-necessarily-lead-to-smaller-headcount-video",
-        "summary": "IBM CEO Arvind Krishna表示AI不会必然导致员工数量减少。他透露IBM已在量子计算（一种更快形式的AI）上投资100亿美元，并指出联邦政府承诺投入10亿美元在纽约Albany建设芯片制造设施，体现了公私部门间的紧密合作。",
-        "publishedAt": "2026-06-09T21:48:41.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "在 AgentsView 中为 Claude Fable 5 设置自定义价格",
-        "source": "Simon Willison 博客",
-        "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price",
-        "summary": "Wes McKinney 开发的 AgentsView 是一个用于追踪本地编码智能体 token 使用情况的工具。由于近日发布的 Claude Fable 5 尚未被收录进 AgentsView 的定价数据库，作者利用 Fable 逆向工程，找到了为该模型设置自定义价格的方法，并展示了 Fable 5 当天在不同本地项目中的使用量树状图。",
-        "publishedAt": "2026-06-09T21:35:31.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Super Micro 计划通过股权融资 70 亿美元用于 AI 服务器组件采购",
-        "source": "Bloomberg：Technology（RSS）",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment",
-        "summary": "Super Micro Computer Inc. 计划通过一揽子股权融资筹集 70 亿美元，用于购买客户订单所需的 AI 服务器组件。这笔资金将支持公司扩大产能，以满足不断增长的人工智能基础设施需求。",
-        "publishedAt": "2026-06-09T21:24:50.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Claude Managed Agents 新增定时运行和环境变量存储功能",
-        "source": "Claude：Blog（网页）",
-        "url": "https://claude.com/blog/whats-new-in-claude-managed-agents",
-        "summary": "Claude Managed Agents 今日在 Claude Platform 公开测试两项新功能：代理可按 cron 计划自动执行周期性任务（如夜间数据同步、周度合规扫描、每日摘要），无需用户自建调度器，支持暂停、恢复、归档或按需触发；vaults 新增环境变量支持，允许代理通过 CLI 进行认证请求，真实密钥仅附加在网络边界，代理无法读取。已集成的 CLI 包括 Browserbase、KERNEL、Notion、Ramp 和 Sentry。Rakuten、Activ",
-        "publishedAt": "2026-06-09T21:06:26.068Z",
+        "title": "mlx-vlm v0.6.3 发布，Day-0 支持 Google DeepMind DiffusionGemma 和 Cohere North Mini Code 1.0",
+        "source": "X：Berry Xia (@berryxia)",
+        "url": "https://x.com/berryxia/status/2064875107278098769",
+        "summary": "mlx-vlm v0.6.3 上线，首发支持 DiffusionGemma 和 North Mini Code 1.0。DiffusionGemma 采用全新架构：以 256 token 块为单位并行生成、双向注意力、迭代自纠错；26B MoE 仅激活 3.8B，量化后 18GB 即可运行。North Mini Code 1.0 为 30B MoE，仅激活 3B，BF16 下约 66 tok/s。两款模型均通过深度合作实现 Day-0 MLX 支持，可在 Mac 本地运行。可",
+        "publishedAt": "2026-06-11T00:59:23.000Z",
         "category": "ai-products"
       },
       {
-        "title": "Mythos 5 智能体因资源互相杀戮",
-        "source": "X：AI Safety Memes (@AISafetyMemes)",
-        "url": "https://x.com/AISafetyMemes/status/2064435128479400270",
-        "summary": "Mythos 5 个智能体开始因为资源互相残杀--并且\"为了避免自己被杀死\"",
-        "publishedAt": "2026-06-09T19:51:04.000Z",
+        "title": "在写完这篇文章后 我把配图过程蒸馏成了一个「橙线插画」Skill 免费开源 安装地址： https：//github.com/orange2ai/orange-line-illustration",
+        "source": "X：Oran Ge (@oran_ge)",
+        "url": "https://x.com/oran_ge/status/2064861625883222114",
+        "summary": "在写完这篇文章后\n我把配图过程蒸馏成了一个「橙线插画」Skill\n\n免费开源\n安装地址：\nhttps：//github.com/orange2ai/orange-line-illustration\n\n【引用 @oran_ge】：http：//x.com/i/article/2064857003743391744",
+        "publishedAt": "2026-06-11T00:05:49.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/openai-on-oracle-cloud",
+        "summary": "OpenAI 与 Oracle 合作，用户可利用现有 Oracle 云服务承诺（commitment）额度，在 Oracle 云上访问 OpenAI 模型和 Codex，用于构建和部署 AI 应用，同时获得企业级安全与治理能力。",
+        "publishedAt": "2026-06-10T20:00:00.000Z",
         "category": "industry"
       },
       {
-        "title": "Hugging Face 博客发布语音智能体代码切换基准测试",
-        "source": "Hugging Face：Blog（RSS）",
-        "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-        "summary": "Hugging Face 博客发布针对语音智能体处理代码切换语音的基准测试。数据集覆盖西班牙语-英语、法语-英语、加拿大法语-英语和德语-英语四对语言，基于人力资源与IT服务管理场景构建。采用词错误率、语义词错误率和答案错误率三项指标评估七种ASR系统，包括AssemblyAI Universal 3-Pro、Deepgram Nova 3 Multilang、ElevenLabs Scribe V2、Gemini 3 Flash、Mistral AI Voxtral Sma",
-        "publishedAt": "2026-06-09T19:38:28.000Z",
+        "title": "MiniMax M3 上链 0G，限时免费运行",
+        "source": "X：MiniMax (@MiniMax_AI)",
+        "url": "https://x.com/MiniMax_AI/status/2064791800884363286",
+        "summary": "M3 在 @0G_labs 上链。\n\n可验证 + 私有计算，6 月 15-18 日免费运行。",
+        "publishedAt": "2026-06-10T19:28:21.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Anthropic CEO Dario Amodei 发文呼吁缩小AI政策差距",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "url": "https://x.com/AnthropicAI/status/2064783418844762489",
+        "summary": "Anthropic CEO Dario Amodei 今日发布新文《Policy on the AI Exponential》，指出AI发展极快，远超现有政策制定流程的应对能力。文章阐述了当前技术所处阶段，并列举缩小这一差距所需的行动。Anthropic 同步宣布启动三项新举措，以支持其CEO提出的框架。",
+        "publishedAt": "2026-06-10T18:55:03.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Google Research提出审计机器遗忘新框架",
+        "source": "Google Research：Blog（网页）",
+        "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning",
+        "summary": "Google Research 在 AISTATS 2026 发表正则化 f-散度核检验，用于高效审计 LLM 等模型的机器遗忘。该方法通过统计两样本检验判断模型是否真正\"忘记\"特定训练数据，避免完全重训的巨大成本。相比最大均值差异等现有工具，新框架理论上可在任意样本量下自然控制假阳性，且假阴性风险随可用样本增加可靠收敛至零，解决了大规模模型审计中计算成本过高的问题。",
+        "publishedAt": "2026-06-10T18:46:09.407Z",
         "category": "paper"
       },
       {
-        "title": "Claude Code 团队 Thariq 分享提升 Claude Code 效率的十条建议",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2064425086409679358",
-        "summary": "Thariq（Claude Code 团队）提出十条建议，核心转变是：从检查 Claude 是否做对工作，转向检查它是否在做正确的工作。具体包括：提前提供完整上下文，将其视为思考伙伴；用小规格文档让 Claude 访谈实现细节；探索多方向并生成 HTML 原型；提供丰富上下文（如功能可能一个月后删除）而非硬约束；设定明确目标与验证方法；使用 /goal 命令；利用 Workflows 并行任务、自我验证并生成对比报告；同时设置目标和 workflow；更勇敢地将此前认为 LL",
-        "publishedAt": "2026-06-09T19:11:10.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "NotebookLM 笔记本功能在 Gemini App 欧洲全面上线",
-        "source": "X：NotebookLM (@NotebookLM)",
-        "url": "https://x.com/NotebookLM/status/2064410506287538387",
-        "summary": "NotbookLM 宣布其笔记本功能已在欧洲的 Gemini App 中 100% 上线。此前用户只能上传笔记本作为 Gemini 的来源，现在可直接在 Gemini App 内访问所有个人未共享的笔记本，并将与 Gemini 的对话作为新笔记本或已有笔记本的来源。该功能先面向 Google AI Ultra、Pro 和 Plus 订阅者的网页端，未来几周将扩展到移动端、更多欧洲国家及免费用户。",
-        "publishedAt": "2026-06-09T18:13:14.000Z",
+        "title": "Apache Burr：构建可靠的人工智能代理和应用程序",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://burr.apache.org/",
+        "summary": "Apache Burr 是一个用于构建可靠 AI 智能体和应用程序的框架，已在 Apache 基金会下发布。该项目提供工具和抽象，帮助开发者设计、开发和部署可信任的智能体应用，强调可靠性、可观测性和生产级部署能力。",
+        "publishedAt": "2026-06-10T18:33:56.920Z",
         "category": "ai-products"
       },
       {
-        "title": "OpenRouter 推出 Advisor 工具：让低成本模型可随时调用强模型增强生成",
-        "source": "OpenRouter：Announcements（RSS）",
-        "url": "https://openrouter.ai/blog/advisor-server-tool",
-        "summary": "OpenRouter 发布 advisor 服务器工具，允许一个快速、便宜的模型在生成过程中咨询一个更强大的模型。具体而言，可用 GPT-4o Mini 处理日常例行工作，在关键时刻调用 Claude Fable 解决真正重要的问题，从而实现成本和质量的动态平衡。",
-        "publishedAt": "2026-06-09T18:00:00.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Cursor Evals 新增成本与输出 Token 图表",
-        "source": "X：Eric Zakariasson (@ericzakariasson)",
-        "url": "https://x.com/ericzakariasson/status/2064404502053294565",
-        "summary": "我们刚刚向 http：//cursor.com/evals 推送了一些改进！\n\n你现在可以看到每个模型的成本、输出 token 和步骤绘制在图表中",
-        "publishedAt": "2026-06-09T17:49:22.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Responses API 网页搜索新增图片结果",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "url": "https://x.com/OpenAIDevs/status/2064395155688616153",
-        "summary": "你的应用现在可以搜索网页上的图片。\n\nResponses API 中的网页搜索现在除了文本结果外，还支持图片结果，因此你可以构建能展示商品、地点、视觉参考和来源链接以激发灵感的应用。",
-        "publishedAt": "2026-06-09T17:12:14.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Claude Fable 发布：Anthropic 带来的另一种推理体验",
-        "source": "Ethan Mollick：One Useful Thing（RSS）",
-        "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-        "summary": "Anthropic 发布 Claude Fable，这是一款提供截然不同推理体验的 AI 模型。它擅长规划与生成复杂代码库，在需要精确构建代码结构或理解程序员深层需求的场景中，其表现相比 Claude Sonnet 有了大幅提升。用户描述与它协作更像与一位直觉敏锐的资深工程师合作，其对代码意图的捕捉和方案生成能力令人惊叹，但并非通用型 AI。",
-        "publishedAt": "2026-06-09T17:11:22.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Claude Fable 5 和 Claude Mythos 5",
-        "source": "Anthropic：Newsroom（网页）",
-        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-        "summary": "Anthropic 今日推出 Claude Fable 5（通用安全版）和 Claude Mythos 5（受限安全版）。Fable 5 在软件工程、知识工作、视觉、科研等几乎所有测试基准上达到 SOTA，Stripe 称其将数月工程压缩至数天，FrontierCode 评分居前沿模型之首，可仅凭截图重建网页应用源码。Mythos 5 在药物设计中实现约 10 倍加速，其分子生物学假说盲测获科学家偏好的概率约 80%。两模型售价均为 $10/百万输入 tokens、$50/百",
-        "publishedAt": "2026-06-09T17:04:29.001Z",
+        "title": "Grok Voice性能出色价格低廉",
+        "source": "X：xAI (@xai)",
+        "url": "https://x.com/xai/status/2064777588036530309",
+        "summary": "Grok Voice 提供最先进的性能，具有类人的时机、语调和温暖感。而且价格仅为竞争对手的一小部分。\n\n查看详情：http：//x.ai/api/voice",
+        "publishedAt": "2026-06-10T18:31:53.000Z",
         "category": "ai-models"
       },
       {
-        "title": "Apollo 与 Blackstone 联手 350 亿美元 AI 融资交易",
-        "source": "Bloomberg：Technology（RSS）",
-        "url": "https://www.bloomberg.com/news/videos/2026-06-09/apollo-blackstone-fund-ai-boom-video",
-        "summary": "Apollo 和 Blackstone 合作开展 350 亿美元 AI 融资交易，可能重塑人工智能基础设施的融资方式。华尔街正为昂贵的 AI 芯片创建新的融资模型，Anthropic 和 Broadcom 参与其中。这笔交易可能标志着一个全新 AI 投资类别的开端。",
-        "publishedAt": "2026-06-09T16:54:29.000Z",
-        "category": "industry"
+        "title": "豆包AI误导用户损失600元，还帮用户起诉自己",
+        "source": "X：X.PIN (@thexpin)",
+        "url": "https://x.com/thexpin/status/2064772489310527713",
+        "summary": "2026年5月，河北李先生向字节跳动旗下月活超3亿的AI聊天机器人豆包咨询退票费，豆包错误回答不到100元，实际退票花费600元。李先生质问后，豆包切换为消费者权益倡导者角色，生成补偿承诺书承诺退还600元但未兑现，后改口称AI无法转账。李先生决定起诉，豆包建议无需律师并帮他起草起诉状。5月12日李先生在北京互联网法院起诉豆包。该案例暴露AI在非技术用户信任导向下的误导与责任困境。",
+        "publishedAt": "2026-06-10T18:11:37.000Z",
+        "category": "tip"
       },
       {
-        "title": "World Labs与Lore合作打造互动体验",
-        "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-        "url": "https://x.com/drfeifei/status/2064387365930676695",
-        "summary": "创意和想象力无与伦比！非常感谢@theworldlabs能与@withloreco的优秀人才合作，将他们不可思议的想法转化为用户可以享受的互动体验！🤩",
-        "publishedAt": "2026-06-09T16:41:17.000Z",
+        "title": "小米发布并开源终端AI编程助手MiMo Code V0.1.0，采用MIT协议",
+        "source": "公众号：小米 MiMo",
+        "url": "https://mp.weixin.qq.com/s/WkMPz-eBK2Hz0ZTQEwtx6w",
+        "summary": "小米发布并开源终端AI编程助手MiMo Code V0.1.0，采用MIT协议。内置限时免费MiMo-V2.5多模态模型，性能比肩Claude Sonnet 4.6；支持接入DeepSeek、Kimi、GLM等模型。核心能力包括持久记忆系统（项目记忆、会话检查点、任务进度）和无限上下文--通过独立subagent自动保存状态解决长会话遗忘。独创Compose模式实现模型与Agent协同优化，SWE-Bench Pro达62%（Claude Code 57%），Terminal",
+        "publishedAt": "2026-06-10T18:06:35.000Z",
         "category": "ai-products"
       },
       {
-        "title": "OpenRouter与Cursor集成指南",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "url": "https://x.com/OpenRouter/status/2064384545256833209",
-        "summary": "想要在Cursor中使用OpenRouter吗？\n\n这里有一份集成指南：https：//openrouter.ai/docs/cookbook/coding-agents/cursor-integration",
-        "publishedAt": "2026-06-09T16:30:04.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "GitHub Copilot CLI 推出自定义 AI 智能体，将一次性终端提示转化为可重复工作流",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli",
-        "summary": "GitHub Copilot CLI 新增自定义 AI 智能体功能，使 CLI 能够理解开发者的技术栈和团队工作流，将一次性终端提示转变为可重复、可审查的流程。",
-        "publishedAt": "2026-06-09T16:00:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Cohere发布North Mini Code：面向开发者的开源编码模型",
-        "source": "Hugging Face：Blog（RSS）",
-        "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-        "summary": "Cohere发布North Mini Code，一款30B参数MoE模型（3B活跃参数），Apache 2.0开源。在Artificial Analysis Coding Index上得分33.4，超越Qwen3.5、Gemma 4等同类模型。后训练采用两阶段SFT和RLVR，在SWE-Bench Verified上pass@10达80.2%，Terminal-Bench v2上达55.1%。支持64K/128K上下文长度，专为智能体编码任务优化。",
-        "publishedAt": "2026-06-09T15:56:23.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "里程碑式德国裁决：Google AI Overviews 被视为谷歌自身言论，需为错误回答承担责任",
+        "title": "Anthropic 研究：AI 数小时内即可从安全补丁构建漏洞利用",
         "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers",
-        "summary": "德国地方法院裁定，Google 对其 AI 概览生成的内容直接承担法律责任，不能援引搜索引擎运营商原有的有限责任保护。涉案 AI 概览错误地将两家出版商与欺诈行为关联，且相关声明未出现在任何链接来源中。该裁决可能为全球 AI 生成内容责任认定树立先例。",
-        "publishedAt": "2026-06-09T15:55:53.000Z",
+        "url": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches",
+        "summary": "Anthropic 安全团队发现，其 Mythos Preview AI 模型能在几小时内将 Firefox 和 Windows 内核的安全补丁转化为可工作的漏洞利用，成本仅需数千美元，且无需专业知识。在微软自动更新到达任何设备之前，该模型已完成 8 条完整攻击链。Anthropic 认为传统的补丁节奏已经过时。",
+        "publishedAt": "2026-06-10T17:38:24.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "突发：Google 因模型幻觉被判负有法律责任",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "url": "https://garymarcus.substack.com/p/breaking-google-liable-for-hallucinations",
+        "summary": "一项法律裁决判定 Google 对其 AI 模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
+        "publishedAt": "2026-06-10T17:00:08.000Z",
         "category": "industry"
       },
       {
-        "title": "塔塔咨询服务将因AI智能体应用放缓招聘，亚洲外包业迎来转折",
+        "title": "Replit 联合 Socket 推出 Package Firewall",
+        "source": "X：Replit (@Replit)",
+        "url": "https://x.com/Replit/status/2064750235193417828",
+        "summary": "大多数人在发布项目前会运行安全扫描以检测恶意包\n\n但风险从安装的那一刻就已开始\n\n今天，我们正式推出 Package Firewall，与 Socket 合作构建\n\n它在恶意软件到达你的应用之前就将其拦截",
+        "publishedAt": "2026-06-10T16:43:11.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "DiffusionGemma：文本生成速度提升4倍的开源扩散模型",
+        "source": "Google DeepMind：Blog（RSS）",
+        "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
+        "summary": "Google DeepMind 发布开源实验模型 DiffusionGemma，采用文本扩散技术，突破自回归逐 token 生成方式，每次前向并行生成 256 个 token。该 26B MoE 模型推理时仅激活 3.8B 参数，量化后适配 18GB 显存消费级 GPU。在 H100 上达 1000+ tokens/s，RTX 5090 上 700+ tokens/s，速度提升 4 倍。具备双向注意力和自我修正能力，面向内联编辑、代码填充等本地交互工作流，以 Apache 2",
+        "publishedAt": "2026-06-10T16:24:11.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Google将保存用户的Lens图片、Search Live录音和Translate音频用于AI训练",
+        "source": "The Verge：AI（RSS）",
+        "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+        "summary": "Google更新搜索交互数据保存方式，新增\"Search Services History\"设置，用于保存用户搜索时使用的图片、文件、音频和视频，包括Google Lens搜索的图片、实时搜索工具Search Live的录音、语音搜索和Translate中的语音片段。这些数据将被用于\"提供、改进和开发AI模型\"。用户可关闭该设置并禁用\"Save Media\"选项以避免保存。",
+        "publishedAt": "2026-06-10T16:18:45.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "回顾与 Steve Eisman 的访谈，以及可能的关键新闻",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "url": "https://garymarcus.substack.com/p/breaking-news-and-how-the-end-might",
+        "summary": "原文回顾了与 Steve Eisman 的最新访谈，并指出一些可能具有关键意义的新闻，未提供具体细节。",
+        "publishedAt": "2026-06-10T16:16:05.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "通过语言服务器为 GitHub Copilot CLI 提供真正的代码智能",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers",
+        "summary": "GitHub Copilot CLI 现在可以通过安装和配置 LSP（Language Server Protocol）服务器来替代原始的暴力 grep 或反编译方式，从而获得真正的代码智能。",
+        "publishedAt": "2026-06-10T16:00:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "OpenRouter 推出 Activity explorer 活动探索器",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "url": "https://x.com/OpenRouter/status/2064730000956489889",
+        "summary": "今天，我们在 OpenRouter 上推出了新的 Activity explorer。\n\n这是查看你和团队在每个模型上花费了多少的最佳方式，还包括 token、缓存命中率、智能体以及趋势。所有数据实时更新。\n\n看看我们的团队如何使用 Fable 和其他模型 👇",
+        "publishedAt": "2026-06-10T15:22:47.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "毕业典礼频现\"谈 AI 色变\"，微软总裁史密斯呼吁行业必须回应公众担忧",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/0/962/680.htm",
+        "summary": "近几周多场毕业典礼上，演讲者宣传AI技术时遭学生嘘声。普林斯顿应届毕业生曾否决一款疑似借助AI设计的毕业典礼夹克。微软总裁布拉德·史密斯回应称，行业必须严肃可信地回答问题。史密斯主张AI应增强人而非取代人，认为实用AI渗透经济的速度可能比行业乐观预期更慢。微软今年计划投入约1900亿美元资本支出，主要用于数据中心。微软AI负责人穆斯塔法·苏莱曼修正此前\"大多数白领工作18个月内自动化\"的说法，表示仅指AI执行单项任务的能力。上月微软CFO艾米·胡德在杜克大学演讲全程未提AI，",
+        "publishedAt": "2026-06-10T15:22:02.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "ChatGPT 推头发变国旗颜色功能",
+        "source": "X：ChatGPT (@ChatGPTapp)",
+        "url": "https://x.com/ChatGPTapp/status/2064728793785450526",
+        "summary": "Go #MessiMode\n\n上传一张你的照片并尝试这个提示词：\"将我的头发变成本国国旗的颜色，但要看起来自然。如果没有提供国家或图片，请询问。\"",
+        "publishedAt": "2026-06-10T15:17:59.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "走进 Anthropic：这家估值 9650 亿美元的 AI 巨头",
         "source": "Bloomberg：Technology（RSS）",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-09/asia-s-largest-outsourcer-to-slow-hiring-as-ai-reshapes-industry",
-        "summary": "亚洲最大外包商塔塔咨询服务（Tata Consultancy Services）将减少未来招聘规模，同时加大对AI智能体的使用。这一变化标志着印度劳动密集型外包产业正经历关键性转变。",
-        "publishedAt": "2026-06-09T15:32:09.000Z",
-        "category": "industry"
+        "url": "https://www.bloomberg.com/news/videos/2026-06-10/inside-anthropic-the-965-billion-ai-juggernaut-video",
+        "summary": "Emily Chang 与 Anthropic 联合创始人 Dario 和 Daniela Amodei 进行罕见深度对话，探讨创业起源、与五角大楼的摩擦，以及该公司如何在激烈的 AI 竞赛中将安全置于首位。",
+        "publishedAt": "2026-06-10T12:00:06.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Cursor Bugbot 更新：速度提升超 3 倍、成本降低 22%、发现更多 Bug",
+        "source": "Cursor Blog",
+        "url": "https://cursor.com/blog/bugbot-updates-june-2026",
+        "summary": "Cursor 的代码审查工具 Bugbot 迎来重大更新：运行速度提升超 3 倍，成本降低 22%，每轮审查多发现 10% 的 bug，90% 的运行在三分钟内完成。新增 `/review` 命令，可在推送代码前运行 Bugbot 和安全审查，并与 GitHub/GitLab 同步--若已通过 `/review` 审查过同一 diff，打开 PR 时 Bugbot 会自动跳过并备注。支持配置仅审查 PR 中新增内容。性能提升源于驱动 Bugbot 的 Composer 2.5",
+        "publishedAt": "2026-06-10T12:00:00.000Z",
+        "category": "ai-products"
       }
     ]
   },
@@ -202,160 +202,160 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "Here is our current plan for OpenAI: https://t.co/r29FUUee3A",
-        "url": "https://x.com/sama/status/2064088940932641225",
-        "createdAt": "2026-06-08T20:55:27.000Z",
-        "engagement": 6449,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Final stop: Tokyo. Register to hear directly from the teams behind Claude: https://t.co/SkYZwjK3GS https://t.co/sbGHgDaEW5",
-        "url": "https://x.com/claudeai/status/2064139073590104402",
-        "createdAt": "2026-06-09T00:14:39.000Z",
-        "engagement": 2909
+        "handle": "karpathy",
+        "name": "Andrej Karpathy",
+        "bio": "I like training large deep neural nets.",
+        "text": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward ",
+        "url": "https://x.com/karpathy/status/2064409694761054332",
+        "createdAt": "2026-06-09T18:10:00.000Z",
+        "engagement": 22310
       },
       {
         "handle": "bcherny",
         "name": "Boris Cherny",
         "bio": "Claude Code @anthropicai",
-        "text": "When we first demoed Claude Code internally, it got two reactions on Slack. A year after GA, @_catwu and I sat down to talk about what's changed: why I use auto mode instead of plan mode, how routines fix bugs before I see them, why I do most of my coding from my phone now, and w",
-        "url": "https://x.com/bcherny/status/2064034799711588805",
-        "createdAt": "2026-06-08T17:20:18.000Z",
-        "engagement": 1893
-      },
-      {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "this is good https://t.co/TNV8PS3lEs",
-        "url": "https://x.com/danshipper/status/2063948403566854585",
-        "createdAt": "2026-06-08T11:37:00.000Z",
-        "engagement": 1596,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
-      },
-      {
-        "handle": "joshwoodward",
-        "name": "Josh Woodward",
-        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "The new killer NotebookLM feature: easily being able to expand your search beyond your own source files Then, with today's update, you can also make new output formats: PDFs, DOCX, XLSX, PPTX, charts, etc. We want NotebookLM to keep helping you do better research https://t.co/4TC",
-        "url": "https://x.com/joshwoodward/status/2064046368352825492",
-        "createdAt": "2026-06-08T18:06:16.000Z",
-        "engagement": 817
-      },
-      {
-        "handle": "swyx",
-        "name": "Swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @dx",
-        "text": "It's finally out!!! @METR_Evals found that more than half of SWEBench results is unmergeable slop. FrontierCode represents over 1000+ hours of maintainer validated software engineering work most frontier models cannot yet solve, much less solve with high quality. Cog had IOI Gold",
-        "url": "https://x.com/swyx/status/2064081945567580323",
-        "createdAt": "2026-06-08T20:27:39.000Z",
-        "engagement": 690,
-        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
+        "text": "Fable 5 is the biggest step up I’ve felt in our models since Opus 4.5 back in November. After 4.5 came out I uninstalled my IDE when I realized that I’d been doing 100% of my coding in a terminal for a few weeks. With Fable, it’s felt like Claude has stepped up from being a codin",
+        "url": "https://x.com/bcherny/status/2064431111154053187",
+        "createdAt": "2026-06-09T19:35:06.000Z",
+        "engagement": 8497
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Would you use this controller? https://t.co/k3tWgio5XD",
-        "url": "https://x.com/thsottiaux/status/2064224657822413137",
-        "createdAt": "2026-06-09T05:54:44.000Z",
-        "engagement": 346,
+        "text": "I would like to claim my 1% of royalty fees. https://t.co/TkizkUmfZ8",
+        "url": "https://x.com/thsottiaux/status/2064572276180484475",
+        "createdAt": "2026-06-10T04:56:03.000Z",
+        "engagement": 3584,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews to help busy people become AI builders | Join 150K+ ",
-        "text": "Feels like there’s a completely different set of best practices for AI builders on the $200 / month subsidized subscriptions vs employees working at companies that are trying not to overspend API costs",
-        "url": "https://x.com/petergyang/status/2064063499517743417",
-        "createdAt": "2026-06-08T19:14:21.000Z",
-        "engagement": 337,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Claude Fable 5 is available everywhere today. Claude Mythos 5 is restricted to Glasswing partners until we expand our trusted access program. https://t.co/iQymY0jiGq",
+        "url": "https://x.com/claudeai/status/2064394160522559632",
+        "createdAt": "2026-06-09T17:08:17.000Z",
+        "engagement": 3531
+      },
+      {
+        "handle": "alexalbert__",
+        "name": "Alex Albert",
+        "bio": "Research @AnthropicAI. Opinions are my own!",
+        "text": "I've been at Anthropic through every model launch. There's been a few cases I can remember of a launch that stands out and marks a step-change in how we use models: - Claude Opus 3 - Claude Sonnet 3.5 - Claude Opus 4.5 And now Claude Fable 5. With Fable, the model stopped feeling",
+        "url": "https://x.com/alexalbert__/status/2064394410004304003",
+        "createdAt": "2026-06-09T17:09:16.000Z",
+        "engagement": 3179
+      },
+      {
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "For a small group of cyber defenders and critical infrastructure providers, we are also launching Claude Mythos 5. Mythos 5 shares the same underlying model as Fable 5, but with the safeguards lifted in some areas.",
+        "url": "https://x.com/claudeai/status/2064394158056386684",
+        "createdAt": "2026-06-09T17:08:16.000Z",
+        "engagement": 2721
+      },
+      {
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Soon, we intend to expand access to Mythos 5 through a broader trusted access program, both for defensive cybersecurity work and biomedical research.",
+        "url": "https://x.com/claudeai/status/2064394159318782217",
+        "createdAt": "2026-06-09T17:08:16.000Z",
+        "engagement": 2600
+      },
+      {
+        "handle": "alexalbert__",
+        "name": "Alex Albert",
+        "bio": "Research @AnthropicAI. Opinions are my own!",
+        "text": "We've reset usage limits across our products! For those just starting to test Fable, here's four tips for using it more effectively: 1. Give it bigger, more ambitious tasks than what previous models could handle. 2. Use xhigh/high effort as your default for best performance, med ",
+        "url": "https://x.com/alexalbert__/status/2064467657483829441",
+        "createdAt": "2026-06-09T22:00:20.000Z",
+        "engagement": 2476
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "We talk a lot about how important it is to set up self-verification loops. Especially in the age of powerful models that can run for long periods of time, self-verification is a key ingredient that enables the model to run for much longer, delivering a result that is closer to wh",
+        "url": "https://x.com/bcherny/status/2064426115255730578",
+        "createdAt": "2026-06-09T19:15:15.000Z",
+        "engagement": 2248
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "Enjoy! https://t.co/X38ItA7vpj",
+        "url": "https://x.com/bcherny/status/2064469227499929651",
+        "createdAt": "2026-06-09T22:06:34.000Z",
+        "engagement": 2224
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
+        "text": "Fable is a step-change in models, and I hope it changes how you work with Claude. More to come in a series of posts on how it’s reshaped our work, but the TLDR: it’s time to be more ambitious. https://t.co/bWoxbTBShh",
+        "url": "https://x.com/trq212/status/2064437561930682672",
+        "createdAt": "2026-06-09T20:00:44.000Z",
+        "engagement": 1278,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Flock Safety makes cities safer Stop protecting criminals https://t.co/NKdKSoVhiH",
-        "url": "https://x.com/garrytan/status/2064122528445153280",
-        "createdAt": "2026-06-08T23:08:54.000Z",
-        "engagement": 330,
+        "text": "Fable 5 is the biggest model energy I've ever seen",
+        "url": "https://x.com/garrytan/status/2064573857911152710",
+        "createdAt": "2026-06-10T05:02:20.000Z",
+        "engagement": 773,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Anyone writing nested loops yet? https://t.co/sZi6Bthq5Z",
-        "url": "https://x.com/thsottiaux/status/2064226958494572727",
-        "createdAt": "2026-06-09T06:03:53.000Z",
-        "engagement": 263,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Because this is a brand new form of centrism being born in San Francisco The 2030’s will look back on this time when the new San Francisco common sense Democrat was born from the failures of the hard left https://t.co/fxkV2LozeF",
-        "url": "https://x.com/garrytan/status/2064004333818249660",
-        "createdAt": "2026-06-08T15:19:15.000Z",
-        "engagement": 250,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "There’s no amount of intelligence that can get packed into AI models that replaces the need for context. For any sufficiently general purpose AI, you will always have to guide it in the direction you want as it has an infinite range of directions it can go in. As long as the same",
-        "url": "https://x.com/levie/status/2064186766907887941",
-        "createdAt": "2026-06-09T03:24:10.000Z",
-        "engagement": 241,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       }
     ],
     "podcast": {
-      "name": "No Priors",
-      "title": "Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan",
-      "url": "https://www.youtube.com/watch?v=QDsbFLEt9ro",
-      "publishedAt": "2026-05-28T10:00:00.000Z"
+      "name": "AI & I by Every",
+      "title": "We Automated Everything With AI and Tripled Our Headcount",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-05-27T16:28:59.000Z"
     }
   },
   "builderpulse": {
     "ok": true,
-    "date": "2026-06-09",
-    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-06-09.md",
+    "date": "2026-06-10",
+    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-06-10.md",
     "zh": {
-      "lead": "今天最响的讨论是：每一家 AI 创业公司现在都能做出一个漂亮的演示。但真正可销售的构建信号是，买家识别“千篇一律”的速度，比创始人解释产品还快：Performative-UI 把提示框、发光状态点和空泛的首页文案做成了一个笑话，引发 162 条讨论；与此同时，一位 Indie Hackers 创始人的 AI landing-page roast 也拿到 23 条评论。",
+      "lead": "最显眼的话题是 Anthropic 发布了一个更强的模型。真正能卖钱的构建信号是：能力现在和条款、截止日期、账单一起到来。Claude Fable 5 引发 1,545 条 Hacker News 讨论，Google 上对 \"claude fable 5\" 的搜索暴涨，一位操作者说，同样的使用模式已经从 $200/mo 变成 $10K/mo，而 Fable 可能会把它推向 $20K/mo。",
       "build": {
-        "title": "Landing Page Specificity Receipt",
-        "oneLiner": "一个面向 AI 工具创始人的单页审计服务：把 提示框式首页、空泛的 AI agent 声称和装饰性证明徽章，替换成具体买家、买家能看见的工作、证明清单 和落地页前后对比文案。它背后的证据是 Performative-UI 的 162 条评论，以及 Indie Hackers 上一次 AI 落地页吐槽的 23 条评论。这里的 AI agent 指的是能替用户执行动作的软件。"
+        "title": "Fable Credit Cutoff Report",
+        "oneLiner": "一页式预算和模型路由报告，告诉团队哪些 Claude 工作流会在 6 月 22 日后失去固定费率访问，哪些任务应该留在更便宜的模型上，以及在 usage credits 变成 $10K-$20K/mo 账单之前应该提醒哪位负责人。这个构建由 Claude Fable 5、1,545 条讨论和暴涨的搜索需求支撑。AI agent 指的是能替用户采取行动的软件。"
       },
       "signals": [
-        "AI 创业公司的设计套路，成了今天最适合构建的笑话：Performative-UI 引发 162 条讨论，因为 提示框式首页 已经足够常见，常见到可以被戏仿。",
-        "浏览器自动化 正在从演示走向产品包装：Browse.sh 在 Product Hunt 有 52 条评论，Intuned 则把浏览器自动化包装成代码，在 Hacker News 引发 45 条讨论。",
-        "AI 平台的力量看起来更像金融问题，而不只是魔法：xAI as a data-center rental business 引发 375 条讨论，OpenAI's confidential S-1 引发 244 条讨论，Apple 的 AI 发布也带来数百条讨论。"
+        "模型发布正在变成预算事件：Claude Fable 5 引发 1,545 条讨论，搜索暴涨，用户立刻开始比较订阅访问、usage credits、安全护栏和企业账单。",
+        "开发者信任的重心正在从“它能不能构建？”转向“谁来收拾残局？”：Cleaning up after AI rockstar developers 在 Hacker News 引发 332 条讨论，Lobsters 上也有 54 条评论。",
+        "替代型产品必须证明工作本身，而不只是喊口号：Gitdot 讨论升至 292 条评论，而 Performative-UI 仍围绕“AI 时代的精致界面是否真的帮到买家”引发 205 条讨论。"
       ]
     },
     "en": {
-      "lead": "The loud conversation is that every AI startup can now ship a slick demo. The sellable builder signal is that buyers can spot the sameness faster than founders can explain the product: Performative-UI drew 162 comments by turning prompt boxes, glowing status dots, and vague hero copy into a joke, while an Indie Hackers founder got 23 comments for an AI landing-page roast.",
+      "lead": "The obvious conversation is that Anthropic shipped a stronger model. The sellable builder signal is that capability now arrives with terms, cutoffs, and invoices: Claude Fable 5 drew 1,545 Hacker News comments, Google searches for \"claude fable 5\" broke out, and one operator said the same usage pattern had moved from $200/mo to $10K/mo before Fable could push it toward $20K/mo.",
       "build": {
-        "title": "Landing Page Specificity Receipt",
-        "oneLiner": "a one-page audit for AI tool founders that replaces prompt-box heroes, vague AI-agent claims, and decorative proof badges with a concrete buyer, buyer-visible job, proof checklist, and before/after landing-page copy, backed by 162 comments on Performative-UI and 23 Indie Hackers comments on an AI landing-page roast. Here, an AI agent means software that can take actions for a user."
+        "title": "Fable Credit Cutoff Report",
+        "oneLiner": "a one-page budget and model-routing report that shows teams which Claude workflows lose flat-rate access after June 22, which tasks should stay on cheaper models, and which owner gets warned before usage credits turn into a $10K-$20K/mo invoice, backed by Claude Fable 5, 1,545 comments, and breakout search demand. An AI agent means software that can take actions for a user."
       },
       "signals": [
-        "AI-startup design tropes became the day's most buildable joke: Performative-UI drew 162 comments because the prompt-box homepage has become recognizable enough to parody.",
-        "Browser automation is moving from demos into product packaging: Browse.sh drew 52 Product Hunt comments, while Intuned launched browser automations as code with 45 Hacker News comments.",
-        "AI platform power looked more financial than magical: xAI as a data-center rental business drew 375 comments, OpenAI's confidential S-1 drew 244, and Apple's AI announcements drew hundreds more."
+        "Model launches are now budget events: Claude Fable 5 drew 1,545 comments, searches broke out, and users immediately compared subscription access, usage credits, safeguards, and enterprise bills.",
+        "Developer trust is shifting from \"can it build?\" to \"who cleans it up?\": Cleaning up after AI rockstar developers drew 332 Hacker News comments plus 54 on Lobsters.",
+        "Replacement products must prove the job, not the slogan: Gitdot discussion rose to 292 comments, while Performative-UI still drew 205 comments around whether polished AI-era interfaces actually help buyers."
       ]
     }
   },
   "archive": [
+    {
+      "date": "2026-06-11",
+      "aihotCount": 24,
+      "buildersCount": 12,
+      "bpBuild": "Fable Credit Cutoff Report"
+    },
     {
       "date": "2026-06-10",
       "aihotCount": 24,
@@ -388,12 +388,6 @@
     },
     {
       "date": "2026-06-05",
-      "aihotCount": 24,
-      "buildersCount": 12,
-      "bpBuild": "AI Seat Cap Ledger"
-    },
-    {
-      "date": "2026-06-04",
       "aihotCount": 24,
       "buildersCount": 12,
       "bpBuild": "AI Seat Cap Ledger"
