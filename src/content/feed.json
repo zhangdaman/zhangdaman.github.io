@@ -1,104 +1,32 @@
 {
-  "generatedAt": "2026-06-20T05:13:52.811Z",
-  "date": "2026-06-20",
+  "generatedAt": "2026-06-21T06:00:45.726Z",
+  "date": "2026-06-21",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
-        "source": "MarkTechPost（RSS）",
-        "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
-        "summary": "NVIDIA Research 发布 SpatialClaw，一个免训练的空间推理框架。它通过将代码作为动作接口，让智能体调用感知工具（Depth Anything 3、SAM 3）并自由组合输出，解决视觉语言模型在 3D 空间判断上的弱点。在 20 项基准测试中平均准确率达 59.9%，比近期智能体 SpaceTools 高 11.2 个百分点，比无工具基线高 6.5 点，比结构化工具调用高 3.2 点。框架无需重新训练，同一提示词和工具集可跨所有基准和骨干网络运行，支持 ",
-        "publishedAt": "2026-06-19T22:51:59.000Z",
-        "category": "ai-products"
+        "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+        "source": "公众号：腾讯元宝",
+        "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
+        "summary": "腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如\"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致\"），元宝即可生成合影。活动旨在让用户\"回到过去\"看到爸爸的青春模样。",
+        "publishedAt": "2026-06-21T04:51:10.000Z",
+        "category": "tip"
       },
       {
-        "title": "Figure机器人数首超人类员工",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2068089038213693800",
-        "summary": "我们已超越理论阶段。\n\n有史以来第一次，Figure的机器人数量超过了人类员工数量。",
-        "publishedAt": "2026-06-19T21:50:24.000Z",
+        "title": "开源教程《Deep Agents 实战》发布",
+        "source": "X：邵猛 (@shao__meng)",
+        "url": "https://x.com/shao__meng/status/2068306942184034471",
+        "summary": "LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是\"三层架构\"：Runtime（LangGraph）、Framework（LangChain）、Harness（Deep Agents）。技术内核为上下文工程，通过虚拟文件系统实现按需读取、中间结果落盘、大文件局部读取。教程",
+        "publishedAt": "2026-06-20T12:16:16.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "url": "https://x.com/AYi_AInotes/status/2068218661710512231",
+        "summary": "彭博社报道，微软已成为全球最大AI模型中转站，既将ChatGPT卖给中国企业，也反向将DeepSeek模型卖给西方客户。报道称微软正在测试DeepSeek-R1和DeepSeek-V4，计划向西方客户提供这些中国模型。这一模式构建起跨中美AI模型的双向贸易网络。",
+        "publishedAt": "2026-06-20T06:25:29.000Z",
         "category": "industry"
-      },
-      {
-        "title": "JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-        "summary": "上周，参议员Ted Cruz和Ron Wyden提出两党法案JAWBONE Act，为受政府胁迫的广播商、互动计算机服务商及AI提供商创建针对政府官员的联邦诉讼权，并建立政府与中间方就用户表达问题沟通的透明度体系。法案旨在应对政府施压私营公司审查受第一修正案保护的言论。EFF支持该法案，并举证：2025年6月联邦高官威胁起诉ICEBlock创建者，同年10月司法部长要求苹果下架该应用。EFF还提起信息自由诉讼，要求披露政府与苹果、谷歌、Meta的沟通记录。",
-        "publishedAt": "2026-06-19T19:41:30.069Z",
-        "category": "industry"
-      },
-      {
-        "title": "OpenRouter vs Portkey：你的团队该选哪个LLM网关？",
-        "source": "OpenRouter：Announcements（RSS）",
-        "url": "https://openrouter.ai/blog/insights/openrouter-vs-portkey",
-        "summary": "OpenRouter是托管路由网络，买credits后通过一个API路由至70+供应商，自动故障转移，无需自有密钥；覆盖300+模型（含20+免费），按用量收费（零加成+5.5%平台费，首100万免费），支持零数据保留和欧盟路由。Portkey是AI控制平面（2026年被Palo Alto收购），置于用户密钥之上，增加治理、提示管理、护栏和可观测性；提供1600+ LLM统一API，按日志计费（Developer免费，Production $49/月），支持HIPAA、SSO",
-        "publishedAt": "2026-06-19T19:00:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX",
-        "source": "X：宝玉 (@dotey)",
-        "url": "https://x.com/dotey/status/2068042001895809420",
-        "summary": "宝玉分享 baoyu-design Skill 的迭代过程：用户测试发现导出问题（样式表未铺满整页、渐变色丢失），他在本地复现后让 Agent 分析原因、给出解决方案并添加测试覆盖，修复后效果改善。该 Skill 可在制作 PPT、动画视频或网站时调用 AI 生图配图，支持 Codex 内置画图或配合 baoyu-image-gen Skill 调用 Codex CLI 画图，并能连同图片一起导出为 PPTX，在 PowerPoint/Keynote 中二次编辑。迭代循环：自",
-        "publishedAt": "2026-06-19T18:43:30.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "AI中心的数据黑洞",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2",
-        "summary": "智能的一种定义是样本效率，但近年AI进步主要靠扩充数据分布和增加算力。强化学习本质是合成数据生成--投入大量算力通过验证器筛选\"好\"数据，再训练模型预测正确输出。这一过程需要每个领域和技能的海量人类专家示例，数据行业年收入已达数十亿美元。近日Epoch报告，开源模型仅落后前沿闭源模型4个月，原因在于数据可从公开API蒸馏，而超参数等不易复制。人类一生接触约2亿token，前沿模型训练在数十到数百T token之间，相差近百万倍--机器人、自动驾驶等领域同样存在巨大效率差距。",
-        "publishedAt": "2026-06-19T16:45:03.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic",
-        "source": "X：Demis Hassabis (@demishassabis)",
-        "url": "https://x.com/demishassabis/status/2068002732250640603",
-        "summary": "AlphaFold 团队负责人 John Jumper 宣布，在 Google DeepMind 工作近 9 年后决定离职，将加入 Anthropic（先休整一段时间）。DeepMind CEO Demis Hassabis 表示，过去 9 年与 Jumper 的非凡合作改变了世界，AlphaFold 展示了 AI 在科学与医学领域的巨大潜力，并为 AI 造福人类指明了方向。Jumper 回忆，Hassabis 在他博士毕业仅 6 个月后就大胆让他领导 AlphaFold 团",
-        "publishedAt": "2026-06-19T16:07:27.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "OpenRouter vs LiteLLM：如何选择 LLM 网关",
-        "source": "OpenRouter：Announcements（RSS）",
-        "url": "https://openrouter.ai/blog/insights/openrouter-vs-litellm",
-        "summary": "OpenRouter 是托管在 Cloudflare 边缘的 LLM 网关，无需管理基础设施，收取 5.5% 平台费（前 100 万次请求免费），支持 70+ 提供商和自动故障转移。LiteLLM 是自部署代理（Docker/PostgreSQL/Redis），数据不离开内网，免费开源，但需承担基础设施成本（生产部署约数百美元/月）。当模型月支出超过约 $3，600（基础设施 $200/月）或 $9，100（基础设施 $500/月）时自托管更划算。LiteLLM 提供六种路由",
-        "publishedAt": "2026-06-19T15:00:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "禁止开源AI将是一个错误",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
-        "summary": "近期行政命令、国会提案及对Anthropic最先进模型的境外访问限制，可能开启新一轮AI监管。开源软件已支撑全球90%以上软件并创造8万亿美元经济价值，在教育、创新和竞争三方面持续赋能。Anthropic与OpenAI的封闭模型加剧市场集中，开源（尤其开放权重）是初创公司、教育机构和企业获得替代方案的唯一平衡力量。开源透明性使其更安全，更多工程师可剔除不需要的模型行为或修复漏洞。以中国竞争为由监管开源将适得其反，美国初创公司正依赖包括中国在内的开源模型提升效率。",
-        "publishedAt": "2026-06-19T13:02:47.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Cloudflare 为 AI 智能体推出临时账户",
-        "source": "Cloudflare Blog",
-        "url": "https://blog.cloudflare.com/temporary-accounts",
-        "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
-        "publishedAt": "2026-06-19T13:00:00.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "/youtube-notetaker：YT 视频转 Artifacts",
-        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "url": "https://x.com/omarsar0/status/2067952726282031411",
-        "summary": "YT 视频 -> Artifacts\n\n看看我如何使用新的 /youtube-notetaker 技能从 YT 视频生成 Artifacts。\n\n捕获幻灯片、笔记、转录内容……\n\n快去试试 ↓",
-        "publishedAt": "2026-06-19T12:48:45.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Humanize PPT v0.9：为演讲而生的开源PPT Skill",
-        "source": "公众号：卡尔的AI沃茨",
-        "url": "https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg",
-        "summary": "Humanize PPT v0.9 是一款专为演讲场景设计的PPT Skill，核心通过AST（Audience， State， Transfer）逻辑重新编排大纲，将页面渲染外包给下游Skill。渲染前先输出4张真实预览页，并将图片、视频素材的占位与生成prompt写入大纲。新增质检环节自动修复常见渲染问题，并支持演讲模式：按S键在独立窗口显示演讲稿备注，按ESC键打开全局索引快速跳页。项目已开源至github.com/LearnPrompt/humanize-ppt，由卡",
-        "publishedAt": "2026-06-19T09:48:28.000Z",
-        "category": "tip"
       }
     ]
   },
@@ -106,126 +34,126 @@
     "ok": true,
     "items": [
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "New in Claude Code: Artifacts. Interactive pages built from your session, like a PR walkthrough or a living project dashboard, shared with your team at a private link. Available in beta on Team and Enterprise plans. https://t.co/0NX9gNCaAs",
-        "url": "https://x.com/claudeai/status/2067671912038240487",
-        "createdAt": "2026-06-18T18:12:53.000Z",
-        "engagement": 14188
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Bernie Sanders introduced a bill to seize 50% of any AI startup that crosses $200M in revenue. The same anti-prosperity bloc spent the year trying to ban startup acquisitions, blocking the only exit 85% of founders ever get. This is a war on building startups in America. https://",
-        "url": "https://x.com/garrytan/status/2067636692794875923",
-        "createdAt": "2026-06-18T15:52:57.000Z",
-        "engagement": 9185,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
         "handle": "bcherny",
         "name": "Boris Cherny",
         "bio": "Claude Code @anthropicai",
-        "text": "I've been using Artifacts in Claude Code for everything: visual explanations of tricky code, system diagrams, quick previews of a few animation options, data analyses and dashboards I share with the team. They are a game changer for how I work with Claude. Can't wait to hear what",
-        "url": "https://x.com/bcherny/status/2067700226669060207",
-        "createdAt": "2026-06-18T20:05:24.000Z",
-        "engagement": 3296
+        "text": "Cool way to use Claude Code: deciphering Linear A, a 3500 year old written language from Crete https://t.co/Aqd4ZG7Cum Hope this holds up in peer review! 🤞",
+        "url": "https://x.com/bcherny/status/2068064304503660962",
+        "createdAt": "2026-06-19T20:12:07.000Z",
+        "engagement": 1603
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "https://t.co/XdZBViUJdA",
-        "url": "https://x.com/rauchg/status/2067586339021734029",
-        "createdAt": "2026-06-18T12:32:51.000Z",
-        "engagement": 1861,
+        "text": "Agents are motivating so many healthy software habits. Open APIs, documentation (skills), tests (evals), Unix (CLIs), payment &amp; commerce protocols, even wide 𝙰𝚌𝚌𝚎𝚙𝚝 use (markdown/json/html). The original vision of the WWW coming to life before our eyes.",
+        "url": "https://x.com/rauchg/status/2067936390285807940",
+        "createdAt": "2026-06-19T11:43:50.000Z",
+        "engagement": 1329,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
-        "text": "Claude Code can now upload and edit HTML artifacts that you can share with your team or other Claudes! Starting with teams so you can share internally with your team, coming to Pro and MAX plans soon! https://t.co/Sdmz9mEdNY",
-        "url": "https://x.com/trq212/status/2067682475611242546",
-        "createdAt": "2026-06-18T18:54:52.000Z",
-        "engagement": 1823,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Remote / local handoff in Codex! Removing boundaries one at a time. When you let the model be in the driver seat, you actually need less infrastructure. https://t.co/sfFYixfXPl",
+        "url": "https://x.com/thsottiaux/status/2068120572673077274",
+        "createdAt": "2026-06-19T23:55:43.000Z",
+        "engagement": 1209,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "For people who don’t have a clear sense of the future they want, AI is just another mechanism of control But in the hands of someone with agency, AI is the breaker of chains, something that lets you do things no humans can do alone. AI can be a liberator if you choose agency.",
-        "url": "https://x.com/garrytan/status/2067606805459714229",
-        "createdAt": "2026-06-18T13:54:11.000Z",
-        "engagement": 1100,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Late to this one, but follow @danshipper for S-tier codex tips. These days I spend more time in the codex app than all other apps combined on my Mac. https://t.co/fVTA5vLGy3",
+        "url": "https://x.com/thsottiaux/status/2068144722460475527",
+        "createdAt": "2026-06-20T01:31:40.000Z",
+        "engagement": 1009,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "_catwu",
-        "name": "Cat Wu",
-        "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-        "text": "On Claude Team and Claude Enterprise, you can now use Claude Code to deploy HTML sites and share these with your teammates! This has changed how we work internally. Artifacts is great format for communicating architecture changes, data analyses, and new prototypes. https://t.co/n",
-        "url": "https://x.com/_catwu/status/2067674836726694200",
-        "createdAt": "2026-06-18T18:24:31.000Z",
-        "engagement": 993
+        "handle": "AmandaAskell",
+        "name": "Amanda Askell",
+        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
+        "text": "The view that we shouldn't do more medical scans because incidental findings cause a lot of harm doesn't sit well with me. It seems like the issue it points to isn't the scan but the response to it. If you see something on a scan but have no other symptoms, you could ignore it.",
+        "url": "https://x.com/AmandaAskell/status/2068162191740764622",
+        "createdAt": "2026-06-20T02:41:05.000Z",
+        "engagement": 798
       },
       {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
-        "text": "I'll be giving the the Day 2 opening keynote at AI Engineer World's Fair on July 1st at 9am. Hope to see you there, here's a quick preview https://t.co/s5DNmuBjJK",
-        "url": "https://x.com/trq212/status/2067737883545596368",
-        "createdAt": "2026-06-18T22:35:02.000Z",
-        "engagement": 665,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "The next hot programming language is… markdown. A minimal eve agent: 📂 𝚊𝚐𝚎𝚗𝚝/ 📄 𝚒𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜.𝚖𝚍 📂 𝚜𝚔𝚒𝚕𝚕𝚜/ 📄 𝚢𝚘𝚞𝚛-𝚎𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎.𝚖𝚍 Deployable in one command: 𝚟𝚎𝚛𝚌𝚎𝚕. It’s the most accessible programming has ever been. And likely will e",
+        "url": "https://x.com/rauchg/status/2068165988005380478",
+        "createdAt": "2026-06-20T02:56:10.000Z",
+        "engagement": 657,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "As your session keeps working, the artifact refreshes, so everyone you've shared it with is always looking at the latest version.",
-        "url": "https://x.com/claudeai/status/2067671913418063892",
-        "createdAt": "2026-06-18T18:12:54.000Z",
-        "engagement": 455
+        "handle": "AmandaAskell",
+        "name": "Amanda Askell",
+        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
+        "text": "I had chronic pain for most of my life until a doctor did an MRI of the pain source and found a congenital condition that was then fixed with surgery. Now I'm wondering if I had 30+ years of pain because doctors worried I was too stupid to be in the presence of scan results.",
+        "url": "https://x.com/AmandaAskell/status/2068218515723866477",
+        "createdAt": "2026-06-20T06:24:54.000Z",
+        "engagement": 580
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Artifacts draw on the full context of your session: codebase, plugins, skills, connected tools. They're private until you share them, and sharing stays inside your organization. Read more: https://t.co/z4DEdRVn7a",
-        "url": "https://x.com/claudeai/status/2067671914533863585",
-        "createdAt": "2026-06-18T18:12:54.000Z",
-        "engagement": 447
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co",
+        "text": "I used to be a die-hard Claude Code user. Codex has won me over because: → GPT-5.5 is excellent → Fast mode + generous limits = more reps → Little touches like steering, auto remote control on phone, etc But most of all Codex's browser and computer use capabilities are simply goa",
+        "url": "https://x.com/petergyang/status/2068175172960690266",
+        "createdAt": "2026-06-20T03:32:40.000Z",
+        "engagement": 355,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "AmandaAskell",
+        "name": "Amanda Askell",
+        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
+        "text": "A counter to this is \"yes but people *don't* ignore it\". But not ignoring things on scans is our norm because, until recently, we only did scans if there was a clear need. If we move to a scan-more-often paradigm, the norms of what we do with that information will surely adjust.",
+        "url": "https://x.com/AmandaAskell/status/2068162192927756544",
+        "createdAt": "2026-06-20T02:41:06.000Z",
+        "engagement": 343
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "The fact that open weights models are being discussed credibly at this level of capability should be a huge update for many. The implications of open models getting to frontier performance ensures that you can always have sovereign AI, have the ability to post train for your spec",
-        "url": "https://x.com/levie/status/2067821985342878180",
-        "createdAt": "2026-06-19T04:09:14.000Z",
-        "engagement": 368,
+        "text": "The main variable in getting success with agents is whether you can get the agent the context it needs to do its work; and a major factor in that is if you can create a shared working area for that agent that a human can understand as well. This is one of the reasons why agents u",
+        "url": "https://x.com/levie/status/2068068247413694532",
+        "createdAt": "2026-06-19T20:27:47.000Z",
+        "engagement": 338,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "AP reports on the $200M sales level Asset seizure is evil. My grandparents and parents generations came to America to flee asset seizure and this ideology. We came here to build prosperity. An America that still builds is worth defending. https://t.co/L8j4FFUkOW",
-        "url": "https://x.com/garrytan/status/2067637324763316499",
-        "createdAt": "2026-06-18T15:55:27.000Z",
-        "engagement": 280,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "swyx",
+        "name": "Swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @dx",
+        "text": "Anthropic is going to IPO at $2T https://t.co/SHYMaH3v9q",
+        "url": "https://x.com/swyx/status/2068084391260426345",
+        "createdAt": "2026-06-19T21:31:56.000Z",
+        "engagement": 271,
+        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
+      },
+      {
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTub",
+        "text": "The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
+        "url": "https://x.com/zarazhangrui/status/2068094591220531583",
+        "createdAt": "2026-06-19T22:12:28.000Z",
+        "engagement": 257
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "The Neocloud Boom: State of AI Compute 2026 | Stephen Balaban",
-      "url": "https://www.youtube.com/watch?v=0NttU4CbyVs",
-      "publishedAt": "2026-06-18T11:30:00.000Z"
+      "name": "No Priors",
+      "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan",
+      "url": "https://www.youtube.com/watch?v=asCgCv2XB4s",
+      "publishedAt": "2026-06-18T10:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -258,6 +186,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-06-21",
+      "aihotCount": 3,
+      "buildersCount": 12,
+      "bpBuild": "Interview Repo Quarantine"
+    },
     {
       "date": "2026-06-20",
       "aihotCount": 12,
@@ -293,12 +227,6 @@
       "aihotCount": 4,
       "buildersCount": 12,
       "bpBuild": "Offline Docs Packet"
-    },
-    {
-      "date": "2026-06-14",
-      "aihotCount": 11,
-      "buildersCount": 12,
-      "bpBuild": "Agent Spend Cutoff Sheet"
     }
   ]
 }
