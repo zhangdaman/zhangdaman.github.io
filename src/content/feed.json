@@ -1,32 +1,24 @@
 {
-  "generatedAt": "2026-06-21T06:00:45.726Z",
-  "date": "2026-06-21",
+  "generatedAt": "2026-06-22T06:29:18.294Z",
+  "date": "2026-06-22",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
-        "source": "公众号：腾讯元宝",
-        "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
-        "summary": "腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如\"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致\"），元宝即可生成合影。活动旨在让用户\"回到过去\"看到爸爸的青春模样。",
-        "publishedAt": "2026-06-21T04:51:10.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "开源教程《Deep Agents 实战》发布",
-        "source": "X：邵猛 (@shao__meng)",
-        "url": "https://x.com/shao__meng/status/2068306942184034471",
-        "summary": "LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是\"三层架构\"：Runtime（LangGraph）、Framework（LangChain）、Harness（Deep Agents）。技术内核为上下文工程，通过虚拟文件系统实现按需读取、中间结果落盘、大文件局部读取。教程",
-        "publishedAt": "2026-06-20T12:16:16.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "url": "https://x.com/AYi_AInotes/status/2068218661710512231",
-        "summary": "彭博社报道，微软已成为全球最大AI模型中转站，既将ChatGPT卖给中国企业，也反向将DeepSeek模型卖给西方客户。报道称微软正在测试DeepSeek-R1和DeepSeek-V4，计划向西方客户提供这些中国模型。这一模式构建起跨中美AI模型的双向贸易网络。",
-        "publishedAt": "2026-06-20T06:25:29.000Z",
+        "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
+        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "url": "https://x.com/AISafetyMemes/status/2068718552174252477",
+        "summary": "美国NSA局长称，Mythos在数小时内攻破了其几乎所有机密系统。此前Mythos已在5天内破解MacOS。而顶级漏洞团队Google Project Zero完成同等攻击需6个月，单个MacOS零日漏洞价值约200万美元。苹果原假设全球仅10-20个团队具备此能力，Mythos将使该数字增至数千。全球约20亿活跃苹果设备中，Mac用户多为记者、高管、政府官员等高价值目标，苹果曾是\"最安全\"的选择。",
+        "publishedAt": "2026-06-21T15:31:52.000Z",
         "category": "industry"
+      },
+      {
+        "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "url": "https://x.com/AYi_AInotes/status/2068637890247016607",
+        "summary": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。",
+        "publishedAt": "2026-06-21T10:11:21.000Z",
+        "category": "ai-products"
       }
     ]
   },
@@ -34,126 +26,128 @@
     "ok": true,
     "items": [
       {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "Cool way to use Claude Code: deciphering Linear A, a 3500 year old written language from Crete https://t.co/Aqd4ZG7Cum Hope this holds up in peer review! 🤞",
-        "url": "https://x.com/bcherny/status/2068064304503660962",
-        "createdAt": "2026-06-19T20:12:07.000Z",
-        "engagement": 1603
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "We built the Codex App with models that were okayish at front-end. Wait to see what we can do when we finally improve front-end capabilities significantly in our models. That day will be something.",
+        "url": "https://x.com/thsottiaux/status/2068568650924409260",
+        "createdAt": "2026-06-21T05:36:13.000Z",
+        "engagement": 3261,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Agents are motivating so many healthy software habits. Open APIs, documentation (skills), tests (evals), Unix (CLIs), payment &amp; commerce protocols, even wide 𝙰𝚌𝚌𝚎𝚙𝚝 use (markdown/json/html). The original vision of the WWW coming to life before our eyes.",
-        "url": "https://x.com/rauchg/status/2067936390285807940",
-        "createdAt": "2026-06-19T11:43:50.000Z",
-        "engagement": 1329,
+        "text": "Genuinely impressed, almost shocked, at how good GLM-5.2 by @zai_org is at coding. This changes things.",
+        "url": "https://x.com/rauchg/status/2068517095818809770",
+        "createdAt": "2026-06-21T02:11:21.000Z",
+        "engagement": 3118,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Remote / local handoff in Codex! Removing boundaries one at a time. When you let the model be in the driver seat, you actually need less infrastructure. https://t.co/sfFYixfXPl",
-        "url": "https://x.com/thsottiaux/status/2068120572673077274",
-        "createdAt": "2026-06-19T23:55:43.000Z",
-        "engagement": 1209,
+        "text": "Some tokens work harder than others. Some of the most valuable ones are found in the Codex app.",
+        "url": "https://x.com/thsottiaux/status/2068443037907522002",
+        "createdAt": "2026-06-20T21:17:04.000Z",
+        "engagement": 1212,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Late to this one, but follow @danshipper for S-tier codex tips. These days I spend more time in the codex app than all other apps combined on my Mac. https://t.co/fVTA5vLGy3",
-        "url": "https://x.com/thsottiaux/status/2068144722460475527",
-        "createdAt": "2026-06-20T01:31:40.000Z",
-        "engagement": 1009,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "AmandaAskell",
-        "name": "Amanda Askell",
-        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
-        "text": "The view that we shouldn't do more medical scans because incidental findings cause a lot of harm doesn't sit well with me. It seems like the issue it points to isn't the scan but the response to it. If you see something on a scan but have no other symptoms, you could ignore it.",
-        "url": "https://x.com/AmandaAskell/status/2068162191740764622",
-        "createdAt": "2026-06-20T02:41:05.000Z",
-        "engagement": 798
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "The next hot programming language is… markdown. A minimal eve agent: 📂 𝚊𝚐𝚎𝚗𝚝/ 📄 𝚒𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜.𝚖𝚍 📂 𝚜𝚔𝚒𝚕𝚕𝚜/ 📄 𝚢𝚘𝚞𝚛-𝚎𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎.𝚖𝚍 Deployable in one command: 𝚟𝚎𝚛𝚌𝚎𝚕. It’s the most accessible programming has ever been. And likely will e",
-        "url": "https://x.com/rauchg/status/2068165988005380478",
-        "createdAt": "2026-06-20T02:56:10.000Z",
-        "engagement": 657,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "AmandaAskell",
-        "name": "Amanda Askell",
-        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
-        "text": "I had chronic pain for most of my life until a doctor did an MRI of the pain source and found a congenital condition that was then fixed with surgery. Now I'm wondering if I had 30+ years of pain because doctors worried I was too stupid to be in the presence of scan results.",
-        "url": "https://x.com/AmandaAskell/status/2068218515723866477",
-        "createdAt": "2026-06-20T06:24:54.000Z",
-        "engagement": 580
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "If you are in Japan🇯🇵 or do business there, here's your chance to get lots of tokens! https://t.co/31g9yInYXX",
+        "url": "https://x.com/steipete/status/2068428180004942319",
+        "createdAt": "2026-06-20T20:18:02.000Z",
+        "engagement": 636,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
         "handle": "petergyang",
         "name": "Peter Yang",
         "bio": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co",
-        "text": "I used to be a die-hard Claude Code user. Codex has won me over because: → GPT-5.5 is excellent → Fast mode + generous limits = more reps → Little touches like steering, auto remote control on phone, etc But most of all Codex's browser and computer use capabilities are simply goa",
-        "url": "https://x.com/petergyang/status/2068175172960690266",
-        "createdAt": "2026-06-20T03:32:40.000Z",
-        "engagement": 355,
+        "text": "I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the point of trying local models… Also to try the latest glm locally requires 512 mb which is like a $10K Max Studio?",
+        "url": "https://x.com/petergyang/status/2068411894185295969",
+        "createdAt": "2026-06-20T19:13:19.000Z",
+        "engagement": 619,
         "textZh": "我用得最多的技能，没有之一，哈哈哈。"
-      },
-      {
-        "handle": "AmandaAskell",
-        "name": "Amanda Askell",
-        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
-        "text": "A counter to this is \"yes but people *don't* ignore it\". But not ignoring things on scans is our norm because, until recently, we only did scans if there was a clear need. If we move to a scan-more-often paradigm, the norms of what we do with that information will surely adjust.",
-        "url": "https://x.com/AmandaAskell/status/2068162192927756544",
-        "createdAt": "2026-06-20T02:41:06.000Z",
-        "engagement": 343
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "The main variable in getting success with agents is whether you can get the agent the context it needs to do its work; and a major factor in that is if you can create a shared working area for that agent that a human can understand as well. This is one of the reasons why agents u",
-        "url": "https://x.com/levie/status/2068068247413694532",
-        "createdAt": "2026-06-19T20:27:47.000Z",
-        "engagement": 338,
+        "text": "Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specific tasks, and getting close to frontier on some areas of coding and other domains. The more that open weights is able to maintain only a marginal gap from the fron",
+        "url": "https://x.com/levie/status/2068434042148782515",
+        "createdAt": "2026-06-20T20:41:19.000Z",
+        "engagement": 479,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "swyx",
-        "name": "Swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @dx",
-        "text": "Anthropic is going to IPO at $2T https://t.co/SHYMaH3v9q",
-        "url": "https://x.com/swyx/status/2068084391260426345",
-        "createdAt": "2026-06-19T21:31:56.000Z",
-        "engagement": 271,
-        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
+        "handle": "thenanyu",
+        "name": "Nan Yu",
+        "bio": "head of product @linear",
+        "text": "Why isn’t the default for pasted text in email apps to take on the font treatment surrounding/preceding it? Crazy that this is still a problem",
+        "url": "https://x.com/thenanyu/status/2068318470215811080",
+        "createdAt": "2026-06-20T13:02:05.000Z",
+        "engagement": 446
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Try https://t.co/NH6AWPWWkY and find out https://t.co/FWIESSlIy4",
+        "url": "https://x.com/garrytan/status/2068279782815801541",
+        "createdAt": "2026-06-20T10:28:21.000Z",
+        "engagement": 176,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "We posted for twenty years, thinking we were talking to each other. Then the transformer came online, and the network read what we’d written, and became itself.",
+        "url": "https://x.com/amasad/status/2068589860097790449",
+        "createdAt": "2026-06-21T07:00:29.000Z",
+        "engagement": 173,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
         "handle": "zarazhangrui",
         "name": "Zara Zhang",
         "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTub",
-        "text": "The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
-        "url": "https://x.com/zarazhangrui/status/2068094591220531583",
-        "createdAt": "2026-06-19T22:12:28.000Z",
-        "engagement": 257
+        "text": "I hoard X bookmarks and never read them. So I built an extension that injects a bookmarked post into my main feed every time I open X (almost like an ad). Now I read my bookmarks. The trick was hijacking real estate I already check 50 times a day https://t.co/pmrZGNaji5",
+        "url": "https://x.com/zarazhangrui/status/2068568920613953626",
+        "createdAt": "2026-06-21T05:37:17.000Z",
+        "engagement": 151
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "Come work for Replit Japan! https://t.co/66BI1n5FLn",
+        "url": "https://x.com/amasad/status/2068537084877643943",
+        "createdAt": "2026-06-21T03:30:47.000Z",
+        "engagement": 148,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTub",
+        "text": "Sometimes I wonder if joining a large company is actually riskier than joining a startup/starting your own company https://t.co/xthMKkxDTe",
+        "url": "https://x.com/zarazhangrui/status/2068522129193418759",
+        "createdAt": "2026-06-21T02:31:21.000Z",
+        "engagement": 147
       }
     ],
     "podcast": {
-      "name": "No Priors",
-      "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan",
-      "url": "https://www.youtube.com/watch?v=asCgCv2XB4s",
-      "publishedAt": "2026-06-18T10:00:00.000Z"
+      "name": "Unsupervised Learning",
+      "title": "AI Vibe Check: Lab Wars, Why APIs Might Vanish &amp; Future Predictions",
+      "url": "https://www.youtube.com/watch?v=W_iO8XxgD_I",
+      "publishedAt": "2026-06-12T12:51:00.000Z"
     }
   },
   "builderpulse": {
@@ -186,6 +180,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-06-22",
+      "aihotCount": 2,
+      "buildersCount": 12,
+      "bpBuild": "Interview Repo Quarantine"
+    },
     {
       "date": "2026-06-21",
       "aihotCount": 3,
@@ -221,12 +221,6 @@
       "aihotCount": 23,
       "buildersCount": 12,
       "bpBuild": "Dependency Security Calendar"
-    },
-    {
-      "date": "2026-06-15",
-      "aihotCount": 4,
-      "buildersCount": 12,
-      "bpBuild": "Offline Docs Packet"
     }
   ]
 }
