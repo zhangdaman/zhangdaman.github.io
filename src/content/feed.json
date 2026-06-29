@@ -1,80 +1,56 @@
 {
-  "generatedAt": "2026-06-28T05:16:10.759Z",
-  "date": "2026-06-28",
+  "generatedAt": "2026-06-29T05:50:04.133Z",
+  "date": "2026-06-29",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://github.com/kageroumado/adrafinil",
-        "summary": "Adrafinil 是一款 macOS 菜单栏应用，仅在 Claude Code、Codex、Cursor、Gemini CLI、Aider、Hermes、OpenCode、Cline、Pi 等 9 种 AI coding agent 持有活跃会话时阻止系统睡眠（包括合盖睡眠）。无 agent 工作时，合盖后 Mac 正常睡眠。它通过各 agent 的钩子系统调用 CLI，往返延迟低于 50ms，支持引用计数断言、热切出（温度阈值强制释放）、空闲释放及进程嗅探。需要 macO",
-        "publishedAt": "2026-06-28T03:55:17.096Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/969/570.htm",
-        "summary": "英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：AI主动检查全局状态仅占1-2%（感知盲区），计划后10回合内执行率仅48-66%（知行差距）。结论是智商非瓶颈，感知与执行才是关键。",
-        "publishedAt": "2026-06-28T02:45:16.000Z",
+        "title": "分享两个Vibe Coding必备的实用Prompt：第一性原理与对抗式审查",
+        "source": "公众号：数字生命卡兹克",
+        "url": "https://mp.weixin.qq.com/s/umPqTD_-IubbhXIgiS47eQ",
+        "summary": "作者分享Vibe Coding中两个关键Prompt：一是\"从第一性原理出发\"，强制AI跳出类比推理，从基本事实重新推导本质，曾帮作者发现AIHOT抓取海外信源的底层流量路由隐患并彻底重构；二是\"对抗式审查\"，让AI站在恶意用户角度攻防式审查代码，检出OOM死循环、未来时间污染等手工难发现的BUG。两个Prompt形成生成与验证闭环，使纯Vibe Coding项目AIHOT最近一周请求量超千万次。",
+        "publishedAt": "2026-06-29T02:08:00.000Z",
         "category": "tip"
       },
       {
-        "title": "SpaceX 注册 SpaceXAI 商标，将合并 xAI",
-        "source": "X：cb_doge (@cb_doge)",
-        "url": "https://x.com/cb_doge/status/2070973276562530507",
-        "summary": "消息：SpaceX 刚刚注册了\"SpaceXAI\"商标。\n\n埃隆·马斯克表示 xAI 将解散，不再作为独立公司，因此它将只是 SpaceXAI，SpaceX 的 AI 产品。",
-        "publishedAt": "2026-06-27T20:51:20.000Z",
-        "category": "industry"
+        "title": "Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度",
+        "source": "Nathan Lambert：Interconnects（RSS）",
+        "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+        "summary": "开源模型生态正变得更多元，参与者从少数中国公司扩展到全球各类组织。纯模型制造商包括 DeepSeek、智谱、MiniMax、Poolside、Arcee、Zyphra 及主权 AI 玩家 Cohere、Sovereign、Mistral、Trillion Labs；科技巨头如阿里 Qwen、Google Gemma 和 NVIDIA 各有不同动机；产品公司如 JetBrains、Zed、Krea、Photoroom 则训练高度专业的小模型。NVIDIA 发布 Nemotron",
+        "publishedAt": "2026-06-28T17:03:07.000Z",
+        "category": "tip"
       },
       {
-        "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
-        "source": "X：Berry Xia (@berryxia)",
-        "url": "https://x.com/berryxia/status/2070916520822321292",
-        "summary": "2026年6月26日，Mark Gurman称苹果Vision产品组副总裁Paul Meade下周离职加入OpenAI硬件部门。他负责Vision Pro、无屏幕AI智能眼镜及AR眼镜研发。苹果计划首款触控OLED MacBook使用M5 Pro/Max芯片，2026年底到2027年初发布；M7 Pro/Max版本2027年底跟进。苹果此前因涨价市值蒸发2300多亿美元。核心高管流失至OpenAI凸显AI硬件竞争加速。",
-        "publishedAt": "2026-06-27T17:05:48.000Z",
-        "category": "industry"
+        "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://github.com/itsthelore/wayfinder-router",
+        "summary": "Wayfinder Router 通过分析提示词的结构（长度、标题、列表、代码）和措辞（证明、数学、硬约束），在微秒级完成路由决策，完全离线且无需调用其他模型。默认仅使用结构特征，词汇线索因盲测未泛化而默认为关闭。对比依赖模型调用的路由器（如 RouteLLM、NotDiamond），它避免了延迟、成本和随机性。用户可在自有数据上校准评分阈值。支持任何 OpenAI 兼容 API（含 Ollama、Anthropic、Groq、vLLM 等），可自托管。提供终端和网页演示（-",
+        "publishedAt": "2026-06-28T16:58:56.073Z",
+        "category": "ai-products"
       },
       {
-        "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
-        "source": "MarkTechPost（RSS）",
-        "url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1",
-        "summary": "DeepSeek 发布 DSpark 投机解码框架并开源检查点与训练代码。该框架不是新模型，而是在 DeepSeek-V4 权重上附加草稿模块，通过半自回归生成（并行骨干 + 轻量级顺序头）实现无损加速。生产环境下，DeepSeek-V4-Flash 和 V4-Pro 每用户生成速度较 MTP-1 基线分别提升 60-85% 和 57-78%。离线测试中，接受长度比 Eagle3 高 26-31%，比 DFlash 高 16-18%。配套 DeepSpec 训练代码库采用 M",
-        "publishedAt": "2026-06-27T16:59:58.000Z",
+        "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "url": "https://x.com/elonmusk/status/2071184354756477041",
+        "summary": "Grok 4.5，基于我们的1.5T V9基础模型，并在补充训练中加入Cursor数据，现已在SpaceX和Tesla进入私测。初步评估显示其性能接近，或许超越Opus。\n\n强化学习仍在持续显著改进模型，Grok Build工具链也在日益完善。\n\n所有参与者的出色工作！\n\n今年，@SpaceX 将每月发布完全从头训练的新模型。",
+        "publishedAt": "2026-06-28T10:50:05.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
+        "summary": "普林斯顿大学推出CEO-Bench基准测试，让AI智能体在模拟环境中运营订阅软件公司NovaMind 500天，起始资金100万美元。14个测试模型中，仅Claude Fable 5（最佳轮次盈利4715万美元）、Claude Opus 4.8（2780万美元）和GPT-5.5（2130万美元）在最佳运行中超过起始资本。一个不调用语言模型的简单规则启发式方法通过固定定价、配额和针对性开发达到1576万美元，超越除上述三款外的所有模型。多数模型无法保持连贯策略，在模拟结束前破产",
+        "publishedAt": "2026-06-28T10:16:13.000Z",
         "category": "paper"
       },
       {
-        "title": "一次失败的（民族国家？）攻击的剖析",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-        "summary": "作者收到伪装成新加坡VC Lua Ventures的虚假面试邮件，要求完成一个TypeScript仓库的\"测试\"。作者将仓库交给Claude扫描，在`typescript+5.9.2.patch`中发现base64混淆载荷，该载荷在`patch-package`安装时触发，向`~/.cache-`等目录写入`payload.js`和`mutex.js`，构成后门（命名PinpinRAT）。攻击者使用虚构身份和空洞LinkedIn资料，目标是作者在crates.io上的Rust",
-        "publishedAt": "2026-06-27T15:39:53.429Z",
-        "category": "tip"
-      },
-      {
-        "title": "Runway API 推出广告本地化 Recipe",
-        "source": "X：Runway (@runwayml)",
-        "url": "https://x.com/runwayml/status/2070855164584726791",
-        "summary": "广告本地化现在可通过 Runway API 以 Recipe 形式使用。\n\n现在您可以通过单次 API 调用翻译静态广告和图形资产。",
-        "publishedAt": "2026-06-27T13:02:00.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
+        "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
         "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you",
-        "summary": "前美国商务部长Raimondo与前印第安纳州长Holcomb共同发起非营利\"Raise Us\"，目标为AI经济下工人再培训筹集10亿美元，已锁定5亿。Amazon、Anthropic、Microsoft、OpenAI等支持，引发独立性质疑。将在阿肯色、康涅狄格、马里兰、犹他四州试点，包括AI职业导航、服务年计划扩展、工资保险等。工作分州合作、雇主联盟、教育培训、政策实验室四大支柱。此前美国工人再培训效果不佳，计划能否成功尚待观察。",
-        "publishedAt": "2026-06-27T12:25:21.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/969/400.htm",
-        "summary": "美国企业面临 AI 账单失控，开始转向 Token 最小化策略。旧金山公司 Lindy 此前主要调用 Anthropic 的 Claude 模型，每月 AI 账单超支甚至超过员工工资。该公司 CEO 弗洛·克里维洛表示，本月初已将 100% 流量切换到 DeepSeek，预计未来几个月可节省数百万美元。企业开始采用按任务匹配模型的\"模型路由\"，不再将最贵的前沿模型用于所有场景。部分客户已决定暂停 AI 投入，待证明投资回报率后再继续。",
-        "publishedAt": "2026-06-27T08:16:09.000Z",
-        "category": "industry"
+        "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
+        "summary": "新浪发布仅3B参数的VibeThinker-3B，在AIME26等数学编程基准上持平DeepSeek V3.2等大200-333倍的模型，LiveCodeBench超越所有20B以下模型，LeetCode竞赛解决123/128题超过GPT-5.2、Kimi K2.5等。但知识密集型GPQA-Diamond大幅落后。模型基于阿里Qwen2.5-Coder-3B，经SFT、强化学习、自蒸馏等多阶段后训练。研究提出\"参数压缩-覆盖假说\"：逻辑推理依赖少数可压缩模式，而广泛世界知识仍",
+        "publishedAt": "2026-06-28T07:44:41.000Z",
+        "category": "ai-models"
       }
     ]
   },
@@ -82,130 +58,130 @@
     "ok": true,
     "items": [
       {
-        "handle": "mattturck",
-        "name": "Matt Turck",
-        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-        "text": "World Cup scoring strategies: Argentina: pass the ball to Messi Portugal: pass the ball to Ronaldo England: pass the ball to Kane Spain: pass the ball to Lamal France: pass the ball to Mbappé or Dembélé or Olise or Doué or Barcola or Cherki or Thuram or",
-        "url": "https://x.com/mattturck/status/2070597806025314608",
-        "createdAt": "2026-06-26T19:59:21.000Z",
-        "engagement": 24609,
-        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "We are giving all Codex users a usage reset on the house. Should be showing in your accounts in the next few hours. We have applied some mitigations, but our investigation hasn't shown users being impacted at large. We are continuing to monitor the situation. https://t.co/rLJrQdI",
-        "url": "https://x.com/thsottiaux/status/2070653282440405046",
-        "createdAt": "2026-06-26T23:39:48.000Z",
-        "engagement": 4280,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "in other news, we updated the 5.5 instant model used in chatgpt this week. i like its vibes.",
-        "url": "https://x.com/sama/status/2070612055225483692",
-        "createdAt": "2026-06-26T20:55:58.000Z",
-        "engagement": 4243,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "team cooked, spicily https://t.co/yLb6nqrus6",
-        "url": "https://x.com/sama/status/2070614666288795703",
-        "createdAt": "2026-06-26T21:06:21.000Z",
-        "engagement": 2829,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTub",
+        "text": "Last year I barely knew how GitHub worked. Now I have 10k followers on GitHub (and still can't write code by hand). What a year. https://t.co/sl3tjtySh5",
+        "url": "https://x.com/zarazhangrui/status/2070982013822333007",
+        "createdAt": "2026-06-27T21:26:03.000Z",
+        "engagement": 2226
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "The UI for AI is here. It's @shadcn https://t.co/bzgEEKO9Az",
-        "url": "https://x.com/rauchg/status/2070567538040422712",
-        "createdAt": "2026-06-26T17:59:05.000Z",
-        "engagement": 1776,
+        "text": "I now own https://t.co/I2grp6UkeV. Excited to give my children clean email handles. Domains are awesome. The internet is awesome.",
+        "url": "https://x.com/rauchg/status/2071085680017773046",
+        "createdAt": "2026-06-28T04:17:59.000Z",
+        "engagement": 1512,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Don’t be a mid startup It’s true https://t.co/SPC4y73HJQ",
-        "url": "https://x.com/garrytan/status/2070494207102595495",
-        "createdAt": "2026-06-26T13:07:41.000Z",
-        "engagement": 1453,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "I love how Apple notarization breaks multiple times a year until I manually log in and accept some new legal agreements.",
-        "url": "https://x.com/steipete/status/2070626638887555227",
-        "createdAt": "2026-06-26T21:53:55.000Z",
-        "engagement": 955,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "not quite all-you-can-eat tokens, but we are working on it",
-        "url": "https://x.com/sama/status/2070614769678393846",
-        "createdAt": "2026-06-26T21:06:45.000Z",
-        "engagement": 776,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "This is honestly no way to release a model and continued development and release this way is a solid way to salt the ground and kill all innovation by small startups https://t.co/tUjxFSunVI",
-        "url": "https://x.com/garrytan/status/2070699046939820223",
-        "createdAt": "2026-06-27T02:41:39.000Z",
-        "engagement": 642,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "So let me get this straight: 1. We publish frontier models 2. They get distilled into cheap open source models 3. US companies adopt the same open source models because they're good enough and much cheaper 4. We start gating access to frontier models What next? US companies innov",
-        "url": "https://x.com/petergyang/status/2070633838146134219",
-        "createdAt": "2026-06-26T22:22:32.000Z",
-        "engagement": 616,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "https://t.co/UCQ12NEtF3",
-        "url": "https://x.com/thsottiaux/status/2070557098342232321",
-        "createdAt": "2026-06-26T17:17:35.000Z",
-        "engagement": 404,
+        "text": "Tons of improvements landed in Codex. - Handles super long threads smoothly. - Hoverable navigation rail for previewing and jumping between turns that feels just right. - Settings search covers more controls, with clearer appearance and host-filtering options and easier-to-find c",
+        "url": "https://x.com/thsottiaux/status/2071071289247244481",
+        "createdAt": "2026-06-28T03:20:48.000Z",
+        "engagement": 1454,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "_catwu",
-        "name": "Cat Wu",
-        "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-        "text": "split screen is one of my fave claude code on desktop features! https://t.co/4ZQZjBnmvL",
-        "url": "https://x.com/_catwu/status/2070613405237432766",
-        "createdAt": "2026-06-26T21:01:20.000Z",
-        "engagement": 278
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Mythos / Sol cybersecurity capabilities are equally useful in an offensive as well a defensive capacity. If adversaries get ahold of an equivalent offensive capability, it poses a serious threat to US companies that remain unaware of latent vulnerabilities. In the meantime, I str",
+        "url": "https://x.com/rauchg/status/2071047674187714830",
+        "createdAt": "2026-06-28T01:46:58.000Z",
+        "engagement": 1282,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Me and my agents https://t.co/z3FIH7doEH",
+        "url": "https://x.com/rauchg/status/2070982746080715052",
+        "createdAt": "2026-06-27T21:28:58.000Z",
+        "engagement": 1029,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "\"History teaches us that access blockage rarely stops determined users.\" https://t.co/fsa6yuEjjs",
+        "url": "https://x.com/steipete/status/2071063588329193551",
+        "createdAt": "2026-06-28T02:50:12.000Z",
+        "engagement": 734,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Sol when operating Codex. Circa 2026 https://t.co/bOCl1QB56x",
+        "url": "https://x.com/thsottiaux/status/2071089307062837744",
+        "createdAt": "2026-06-28T04:32:24.000Z",
+        "engagement": 620,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "We getting Apple Car after all https://t.co/53qxFyVGRW",
+        "url": "https://x.com/steipete/status/2071017970953052160",
+        "createdAt": "2026-06-27T23:48:56.000Z",
+        "engagement": 541,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "Some good best practices here on AI token cost optimization. None of these happens though without a deep understanding of the underlying work being done in a non-abstract way. The ultimate implication is that a layer between the work itself and the underlying intelligence needs t",
+        "url": "https://x.com/levie/status/2070937863806751154",
+        "createdAt": "2026-06-27T18:30:37.000Z",
+        "engagement": 413,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "Got excited about the 52’ Dell, but it requires BetterDisplay hacking to get a usable resolution, but then I get weird flickers and also startup wake issues. [on M4 Max MBP] So, Apple wins this round, 2xXDR it is. https://t.co/MpRNpQJE8X",
+        "url": "https://x.com/steipete/status/2071034256051097799",
+        "createdAt": "2026-06-28T00:53:39.000Z",
+        "engagement": 346,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Talking to your plants isn't weird anymore. You can just codex things. https://t.co/RUAI7w1oPO",
+        "url": "https://x.com/thsottiaux/status/2071077932244570112",
+        "createdAt": "2026-06-28T03:47:12.000Z",
+        "engagement": 331,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "mattturck",
+        "name": "Matt Turck",
+        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "text": "Smart glasses and goggles, a history: Silicon Valley, 2013 (Google): “you really want this” Everyone: “no we don’t” Silicon Valley, 2016 (Microsoft): “ok but what if it’s for the enterprise” Enterprise: “maybe, but also, no” Silicon Valley, 2023 (Meta): “ok but what if they look ",
+        "url": "https://x.com/mattturck/status/2070972014945243622",
+        "createdAt": "2026-06-27T20:46:19.000Z",
+        "engagement": 321,
+        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
       }
     ],
     "podcast": {
-      "name": "No Priors",
-      "title": "Why Traditional Benchmarks Fail Modern AI Models with OpenAI Research Scientist Noam Brown",
-      "url": "https://www.youtube.com/watch?v=AZrU6y3pUcU",
-      "publishedAt": "2026-06-26T10:13:00.000Z"
+      "name": "Training Data",
+      "title": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin",
+      "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY",
+      "publishedAt": "2026-06-24T14:22:00.000Z"
     }
   },
   "builderpulse": {
@@ -239,6 +215,12 @@
   },
   "archive": [
     {
+      "date": "2026-06-29",
+      "aihotCount": 6,
+      "buildersCount": 12,
+      "bpBuild": "Interview Repo Quarantine"
+    },
+    {
       "date": "2026-06-28",
       "aihotCount": 9,
       "buildersCount": 12,
@@ -271,12 +253,6 @@
     {
       "date": "2026-06-23",
       "aihotCount": 17,
-      "buildersCount": 12,
-      "bpBuild": "Interview Repo Quarantine"
-    },
-    {
-      "date": "2026-06-22",
-      "aihotCount": 2,
       "buildersCount": 12,
       "bpBuild": "Interview Repo Quarantine"
     }
