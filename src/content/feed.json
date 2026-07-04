@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-03T04:40:53.904Z",
-  "date": "2026-07-03",
+  "generatedAt": "2026-07-04T04:34:35.325Z",
+  "date": "2026-07-04",
   "aihot": {
     "ok": true,
     "items": [
@@ -186,127 +186,126 @@
     "ok": true,
     "items": [
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Mega get, head of UC Berkeley EECS omg Anthropic is on a tear https://t.co/6lTQhG7BIo",
-        "url": "https://x.com/garrytan/status/2072331451270606933",
-        "createdAt": "2026-07-01T14:48:14.000Z",
-        "engagement": 2503,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Most underreported story in all of tech https://t.co/IfhGLmHwuL",
-        "url": "https://x.com/garrytan/status/2072402517397573717",
-        "createdAt": "2026-07-01T19:30:38.000Z",
-        "engagement": 1887,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
-        "text": "hello from AI engineer! https://t.co/J8sFn5pbyC",
-        "url": "https://x.com/trq212/status/2072360902964511171",
-        "createdAt": "2026-07-01T16:45:16.000Z",
-        "engagement": 1717,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
-        "text": "HTML mentioned https://t.co/lWYyfXjmWS",
-        "url": "https://x.com/trq212/status/2072366310416425053",
-        "createdAt": "2026-07-01T17:06:45.000Z",
-        "engagement": 1531,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "AI is cool i guess",
+        "text": "going to world cup games is always awesome, but watching the USA win in the USA during USA birthday week was just incredible",
+        "url": "https://x.com/sama/status/2072773542576586790",
+        "createdAt": "2026-07-02T20:04:57.000Z",
+        "engagement": 11410,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "It's happening https://t.co/PtS0ZoYL09",
-        "url": "https://x.com/thsottiaux/status/2072410623380468190",
-        "createdAt": "2026-07-01T20:02:50.000Z",
-        "engagement": 1506,
+        "text": "Can't wait to see what people will do with GPT-5.6 Sol Ultra. Stash your hardest prompts somewhere.",
+        "url": "https://x.com/thsottiaux/status/2072607914217320644",
+        "createdAt": "2026-07-02T09:06:48.000Z",
+        "engagement": 9998,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
+        "text": "I've heard a lot of questions about Fable's availability on subscription plans. While it will come off subscriptions after July 7th, we aim to restore Fable as a standard part of our subscriptions as soon as capacity allows, as we mentioned in our original blog post.",
+        "url": "https://x.com/trq212/status/2072814903170408784",
+        "createdAt": "2026-07-02T22:49:18.000Z",
+        "engagement": 7598,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Announcing Built with Claude: Life Sciences, a global virtual hackathon. Join us and @GladstoneInst for a week of researching and building with Claude Science and Claude Code, with a prize pool of $100k in credits. https://t.co/wzrSBHJgeP",
+        "url": "https://x.com/claudeai/status/2072681853971001849",
+        "createdAt": "2026-07-02T14:00:37.000Z",
+        "engagement": 5003
+      },
+      {
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "A conversation with Boris Cherny and Cat Wu on the path from Claude Code to Claude Tag, and how it spread from engineering to the rest of Anthropic. Claude Fable 5 is now available in Claude Tag. https://t.co/8oNM5WaWzj",
+        "url": "https://x.com/claudeai/status/2072725610061803522",
+        "createdAt": "2026-07-02T16:54:29.000Z",
+        "engagement": 2804
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "Artifacts in Claude Code have been life changing. Excited to expand to Pro and Max! https://t.co/JOD0KCPVuU",
+        "url": "https://x.com/bcherny/status/2072777472970563995",
+        "createdAt": "2026-07-02T20:20:34.000Z",
+        "engagement": 1854
+      },
+      {
+        "handle": "adityaag",
+        "name": "Aditya Agarwal",
+        "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @",
+        "text": "I took my son to the USMNT game yesterday against Bosnia. After the game I asked him his favorite part and he said: “the giant flag and the national anthem” This country has given us everything. Cannot be more grateful. https://t.co/OgsVN62Ilf",
+        "url": "https://x.com/adityaag/status/2072879173136474186",
+        "createdAt": "2026-07-03T03:04:41.000Z",
+        "engagement": 1024,
+        "textZh": "Schrep 和 Gigascale 团队在做一些很特别的事。他们是 @southpkcommons 被投公司的绝佳合作伙伴。@schrep 是我仰望已久的人，期待继续合作。"
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "https://t.co/gTrjV7mcxf https://t.co/7r4wY0VvO0",
-        "url": "https://x.com/garrytan/status/2072461457195950446",
-        "createdAt": "2026-07-01T23:24:50.000Z",
-        "engagement": 1315,
+        "text": "https://t.co/7AjibiQdzO https://t.co/KNv7PPykEU",
+        "url": "https://x.com/garrytan/status/2072846822566133768",
+        "createdAt": "2026-07-03T00:56:08.000Z",
+        "engagement": 883,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "All paid plans with usage included can access Fable 5 through July 7. You can use Fable 5 up to 50% of your weekly usage limit, after which you can switch to another model for the remainder of your usage. You can also continue using Fable via usage credits. More here: https://t.c",
-        "url": "https://x.com/claudeai/status/2072402639644766602",
-        "createdAt": "2026-07-01T19:31:07.000Z",
-        "engagement": 1134
+        "handle": "_catwu",
+        "name": "Cat Wu",
+        "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+        "text": "Claude Tag is unlocking productivity across our entire org: eng, product, data, sales, marketing. Our internal version lands 65% of product PRs. We cover the CEO/CTO playbook for rolling it out, why security was designed in from day one, and what this means for the future of work",
+        "url": "https://x.com/_catwu/status/2072731500928508331",
+        "createdAt": "2026-07-02T17:17:53.000Z",
+        "engagement": 510
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
+        "text": "See the post here: https://t.co/ayMkRPyJhl https://t.co/dfk3oMWVM6",
+        "url": "https://x.com/trq212/status/2072814904210509905",
+        "createdAt": "2026-07-02T22:49:18.000Z",
+        "engagement": 481,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "claudeai",
         "name": "Claude",
         "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Read the Fable 5 blog post here: https://t.co/iQymY0jQvY",
-        "url": "https://x.com/claudeai/status/2072402642836615273",
-        "createdAt": "2026-07-01T19:31:08.000Z",
-        "engagement": 763
+        "text": "The hackathon will run July 7-13. Apply by Sunday: https://t.co/eGlIcA0Cko",
+        "url": "https://x.com/claudeai/status/2072681856730792282",
+        "createdAt": "2026-07-02T14:00:37.000Z",
+        "engagement": 427
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "If one of your requests is mistakenly flagged in Claude Code, run /feedback to file a report. On https://t.co/XSKiQaAUU9 and Cowork, you can share feedback through the thumbs buttons. This feedback helps us further tune these classifiers and reduce false positives over time.",
-        "url": "https://x.com/claudeai/status/2072402640907162072",
-        "createdAt": "2026-07-01T19:31:07.000Z",
-        "engagement": 752
-      },
-      {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Now that building is easy, we’ve been increasingly focused on getting entrepreneurs to market, helping them reach their first customer and first dollar. Whop is one of the best places on the internet to monetize your creations — and now you can sell your Replit apps on there. htt",
-        "url": "https://x.com/amasad/status/2072385092824260748",
-        "createdAt": "2026-07-01T18:21:23.000Z",
-        "engagement": 530,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "I’m looking for a semi-private hack space for a few days in SF for me and some of the OpenClaw maintainers. We need to cook. DM leads my way 🙏🦞",
-        "url": "https://x.com/steipete/status/2072475858435276840",
-        "createdAt": "2026-07-02T00:22:04.000Z",
-        "engagement": 527,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "alexalbert__",
-        "name": "Alex Albert",
-        "bio": "Research @AnthropicAI. Opinions are my own!",
-        "text": "Welcome back to the world Fable!! https://t.co/krcdkuYId8",
-        "url": "https://x.com/alexalbert__/status/2072404717490360727",
-        "createdAt": "2026-07-01T19:39:22.000Z",
-        "engagement": 517
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "It’s time to build https://t.co/9RUcS7LncP",
+        "url": "https://x.com/garrytan/status/2072846648854954240",
+        "createdAt": "2026-07-03T00:55:27.000Z",
+        "engagement": 351,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       }
     ],
     "podcast": {
-      "name": "AI & I by Every",
-      "title": "The AI Workflows Behind Every's Consulting Team",
-      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
-      "publishedAt": "2026-07-01T15:57:56.000Z"
+      "name": "No Priors",
+      "title": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
+      "url": "https://www.youtube.com/watch?v=5Xvbq_zvOQ4",
+      "publishedAt": "2026-07-02T15:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -340,6 +339,12 @@
   },
   "archive": [
     {
+      "date": "2026-07-04",
+      "aihotCount": 22,
+      "buildersCount": 12,
+      "bpBuild": "Interview Repo Quarantine"
+    },
+    {
       "date": "2026-07-03",
       "aihotCount": 22,
       "buildersCount": 12,
@@ -372,12 +377,6 @@
     {
       "date": "2026-06-28",
       "aihotCount": 9,
-      "buildersCount": 12,
-      "bpBuild": "Interview Repo Quarantine"
-    },
-    {
-      "date": "2026-06-27",
-      "aihotCount": 10,
       "buildersCount": 12,
       "bpBuild": "Interview Repo Quarantine"
     }
