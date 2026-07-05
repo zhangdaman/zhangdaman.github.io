@@ -1,184 +1,32 @@
 {
-  "generatedAt": "2026-07-04T04:34:35.325Z",
-  "date": "2026-07-04",
+  "generatedAt": "2026-07-05T04:55:59.350Z",
+  "date": "2026-07-05",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/972/089.htm",
-        "summary": "7月3日，阿里达摩院联合中国人民大学、中国科学院大学发布首个超导材料发现AI智能体Elements Claw。该智能体采用\"专通融合\"架构，基于1.25亿分子/晶体结构预训练的1B参数原子基础模型Elements，判断超导性AUC达0.996，预测临界温度平均误差小于1K。AI仅用28个GPU小时筛选240万晶体结构，预测出6.8万个候选材料，其中4种（Hf21Re25、Zr4VRe7、HfZrRe4、Zr3ScRe8）已合成并验证超导性，临界温度最高6.5K。全部240万稳",
-        "publishedAt": "2026-07-03T03:27:15.000Z",
+        "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface",
+        "summary": "一项追踪26000名7-12年级中学生30个月的面板数据研究发现：使用AI后作业分数提升18%，完成时间从64分钟降至45分钟，但闭卷考试分数下降20%，升学考试成绩下降18%至24%，且完全影响约两年才显现。81%长期用户作业完成时间低于50分钟（外包迹象）。社会学科下降27%，STEM下降22%，英语下降17%，语文下降9%。每周使用AI一小时损失约5%，五小时损失30%。早期损失从约25%降至16%但未消失。",
+        "publishedAt": "2026-07-04T09:08:41.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
+        "source": "MarkTechPost（RSS）",
+        "url": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks",
+        "summary": "NVIDIA 联合密歇根大学、UIUC、UC Berkeley 等提出 ASPIRE，一个持续学习机器人框架。它通过协调器-执行器架构、闭环执行引擎、技能库和进化搜索，编写并优化机器人控制程序。编程智能体使用 Claude Code（Claude Opus 4.6，1M token 上下文窗口）。在 LIBERO-Pro 上最高比最强基线提升 77 分；Robosuite 双手交接成功率从 20% 提升至 92%；BEHAVIOR-1K 收音机拾取任务从 56% 提升至 88",
+        "publishedAt": "2026-07-04T06:32:47.000Z",
         "category": "paper"
       },
       {
-        "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
-        "source": "公众号：数字生命卡兹克",
-        "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
-        "summary": "作者用 Claude Fable 5 优化 AIHOT 网站的 SEO 与 GEO。模型自主启动 22 个 Agent 调研 40 分钟，发现豆包 App 每天六千多次访问未被统计等异常。规划境外加速时，否定 Claude Opus 4.8 的 Cloudflare 方案（无法国内直连/国外分流，且 2025 年起默认拦截 AI 爬虫），改用火山引擎 CDN。因需白名单，模型自行找到工单入口提交专业工单，22 分钟开通；发现工程师漏答回源 IP 网段问题，礼貌追问并补充备选方",
-        "publishedAt": "2026-07-03T00:16:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+        "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
         "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/971/971.htm",
-        "summary": "44岁的迈克尔·巴特勒驾驶特斯拉Model 3冲入得州住宅，致76岁玛莎·阿维拉死亡，现被控过失杀人。警方从其手机发现2026年5月多次搜索\"FSD不够激进\"\"特斯拉FSD过于保守\"等记录。特斯拉AI负责人称驾驶员将加速踏板踩到底（100%），手动操作覆盖了FSD。车辆数据显示，约6秒内加速踏板被完全踩下，时速升至117公里（超限速两倍），制动踏板始终未踩。阿维拉家属已起诉特斯拉和巴特勒，美国NHTSA和NTSB已介入调查。",
-        "publishedAt": "2026-07-02T23:43:15.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "扎克伯格称AI智能体开发速度未如预期",
-        "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-        "summary": "Meta CEO 扎克伯格在本周内部全体会议上表示，AI 智能体的开发速度并未像高管们此前预期的那样加速。今年早些时候Meta裁减约8000名员工（约占10%），并将另外7000人调至多个AI团队，包括Agent Transformation小组。扎克伯格称裁员不够\"干净\"，原因是高管担心公司无法足够快地适应技术行业变化。他还指出以AI为中心的新公司结构所预期的好处尚未实现，但相信未来三到六个月将开始看到AI投资的改善。路透社报道，Meta今年预计在AI基础设施上投入高达14",
-        "publishedAt": "2026-07-02T23:38:10.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-        "source": "MarkTechPost（RSS）",
-        "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-        "summary": "阿里巴巴发布 Page Agent，一个开源的 JavaScript 客户端库，嵌入网页后可通过自然语言指令直接操作 DOM 元素。与 Playwright、Puppeteer 等外部浏览器自动化工具不同，Page Agent 不依赖截图或多模态模型，而是将实时 DOM 脱水压缩为 FlatDomTree 文本映射，让纯文本模型精准执行点击、表单填写等操作。它继承用户 cookies 和会话，无需独立后端，并支持任意 OpenAI 兼容端点的模型（示例使用 `qwen3.5-",
-        "publishedAt": "2026-07-02T20:51:39.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "关于Mythos和网络安全的讨论并非炒作",
-        "source": "X：Ethan Mollick (@emollick)",
-        "url": "https://x.com/emollick/status/2072778376494895139",
-        "summary": "关于Mythos和网络安全的讨论并非炒作。\n（正如任何使用Fable进行自主工作的人可能已经认识到的那样。）",
-        "publishedAt": "2026-07-02T20:24:09.000Z",
+        "url": "https://www.ithome.com/0/972/526.htm",
+        "summary": "北京大学集成电路学院联合中科院上海微系统所，发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将单步运算时延压缩至2.12毫秒。芯片采用40纳米工艺，存内计算阵列与外围电路总面积0.28平方毫米，运行频率50 MHz，单步积分仅需9级流水。在脑皮层重建等任务中较当前GPU提速50至478倍，突破神经动力学实时计算瓶颈。相关成果7月3日发表于《科学》。",
+        "publishedAt": "2026-07-04T05:01:02.000Z",
         "category": "paper"
-      },
-      {
-        "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
-        "summary": "Microsoft 新设业务部门\"Frontier Company\"，拨款 25 亿美元，将 6000 名行业与工程专家派驻企业客户现场，\"共同设计、共同创新、部署并持续改进 AI 系统\"。该部门由 Rodrigo Kede Lima 领导，旨在超越\"前部署工程\"模式，成为\"最大、以结果为导向的工程组织\"。Microsoft 将自己定位为 OpenAI 和 Anthropic 的\"平台中立\"替代方案，后两者也已设立专门部署公司。Microsoft 将借助埃森哲、凯捷、安永等系",
-        "publishedAt": "2026-07-02T19:18:29.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Agent辅助的SGLang开发：初步探索",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "url": "https://www.lmsys.org/blog/2026-07-02-agent-assisted-sglang-development",
-        "summary": "SGLang团队将LLM服务、分布式运行时、GPU内核、扩散管道等工作流编码为可执行的SKILL.md文件、脚本、基准合约和审查循环。现有技能包括：SGLang .claude/skills（CUDA调试、内核集成、性能分析等）、SGLang diffusion .claude/skills（扩散模型添加与调优）、BBuf/AI-Infra-Auto-Driven-SKILLS（跨框架SOTA循环）、KDA（MLSys 2026 FlashInfer内核竞赛获胜方案）以及BB",
-        "publishedAt": "2026-07-02T18:37:56.676Z",
-        "category": "tip"
-      },
-      {
-        "title": "Claude Enterprise 新增用量与成本分析及支出管控功能",
-        "source": "Claude：Blog（网页）",
-        "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-        "summary": "Claude Enterprise 推出更丰富的管理分析工具和成本控制功能。仪表板现可按群组和用户分析用量与成本，支持按 SCIM 群组筛选，展示制品创建、文件编辑、技能和连接器对应的成本。Claude Code 管理控制台新增\"使用量\"和\"价值\"选项卡，分别显示活跃开发者、会话次数、常用命令，以及生产力提升估算、每次提交成本和年度价值估算。分析聊天支持自然语言查询并返回可导出图表。Analytics API 可将数据接入 Datadog Cloud Cost Managem",
-        "publishedAt": "2026-07-02T18:03:22.345Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "url": "https://x.com/OpenRouter/status/2072738704922439689",
-        "summary": "用 Fable 5 构建的鲁布·戈德堡机械，仅需 4.44 美元 👀\n提示词在此：https://www.reddit.com/r/openrouter/comments/1ulkilz/i_asked_claude_fable_5_to_build_a_rube_goldberg/",
-        "publishedAt": "2026-07-02T17:46:31.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-        "source": "X：Kim (@kimmonismus)",
-        "url": "https://x.com/kimmonismus/status/2072718147279335507",
-        "summary": "WSJ法庭文件显示，Anthropic CEO Dario Amodei与五角大楼副部长Emil Michael数月邮件往来，核心分歧在于Claude的军事用途护栏。Anthropic要求禁止全自主武器及某些监控用途，五角大楼则希望Claude可用于所有合法国家安全场景。Michael称若分歧太大不愿\"强行推动\"。随后五角大楼将Anthropic列为供应链风险，阻止合作伙伴在国防部项目中使用其模型。法官暂停部分措施，政府正在上诉。Michael称原先采用Anthropic的操",
-        "publishedAt": "2026-07-02T16:24:50.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "快手可灵AI获初始投资者20.28亿美元注资，投后估值180亿美元",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/971/954.htm",
-        "summary": "快手在港交所公告，21名初始投资者同意以138.24亿元人民币（20.28亿美元）现金注资北京可灵，后者将持有可灵AI相关资产。同日15名额外投资者追加出资52.235亿元人民币（7.6639亿美元），认购总上限为204.471亿元（30亿美元），对应北京可灵扩大后注册资本的16.67%。投后估值180亿美元。快手预计未来12个月内启动可灵AI赴港上市，募资用于扩充算力、建设数据中心及人才引进。",
-        "publishedAt": "2026-07-02T15:36:38.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/971/937.htm",
-        "summary": "据404 Media获取的内部资料，Atlassian、Adobe、亚马逊等六家企业正限制员工使用AI工具，要求改用能力较低的大模型避免成本失控。至少一家企业月度AI开销增至三倍，超1500万美元。花旗银行因GitHub改为按量计费，于6月24日禁用Claude Opus 4.6、4.7及GPT-5.5等旗舰模型。Adobe于6月30日终止Claude无限制使用协议。Atlassian数据显示其AI月支出从500万美元飙升至1500万美元，本财年预计超1.2亿美元。GitHu",
-        "publishedAt": "2026-07-02T14:22:49.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
-        "summary": "Remote Labor Index（RLI）衡量 AI 智能体完成 240 个付费自由职业项目（总值 14.4 万美元）的专业质量比例。最新结果显示，Fable 5 自动化率达 16.1%，是八个月前最佳系统 2.5% 的六倍多，也超过 Opus 4.8（8.3%）和 GPT-5.5（6.3%）。因美国政府限制访问，Fable 5 仅完成 218/240 个项目评估，最坏情况仍达 14.6%。Gemini 3 Pro 仅 1.25%，落后于更老模型。AI 裁判会高估模型表现",
-        "publishedAt": "2026-07-02T12:37:49.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-        "source": "X：邵猛 (@shao__meng)",
-        "url": "https://x.com/shao__meng/status/2072644710523691110",
-        "summary": "browser-use 团队推出面向 Codex、Claude Code 等 AI 编码智能体的开源 Skill「video-use」，让 LLM 通过 ElevenLabs Scribe 将音频转写为约 12KB 文本（含逐词时间戳、说话人分离、事件标记），仅在决策点调用 timeline_view.py 生成 PNG 帧图。技术流水线包括转写、打包、生成 JSON 格式 EDL、ffmpeg 渲染及最多 3 轮自评估。渲染关键细节：分段提取 + `-c copy` 拼接、",
-        "publishedAt": "2026-07-02T11:33:01.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "谷歌AI建设导致2025年用电量增长37%",
-        "source": "Ars Technica：AI（RSS）",
-        "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
-        "summary": "2025年，谷歌年度用电量同比上涨37%，创历史最大增幅。数据中心全年消耗超4200万兆瓦时，超过新西兰、丹麦、尼日利亚等国总用电量。自2019年以来，谷歌总用电量已增长超250%。用电激增主要来自Google Cloud、YouTube视频流及支撑AI产品和服务的数据中心建设与运营。公司表示，AI基础设施建设速度超过电网脱碳速度，但仍致力于扩大全球清洁电力规模，并通过技术创新降低运营排放。2024年谷歌用电量增幅为27%。",
-        "publishedAt": "2026-07-02T11:15:49.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://senior-swe-bench.snorkel.ai/",
-        "summary": "Senior SWE-Bench是一个开源基准测试，用于评估AI智能体完成高级软件工程师级别任务的能力。任务分功能开发与Bug修复两类：功能任务指令类似自然语言消息，采用验证智能体基于专家配方自动生成行为测试；Bug任务要求根据日志、profiling等运行时信息深入调查。排行榜显示，Claude Opus 4.8搭配Mini-SWE-Agent（max effort）通过率24.0%，Claude Sonnet 5为19.4%，GPT-5.5为16.0%，最强前沿模型在超7",
-        "publishedAt": "2026-07-02T11:04:07.048Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
-        "source": "公众号：千问APP（阿里）",
-        "url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
-        "summary": "千问团队2026年1月上线通用复杂任务Agent（千问App胶囊入口），总结\"多快好省\"方法论：支持信息搜集、研究分析等任务；执行时间降至初始1/3；通过搜索范式与上下文管理优化交付质量；Token消耗仅为海外产品1/10。团队探索从被动响应转向主动服务，构建User Memory、Environment、Task System、Assistant四大组件，指出\"情商\"是主动服务最难环节。朱达提出Agent工程从Prompt Engineering演进至Harness Eng",
-        "publishedAt": "2026-07-02T10:22:07.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "证监会同意宇树科技科创板 IPO 注册申请",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/971/790.htm",
-        "summary": "7月2日，证监会同意宇树科技股份有限公司首次公开发行股票并在科创板上市的注册申请。宇树科技是国内头部民用足式、人形机器人研发企业，全球四足机器人销量领先，2016年由王兴兴在杭州创立，截至2025年6月员工总数超1000人。公司核心优势在于实现关节电机、减速器、控制器等核心零部件全栈自研，关键部件成本仅为进口产品的约1/3。批复自同意注册之日起12个月内有效。",
-        "publishedAt": "2026-07-02T09:10:36.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-        "source": "MarkTechPost（RSS）",
-        "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-        "summary": "ghealth 是一款封装 Google Health API v4 的开源命令行工具，以单个 Go 二进制文件发布（Apache 2.0 协议）。它提供 40 种已验证的数据类型（包括步数、心率、睡眠、体重、血氧饱和度、心率变异性等）的结构化 JSON 输出。工具采用 Agent 优先设计，具备确定性退出码、--dry-run 和 --raw 标志，并附带两个 SKILL.md 文件供 AI 智能体使用。用户需自行创建 OAuth 凭据，通过 PKCE S256 认证。数据",
-        "publishedAt": "2026-07-02T08:46:56.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
-        "summary": "Kimi K2.7 Code 开源权重模型已在 GitHub Copilot 中正式可用，成为 Copilot 模型选择器首个可选的开源权重模型，为编程工作流提供更低成本选择。该模型由 GitHub 托管于 Microsoft Azure，按供应商列表价格以用量计费。逐步向 Copilot Pro、Pro+ 和 Max 计划用户推送，用户可在 Visual Studio Code 1.127.0 或更新版本、Visual Studio 17.14.6 或更新版本、JetBra",
-        "publishedAt": "2026-07-02T08:24:53.347Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "OpenAI提议美国政府持股5%估值426亿美元",
-        "source": "X：Testing Catalog (@testingcatalog)",
-        "url": "https://x.com/testingcatalog/status/2072585845542969583",
-        "summary": "据Financial Times和CNBC报道，OpenAI提议向美国政府提供公司5%的股份，按近期8520亿美元估值计算，价值约426亿美元。OpenAI CEO Sam Altman表示，此举是与公众分享AI发展红利的最佳方式。",
-        "publishedAt": "2026-07-02T07:39:07.000Z",
-        "category": "industry"
       }
     ]
   },
@@ -186,126 +34,128 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "going to world cup games is always awesome, but watching the USA win in the USA during USA birthday week was just incredible",
-        "url": "https://x.com/sama/status/2072773542576586790",
-        "createdAt": "2026-07-02T20:04:57.000Z",
-        "engagement": 11410,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
+        "text": "I’ve found the most important part of working with Fable is discovering my own unknowns so I can prompt it better, heres how I do that. https://t.co/CFUAjHoSI3",
+        "url": "https://x.com/trq212/status/2073101078145724589",
+        "createdAt": "2026-07-03T17:46:28.000Z",
+        "engagement": 3649,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Squidsoup is a collective of artists and designers who make immersive experiences with sound, light and space. We caught up with them before one of their largest projects to date: a live performance with an orchestra at the Southbank Centre in London. https://t.co/8wvgOYfotp",
+        "url": "https://x.com/claudeai/status/2073028947478995406",
+        "createdAt": "2026-07-03T12:59:50.000Z",
+        "engagement": 2801
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Can't wait to see what people will do with GPT-5.6 Sol Ultra. Stash your hardest prompts somewhere.",
-        "url": "https://x.com/thsottiaux/status/2072607914217320644",
-        "createdAt": "2026-07-02T09:06:48.000Z",
-        "engagement": 9998,
+        "text": "What it could have been https://t.co/HAzHOFvIzd",
+        "url": "https://x.com/thsottiaux/status/2073079378808901663",
+        "createdAt": "2026-07-03T16:20:14.000Z",
+        "engagement": 2576,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
-        "text": "I've heard a lot of questions about Fable's availability on subscription plans. While it will come off subscriptions after July 7th, we aim to restore Fable as a standard part of our subscriptions as soon as capacity allows, as we mentioned in our original blog post.",
-        "url": "https://x.com/trq212/status/2072814903170408784",
-        "createdAt": "2026-07-02T22:49:18.000Z",
-        "engagement": 7598,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "A LinkedIn DM can change your life 😅 https://t.co/RUWWrghNZd",
+        "url": "https://x.com/petergyang/status/2073231884059128063",
+        "createdAt": "2026-07-04T02:26:14.000Z",
+        "engagement": 1388,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Announcing Built with Claude: Life Sciences, a global virtual hackathon. Join us and @GladstoneInst for a week of researching and building with Claude Science and Claude Code, with a prize pool of $100k in credits. https://t.co/wzrSBHJgeP",
-        "url": "https://x.com/claudeai/status/2072681853971001849",
-        "createdAt": "2026-07-02T14:00:37.000Z",
-        "engagement": 5003
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "If you think codex sucks at design, try \"use imagegen to re-imagine this design and implement that\".",
+        "url": "https://x.com/steipete/status/2073277317464682723",
+        "createdAt": "2026-07-04T05:26:46.000Z",
+        "engagement": 1223,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "A conversation with Boris Cherny and Cat Wu on the path from Claude Code to Claude Tag, and how it spread from engineering to the rest of Anthropic. Claude Fable 5 is now available in Claude Tag. https://t.co/8oNM5WaWzj",
-        "url": "https://x.com/claudeai/status/2072725610061803522",
-        "createdAt": "2026-07-02T16:54:29.000Z",
-        "engagement": 2804
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.” Such beautiful, sacred words.",
+        "url": "https://x.com/rauchg/status/2073127044708479429",
+        "createdAt": "2026-07-03T19:29:38.000Z",
+        "engagement": 608,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "Artifacts in Claude Code have been life changing. Excited to expand to Pro and Max! https://t.co/JOD0KCPVuU",
-        "url": "https://x.com/bcherny/status/2072777472970563995",
-        "createdAt": "2026-07-02T20:20:34.000Z",
-        "engagement": 1854
-      },
-      {
-        "handle": "adityaag",
-        "name": "Aditya Agarwal",
-        "bio": "General Partner @SouthPkCommons, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @",
-        "text": "I took my son to the USMNT game yesterday against Bosnia. After the game I asked him his favorite part and he said: “the giant flag and the national anthem” This country has given us everything. Cannot be more grateful. https://t.co/OgsVN62Ilf",
-        "url": "https://x.com/adityaag/status/2072879173136474186",
-        "createdAt": "2026-07-03T03:04:41.000Z",
-        "engagement": 1024,
-        "textZh": "Schrep 和 Gigascale 团队在做一些很特别的事。他们是 @southpkcommons 被投公司的绝佳合作伙伴。@schrep 是我仰望已久的人，期待继续合作。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "https://t.co/7AjibiQdzO https://t.co/KNv7PPykEU",
-        "url": "https://x.com/garrytan/status/2072846822566133768",
-        "createdAt": "2026-07-03T00:56:08.000Z",
-        "engagement": 883,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Agentic self-improvement. Give your agent the ability to introspect its past runs, spot inefficiencies, errors, redundant tool calls, and produce new prompts and skills. That’s why agent observability is built-in when you deploy https://t.co/99eEa13mZ3 to Vercel. https://t.co/ksJ",
+        "url": "https://x.com/rauchg/status/2073132174958841887",
+        "createdAt": "2026-07-03T19:50:02.000Z",
+        "engagement": 543,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
         "handle": "_catwu",
         "name": "Cat Wu",
         "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-        "text": "Claude Tag is unlocking productivity across our entire org: eng, product, data, sales, marketing. Our internal version lands 65% of product PRs. We cover the CEO/CTO playbook for rolling it out, why security was designed in from day one, and what this means for the future of work",
-        "url": "https://x.com/_catwu/status/2072731500928508331",
-        "createdAt": "2026-07-02T17:17:53.000Z",
-        "engagement": 510
+        "text": "What are you building with Fable 5 this long weekend? Show me your demos in the replies! https://t.co/Sobb1XPcYX",
+        "url": "https://x.com/_catwu/status/2073147672106873001",
+        "createdAt": "2026-07-03T20:51:36.000Z",
+        "engagement": 498
       },
       {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
-        "text": "See the post here: https://t.co/ayMkRPyJhl https://t.co/dfk3oMWVM6",
-        "url": "https://x.com/trq212/status/2072814904210509905",
-        "createdAt": "2026-07-02T22:49:18.000Z",
-        "engagement": 481,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "I like my airplanes like I like my 𝚁𝚎𝚊𝚌𝚝.𝚌𝚛𝚎𝚊𝚝𝚎𝙴𝚕𝚎𝚖𝚎𝚗𝚝 syntax: JSX A glimmer of hope for how great airtravel could be again. Lightning quick onboarding, no security theater, Starlink, unstressed friendly staff, convenient terminals. https://t.co/D32Npuxvlg",
+        "url": "https://x.com/rauchg/status/2073119955709821372",
+        "createdAt": "2026-07-03T19:01:28.000Z",
+        "engagement": 312,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "The hackathon will run July 7-13. Apply by Sunday: https://t.co/eGlIcA0Cko",
-        "url": "https://x.com/claudeai/status/2072681856730792282",
-        "createdAt": "2026-07-02T14:00:37.000Z",
-        "engagement": 427
+        "handle": "_catwu",
+        "name": "Cat Wu",
+        "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+        "text": "Small tip: You can use Claude Code with computer use to set up Claude Tag. Just point it to the Claude Tag docs and it will connect your team’s GitHub repo, data warehouse, google drive, and other data sources for you!",
+        "url": "https://x.com/_catwu/status/2073149354412822738",
+        "createdAt": "2026-07-03T20:58:18.000Z",
+        "engagement": 279
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "It’s time to build https://t.co/9RUcS7LncP",
-        "url": "https://x.com/garrytan/status/2072846648854954240",
-        "createdAt": "2026-07-03T00:55:27.000Z",
-        "engagement": 351,
+        "text": "Wait time for specialists is going up at a moment AI is about to change it all I have a feeling AI will bring the quality of care up 100x and not a moment too soon for patients everywhere https://t.co/NSe7yiNSzS",
+        "url": "https://x.com/garrytan/status/2073053799791710301",
+        "createdAt": "2026-07-03T14:38:36.000Z",
+        "engagement": 272,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "The battle in AI is shaping up to be a battle for context. Everything in AI is about making sure that agents are effective as possible. That effectiveness comes down to whether the agent has the right domain expertise, access to the right context and tools to work with, and are i",
+        "url": "https://x.com/levie/status/2073138135014502777",
+        "createdAt": "2026-07-03T20:13:43.000Z",
+        "engagement": 271,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       }
     ],
     "podcast": {
-      "name": "No Priors",
-      "title": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
-      "url": "https://www.youtube.com/watch?v=5Xvbq_zvOQ4",
-      "publishedAt": "2026-07-02T15:00:00.000Z"
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "Why NVIDIA Is Giving Away AI Models | Bryan Catanzaro",
+      "url": "https://www.youtube.com/watch?v=Oojrfdl42LI",
+      "publishedAt": "2026-07-02T11:30:00.000Z"
     }
   },
   "builderpulse": {
@@ -339,6 +189,12 @@
   },
   "archive": [
     {
+      "date": "2026-07-05",
+      "aihotCount": 3,
+      "buildersCount": 12,
+      "bpBuild": "Interview Repo Quarantine"
+    },
+    {
       "date": "2026-07-04",
       "aihotCount": 22,
       "buildersCount": 12,
@@ -371,12 +227,6 @@
     {
       "date": "2026-06-29",
       "aihotCount": 6,
-      "buildersCount": 12,
-      "bpBuild": "Interview Repo Quarantine"
-    },
-    {
-      "date": "2026-06-28",
-      "aihotCount": 9,
       "buildersCount": 12,
       "bpBuild": "Interview Repo Quarantine"
     }
