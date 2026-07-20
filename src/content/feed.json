@@ -1,23 +1,79 @@
 {
-  "generatedAt": "2026-07-19T04:21:47.634Z",
-  "date": "2026-07-19",
+  "generatedAt": "2026-07-20T04:34:49.381Z",
+  "date": "2026-07-20",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+        "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+        "summary": "面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。",
+        "publishedAt": "2026-07-20T03:54:08.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-        "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
-        "publishedAt": "2026-07-19T02:49:15.657Z",
+        "url": "https://ollama.com/blog/all-aboard-open-models",
+        "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
+        "publishedAt": "2026-07-20T01:45:09.765Z",
+        "category": "industry"
+      },
+      {
+        "title": "不会代码也能做产品：一份从0开始的Vibe Coding保姆级教程",
+        "source": "公众号：数字生命卡兹克",
+        "url": "https://mp.weixin.qq.com/s/EeHjsju08ARLbwtwFcViqg",
+        "summary": "本文面向零代码用户，提供一套使用国产大模型（Kimi、GLM、Qwen等）从零开发并上线产品的完整流程。核心步骤包括购买Coding Plan、下载官方Agent编程产品、注册域名与服务器并同步做ICP备案，然后通过Agent的Plan模式描述需求并让AI自动执行开发。上线后建议建立分支保护与测试流程，并强调即使不懂代码，也必须对系统架构了如指掌。",
+        "publishedAt": "2026-07-20T00:08:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
+        "source": "TechCrunch：AI（RSS）",
+        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
+        "summary": "Nvidia CEO 黄仁勋在 7 月 15-16 日访日期间，宣布为日本建设\"Vera Rubin AI 工厂\"，配备 13，750 颗 Vera CPU 和 27，500 颗 Rubin GPU，预计 2028 年投运。",
+        "publishedAt": "2026-07-19T21:16:07.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
+        "source": "字节 Seed：Research Feed（网页内嵌数据）",
+        "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
+        "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
+        "publishedAt": "2026-07-19T16:00:00.000Z",
         "category": "ai-products"
       },
       {
-        "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-        "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
-        "summary": "Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临\"某种形式的再分配\"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。",
-        "publishedAt": "2026-07-18T04:47:25.000Z",
+        "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
+        "summary": "面壁智能联合OpenBMB发布端侧模型MiniCPM5-2B，以2B参数量在AA-Index榜单取得4B以下模型最高分17分，平均分54.26，超越Qwen3.5-2B等竞品。模型原生支持混合思考与512K上下文，已完成华为昇腾、英伟达等9款芯片的Day0适配，即将开源。",
+        "publishedAt": "2026-07-19T13:12:39.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+        "source": "公众号：昆仑万维（天工）",
+        "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
+        "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为\"世界模型元年\"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
+        "publishedAt": "2026-07-19T12:35:56.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
+        "summary": "Qwen3.8 即将发布并很快开源权重！🌐\n\n该模型拥有 2.4T 海量参数，正在持续进化。我们相信它是目前最强大的模型之一，可与领先的前沿 AI 模型媲美，仅次于 Fable 5。\n\n你无需等待即可测试。就在刚才，Qwen3.8-Max-Preview 已在阿里巴巴的 Token Plan、Qoder 和 QoderWork 上首次亮相。快来抢先体验吧。\n\n期待你的作品。敬请关注！🚀",
+        "publishedAt": "2026-07-19T08:10:39.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "AI 热潮正在瓦解全球决策机制",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
+        "summary": "一位拥有 300 多次行业交流经验的从业者观察到，全球公私机构正陷入集体性 AI 狂热，决策层要么没有计划，要么只能低头回避。过去一年半中，其团队所见的所有 AI 项目均以失败告终（成功率 0%），失败原因常与 LLM 能力无关，而是企业本就难以有效运行软件项目，且 AI 项目叠加了额外风险。内部聊天机器人几乎无人使用，客户服务聊天机器人也极少带来良好体验，例如三菱的语音客服承诺回电却六周未兑现。",
+        "publishedAt": "2026-07-19T05:13:24.607Z",
         "category": "tip"
       }
     ]
@@ -26,161 +82,167 @@
     "ok": true,
     "items": [
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Demand for Fable has been challenging to predict, ",
-        "url": "https://x.com/claudeai/status/2078302415804379218",
-        "createdAt": "2026-07-18T02:14:43.000Z",
-        "engagement": 32157
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "GPT-5.6 Sol confirmed to be an extremely good model https://t.co/nZaAnFhsPX",
-        "url": "https://x.com/thsottiaux/status/2078310751878647932",
-        "createdAt": "2026-07-18T02:47:51.000Z",
-        "engagement": 11308,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Oops... I did it again. Enjoy reset usage limits for all paid users for Codex and ChatGPT Work. Super grateful for an incredible team who is iterating at lightspeed and keeping the infra up as we scale faster than ever. Enjoy the weekend! https://t.co/WIuS07doKA https://t.co/3NwN",
-        "url": "https://x.com/thsottiaux/status/2078320950488297917",
-        "createdAt": "2026-07-18T03:28:22.000Z",
-        "engagement": 9678,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "We know this has been frustrating, and we want to give you more certainty about what your plan includes. We are making access standard at 50% usage for the plans that use Fable most intensively. Thank you for your patience over the past several weeks. We're continuing to invest i",
-        "url": "https://x.com/claudeai/status/2078302417100394737",
-        "createdAt": "2026-07-18T02:14:43.000Z",
-        "engagement": 3229
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Are we still talking loops or did we shift to graphs yet?",
-        "url": "https://x.com/steipete/status/2078277297791189132",
-        "createdAt": "2026-07-18T00:34:54.000Z",
-        "engagement": 2596,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "this is cool: https://t.co/X4HEmFym68",
-        "url": "https://x.com/sama/status/2078244242993164716",
-        "createdAt": "2026-07-17T22:23:34.000Z",
-        "engagement": 2152,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "And transitively might also have reset other rate limits out there. Let's see. You're welcome if so.",
-        "url": "https://x.com/thsottiaux/status/2078321266524881065",
-        "createdAt": "2026-07-18T03:29:37.000Z",
-        "engagement": 1188,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "swyx",
-        "name": "Swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @dx",
-        "text": "btw if you havent set your {codex | claude | gemini | devin} automations to autoresearch how to improve your seo/aeo every week you are really truly missing out on free, should-be-commoditizing-but-weirdly-untapped alpha",
-        "url": "https://x.com/swyx/status/2078244735794413786",
-        "createdAt": "2026-07-17T22:25:31.000Z",
-        "engagement": 1043,
-        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
-      },
-      {
         "handle": "trq212",
         "name": "Thariq",
         "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
-        "text": "building prototypes of mockups, schemas, data models, proof of concepts, etc. is the best way to avoid spending tons of tokens before realizing you don't want the output https://t.co/BjYeXC7zfk",
-        "url": "https://x.com/trq212/status/2078189833445654714",
-        "createdAt": "2026-07-17T18:47:21.000Z",
-        "engagement": 666,
+        "text": "This was due to a heroic effort by many people at Anthropic working sometimes literally around the clock It was not at all clear that we'd be able to do this in time, and so proud of everyone who made it happen. Enjoy Fable. https://t.co/qAtqPadj3L",
+        "url": "https://x.com/trq212/status/2078514180051906864",
+        "createdAt": "2026-07-18T16:16:12.000Z",
+        "engagement": 6869,
         "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Based on internal evals: ▪️ Kimi K3 is top-tier at cybersecurity There is chatter on X that Moonshot benchmark-overfit. These are stealth evals. Model has raw IQ. ▪️ Sol is a leap ahead in cyber capability At a significantly higher cost, but quite remarkable still. ▪️ Fable refus",
+        "url": "https://x.com/rauchg/status/2078647648307880209",
+        "createdAt": "2026-07-19T01:06:33.000Z",
+        "engagement": 1972,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ Summarizing mountains of documents ✅ Creating top-notch docs, sheet and slides Already in your mobile app or on https://t.co/WtXdTqu9lT, included in Plus, Pro, Business and Enterprise plans",
+        "url": "https://x.com/thsottiaux/status/2078697631019303273",
+        "createdAt": "2026-07-19T04:25:10.000Z",
+        "engagement": 1533,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "The term \"AGI\" has aged very poorly. AI can't possibly me more different from human intelligence. It's *far better* than human intelligence, for most economically-relevant tasks. But that doesn't make AIs better than humanity. There are wonderful things humans can do that these s",
+        "url": "https://x.com/rauchg/status/2078548458714406959",
+        "createdAt": "2026-07-18T18:32:24.000Z",
+        "engagement": 616,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "This post is key. The cheaper AI gets, the more opportunity there is for the entire ecosystem - especially including end-customers - to benefit. Everything is bottlenecked by being able to successfully and cost effectively deploy AI in real workloads. Any time we can lower the co",
-        "url": "https://x.com/levie/status/2078139206946459853",
-        "createdAt": "2026-07-17T15:26:11.000Z",
-        "engagement": 367,
+        "text": "It’s fairly obvious that gate keeping models will not work at scale. Competing in AI is too economically and strategically important for China at this point, and we’ve now crossed the rubicon where it’s clear that they can compete at near frontier levels. If this were even just 1",
+        "url": "https://x.com/levie/status/2078481578779685245",
+        "createdAt": "2026-07-18T14:06:39.000Z",
+        "engagement": 405,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "It's both amazing and painful to watch codex use browser + computer use to open Chrome, go to my PR, tap on comment and wrangle with the macOS picker - all TO UPLOAD AN IMAGE. GitHub has no API doesn't stop anyone. I let my codex run in VMs so they don't steal app focus. https://",
-        "url": "https://x.com/steipete/status/2078318731785359634",
-        "createdAt": "2026-07-18T03:19:33.000Z",
-        "engagement": 326,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "If you thought the value of the AI ecosystem was going to only accrue to a few companies, the past few months have represented a turning point in what the future of AI might look like. It's clear that there's going to be incredible innovation and growth coming out of the frontier",
+        "url": "https://x.com/levie/status/2078567715544121815",
+        "createdAt": "2026-07-18T19:48:55.000Z",
+        "engagement": 370,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "ya'all made me go crazy with codexbar icon customization issues, so I built an editor. (by me, I mean codex) https://t.co/edAthj1eZw",
-        "url": "https://x.com/steipete/status/2078264088644276598",
-        "createdAt": "2026-07-17T23:42:25.000Z",
-        "engagement": 313,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTub",
+        "text": "The biggest barrier for enterprise AI adoption: the people who understand AI don't understand the business, and the people who understand the business don't understand AI",
+        "url": "https://x.com/zarazhangrui/status/2078492577788268549",
+        "createdAt": "2026-07-18T14:50:21.000Z",
+        "engagement": 269
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "My job is basically delegating to ChatGPT Work now. Can't stop using dictation and have it do everything",
+        "url": "https://x.com/thsottiaux/status/2078697741455356367",
+        "createdAt": "2026-07-19T04:25:36.000Z",
+        "engagement": 231,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "My 8-year-old and I built a @ChatGPTapp Site to help her learn the multiplication tables. She loves animals, so we: → Used ChatGPT Images to generate the UI and characters → Added some awesome music → Even added a timed boss level 📌 Play it here: https://t.co/sN7YBohW5R https://",
+        "url": "https://x.com/petergyang/status/2078638568784994686",
+        "createdAt": "2026-07-19T00:30:28.000Z",
+        "engagement": 229,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Socialists want state controlled bread lines You know what creates abundance? Great functioning markets. https://t.co/fCnlPPGSEP",
+        "url": "https://x.com/garrytan/status/2078700313461301470",
+        "createdAt": "2026-07-19T04:35:49.000Z",
+        "engagement": 170,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "What I just dictated into ChatGPT Work > Okay, so I received a lot of DMs for, I did a call out for ChatGPT Work, basically early access beta group. I want you to go through all my DMs on Twitter and then just take all of them that mention ChatGPT Work. It's like a lot of them, t",
+        "url": "https://x.com/thsottiaux/status/2078702412085498087",
+        "createdAt": "2026-07-19T04:44:10.000Z",
+        "engagement": 137,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTub",
+        "text": "Everyone should develop their \"personal eval set\" for AI models: a few tasks that are actually relevant to your day-to-day work/life The industry benchmarks help but they might not reflect what will make it actually useful to you You find the model's capability boundary by poking",
+        "url": "https://x.com/zarazhangrui/status/2078666187026911488",
+        "createdAt": "2026-07-19T02:20:13.000Z",
+        "engagement": 136
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "OpenAI’s Compute Chief: We Can’t Build Fast Enough | Sachin Katti",
-      "url": "https://www.youtube.com/watch?v=wEZBlmvxx4o",
-      "publishedAt": "2026-07-16T11:30:01.000Z"
+      "name": "Unsupervised Learning",
+      "title": "Ep 90: AI Pioneer Jürgen Schmidhuber on the State of AI Today",
+      "url": "https://www.youtube.com/watch?v=RKjR8DQ40po",
+      "publishedAt": "2026-07-09T13:00:00.000Z"
     }
   },
   "builderpulse": {
     "ok": true,
-    "date": "2026-07-16",
-    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-07-16.md",
+    "date": "2026-07-20",
+    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-07-20.md",
     "zh": {
-      "lead": "最光鲜的故事，是一个拥有 9750 亿参数的新模型。真正能卖钱的故事，却是一条只有 5 条评论的抱怨：Fable credits became 150 times more expensive（Fable 点数贵了 150 倍），客户是在用量成本变得无法承受后才发现变化。对小团队来说，一次悄无声息的调价，造成的伤害可能比一次基准测试胜利带来的帮助更快。",
+      "lead": "所有人都在关注模型大战——Qwen 3.8 对 Kimi K3，2.4T 对 2.8T 参数——但钱并不在那里。钱在那些模型留出的缝隙里：阿里巴巴发布了一个 2.4T 开源权重模型，但 @simonw 居然连 API 都拿不到；Moonshot AI 被迫暂停 Kimi K3 新订阅，因为需求压垮了供给；Hacker News 上 547 个人在争论 Claude Code 切换到用 Rust 写的 Bun 到底是真的省钱了，还是只是把开销挪了个地方。三个模型故事，零个回答能解决买家唯一能回答的问题：下周这东西到底要花我多少钱？",
       "build": {
-        "title": "PriceShock Watch",
-        "oneLiner": "一个软件价格变更页面，在续费前向预算负责人准确展示点数、额度和实际单位成本发生了什么变化；灵感来自 Fable 据称高达 150 倍的点数涨价。"
+        "title": "`SkillCheck`",
+        "oneLiner": "一个针对单一开发者技能（SQL 联表、正则表达式或 Git 分支操作）的尖锐、聚焦的技能测试页面，提供即时的通过/失败反馈并追踪进步，瞄准\"免费编程练习网站\"搜索暴涨（本周 +3,550%）以及 OpenAI 的 27% Codex 上下文削减——开发者需要在 AI 工具回缩时仍然掌握基本功。"
       },
       "signals": [
-        "据报告，Fable’s credits 贵了 150 倍，暴露出软件买家很难看清单位价格变化。",
-        "Inkling 发布了完整权重：总参数 9750 亿、激活参数 410 亿的多模态模型，并引发 205 条讨论，焦点集中在定制能力与企业成本压力。",
-        "Firefox in WebAssembly 在一次据称耗资 $25K 的实验后引发 86 条讨论，证明把桌面软件装进浏览器是可行的，只是成本依然很高。"
+        "阿里巴巴发布 Qwen 3.8，一个 2.4T 参数开源权重模型，同时 Moonshot AI 暂停 Kimi K3 新订阅——546 条评论对比两者，但有一个清晰的赢家：没有谁有生产部署。",
+        "\"免费编程练习网站\"本周 Google 搜索暴涨 +3,550%，是今日数据中最锐利的一个意图信号，尚无主导产品填补需求。",
+        "OpenAI 将 Codex 可用上下文从 372k 降至 272k token——27% 的削减使得原本可行的提示词变得过长，引发 147 条运营者重新计算工作流的评论。"
       ]
     },
     "en": {
-      "lead": "The glamorous story is a new 975-billion-parameter model. The sellable story is a five-comment complaint: Fable credits became 150 times more expensive, and the customer discovered the change by watching usage become unaffordable. A quiet price change can hurt a small team faster than a benchmark win can help it.",
+      "lead": "The model war everyone is watching — Qwen 3.8 versus Kimi K3 at 2.4 trillion and 2.8 trillion parameters — is not where the money lives today. The money lives in the gap those models leave open: Alibaba announced a 2.4T open-weight model that @simonw cannot even get API access to, Moonshot AI had to suspend new Kimi K3 subscriptions because demand overwhelmed supply, and 547 people on Hacker News are debating whether Claude Code switching to Bun written in Rust actually changes their daily cost or just moves the overhead. Three model stories, zero improvements in the one question a buyer can answer: what will this cost me next week?",
       "build": {
-        "title": "PriceShock Watch",
-        "oneLiner": "a software-price change page that shows budget owners exactly what changed in credits, limits, and effective cost before renewal, prompted by Fable’s reported 150× credit increase."
+        "title": "SkillCheck",
+        "oneLiner": "a sharp, focused skill-testing page for one developer skill (SQL joins, regex, or Git branching) that gives instant pass/fail feedback and tracks improvement, targeting the \"free coding practice sites\" surge (+3,550% this week) and OpenAI's 27% Codex context cut — developers need to know the fundamentals when AI tools have less room to compensate."
       },
       "signals": [
-        "Fable’s credits were reported as 150 times more expensive, exposing how poorly software buyers see unit-price changes.",
-        "Inkling released full weights for a 975B-total, 41B-active multimodal model and drew 205 comments about customization and enterprise cost pressure.",
-        "Firefox in WebAssembly drew 86 comments after a reported $25K experiment, proving browser-contained desktop software is possible but still costly."
+        "Alibaba announced Qwen 3.8, a 2.4-trillion-parameter open-weight model, while Moonshot AI suspended new Kimi K3 subscriptions — 546 comments comparing the two, with one clear winner: nobody with a production deployment.",
+        "\"Free coding practice sites\" surged +3,550% in Google searches this week, the single sharpest intent signal in today's data, with no dominant product yet filling the demand.",
+        "OpenAI reduced Codex's usable context from 372k to 272k tokens — a 27% cut that makes previously workable prompts too long, drawing 147 comments of operators recalculating their workflows."
       ]
     }
   },
   "archive": [
+    {
+      "date": "2026-07-20",
+      "aihotCount": 9,
+      "buildersCount": 12,
+      "bpBuild": "`SkillCheck`"
+    },
     {
       "date": "2026-07-19",
       "aihotCount": 2,
@@ -216,12 +278,6 @@
       "aihotCount": 9,
       "buildersCount": 12,
       "bpBuild": "CleanRoom Receipt"
-    },
-    {
-      "date": "2026-07-13",
-      "aihotCount": 8,
-      "buildersCount": 12,
-      "bpBuild": "AntReady"
     }
   ]
 }
