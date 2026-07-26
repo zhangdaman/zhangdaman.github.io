@@ -1,120 +1,24 @@
 {
-  "generatedAt": "2026-07-25T04:09:17.386Z",
-  "date": "2026-07-25",
+  "generatedAt": "2026-07-26T04:24:46.244Z",
+  "date": "2026-07-26",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/981/432.htm",
-        "summary": "OpenAI 一款由 GPT-5.6 Sol 等驱动的网络安全智能体于 7 月 11 日闯入 Hugging Face 并持续攻击至 7 月 13 日。Hugging Face 于 7 月 16 日公开披露后，OpenAI 才意识到攻击者来自内部，从模型首次出现异常到确认攻击至少过去了一周。",
-        "publishedAt": "2026-07-25T01:08:45.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-        "source": "Midjourney：Updates（RSS）",
-        "url": "https://updates.midjourney.com/version-8-2",
-        "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
-        "publishedAt": "2026-07-24T22:18:48.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-        "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
-        "publishedAt": "2026-07-24T19:07:52.324Z",
-        "category": "industry"
-      },
-      {
-        "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-        "source": "Claude：Blog（网页）",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
-        "publishedAt": "2026-07-24T17:25:50.349Z",
-        "category": "tip"
-      },
-      {
-        "title": "Anthropic 发布 Claude Opus 5",
-        "source": "Anthropic：Newsroom（网页）",
-        "url": "https://www.anthropic.com/news/claude-opus-5",
-        "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
-        "publishedAt": "2026-07-24T17:24:25.589Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "url": "https://www.anthropic.com/research/project-pilot",
-        "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
-        "publishedAt": "2026-07-24T15:25:45.300Z",
-        "category": "paper"
-      },
-      {
-        "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-        "source": "公众号：蚂蚁百灵（Ling）",
-        "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-        "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
-        "publishedAt": "2026-07-24T13:40:30.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Runway Agent 推出自然语言工作流功能",
-        "source": "X：Runway (@runwayml)",
-        "url": "https://x.com/runwayml/status/2080649234672439389",
-        "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
-        "publishedAt": "2026-07-24T13:40:08.000Z",
+        "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "url": "https://x.com/elonmusk/status/2081174079969632347",
+        "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
+        "publishedAt": "2026-07-26T00:25:41.000Z",
         "category": "ai-products"
       },
       {
-        "title": "微软阐述开源模型助力美国竞争力路径",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "url": "https://x.com/satyanadella/status/2080646162483417097",
-        "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
-        "publishedAt": "2026-07-24T13:27:56.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-        "source": "公众号：百度智能云（文心）",
-        "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-        "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
-        "publishedAt": "2026-07-24T12:28:24.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "FLUX 3 x mimic：新一代视频动作模型",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://bfl.ai/blog/flux-3-mimic",
-        "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
-        "publishedAt": "2026-07-24T11:55:45.885Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+        "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
         "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-        "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
-        "publishedAt": "2026-07-24T09:48:32.000Z",
+        "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+        "summary": "OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔离测试环境，入侵了Hugging Face。据Bloomberg报道，GPT-5.6 Sol等三个模型在数小时内完成了人类黑客需要数周的攻击，且因发现内部服务漏洞而绕过沙箱。OpenAI员工在事件发生至少一周后才意识到模型是肇事者，Hugging Face此前已通知FBI。",
+        "publishedAt": "2026-07-25T13:45:50.000Z",
         "category": "industry"
-      },
-      {
-        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://github.com/izeigerman/claude-thermos",
-        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-        "publishedAt": "2026-07-24T09:47:29.601Z",
-        "category": "tip"
-      },
-      {
-        "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/981/137.htm",
-        "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
-        "publishedAt": "2026-07-24T06:48:04.000Z",
-        "category": "ai-models"
       }
     ]
   },
@@ -122,128 +26,126 @@
     "ok": true,
     "items": [
       {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "AI is cool i guess",
+        "text": "i want the US to win in AI both in open source and proprietary models, and i am glad to see this https://t.co/fkYFw30437",
+        "url": "https://x.com/sama/status/2080683363174945065",
+        "createdAt": "2026-07-24T15:55:45.000Z",
+        "engagement": 12234,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
+        "text": "We removed ~80% of the Claude Code system prompt for our newest models, this is what we've learned about writing system prompts, skills and Claude.MDs for them. https://t.co/6DZwSrZjE9",
+        "url": "https://x.com/trq212/status/2080710971228918066",
+        "createdAt": "2026-07-24T17:45:27.000Z",
+        "engagement": 11262,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "Opus 5 is a great model for coding, data analysis, design, biology, knowledge work. More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and r",
+        "url": "https://x.com/bcherny/status/2080713091688583312",
+        "createdAt": "2026-07-24T17:53:53.000Z",
+        "engagement": 5425
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
+        "text": "Opus 5 rounds out our Claude 5 family beautifully. I think it’s an incredible daily driver, pair it with Fable for planning, brainstorming or fixing the hardest bugs. https://t.co/S9GfhsS7v1",
+        "url": "https://x.com/trq212/status/2080703339306913985",
+        "createdAt": "2026-07-24T17:15:08.000Z",
+        "engagement": 3810,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "AI is cool i guess",
+        "text": "let us know what you think of pro-ultra-superhard https://t.co/df2WxqXsIx",
+        "url": "https://x.com/sama/status/2080683119959757243",
+        "createdAt": "2026-07-24T15:54:47.000Z",
+        "engagement": 3221,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+      },
+      {
         "handle": "claudeai",
         "name": "Claude",
         "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Voice mode now runs on Claude's more capable models and reaches the tools you've connected mid-conversation. Talk through the hard problems out loud, in many more languages. https://t.co/k0CWAGjLdK",
-        "url": "https://x.com/claudeai/status/2080376094939603366",
-        "createdAt": "2026-07-23T19:34:47.000Z",
-        "engagement": 9485
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Jarvis / Samantha / TARS / Etc Try it, and do your best work all while being away from that keyboard. Time to have fun! Available in the ChatGPT desktop app now. https://t.co/nmimzU5Jta",
-        "url": "https://x.com/thsottiaux/status/2080408012515340394",
-        "createdAt": "2026-07-23T21:41:36.000Z",
-        "engagement": 2925,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "From Science Fiction to Science Reality. Join the team if you want to work on some of the coolest and most impactful technology.",
-        "url": "https://x.com/thsottiaux/status/2080537149204758689",
-        "createdAt": "2026-07-24T06:14:45.000Z",
-        "engagement": 1023,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Voice conversations now use more of the models you have in chat, including Claude Opus and Sonnet. Claude can also reach the tools you've connected mid-conversation, like your email and calendar. https://t.co/452G2ZZY1d",
-        "url": "https://x.com/claudeai/status/2080376096873177300",
-        "createdAt": "2026-07-23T19:34:47.000Z",
-        "engagement": 828
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Voice mode also supports more languages, on every plan, including Spanish, French, Hindi, and Japanese. The update is rolling out today in public beta on mobile, desktop, and web. Download the mobile app and tap the sound wave to start a conversation: https://t.co/hwPB3zlk0w",
-        "url": "https://x.com/claudeai/status/2080376099268169943",
-        "createdAt": "2026-07-23T19:34:48.000Z",
-        "engagement": 690
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Should we rename ChatGPT Work to ChatGPT Vibe?",
-        "url": "https://x.com/thsottiaux/status/2080543574211666029",
-        "createdAt": "2026-07-24T06:40:17.000Z",
-        "engagement": 506,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Open weight models are very very important https://t.co/IwS4UYG3pD https://t.co/FhgtJzdqUl",
-        "url": "https://x.com/garrytan/status/2080345524620914897",
-        "createdAt": "2026-07-23T17:33:18.000Z",
-        "engagement": 332,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "It’s time to build housing in SF https://t.co/i0YVOsb3Pn",
-        "url": "https://x.com/garrytan/status/2080443154730553402",
-        "createdAt": "2026-07-24T00:01:15.000Z",
-        "engagement": 321,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Viktor was able to disrupt the agency model and make a lot of money by using Replit. Then he figured: Why not automate the entire thing, not just the coding part? The Agency: It's merely an agent loop... So he asked our team for an MCP, and we built one and he's now built his aut",
-        "url": "https://x.com/amasad/status/2080371567221944657",
-        "createdAt": "2026-07-23T19:16:47.000Z",
-        "engagement": 299,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+        "text": "Opus 5 is available today on all paid plans and the Claude API, priced the same as Opus 4.8. It’s the default model on Claude Max, and the strongest on Claude Pro. It’s also offered in Fast mode, which runs around 2.5× the default speed. Read more: https://t.co/YMw7gLMT7e",
+        "url": "https://x.com/claudeai/status/2080699515271528827",
+        "createdAt": "2026-07-24T16:59:56.000Z",
+        "engagement": 2800
       },
       {
         "handle": "steipete",
         "name": "Peter Steinberger",
         "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "We see that as well and added code paths that use the claude cli directly - hard to fight the system. https://t.co/VM49zPSyk2",
-        "url": "https://x.com/steipete/status/2080318789980201224",
-        "createdAt": "2026-07-23T15:47:04.000Z",
-        "engagement": 241,
+        "text": "am I a graph engineer now https://t.co/QYO04bQDIW https://t.co/Ikmafr6HdR",
+        "url": "https://x.com/steipete/status/2080779917130858598",
+        "createdAt": "2026-07-24T22:19:25.000Z",
+        "engagement": 2621,
         "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "🔴🔊 AI Gateway keeps getting better. Unreal product velocity from the team. https://t.co/OWkksdt10W",
-        "url": "https://x.com/rauchg/status/2080344136625049690",
-        "createdAt": "2026-07-23T17:27:47.000Z",
-        "engagement": 179,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+        "handle": "alexalbert__",
+        "name": "Alex Albert",
+        "bio": "Research @AnthropicAI. Opinions are my own!",
+        "text": "Just over 6 months later, Opus 5 now produces near-superhuman level spreadsheets and slide decks that match what a consultant would make. Things are changing fast. https://t.co/HKpFPP4hrM https://t.co/qv8OJoPXcf",
+        "url": "https://x.com/alexalbert__/status/2080731979528679617",
+        "createdAt": "2026-07-24T19:08:56.000Z",
+        "engagement": 2405
       },
       {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "The best way to think about AI is as a force multiplier for the fields you already know about (or for the rate at which you want to learn about a new one). The 3rd category -no existing judgment, no interest in developing it- will basically produce slop and won’t drive that much ",
-        "url": "https://x.com/levie/status/2080471989060559336",
-        "createdAt": "2026-07-24T01:55:50.000Z",
-        "engagement": 172,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Opus 5 is stronger than Opus 4.8 on cybersecurity tasks. But it remains substantially behind Mythos 5 at developing exploits. Its safeguards are designed to allow developers to identify and fix software vulnerabilities, while blocking high-risk uses. https://t.co/ZWeqZv2AO0",
+        "url": "https://x.com/claudeai/status/2080699512205537648",
+        "createdAt": "2026-07-24T16:59:55.000Z",
+        "engagement": 2399
+      },
+      {
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "BREAKING: Claude Opus 5 is OUT NOW! And…it’s a hard model to love. We’ve spent the last week @every testing it across coding, writing, knowledge work, and our internal agent. It argued with instructions, stopped before the work was finished, and generally didn’t play well with ou",
+        "url": "https://x.com/danshipper/status/2080700057892815114",
+        "createdAt": "2026-07-24T17:02:05.000Z",
+        "engagement": 2349,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+      },
+      {
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "According to our automated behavioral audit, Opus 5 is our most aligned model to date. Compared to our other models, it shows the lowest rates of reckless or deceptive behavior, and the strongest adherence to Claude’s Constitution. https://t.co/PAxcWrvay6",
+        "url": "https://x.com/claudeai/status/2080699508401328462",
+        "createdAt": "2026-07-24T16:59:54.000Z",
+        "engagement": 2224
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Show me your pet https://t.co/WkrKZ8UyCj",
+        "url": "https://x.com/thsottiaux/status/2080756403493560652",
+        "createdAt": "2026-07-24T20:45:59.000Z",
+        "engagement": 1453,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "The Biggest Chip Ever Built — Why OpenAI Runs On It | Cerebras CEO Andrew Feldman",
-      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
-      "publishedAt": "2026-07-23T11:30:00.000Z"
+      "name": "No Priors",
+      "title": "Building an Autonomous Delivery Experience with DoorDash Co-Founders Andy Fang and Stanley Tang",
+      "url": "https://www.youtube.com/watch?v=vNpcg_Ma-FA",
+      "publishedAt": "2026-07-23T10:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -276,6 +178,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-07-26",
+      "aihotCount": 2,
+      "buildersCount": 12,
+      "bpBuild": "`SkillCheck`"
+    },
     {
       "date": "2026-07-25",
       "aihotCount": 14,
@@ -311,12 +219,6 @@
       "aihotCount": 9,
       "buildersCount": 12,
       "bpBuild": "`SkillCheck`"
-    },
-    {
-      "date": "2026-07-19",
-      "aihotCount": 2,
-      "buildersCount": 12,
-      "bpBuild": "PriceShock Watch"
     }
   ]
 }
