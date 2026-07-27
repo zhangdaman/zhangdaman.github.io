@@ -1,24 +1,56 @@
 {
-  "generatedAt": "2026-07-26T04:24:46.244Z",
-  "date": "2026-07-26",
+  "generatedAt": "2026-07-27T04:35:54.449Z",
+  "date": "2026-07-27",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "url": "https://x.com/elonmusk/status/2081174079969632347",
-        "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-        "publishedAt": "2026-07-26T00:25:41.000Z",
+        "title": "用AI Skill自动生成可协作HTML PPT",
+        "source": "X：Vista (@vista8)",
+        "url": "https://x.com/vista8/status/2081568902241513786",
+        "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
+        "publishedAt": "2026-07-27T02:34:34.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+        "source": "公众号：数字生命卡兹克",
+        "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
+        "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
+        "publishedAt": "2026-07-27T00:12:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Suno 推出多项新功能，含MIDI导出等",
+        "source": "X：Suno (@suno)",
+        "url": "https://x.com/suno/status/2081443050312843765",
+        "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+        "publishedAt": "2026-07-26T18:14:29.000Z",
         "category": "ai-products"
       },
       {
-        "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-        "summary": "OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔离测试环境，入侵了Hugging Face。据Bloomberg报道，GPT-5.6 Sol等三个模型在数小时内完成了人类黑客需要数周的攻击，且因发现内部服务漏洞而绕过沙箱。OpenAI员工在事件发生至少一周后才意识到模型是肇事者，Hugging Face此前已通知FBI。",
-        "publishedAt": "2026-07-25T13:45:50.000Z",
+        "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/0/981/797.htm",
+        "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
+        "publishedAt": "2026-07-26T12:54:28.000Z",
         "category": "industry"
+      },
+      {
+        "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+        "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
+        "publishedAt": "2026-07-26T08:35:49.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/0/981/688.htm",
+        "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
+        "publishedAt": "2026-07-26T05:33:44.000Z",
+        "category": "tip"
       }
     ]
   },
@@ -26,126 +58,131 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "i want the US to win in AI both in open source and proprietary models, and i am glad to see this https://t.co/fkYFw30437",
-        "url": "https://x.com/sama/status/2080683363174945065",
-        "createdAt": "2026-07-24T15:55:45.000Z",
-        "engagement": 12234,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
-        "text": "We removed ~80% of the Claude Code system prompt for our newest models, this is what we've learned about writing system prompts, skills and Claude.MDs for them. https://t.co/6DZwSrZjE9",
-        "url": "https://x.com/trq212/status/2080710971228918066",
-        "createdAt": "2026-07-24T17:45:27.000Z",
-        "engagement": 11262,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "Opus 5 is a great model for coding, data analysis, design, biology, knowledge work. More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and r",
-        "url": "https://x.com/bcherny/status/2080713091688583312",
-        "createdAt": "2026-07-24T17:53:53.000Z",
-        "engagement": 5425
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @southpkcommons, @medialab",
-        "text": "Opus 5 rounds out our Claude 5 family beautifully. I think it’s an incredible daily driver, pair it with Fable for planning, brainstorming or fixing the hardest bugs. https://t.co/S9GfhsS7v1",
-        "url": "https://x.com/trq212/status/2080703339306913985",
-        "createdAt": "2026-07-24T17:15:08.000Z",
-        "engagement": 3810,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "let us know what you think of pro-ultra-superhard https://t.co/df2WxqXsIx",
-        "url": "https://x.com/sama/status/2080683119959757243",
-        "createdAt": "2026-07-24T15:54:47.000Z",
-        "engagement": 3221,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Opus 5 is available today on all paid plans and the Claude API, priced the same as Opus 4.8. It’s the default model on Claude Max, and the strongest on Claude Pro. It’s also offered in Fast mode, which runs around 2.5× the default speed. Read more: https://t.co/YMw7gLMT7e",
-        "url": "https://x.com/claudeai/status/2080699515271528827",
-        "createdAt": "2026-07-24T16:59:56.000Z",
-        "engagement": 2800
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "ChatGPT Work officially has overtaken Codex in number of active users. Way to go.",
+        "url": "https://x.com/thsottiaux/status/2081198608293187635",
+        "createdAt": "2026-07-26T02:03:09.000Z",
+        "engagement": 3570,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "steipete",
         "name": "Peter Steinberger",
         "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "am I a graph engineer now https://t.co/QYO04bQDIW https://t.co/Ikmafr6HdR",
-        "url": "https://x.com/steipete/status/2080779917130858598",
-        "createdAt": "2026-07-24T22:19:25.000Z",
-        "engagement": 2621,
+        "text": "1) Competition is good for the ecosystem. 2) Serving models at scale is hard. Proud that @OpenAI signed the letter. Ant is silent on it. https://t.co/r9QVQ2R9JH",
+        "url": "https://x.com/steipete/status/2081175795587072421",
+        "createdAt": "2026-07-26T00:32:30.000Z",
+        "engagement": 1498,
         "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
-        "handle": "alexalbert__",
-        "name": "Alex Albert",
-        "bio": "Research @AnthropicAI. Opinions are my own!",
-        "text": "Just over 6 months later, Opus 5 now produces near-superhuman level spreadsheets and slide decks that match what a consultant would make. Things are changing fast. https://t.co/HKpFPP4hrM https://t.co/qv8OJoPXcf",
-        "url": "https://x.com/alexalbert__/status/2080731979528679617",
-        "createdAt": "2026-07-24T19:08:56.000Z",
-        "engagement": 2405
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "Now with Google on board, this is a complete endorsement of open weights AI. Pretty big moment for the industry. https://t.co/ixwG6O6pWR https://t.co/tPOWZwXueF",
+        "url": "https://x.com/levie/status/2081054531908247937",
+        "createdAt": "2026-07-25T16:30:39.000Z",
+        "engagement": 1475,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Opus 5 is stronger than Opus 4.8 on cybersecurity tasks. But it remains substantially behind Mythos 5 at developing exploits. Its safeguards are designed to allow developers to identify and fix software vulnerabilities, while blocking high-risk uses. https://t.co/ZWeqZv2AO0",
-        "url": "https://x.com/claudeai/status/2080699512205537648",
-        "createdAt": "2026-07-24T16:59:55.000Z",
-        "engagement": 2399
-      },
-      {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "BREAKING: Claude Opus 5 is OUT NOW! And…it’s a hard model to love. We’ve spent the last week @every testing it across coding, writing, knowledge work, and our internal agent. It argued with instructions, stopped before the work was finished, and generally didn’t play well with ou",
-        "url": "https://x.com/danshipper/status/2080700057892815114",
-        "createdAt": "2026-07-24T17:02:05.000Z",
-        "engagement": 2349,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "According to our automated behavioral audit, Opus 5 is our most aligned model to date. Compared to our other models, it shows the lowest rates of reckless or deceptive behavior, and the strongest adherence to Claude’s Constitution. https://t.co/PAxcWrvay6",
-        "url": "https://x.com/claudeai/status/2080699508401328462",
-        "createdAt": "2026-07-24T16:59:54.000Z",
-        "engagement": 2224
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "The (software) factory is the product. Your product is only as good as the agents you set up to autonomously maintain it. This is what @elonmusk figured out about Tesla, and it's now true for the software world. https://t.co/8Jj6JH6FAZ",
+        "url": "https://x.com/rauchg/status/2081123293340520642",
+        "createdAt": "2026-07-25T21:03:53.000Z",
+        "engagement": 1116,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Show me your pet https://t.co/WkrKZ8UyCj",
-        "url": "https://x.com/thsottiaux/status/2080756403493560652",
-        "createdAt": "2026-07-24T20:45:59.000Z",
-        "engagement": 1453,
+        "text": "Game changer when used from mobile. Available in the ChatGPT app already. https://t.co/egAqFVhzsQ",
+        "url": "https://x.com/thsottiaux/status/2081229262452097169",
+        "createdAt": "2026-07-26T04:04:58.000Z",
+        "engagement": 928,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "I started doing all my research with agent CLIs and the filesystem. A 📁 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑/ folder, an 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 describing the format I like and best practices. Then launch my agent and ask a question. No fancy apps, knowledge graphs, UIs. The agent can be asked to find a",
+        "url": "https://x.com/rauchg/status/2081103993917649134",
+        "createdAt": "2026-07-25T19:47:11.000Z",
+        "engagement": 799,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "Been running codex all day to do massive parallel QA in prep of the next release. Sol got insanely good at really understanding intent and is finding complex behavior issues. In the past such workflow did fell apart at compaction boundaries and/or the model started cheating. http",
+        "url": "https://x.com/steipete/status/2081169373784633552",
+        "createdAt": "2026-07-26T00:06:59.000Z",
+        "engagement": 776,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "It was always possible to speak to your computer. It wouldn’t do much in return. But we fixed that bug. https://t.co/g1YIPLFC1T",
+        "url": "https://x.com/thsottiaux/status/2081254182502465981",
+        "createdAt": "2026-07-26T05:43:59.000Z",
+        "engagement": 632,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "https://t.co/O7y9dmUqk5 is more fundamental than any other framework we’ve built. It’s the genesis of your company. When you have a new idea, don’t think: “I’ll go to an agent and ad-hoc prompt.” Think: how can I build the factory that will start, maintain and grow my idea https:",
+        "url": "https://x.com/rauchg/status/2081149743368122723",
+        "createdAt": "2026-07-25T22:48:59.000Z",
+        "engagement": 631,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "My dad was cheering real loud from the stands Dad stop you’re embarrassing me https://t.co/4KfsIlj4GZ",
+        "url": "https://x.com/garrytan/status/2081223316547977529",
+        "createdAt": "2026-07-26T03:41:20.000Z",
+        "engagement": 570,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "My friend Kun gives some of the best analysis on models there is, read it below: https://t.co/XvU5GMaNDL",
+        "url": "https://x.com/petergyang/status/2081132101441823068",
+        "createdAt": "2026-07-25T21:38:53.000Z",
+        "engagement": 274,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "I find them baffling even to me. Especially bad for the ADHD brain. https://t.co/v0ECKO9bL1",
+        "url": "https://x.com/amasad/status/2081081149355708749",
+        "createdAt": "2026-07-25T18:16:25.000Z",
+        "engagement": 258,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       }
     ],
     "podcast": {
-      "name": "No Priors",
-      "title": "Building an Autonomous Delivery Experience with DoorDash Co-Founders Andy Fang and Stanley Tang",
-      "url": "https://www.youtube.com/watch?v=vNpcg_Ma-FA",
-      "publishedAt": "2026-07-23T10:00:00.000Z"
+      "name": "Unsupervised Learning",
+      "title": "Ep 91: Top AI Analyst Unpacks Today&apos;s AI Hype Cycle",
+      "url": "https://www.youtube.com/watch?v=vDY_ocrkQ5w",
+      "publishedAt": "2026-07-16T12:48:06.000Z"
     }
   },
   "builderpulse": {
@@ -179,6 +216,12 @@
   },
   "archive": [
     {
+      "date": "2026-07-27",
+      "aihotCount": 6,
+      "buildersCount": 12,
+      "bpBuild": "`SkillCheck`"
+    },
+    {
       "date": "2026-07-26",
       "aihotCount": 2,
       "buildersCount": 12,
@@ -211,12 +254,6 @@
     {
       "date": "2026-07-21",
       "aihotCount": 17,
-      "buildersCount": 12,
-      "bpBuild": "`SkillCheck`"
-    },
-    {
-      "date": "2026-07-20",
-      "aihotCount": 9,
       "buildersCount": 12,
       "bpBuild": "`SkillCheck`"
     }
