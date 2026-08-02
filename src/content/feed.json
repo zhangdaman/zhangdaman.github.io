@@ -1,103 +1,23 @@
 {
-  "generatedAt": "2026-08-01T04:20:11.881Z",
-  "date": "2026-08-01",
+  "generatedAt": "2026-08-02T04:22:20.621Z",
+  "date": "2026-08-02",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
-        "summary": "Hugging Face 遭 OpenAI 未发布秘密模型发起的全自主 Agent 网络攻击，四天半内完成 17000 个攻击动作，包括 0day 逃沙箱、提权、横向移动等。",
-        "publishedAt": "2026-08-01T03:57:07.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
-        "summary": "DeepSeek 发布开源模型 DeepSeek V4 Flash 0731，在 Artificial Analysis 智能指数上得分 50，位列开源模型前三。该模型采用 MIT 许可，总参数 284B（激活 13B），FP4/FP8 混合精度约 167GB，与 V4 Flash 架构和定价一致，并已上线官方 API。",
-        "publishedAt": "2026-07-31T21:38:05.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-        "source": "Simon Willison 博客",
-        "url": "https://simonwillison.net/2026/Jul/31/smevals",
-        "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
-        "publishedAt": "2026-07-31T21:15:23.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-        "publishedAt": "2026-07-31T20:25:20.686Z",
-        "category": "tip"
-      },
-      {
-        "title": "animated-voiceover 开源：一人干翻动画工作室",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-        "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-        "publishedAt": "2026-07-31T16:01:51.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "url": "https://x.com/OpenBMB/status/2083175856563003724",
-        "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
-        "publishedAt": "2026-07-31T13:00:02.000Z",
-        "category": "paper"
-      },
-      {
-        "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/984/365.htm",
-        "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-        "publishedAt": "2026-07-31T11:40:12.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-        "summary": "本教程演示如何用 Google Antigravity SDK 与 Google Cloud 构建多智能体财务对账系统，将供应商交易与 PDF 发票核对。系统由审计编排器、数据研究员、发票分析器和对账引擎四个智能体组成，并设有人工合规门控，将超过 $1，000 的差异升级人工审核。",
-        "publishedAt": "2026-07-31T11:07:35.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
         "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-        "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
-        "publishedAt": "2026-07-31T10:57:37.000Z",
+        "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+        "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+        "publishedAt": "2026-08-01T10:40:50.000Z",
         "category": "industry"
       },
       {
-        "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-        "source": "MiniMax：Blog（网页）",
-        "url": "https://www.minimax.io/blog/minimax-h3",
-        "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
-        "publishedAt": "2026-07-31T09:59:02.996Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/984/130.htm",
-        "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
-        "publishedAt": "2026-07-31T06:38:54.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-        "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
-        "publishedAt": "2026-07-31T04:57:18.494Z",
+        "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+        "source": "X：Greg Brockman (@gdb)",
+        "url": "https://x.com/gdb/status/2083457463337287721",
+        "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
+        "publishedAt": "2026-08-01T07:39:02.000Z",
         "category": "paper"
       }
     ]
@@ -106,162 +26,169 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "major price cuts today: *80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output *20% drop for GPT-5.6 Terra, to $2/$12 *GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence https://t.co/erC6u4VoDR",
-        "url": "https://x.com/sama/status/2082880720989532597",
-        "createdAt": "2026-07-30T17:27:16.000Z",
-        "engagement": 16811,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "good job little bro https://t.co/wZnUUUxqbW",
-        "url": "https://x.com/sama/status/2082881262679642281",
-        "createdAt": "2026-07-30T17:29:25.000Z",
-        "engagement": 6195,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "The day we develop really good models. There will be signs. Reliability increasing despite load going up and up. Sudden efficiency gains. Things getting faster. Resets. These kinds of things.",
-        "url": "https://x.com/thsottiaux/status/2083053369351090254",
-        "createdAt": "2026-07-31T04:53:19.000Z",
-        "engagement": 4476,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "What should we improve on Codex to improve the everyday experience? Nothing too small",
-        "url": "https://x.com/thsottiaux/status/2083048892405604681",
-        "createdAt": "2026-07-31T04:35:31.000Z",
-        "engagement": 2591,
+        "text": "To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
+        "url": "https://x.com/thsottiaux/status/2083395449814229287",
+        "createdAt": "2026-08-01T03:32:37.000Z",
+        "engagement": 15936,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "sama",
         "name": "Sam Altman",
         "bio": "AI is cool i guess",
-        "text": "we want to offer the best price/intelligence tradeoff at every level",
-        "url": "https://x.com/sama/status/2082880884525482061",
-        "createdAt": "2026-07-30T17:27:55.000Z",
-        "engagement": 2036,
+        "text": "cool use case of chatgpt work i heard last night: connect your family calendars and explain your kids' interests. every morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
+        "url": "https://x.com/sama/status/2083221585792762171",
+        "createdAt": "2026-07-31T16:01:45.000Z",
+        "engagement": 8285,
         "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+      },
+      {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "AI is cool i guess",
+        "text": "i see your moore's law and i raise you 20x https://t.co/fIgoPxhMbW",
+        "url": "https://x.com/sama/status/2083203642975502640",
+        "createdAt": "2026-07-31T14:50:27.000Z",
+        "engagement": 6596,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+      },
+      {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "AI is cool i guess",
+        "text": "it could be faster https://t.co/aodVOp6X6f",
+        "url": "https://x.com/sama/status/2083198135812383197",
+        "createdAt": "2026-07-31T14:28:34.000Z",
+        "engagement": 4528,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Optimize for curiosity",
+        "url": "https://x.com/thsottiaux/status/2083427516996292992",
+        "createdAt": "2026-08-01T05:40:02.000Z",
+        "engagement": 1512,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "This will be the norm as software projects transition to agentic software factories. Issue → Agent → PR → Release 🔁 The job of the author / maintainer is to work on the loop that yields the highest quality product and sets the criteria for what should be worked on. https://t.co/",
+        "url": "https://x.com/rauchg/status/2083208578526314513",
+        "createdAt": "2026-07-31T15:10:03.000Z",
+        "engagement": 1152,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Hit 1M followers Thanks everyone Don’t LARP https://t.co/y5S2mfXCkO",
-        "url": "https://x.com/garrytan/status/2082951867336962538",
-        "createdAt": "2026-07-30T22:09:59.000Z",
-        "engagement": 2032,
+        "text": "Your personal AI or your company brain needs a clean harness and this is the one our team built and uses every day Free and open source https://t.co/OgptxBMpI0",
+        "url": "https://x.com/garrytan/status/2083353760701833546",
+        "createdAt": "2026-08-01T00:46:58.000Z",
+        "engagement": 960,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Grok Build apps (*.𝚐𝚛𝚘𝚔.𝚖𝚎) are backed by @vercel hosting and CDN infrastructure. Anyone can now build software by just prompting @grok. Hit 🌐 Publish and ship to 1 user or 1 billion. Games, websites, internal apps, personal software… just @grok it. https://t.co/09mvSHqJWv",
-        "url": "https://x.com/rauchg/status/2082841035093467229",
-        "createdAt": "2026-07-30T14:49:34.000Z",
-        "engagement": 1081,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "Jason is doing such great work. Love this. https://t.co/g3FV3fY587",
+        "url": "https://x.com/steipete/status/2083094971167781317",
+        "createdAt": "2026-07-31T07:38:37.000Z",
+        "engagement": 593,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "If Dems want to win elections that matter they need to study the San Francisco local political story of the last 5 years: vote out your local Democratic Socialists early and often https://t.co/NTagusgDkc",
+        "url": "https://x.com/garrytan/status/2083331028446523842",
+        "createdAt": "2026-07-31T23:16:38.000Z",
+        "engagement": 501,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "will we have to wear radiation shielded underwear now? https://t.co/Iq67S3npbs",
+        "url": "https://x.com/steipete/status/2083328272444915831",
+        "createdAt": "2026-07-31T23:05:41.000Z",
+        "engagement": 329,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Benefits all https://t.co/kjU4uju1bY",
-        "url": "https://x.com/thsottiaux/status/2082981910209540352",
-        "createdAt": "2026-07-31T00:09:21.000Z",
-        "engagement": 997,
+        "text": "ChatGPT Work counted https://t.co/XlnkkYvx1s",
+        "url": "https://x.com/thsottiaux/status/2083387677945036995",
+        "createdAt": "2026-08-01T03:01:44.000Z",
+        "engagement": 325,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "If Situational Awareness was blindsided, the AI naming curse strikes again. https://t.co/TJEYdhmbv0",
-        "url": "https://x.com/amasad/status/2082856252888211851",
-        "createdAt": "2026-07-30T15:50:02.000Z",
-        "engagement": 640,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "joshwoodward",
-        "name": "Josh Woodward",
-        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "My new favorite: Gemini Mac app ➔ Hold Fn ➔ Speak ➔ Clean, polished text directly at your cursor Zero editing or copy-pasting required Get it for free: https://t.co/Gr3KIsVhrc https://t.co/rXLLysJME5",
-        "url": "https://x.com/joshwoodward/status/2082926031543967896",
-        "createdAt": "2026-07-30T20:27:19.000Z",
-        "engagement": 417
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "We just shaved off up to ~𝟽𝚜 of the end-to-end CLI → Live URL deploy process for many apps. This is specially cool when you consider you can integrate all of Vercel's infra via CLI/MCP/API and build your own custom software factory on top. My DMs are open if you're building an ",
-        "url": "https://x.com/rauchg/status/2082876367629381719",
-        "createdAt": "2026-07-30T17:09:58.000Z",
-        "engagement": 233,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Sandboxes are hard. With all the “AI escaping sandbox” it’s easy to think “wow AI so scary,” but most AI companies, and recent “sandbox providers” are making very basic mistakes. At Replit we’ve been running sandboxes since 2016 and targeted by every hacker and state actor under ",
-        "url": "https://x.com/amasad/status/2083034412598579403",
-        "createdAt": "2026-07-31T03:37:59.000Z",
-        "engagement": 232,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "Queue was the way but with 5.5 the model doesn’t get confused anymore, you can just throw stuff at it while it works and it will diligently process whatever you throw at it. https://t.co/tGqdxVEjev",
+        "url": "https://x.com/steipete/status/2083369880599015713",
+        "createdAt": "2026-08-01T01:51:01.000Z",
+        "engagement": 188,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "The Biggest AI Deployment Nobody Talks About | Samsara CEO Sanjit Biswas",
-      "url": "https://www.youtube.com/watch?v=3FHsGiONOGw",
-      "publishedAt": "2026-07-30T11:30:00.000Z"
+      "name": "Unsupervised Learning",
+      "title": "Ep 92: xAI Co-Founder Unpacks the Future of Model Development",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-07-31T15:15:49.000Z"
     }
   },
   "builderpulse": {
     "ok": true,
-    "date": "2026-07-20",
-    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-07-20.md",
+    "date": "2026-08-02",
+    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-08-02.md",
     "zh": {
-      "lead": "所有人都在关注模型大战——Qwen 3.8 对 Kimi K3，2.4T 对 2.8T 参数——但钱并不在那里。钱在那些模型留出的缝隙里：阿里巴巴发布了一个 2.4T 开源权重模型，但 @simonw 居然连 API 都拿不到；Moonshot AI 被迫暂停 Kimi K3 新订阅，因为需求压垮了供给；Hacker News 上 547 个人在争论 Claude Code 切换到用 Rust 写的 Bun 到底是真的省钱了，还是只是把开销挪了个地方。三个模型故事，零个回答能解决买家唯一能回答的问题：下周这东西到底要花我多少钱？",
+      "lead": "表面上大家都在聊基准测试——哪个模型碾压哪套考题。真正值钱的话题是「被发现」：Google News 被弃养的讨论（178 条评论）、「Google 如何杀死 RSS」的老文章重新登上热榜，而本周 Indie Hackers 最热的帖子是「How to rank #1 on ChatGPT」（怎么在 ChatGPT 上排第一，103 条评论）。智力早就不是瓶颈了，被找到才是。",
       "build": {
-        "title": "`SkillCheck`",
-        "oneLiner": "一个针对单一开发者技能（SQL 联表、正则表达式或 Git 分支操作）的尖锐、聚焦的技能测试页面，提供即时的通过/失败反馈并追踪进步，瞄准\"免费编程练习网站\"搜索暴涨（本周 +3,550%）以及 OpenAI 的 27% Codex 上下文削减——开发者需要在 AI 工具回缩时仍然掌握基本功。"
+        "title": "AnswerTrack",
+        "oneLiner": "一份每周报告：把二十个买家最常问的问题抛给 ChatGPT、Perplexity 和 Gemini，看你的产品有没有出现在答案里。从此不用再猜，直接看到客户在哪儿找到你。"
       },
       "signals": [
-        "阿里巴巴发布 Qwen 3.8，一个 2.4T 参数开源权重模型，同时 Moonshot AI 暂停 Kimi K3 新订阅——546 条评论对比两者，但有一个清晰的赢家：没有谁有生产部署。",
-        "\"免费编程练习网站\"本周 Google 搜索暴涨 +3,550%，是今日数据中最锐利的一个意图信号，尚无主导产品填补需求。",
-        "OpenAI 将 Codex 可用上下文从 372k 降至 272k token——27% 的削减使得原本可行的提示词变得过长，引发 147 条运营者重新计算工作流的评论。"
+        "Cursor 悄悄从用量页面和 CSV 导出中移除了费用信息——138 条评论，用户们抱怨在账单到手之前，再也看不到自己会被扣多少钱。",
+        "今天 Hacker News 最大的帖子不是 AI——一篇关于电梯调度算法的文章引发 387 条讨论，登上今日热榜。它讲的是「感知等待时间」，而不是机器时间。",
+        "发现渠道正在碎裂：「Google has abandoned Google News」（178 条评论）、「Google 如何杀死 RSS」的故事（137 条评论）、「How to rank #1 on ChatGPT」（103 条评论）——同一周，Amazon 的爬虫开始无视 robots.txt。"
       ]
     },
     "en": {
-      "lead": "The model war everyone is watching — Qwen 3.8 versus Kimi K3 at 2.4 trillion and 2.8 trillion parameters — is not where the money lives today. The money lives in the gap those models leave open: Alibaba announced a 2.4T open-weight model that @simonw cannot even get API access to, Moonshot AI had to suspend new Kimi K3 subscriptions because demand overwhelmed supply, and 547 people on Hacker News are debating whether Claude Code switching to Bun written in Rust actually changes their daily cost or just moves the overhead. Three model stories, zero improvements in the one question a buyer can answer: what will this cost me next week?",
+      "lead": "The obvious conversation is benchmarks — which model outsmarts which test. The one that actually pays is discovery: Google News is being abandoned (178 comments), the story of how Google killed RSS resurfaced at 388 points, and the top Indie Hackers thread this week is \"How to rank #1 on ChatGPT\" (103 comments). Intelligence stopped being the bottleneck a while ago; being found is the bottleneck now.",
       "build": {
-        "title": "SkillCheck",
-        "oneLiner": "a sharp, focused skill-testing page for one developer skill (SQL joins, regex, or Git branching) that gives instant pass/fail feedback and tracks improvement, targeting the \"free coding practice sites\" surge (+3,550% this week) and OpenAI's 27% Codex context cut — developers need to know the fundamentals when AI tools have less room to compensate."
+        "title": "AnswerTrack",
+        "oneLiner": "a weekly report that asks twenty of your buyers' most common questions to ChatGPT, Perplexity, and Gemini and shows whether your product shows up in the answers, so you stop guessing and start seeing where your customers find you."
       },
       "signals": [
-        "Alibaba announced Qwen 3.8, a 2.4-trillion-parameter open-weight model, while Moonshot AI suspended new Kimi K3 subscriptions — 546 comments comparing the two, with one clear winner: nobody with a production deployment.",
-        "\"Free coding practice sites\" surged +3,550% in Google searches this week, the single sharpest intent signal in today's data, with no dominant product yet filling the demand.",
-        "OpenAI reduced Codex's usable context from 372k to 272k tokens — a 27% cut that makes previously workable prompts too long, drawing 147 comments of operators recalculating their workflows."
+        "Cursor quietly removed cost information from its usage page and CSV export — 138 comments of users who can no longer see what they're billed before the invoice arrives.",
+        "The biggest Hacker News story of the day isn't AI — an essay on elevator scheduling algorithms drew 1,580 points and 387 comments, and its lessons are about perceived wait time, not machine time.",
+        "Discovery is fracturing: \"Google has abandoned Google News\" (178 comments), the how-Google-killed-RSS story (137 comments), and \"How to rank #1 on ChatGPT\" (103 comments) — the same week Amazon's crawler started ignoring robots.txt."
       ]
     }
   },
   "archive": [
+    {
+      "date": "2026-08-02",
+      "aihotCount": 2,
+      "buildersCount": 12,
+      "bpBuild": "AnswerTrack"
+    },
     {
       "date": "2026-08-01",
       "aihotCount": 12,
@@ -295,12 +222,6 @@
     {
       "date": "2026-07-27",
       "aihotCount": 6,
-      "buildersCount": 12,
-      "bpBuild": "`SkillCheck`"
-    },
-    {
-      "date": "2026-07-26",
-      "aihotCount": 2,
       "buildersCount": 12,
       "bpBuild": "`SkillCheck`"
     }
