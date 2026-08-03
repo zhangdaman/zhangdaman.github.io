@@ -1,24 +1,40 @@
 {
-  "generatedAt": "2026-08-02T04:22:20.621Z",
-  "date": "2026-08-02",
+  "generatedAt": "2026-08-03T04:28:33.782Z",
+  "date": "2026-08-03",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-        "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
-        "publishedAt": "2026-08-01T10:40:50.000Z",
-        "category": "industry"
+        "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
+        "source": "Qwen：Blog Retrieval（API）",
+        "url": "https://qwen.ai/blog?id=qwen3.8",
+        "summary": "Qwen 正式发布 Qwen3.8-Max，这是 Qwen 家族迄今最强的模型，拥有 2.4T 参数（95B 激活），并首次开源 Qwen-Max 级权重，开放权重将于下周发布。",
+        "publishedAt": "2026-08-03T02:00:00.000Z",
+        "category": "ai-models"
       },
       {
-        "title": "OpenAI Astra 以约2000美元证明10项数学难题",
-        "source": "X：Greg Brockman (@gdb)",
-        "url": "https://x.com/gdb/status/2083457463337287721",
-        "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
-        "publishedAt": "2026-08-01T07:39:02.000Z",
-        "category": "paper"
+        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+        "publishedAt": "2026-08-02T21:25:27.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+        "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+        "publishedAt": "2026-08-02T10:47:27.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Grok 支持分析任意视频",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "url": "https://x.com/elonmusk/status/2083800942927839307",
+        "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+        "publishedAt": "2026-08-02T06:23:54.000Z",
+        "category": "ai-products"
       }
     ]
   },
@@ -26,163 +42,166 @@
     "ok": true,
     "items": [
       {
+        "handle": "karpathy",
+        "name": "Andrej Karpathy",
+        "bio": "I like training large deep neural nets.",
+        "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for thr",
+        "url": "https://x.com/karpathy/status/2083749667410727319",
+        "createdAt": "2026-08-02T03:00:09.000Z",
+        "engagement": 10569
+      },
+      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work. Enjoy.",
-        "url": "https://x.com/thsottiaux/status/2083395449814229287",
-        "createdAt": "2026-08-01T03:32:37.000Z",
-        "engagement": 15936,
+        "text": "The week was for efficiency. The weekend is for 10 major breakthroughs in science. There will be signs. https://t.co/7qa0YS2i9v",
+        "url": "https://x.com/thsottiaux/status/2083556636455752050",
+        "createdAt": "2026-08-01T14:13:07.000Z",
+        "engagement": 5087,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Fun fact, users use /fast less during the weekend. The weekend is for relaxation, even for the model.",
+        "url": "https://x.com/thsottiaux/status/2083699879650463756",
+        "createdAt": "2026-08-01T23:42:19.000Z",
+        "engagement": 4340,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "sama",
         "name": "Sam Altman",
         "bio": "AI is cool i guess",
-        "text": "cool use case of chatgpt work i heard last night: connect your family calendars and explain your kids' interests. every morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
-        "url": "https://x.com/sama/status/2083221585792762171",
-        "createdAt": "2026-07-31T16:01:45.000Z",
-        "engagement": 8285,
+        "text": "team humanity https://t.co/Z75TuFp56E",
+        "url": "https://x.com/sama/status/2083560847889023219",
+        "createdAt": "2026-08-01T14:29:51.000Z",
+        "engagement": 2354,
         "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "i see your moore's law and i raise you 20x https://t.co/fIgoPxhMbW",
-        "url": "https://x.com/sama/status/2083203642975502640",
-        "createdAt": "2026-07-31T14:50:27.000Z",
-        "engagement": 6596,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+        "handle": "AmandaAskell",
+        "name": "Amanda Askell",
+        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
+        "text": "Do not be unkind to those who say deep learning is hitting a wall. We all need a little hope in our lives.",
+        "url": "https://x.com/AmandaAskell/status/2083713770065637511",
+        "createdAt": "2026-08-02T00:37:30.000Z",
+        "engagement": 1390
       },
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "it could be faster https://t.co/aodVOp6X6f",
-        "url": "https://x.com/sama/status/2083198135812383197",
-        "createdAt": "2026-07-31T14:28:34.000Z",
-        "engagement": 4528,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Optimize for curiosity",
-        "url": "https://x.com/thsottiaux/status/2083427516996292992",
-        "createdAt": "2026-08-01T05:40:02.000Z",
-        "engagement": 1512,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "The number one thing I want AI to fix is to cure cancer once and for all",
+        "url": "https://x.com/petergyang/status/2083637620899184642",
+        "createdAt": "2026-08-01T19:34:55.000Z",
+        "engagement": 1229,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "This will be the norm as software projects transition to agentic software factories. Issue → Agent → PR → Release 🔁 The job of the author / maintainer is to work on the loop that yields the highest quality product and sets the criteria for what should be worked on. https://t.co/",
-        "url": "https://x.com/rauchg/status/2083208578526314513",
-        "createdAt": "2026-07-31T15:10:03.000Z",
-        "engagement": 1152,
+        "text": "Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs. Model-agnostic, self-hostable or serverlessly-deployed, multi-channel, and headless. This is the way. https://t.co/gzM0dftbsV",
+        "url": "https://x.com/rauchg/status/2083684679362965605",
+        "createdAt": "2026-08-01T22:41:55.000Z",
+        "engagement": 911,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
+        "handle": "AmandaAskell",
+        "name": "Amanda Askell",
+        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
+        "text": "I have this Padmé moment whenever I see people talk about avoiding \"the permanent underclass\". https://t.co/8Pd9bmedEZ",
+        "url": "https://x.com/AmandaAskell/status/2083641092919161017",
+        "createdAt": "2026-08-01T19:48:43.000Z",
+        "engagement": 865
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "They recently asked my 3-year-old at school: “what does your daddy do for work?” He answered: he exercises. That’s what he sees. It’s not just you who’s a byproduct of your habits, it’s your children and grandchildren too.",
+        "url": "https://x.com/rauchg/status/2083664853256843437",
+        "createdAt": "2026-08-01T21:23:08.000Z",
+        "engagement": 843,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "I'm feeling spicy tonight so let me just say it: I think Opus 4.6 was the Opus model with the best personality and writing style. Something's off with Opus 5 - it tends to give me overly long replies, use Claude-speak way too much (e.g., \"here's the honest truth\"), and is too jud",
+        "url": "https://x.com/petergyang/status/2083755374994415904",
+        "createdAt": "2026-08-02T03:22:50.000Z",
+        "engagement": 770,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "We’re going to see an increasing divergence between what AI does in our personal lives and in daily productivity vs. what it can do in very deep domains like math, science, legal, coding and more. Up to some threshold, capability was evenly felt across all domains because the mod",
+        "url": "https://x.com/levie/status/2083589132660711452",
+        "createdAt": "2026-08-01T16:22:15.000Z",
+        "engagement": 379,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+      },
+      {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Your personal AI or your company brain needs a clean harness and this is the one our team built and uses every day Free and open source https://t.co/OgptxBMpI0",
-        "url": "https://x.com/garrytan/status/2083353760701833546",
-        "createdAt": "2026-08-01T00:46:58.000Z",
-        "engagement": 960,
+        "text": "Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform Note the marked difference: intelligence on tap as a utility vs signaling it is optimal to integrate all the way up full stack https://t.co/EmMKE4NggP",
+        "url": "https://x.com/garrytan/status/2083684825333105107",
+        "createdAt": "2026-08-01T22:42:30.000Z",
+        "engagement": 287,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Jason is doing such great work. Love this. https://t.co/g3FV3fY587",
-        "url": "https://x.com/steipete/status/2083094971167781317",
-        "createdAt": "2026-07-31T07:38:37.000Z",
-        "engagement": 593,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "If Dems want to win elections that matter they need to study the San Francisco local political story of the last 5 years: vote out your local Democratic Socialists early and often https://t.co/NTagusgDkc",
-        "url": "https://x.com/garrytan/status/2083331028446523842",
-        "createdAt": "2026-07-31T23:16:38.000Z",
-        "engagement": 501,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "will we have to wear radiation shielded underwear now? https://t.co/Iq67S3npbs",
-        "url": "https://x.com/steipete/status/2083328272444915831",
-        "createdAt": "2026-07-31T23:05:41.000Z",
-        "engagement": 329,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "ChatGPT Work counted https://t.co/XlnkkYvx1s",
-        "url": "https://x.com/thsottiaux/status/2083387677945036995",
-        "createdAt": "2026-08-01T03:01:44.000Z",
-        "engagement": 325,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Queue was the way but with 5.5 the model doesn’t get confused anymore, you can just throw stuff at it while it works and it will diligently process whatever you throw at it. https://t.co/tGqdxVEjev",
-        "url": "https://x.com/steipete/status/2083369880599015713",
-        "createdAt": "2026-08-01T01:51:01.000Z",
-        "engagement": 188,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       }
     ],
     "podcast": {
-      "name": "Unsupervised Learning",
-      "title": "Ep 92: xAI Co-Founder Unpacks the Future of Model Development",
-      "url": "https://www.youtube.com/@RedpointAI",
-      "publishedAt": "2026-07-31T15:15:49.000Z"
+      "name": "No Priors",
+      "title": "Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak",
+      "url": "https://www.youtube.com/watch?v=wWbX3NL6_Uo",
+      "publishedAt": "2026-07-31T10:00:00.000Z"
     }
   },
   "builderpulse": {
     "ok": true,
-    "date": "2026-08-02",
-    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-08-02.md",
+    "date": "2026-08-03",
+    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-08-03.md",
     "zh": {
-      "lead": "表面上大家都在聊基准测试——哪个模型碾压哪套考题。真正值钱的话题是「被发现」：Google News 被弃养的讨论（178 条评论）、「Google 如何杀死 RSS」的老文章重新登上热榜，而本周 Indie Hackers 最热的帖子是「How to rank #1 on ChatGPT」（怎么在 ChatGPT 上排第一，103 条评论）。智力早就不是瓶颈了，被找到才是。",
+      "lead": "今天最热的故事是 Karpathy 的 Pelican——一个要求模型画出\"骑自行车的鹈鹕\"的基准测试，336 条评论都在争论 AI 是否真的理解物理世界。真正能带来收益的信号反而安静：本周的搜索里，人们直接说出想离开的应用名字，logseq 从零起量，vaultwarden 涨了 +300%，而昨天的\"答案引擎恐慌\"依旧没有产品落地。",
       "build": {
-        "title": "AnswerTrack",
-        "oneLiner": "一份每周报告：把二十个买家最常问的问题抛给 ChatGPT、Perplexity 和 Gemini，看你的产品有没有出现在答案里。从此不用再猜，直接看到客户在哪儿找到你。"
+        "title": "`VaultMover`",
+        "oneLiner": "一条命令把现有的 Obsidian 仓库（笔记、反向链接、附件）完整迁入 logseq 或 affine，链接原样保留，面向那些搜索数据（logseq 从零起量、「obsidian self hosted」+40%）显示\"想换但卡在导出\"的笔记用户。"
       },
       "signals": [
-        "Cursor 悄悄从用量页面和 CSV 导出中移除了费用信息——138 条评论，用户们抱怨在账单到手之前，再也看不到自己会被扣多少钱。",
-        "今天 Hacker News 最大的帖子不是 AI——一篇关于电梯调度算法的文章引发 387 条讨论，登上今日热榜。它讲的是「感知等待时间」，而不是机器时间。",
-        "发现渠道正在碎裂：「Google has abandoned Google News」（178 条评论）、「Google 如何杀死 RSS」的故事（137 条评论）、「How to rank #1 on ChatGPT」（103 条评论）——同一周，Amazon 的爬虫开始无视 robots.txt。"
+        "今天最热的故事是 Karpathy 的 Pelican——一个要求模型画出\"骑自行车的鹈鹕\"的基准测试——其 336 条评论的讨论串得出的结论是：AI 的质量预期在悄悄降低，而不是提高。",
+        "自托管迁移搜索按名字暴涨：logseq 从零起量、vaultwarden +300%、appflowy +200%、spotube +90%——人们在搜索他们要迁往的具体工具。",
+        "MIT Sloan 的研究发现 AI 理财建议\"surprisingly good, especially if you ask the right questions\"（出奇地好，尤其是如果你问对问题），引发 376 条讨论——这是今天除鹈鹕之外最大的 AI 话题。"
       ]
     },
     "en": {
-      "lead": "The obvious conversation is benchmarks — which model outsmarts which test. The one that actually pays is discovery: Google News is being abandoned (178 comments), the story of how Google killed RSS resurfaced at 388 points, and the top Indie Hackers thread this week is \"How to rank #1 on ChatGPT\" (103 comments). Intelligence stopped being the bottleneck a while ago; being found is the bottleneck now.",
+      "lead": "The top story today is Karpathy's Pelican — a benchmark that asks models to draw a pelican on a bicycle, 336 comments of people debating whether AI understands the physical world. The signal that actually pays is quieter: this week's searches are people naming the exact apps they want to leave, \"logseq\" broke out from zero and \"vaultwarden\" rose +300%, while yesterday's answer-engine panic goes on without a product.",
       "build": {
-        "title": "AnswerTrack",
-        "oneLiner": "a weekly report that asks twenty of your buyers' most common questions to ChatGPT, Perplexity, and Gemini and shows whether your product shows up in the answers, so you stop guessing and start seeing where your customers find you."
+        "title": "VaultMover",
+        "oneLiner": "a one-command tool that moves an existing Obsidian vault (notes, backlinks, attachments) into logseq or affine with the links intact, for the note-takers whose searches (\"logseq\" broke out from zero, \"obsidian self hosted\" +40%) show they are ready to switch but stuck on the export."
       },
       "signals": [
-        "Cursor quietly removed cost information from its usage page and CSV export — 138 comments of users who can no longer see what they're billed before the invoice arrives.",
-        "The biggest Hacker News story of the day isn't AI — an essay on elevator scheduling algorithms drew 1,580 points and 387 comments, and its lessons are about perceived wait time, not machine time.",
-        "Discovery is fracturing: \"Google has abandoned Google News\" (178 comments), the how-Google-killed-RSS story (137 comments), and \"How to rank #1 on ChatGPT\" (103 comments) — the same week Amazon's crawler started ignoring robots.txt."
+        "The day's top story is Karpathy's Pelican — a benchmark asking models to draw a pelican on a bicycle — and its 336-comment thread concludes AI quality expectations have quietly dropped, not risen.",
+        "Self-hosted migration searches jumped by name: \"logseq\" broke out from zero, \"vaultwarden\" +300%, \"appflowy\" +200%, \"spotube\" +90% — people are searching for the exact tools they'll move to.",
+        "An MIT Sloan study finding that AI financial advice is \"surprisingly good, especially if you ask the right questions\" drew 376 comments — the day's biggest AI discussion besides the pelican."
       ]
     }
   },
   "archive": [
+    {
+      "date": "2026-08-03",
+      "aihotCount": 4,
+      "buildersCount": 12,
+      "bpBuild": "`VaultMover`"
+    },
     {
       "date": "2026-08-02",
       "aihotCount": 2,
@@ -216,12 +235,6 @@
     {
       "date": "2026-07-28",
       "aihotCount": 12,
-      "buildersCount": 12,
-      "bpBuild": "`SkillCheck`"
-    },
-    {
-      "date": "2026-07-27",
-      "aihotCount": 6,
       "buildersCount": 12,
       "bpBuild": "`SkillCheck`"
     }
