@@ -1,40 +1,128 @@
 {
-  "generatedAt": "2026-08-03T04:28:33.782Z",
-  "date": "2026-08-03",
+  "generatedAt": "2026-08-04T04:13:13.261Z",
+  "date": "2026-08-04",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
-        "source": "Qwen：Blog Retrieval（API）",
-        "url": "https://qwen.ai/blog?id=qwen3.8",
-        "summary": "Qwen 正式发布 Qwen3.8-Max，这是 Qwen 家族迄今最强的模型，拥有 2.4T 参数（95B 激活），并首次开源 Qwen-Max 级权重，开放权重将于下周发布。",
-        "publishedAt": "2026-08-03T02:00:00.000Z",
+        "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+        "source": "公众号：数字生命卡兹克",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+        "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
+        "publishedAt": "2026-08-04T00:06:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+        "source": "TechCrunch：AI（RSS）",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+        "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
+        "publishedAt": "2026-08-03T23:19:50.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "GPT-Live实时音频新架构发布",
+        "source": "X：Greg Brockman (@gdb)",
+        "url": "https://x.com/gdb/status/2084405421041963356",
+        "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
+        "publishedAt": "2026-08-03T22:25:53.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Claude Code 连接器可复用至 Artifacts",
+        "source": "X：Thariq (@trq212)",
+        "url": "https://x.com/trq212/status/2084387303959740449",
+        "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
+        "publishedAt": "2026-08-03T21:13:53.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
+        "source": "Runway：News（网页）",
+        "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+        "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
+        "publishedAt": "2026-08-03T20:12:03.229Z",
+        "category": "tip"
+      },
+      {
+        "title": "微软开源 Orchard 智能体训练框架",
+        "source": "X：Microsoft Research (@MSFTResearch)",
+        "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+        "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+        "publishedAt": "2026-08-03T19:43:28.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+        "source": "The Verge：AI（RSS）",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+        "publishedAt": "2026-08-03T17:38:45.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://github.com/lyogavin/airllm",
+        "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+        "publishedAt": "2026-08-03T16:24:45.027Z",
+        "category": "tip"
+      },
+      {
+        "title": "OpenRouter 推出 Ori Eval 简化评估流程",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "url": "https://x.com/OpenRouter/status/2084301100078027143",
+        "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+        "publishedAt": "2026-08-03T15:31:21.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
+        "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+        "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
+        "publishedAt": "2026-08-03T14:40:59.000Z",
         "category": "ai-models"
       },
       {
-        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-        "publishedAt": "2026-08-02T21:25:27.000Z",
+        "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+        "summary": "Google Agent Skills 团队详解其开源技能库的构建与治理流程：项目始于 Google Cloud Next 2026 前的\"swarm\"冲刺，发布后 GitHub 星标超 15，000。为保证规模化下的质量，每个技能须通过标准化目录结构、CI/CD 流水线（含 linter、链接检查、AI 辅助清单）及提交时与每周的持续评估，并优先引用远程 MCP 工具。",
+        "publishedAt": "2026-08-03T14:33:20.000Z",
         "category": "tip"
       },
       {
-        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-        "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
-        "publishedAt": "2026-08-02T10:47:27.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Grok 支持分析任意视频",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "url": "https://x.com/elonmusk/status/2083800942927839307",
-        "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-        "publishedAt": "2026-08-02T06:23:54.000Z",
+        "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+        "source": "Cloudflare Blog",
+        "url": "https://blog.cloudflare.com/cloudflare-computer",
+        "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
+        "publishedAt": "2026-08-03T13:15:24.000Z",
         "category": "ai-products"
+      },
+      {
+        "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+        "source": "Cloudflare Blog",
+        "url": "https://blog.cloudflare.com/billable-usage-api",
+        "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
+        "publishedAt": "2026-08-03T13:00:00.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
+        "source": "Cloudflare Blog",
+        "url": "https://blog.cloudflare.com/grpc-workers",
+        "summary": "Cloudflare 在 Agents Week 期间推出 Workers 运行时新处理器 connect（socket），可直接接受 Spectrum 提供的入站 TCP 套接字，并支持将套接字转发至 Durable Objects 或 Containers，实现全双工通信。",
+        "publishedAt": "2026-08-03T13:00:00.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Kimi Work 幻灯片制作教程发布",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+        "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
+        "publishedAt": "2026-08-03T11:51:51.000Z",
+        "category": "tip"
       }
     ]
   },
@@ -42,128 +130,129 @@
     "ok": true,
     "items": [
       {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let anyone discourage you from pursuing excellence and craft. Keep studying the blade.",
+        "url": "https://x.com/rauchg/status/2083969120270450911",
+        "createdAt": "2026-08-02T17:32:11.000Z",
+        "engagement": 4021,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "We built an agent that powers our company's internal operations called @𝚟. Every day-to-day job at Vercel now involves @𝚟. It's growing exponentially both in daily interactions and token use. One can extrapolate to the day AI agents run entire companies from here. It's an exper",
+        "url": "https://x.com/rauchg/status/2084042561690456157",
+        "createdAt": "2026-08-02T22:24:01.000Z",
+        "engagement": 1280,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "you can already see Jevons paradox at work in mathematics there is more happening, it is easier to understand and mathematicians have more time to discuss it with us at higher abstraction levels demand for people who think and know about math will go up",
+        "url": "https://x.com/trq212/status/2083977795290734975",
+        "createdAt": "2026-08-02T18:06:39.000Z",
+        "engagement": 1234,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "Warm NYC nights are magic 🪄 https://t.co/KGpckLDaAo",
+        "url": "https://x.com/nikunj/status/2083925904598733088",
+        "createdAt": "2026-08-02T14:40:27.000Z",
+        "engagement": 418,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
+      },
+      {
         "handle": "karpathy",
         "name": "Andrej Karpathy",
         "bio": "I like training large deep neural nets.",
-        "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for thr",
-        "url": "https://x.com/karpathy/status/2083749667410727319",
-        "createdAt": "2026-08-02T03:00:09.000Z",
-        "engagement": 10569
+        "text": "More on the pelican on the bicycle test from @simonw: https://t.co/OXmtODyTKj I uploaded the source here so it's playable in the browser, forkable etc. https://t.co/w3Nctc888d Look out for GTA Hobbiton dropping before GTA VI :)",
+        "url": "https://x.com/karpathy/status/2083948654377996480",
+        "createdAt": "2026-08-02T16:10:51.000Z",
+        "engagement": 406
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "The week was for efficiency. The weekend is for 10 major breakthroughs in science. There will be signs. https://t.co/7qa0YS2i9v",
-        "url": "https://x.com/thsottiaux/status/2083556636455752050",
-        "createdAt": "2026-08-01T14:13:07.000Z",
-        "engagement": 5087,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "ryolu_",
+        "name": "Ryo Lu",
+        "bio": "Design @Cursor_ai. Early @NotionHQ, @Stripe, built startups. I make a world where anyone c",
+        "text": "my early mentors were these apps, especially Rdio, Mailbox, and Apple they made new patterns that made software feel simpler and intuitive to touch as we leave the world of apps behind, what parts of software will remain visible, and how could it feel? https://t.co/6QYLpjcund",
+        "url": "https://x.com/ryolu_/status/2083939454017053179",
+        "createdAt": "2026-08-02T15:34:18.000Z",
+        "engagement": 396
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Fun fact, users use /fast less during the weekend. The weekend is for relaxation, even for the model.",
-        "url": "https://x.com/thsottiaux/status/2083699879650463756",
-        "createdAt": "2026-08-01T23:42:19.000Z",
-        "engagement": 4340,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "team humanity https://t.co/Z75TuFp56E",
-        "url": "https://x.com/sama/status/2083560847889023219",
-        "createdAt": "2026-08-01T14:29:51.000Z",
-        "engagement": 2354,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "AmandaAskell",
-        "name": "Amanda Askell",
-        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
-        "text": "Do not be unkind to those who say deep learning is hitting a wall. We all need a little hope in our lives.",
-        "url": "https://x.com/AmandaAskell/status/2083713770065637511",
-        "createdAt": "2026-08-02T00:37:30.000Z",
-        "engagement": 1390
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "The number one thing I want AI to fix is to cure cancer once and for all",
-        "url": "https://x.com/petergyang/status/2083637620899184642",
-        "createdAt": "2026-08-01T19:34:55.000Z",
-        "engagement": 1229,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs. Model-agnostic, self-hostable or serverlessly-deployed, multi-channel, and headless. This is the way. https://t.co/gzM0dftbsV",
-        "url": "https://x.com/rauchg/status/2083684679362965605",
-        "createdAt": "2026-08-01T22:41:55.000Z",
-        "engagement": 911,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "AmandaAskell",
-        "name": "Amanda Askell",
-        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
-        "text": "I have this Padmé moment whenever I see people talk about avoiding \"the permanent underclass\". https://t.co/8Pd9bmedEZ",
-        "url": "https://x.com/AmandaAskell/status/2083641092919161017",
-        "createdAt": "2026-08-01T19:48:43.000Z",
-        "engagement": 865
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "They recently asked my 3-year-old at school: “what does your daddy do for work?” He answered: he exercises. That’s what he sees. It’s not just you who’s a byproduct of your habits, it’s your children and grandchildren too.",
-        "url": "https://x.com/rauchg/status/2083664853256843437",
-        "createdAt": "2026-08-01T21:23:08.000Z",
-        "engagement": 843,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "I'm feeling spicy tonight so let me just say it: I think Opus 4.6 was the Opus model with the best personality and writing style. Something's off with Opus 5 - it tends to give me overly long replies, use Claude-speak way too much (e.g., \"here's the honest truth\"), and is too jud",
-        "url": "https://x.com/petergyang/status/2083755374994415904",
-        "createdAt": "2026-08-02T03:22:50.000Z",
-        "engagement": 770,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "What a wild world we’re living through. I wrote about the Series A squeeze recently. Here’s what else I’m seeing from my seat on the investing side.. 1) VC has effectively fully become vibes capital. The market reality at the early-mid stage is completely divorced from fundamenta",
+        "url": "https://x.com/nikunj/status/2083873335998333227",
+        "createdAt": "2026-08-02T11:11:34.000Z",
+        "engagement": 393,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "We’re going to see an increasing divergence between what AI does in our personal lives and in daily productivity vs. what it can do in very deep domains like math, science, legal, coding and more. Up to some threshold, capability was evenly felt across all domains because the mod",
-        "url": "https://x.com/levie/status/2083589132660711452",
-        "createdAt": "2026-08-01T16:22:15.000Z",
-        "engagement": 379,
+        "text": "We’re going to be in for a strange dynamic which is that some of the “hardest” work in the world is actually prone to automation first, particularly due to its verifiability. Math, cyber, and code -while being insanely hard and high value fields- have the benefit of being able to",
+        "url": "https://x.com/levie/status/2083965372747882741",
+        "createdAt": "2026-08-02T17:17:17.000Z",
+        "engagement": 344,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform Note the marked difference: intelligence on tap as a utility vs signaling it is optimal to integrate all the way up full stack https://t.co/EmMKE4NggP",
-        "url": "https://x.com/garrytan/status/2083684825333105107",
-        "createdAt": "2026-08-01T22:42:30.000Z",
-        "engagement": 287,
+        "text": "Growth is good AI will create unimaginable economic growth and that is the best white pill https://t.co/wdR7nHuWJD https://t.co/30xeF2N8hO",
+        "url": "https://x.com/garrytan/status/2083957110711386439",
+        "createdAt": "2026-08-02T16:44:27.000Z",
+        "engagement": 332,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "That's a fairly new kind of spam. https://t.co/nwdRM5e7Hv https://t.co/7hXqYZnanw",
+        "url": "https://x.com/steipete/status/2083976289485230449",
+        "createdAt": "2026-08-02T18:00:40.000Z",
+        "engagement": 278,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "My LLM chess engine is now on LiChess autonomously playing real games against people and bots. 1253 Elo: https://t.co/W3qp1Z1i7I https://t.co/WwPOjDggU1",
+        "url": "https://x.com/amasad/status/2083926395403821427",
+        "createdAt": "2026-08-02T14:42:24.000Z",
+        "engagement": 225,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "when you experience a language model doing a task that used to require you at every step and now doesn't, it's a gigantic agency rupture. we tend to equate ourselves with our tasks, our outputs, and a rupture of this kind is akin to the loss of your identity and sense of self. yo",
+        "url": "https://x.com/danshipper/status/2084038453831020916",
+        "createdAt": "2026-08-02T22:07:41.000Z",
+        "engagement": 209,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
       }
     ],
     "podcast": {
-      "name": "No Priors",
-      "title": "Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak",
-      "url": "https://www.youtube.com/watch?v=wWbX3NL6_Uo",
-      "publishedAt": "2026-07-31T10:00:00.000Z"
+      "name": "Training Data",
+      "title": "Building the Automated AGI Lab: Core Automation's Jerry Tworek and Rohan Anil",
+      "url": "https://www.youtube.com/watch?v=2RJiaf0SY8s",
+      "publishedAt": "2026-07-29T09:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -197,6 +286,12 @@
   },
   "archive": [
     {
+      "date": "2026-08-04",
+      "aihotCount": 15,
+      "buildersCount": 12,
+      "bpBuild": "`VaultMover`"
+    },
+    {
       "date": "2026-08-03",
       "aihotCount": 4,
       "buildersCount": 12,
@@ -229,12 +324,6 @@
     {
       "date": "2026-07-29",
       "aihotCount": 21,
-      "buildersCount": 12,
-      "bpBuild": "`SkillCheck`"
-    },
-    {
-      "date": "2026-07-28",
-      "aihotCount": 12,
       "buildersCount": 12,
       "bpBuild": "`SkillCheck`"
     }
