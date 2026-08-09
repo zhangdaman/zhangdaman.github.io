@@ -1,135 +1,55 @@
 {
-  "generatedAt": "2026-08-08T02:53:47.406Z",
-  "date": "2026-08-08",
+  "generatedAt": "2026-08-09T03:00:57.331Z",
+  "date": "2026-08-09",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
         "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/987/221.htm",
-        "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-        "publishedAt": "2026-08-07T23:08:56.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Claude Code 会话间可互发消息",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-        "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-        "publishedAt": "2026-08-07T19:55:17.000Z",
+        "url": "https://www.ithome.com/0/987/452.htm",
+        "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+        "publishedAt": "2026-08-08T22:46:14.000Z",
         "category": "ai-products"
       },
       {
-        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+        "title": "Grok Imagine 图像编辑迎来重大升级",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "url": "https://x.com/elonmusk/status/2086127247077843282",
+        "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+        "publishedAt": "2026-08-08T16:27:48.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://blog.cloudflare.com/kitesurf",
-        "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-        "publishedAt": "2026-08-07T18:54:34.746Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
-        "source": "X：OpenAI (@OpenAI)",
-        "url": "https://x.com/OpenAI/status/2085801349866729975",
-        "summary": "OpenAI 在评估其即将推出的模型 Astra 后，依据\"准备框架\"将其列为首个\"关键\"网络安全模型。OpenAI 表示已为此情景做好规划，并将实施额外控制措施以确保 Astra 后续开发的安全。该公司正努力让 Astra 广泛可用，并将其先进网络能力交到防御者手中。",
-        "publishedAt": "2026-08-07T18:52:48.000Z",
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+        "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+        "publishedAt": "2026-08-08T14:38:40.439Z",
         "category": "industry"
       },
       {
-        "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-        "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
-        "publishedAt": "2026-08-07T17:51:24.888Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "LangChain 推出 Managed Deep Agents 公开测试版",
-        "source": "LangChain：Blog（RSS）",
-        "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-        "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
-        "publishedAt": "2026-08-07T17:24:06.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Suno移动端上线Voices功能",
-        "source": "X：Suno (@suno)",
-        "url": "https://x.com/suno/status/2085731234970227145",
-        "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
-        "publishedAt": "2026-08-07T14:14:12.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
-        "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
-        "publishedAt": "2026-08-07T12:50:56.000Z",
-        "category": "paper"
-      },
-      {
-        "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-        "source": "公众号：蚂蚁百灵（Ling）",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-        "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
-        "publishedAt": "2026-08-07T12:02:16.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-        "source": "X：Runway (@runwayml)",
-        "url": "https://x.com/runwayml/status/2085684483366523193",
-        "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
-        "publishedAt": "2026-08-07T11:08:25.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-        "source": "公众号：小红书技术（dots.llm）",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-        "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-        "publishedAt": "2026-08-07T09:59:00.000Z",
-        "category": "paper"
-      },
-      {
-        "title": "Krea 推出 Seedance 2.5 视频模型",
-        "source": "X：Krea AI (@krea_ai)",
-        "url": "https://x.com/krea_ai/status/2085629541385736662",
-        "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
-        "publishedAt": "2026-08-07T07:30:06.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
-        "summary": "独立开发者叶小叔用面壁智能开源的 VoxCPM 克隆千万粉丝网红声音，搭建 STT → LLM → VoxCPM（TTS）三段式实时对话管道，TTS 首包延迟不到 1 秒，端到端体感 2 到 3 秒。",
-        "publishedAt": "2026-08-07T06:41:21.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
         "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/986/957.htm",
-        "summary": "OpenAI 报告称全球超 10 亿用户使用 ChatGPT，使用方式从\"问答工具\"转向\"任务工具\"，工作场景中完成任务或创建内容的可能性是非工作场景的 2 倍以上。自 2026 年 4 月发布 ChatGPT Images 2.0 以来，多媒体相关消息占比升至 7.8%。35 岁及以上用户发送消息份额较 12 个月前增加 5 个百分点，法国和捷克增幅超 10 个百分点。",
-        "publishedAt": "2026-08-07T06:28:51.000Z",
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "publishedAt": "2026-08-08T13:38:40.000Z",
         "category": "industry"
       },
       {
-        "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/986/951.htm",
-        "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
-        "publishedAt": "2026-08-07T06:11:01.000Z",
-        "category": "ai-models"
+        "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+        "source": "Ars Technica：AI（RSS）",
+        "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+        "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+        "publishedAt": "2026-08-08T11:05:50.000Z",
+        "category": "paper"
       },
       {
-        "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-        "source": "公众号：火山引擎",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-        "summary": "火山引擎正式上线 Seedance 2.5 API，将单次视频生成时长从15秒提升至30秒，并支持最高50个全模态素材参考。模型在指令遵循、长叙事、真人感及声画质感上大幅提升，能稳定保持多角色外形与场景关系，兼容十余种语言。",
-        "publishedAt": "2026-08-07T06:01:45.000Z",
+        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/0/987/366.htm",
+        "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+        "publishedAt": "2026-08-08T08:25:11.000Z",
         "category": "ai-products"
       }
     ]
@@ -141,159 +61,163 @@
         "handle": "sama",
         "name": "Sam Altman",
         "bio": "AI is cool i guess",
-        "text": "5.6 Sol much better in chat now and unlimited text chat for free users! https://t.co/zgqGqI9qfR",
-        "url": "https://x.com/sama/status/2085454964814753990",
-        "createdAt": "2026-08-06T19:56:24.000Z",
-        "engagement": 7016,
+        "text": "astra is a powerful model and we are working to make it generally available. we do not think it is a good strategy to keep powerful models to a chosen few. given its cyber capabilities, we need a little big longer to do do this safely. but hopefully not too long!",
+        "url": "https://x.com/sama/status/2085862292311396515",
+        "createdAt": "2026-08-07T22:54:58.000Z",
+        "engagement": 17472,
         "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "We’re updating Claude Fable 5’s biology safeguards to reduce false positives. In our testing, this update reduced biology-related fallbacks by about 85% across our product surfaces. Fable can now assist on a wider range of everyday health and educational questions. We believe the",
-        "url": "https://x.com/claudeai/status/2085563808773189680",
-        "createdAt": "2026-08-07T03:08:54.000Z",
-        "engagement": 3986
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "You can just ask Codex with GPT-5.6 Sol the wildest things and it will just do it. I talk to it for 5 minutes straight with things that just seem to require weeks of work, get up to get something in the fridge, pet the dog, come back and ... it's done.",
-        "url": "https://x.com/thsottiaux/status/2085597685948813610",
-        "createdAt": "2026-08-07T05:23:31.000Z",
-        "engagement": 2343,
+        "text": "I feel Theo is in need of a reset 👀 https://t.co/7DsOlEZUDv",
+        "url": "https://x.com/thsottiaux/status/2085845171363791135",
+        "createdAt": "2026-08-07T21:46:56.000Z",
+        "engagement": 6074,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Somewhere on your phone you have the closest thing to magic we have shipped. It does things for you. All day if you want. Go try it. https://t.co/uGlzqntaki",
+        "url": "https://x.com/thsottiaux/status/2085850908559298732",
+        "createdAt": "2026-08-07T22:09:44.000Z",
+        "engagement": 3268,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "AI is cool i guess",
+        "text": "congrats to oklo for achieving criticality! (less than a year after groundbreaking) https://t.co/tdbU6UfOAb",
+        "url": "https://x.com/sama/status/2085765236876046500",
+        "createdAt": "2026-08-07T16:29:18.000Z",
+        "engagement": 2788,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "The team and I use Auto mode exclusively, and have been for many months. I couldn't imagine going back to permission prompts! Really excited to get this out to everyone. https://t.co/rH6qc6hqyT",
+        "url": "https://x.com/bcherny/status/2085807103382519872",
+        "createdAt": "2026-08-07T19:15:40.000Z",
+        "engagement": 2314
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "automode is much safer than any other permission system out there, especially reviewing them yourself excited to announce we're rolling it out to everyone by default, with no overhead cost for the classifier https://t.co/blrgUhRyt0 https://t.co/AAjnw0EMpG",
+        "url": "https://x.com/trq212/status/2085804481984475437",
+        "createdAt": "2026-08-07T19:05:15.000Z",
+        "engagement": 1401,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "turns out you can get indirect prompt injection to ~0 on unseen attacks if you stack enough layers (model training + input probes + a classifier checking intent). didn't expect that a year ago. auto mode is default in claude code as of next week https://t.co/7KLnIzf6y7 https://t.",
+        "url": "https://x.com/bcherny/status/2085860677990883454",
+        "createdAt": "2026-08-07T22:48:33.000Z",
+        "engagement": 1121
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Astro Boy and Sol https://t.co/41S3qXca91",
+        "url": "https://x.com/thsottiaux/status/2085932920188072013",
+        "createdAt": "2026-08-08T03:35:37.000Z",
+        "engagement": 970,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "thenanyu",
+        "name": "Nan Yu",
+        "bio": "head of product @linear",
+        "text": "SF will be cool when cool people live there. Cool people who are working artists and musicians and shopkeepers. Cool people who are inefficient at business but just want to do cool things. Cool people need a place to live. There's just not enough housing for SF to be cool. https:",
+        "url": "https://x.com/thenanyu/status/2085806971895140612",
+        "createdAt": "2026-08-07T19:15:09.000Z",
+        "engagement": 659
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "we should have called this post \"defeating the lethal trifecta\" https://t.co/iGPfHR9I9y https://t.co/b4UaLs8LaF",
+        "url": "https://x.com/trq212/status/2085863307106468143",
+        "createdAt": "2026-08-07T22:59:00.000Z",
+        "engagement": 560,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "Huge Atlassian quarterly beat. There was a misplaced thesis over the past 6 months that somehow agents would be bad for certain software categories. There’s definitely truth in this in some areas, but many were parsing this poorly. In a world where agents are generating 100X more",
-        "url": "https://x.com/levie/status/2085474309943030032",
-        "createdAt": "2026-08-06T21:13:16.000Z",
-        "engagement": 942,
+        "text": "Bro this is how they’re going to plan their escape https://t.co/l7HysYEwC0",
+        "url": "https://x.com/levie/status/2085878722000040006",
+        "createdAt": "2026-08-08T00:00:15.000Z",
+        "engagement": 480,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
-      },
-      {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Airtable bookends the rise and fall of “no code.” I remember arguing endlessly with investors about this. UI can never let you build arbitrary software. The way to make software accessible was always to solve code itself. For a long time, that sounded delusional. Not anymore.",
-        "url": "https://x.com/amasad/status/2085451197323034902",
-        "createdAt": "2026-08-06T19:41:25.000Z",
-        "engagement": 628,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "I meant to say \"ghiblify\", but I said \"gimlify\" https://t.co/ZibIfuX99D",
-        "url": "https://x.com/thsottiaux/status/2085610005768945984",
-        "createdAt": "2026-08-07T06:12:28.000Z",
-        "engagement": 522,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "nikunj",
-        "name": "Nikunj Kothari",
-        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
-        "text": "Alright August fundraising season is here (got 9 intros this week) so here’s a brain dump of tips that no VC will tell you.. > who you talk to and get to an intro at a VC firm really matters. associates and principals ARE really great. i genuinely mean it BUT you have to see what",
-        "url": "https://x.com/nikunj/status/2085382457457828153",
-        "createdAt": "2026-08-06T15:08:17.000Z",
-        "engagement": 499,
-        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Devtools must be 1️⃣ open source and 2️⃣ universally extensible. AI coding agents are the most important devtools in the history of our industry. The Plugin standard lets anybody extend them uniformly. This is huge for the ecosystem. Build a Plugin → get exposure to the tidal wav",
-        "url": "https://x.com/rauchg/status/2085403169551790359",
-        "createdAt": "2026-08-06T16:30:35.000Z",
-        "engagement": 423,
+        "text": "Fun day at ▲. Excited to go home and deploy to ▲ https://t.co/NfY4y3xglL",
+        "url": "https://x.com/rauchg/status/2085936351342666175",
+        "createdAt": "2026-08-08T03:49:15.000Z",
+        "engagement": 275,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Here's what I think you need to know about personal AGI - not a chatbot that anyone can have, but one that knows you uniquely, now and into the future https://t.co/3LVEyZ6LE3",
-        "url": "https://x.com/garrytan/status/2085446068461043722",
-        "createdAt": "2026-08-06T19:21:03.000Z",
-        "engagement": 309,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Free users of ChatGPT now have unlimited text chats, powered by GPT-5.6 Luna https://t.co/eZq1e1hTQX",
-        "url": "https://x.com/thsottiaux/status/2085610231707623750",
-        "createdAt": "2026-08-07T06:13:22.000Z",
-        "engagement": 217,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "Consumer is basically ChatGPT and Google's market to lose in my opinion. ChatGPT already has 1B users and needs to get them to connect their favorite apps and use agents to do work. OpenAI is already pioneering new interaction patterns like voice. The biggest barriers to overcome",
-        "url": "https://x.com/petergyang/status/2085427222836658600",
-        "createdAt": "2026-08-06T18:06:09.000Z",
-        "engagement": 163,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "damn where's the ping Tibo to reset button https://t.co/GHYWCERnsB",
-        "url": "https://x.com/petergyang/status/2085520904398999901",
-        "createdAt": "2026-08-07T00:18:25.000Z",
-        "engagement": 153,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       }
     ],
     "podcast": {
       "name": "The MAD Podcast with Matt Turck",
-      "title": "How to Build Long-Horizon AI Agents — Mitch Troyanovsky, Basis",
+      "title": "“OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf",
       "url": "https://www.youtube.com/@DataDrivenNYC/videos",
-      "publishedAt": "2026-08-06T11:30:01.000Z"
+      "publishedAt": "2026-08-07T18:38:32.000Z"
     }
   },
   "builderpulse": {
     "ok": true,
-    "date": "2026-08-08",
-    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-08-08.md",
+    "date": "2026-08-09",
+    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-08-09.md",
     "zh": {
-      "lead": "「AI 会抢走你的编程工作」之争本周达到顶峰——单篇文章拿下 514 条评论。今天的数据给出了一个更奇怪的答案：工作已经不是写代码了——而是判断代码、判断流量、判断智能体。而我们是糟糕的判断者：一项 40,000 次运行的研究 发现，人类批准了三分之一的危险智能体命令；一个 150 万页的网站 发现 99% 的访客是机器人。",
+      "lead": "整个行业花了一天时间自我怀疑——\"Why is everyone in tech so sad?\"（为什么科技圈人人这么丧？）引来 1,167 条讨论，\"Code was never the hard part is an insult to all programmers\"（\"'写代码从来不是最难的部分'是对程序员的侮辱\"）又添 360 条。但同一批数据里藏着一条更安静的故事线：当大家在写文章争论时，机器本身在涨价。DeepSeek 宣布把 API 价格上调约 10 倍，结束了那个让 $5/月 智能体运行器成为可能的补贴时代。而新的价值单位已经清晰：skill file（技能文件）——Product Hunt 今日榜首（338 票）是开源 GTM 技能包，Google 增长最快的仓库叫 google/skills，还有一个 $12 的技能文件真的卖了出去。",
       "build": {
-        "title": "RealCount",
-        "oneLiner": "一个即插即用的脚本，给每个访客打上「真人/机器人」标签，只展示人类浏览量，让你终于知道「访客」里到底有多少是真人。"
+        "title": "SkillVault",
+        "oneLiner": "一个商店门面：上传智能体技能文件、定个价格、通过 Stripe 即时收款，让写出有用技能的开发者不必自己搭结账流程就能卖掉它。"
       },
       "signals": [
-        "你的数字是假的：一位创始人的 150 万页网站流量里 99% 是机器人（登上热榜，352 条讨论），Indie Hackers 最热闹的帖子（92 条评论）证实分析数据大多是虚构。",
-        "审批优先的智能体进入主流：Soloop 的「审批优先 Agent OS」拿下 361 个 Product Hunt 票，与三分之一批准率研究（登上热榜，244 条讨论）和一份 134 条常设规则的管理指南会合。",
-        "品味之争爆发：「Taste Is All That's Left」一夜之间从 155 条评论跳到 514 条（登上热榜），煎牛排帖（414 条评论）和职业信念长文（531 条）凑齐了本周最大的对话。"
+        "职业信念话题群达到顶峰：\"Why is everyone in tech so sad?\"（为什么科技圈人人这么丧？）登上热榜、引发 1,167 条讨论，\"Code was never the hard part is an insult to all programmers\"（\"'写代码从来不是最难的部分'是对程序员的侮辱\"）引发 360 条讨论、还上了 Lobsters——整个行业在争论这份工作还有没有意义。",
+        "廉价推理时代收缩：DeepSeek API 涨价约 10 倍（cache 读取从 0.002 涨到 0.02），被评论者称为\"正好落在别人都在的位置\"（457 条讨论）——$5/月 智能体运行器的经济学一夜变天。",
+        "skill file 变成了产品：The GTM Co-Founder 以 338 票登顶 Product Hunt，Hexis（166 票）用 git 给技能做版本管理，google/skills 每周新增 1,143 stars，还有一个 $12 的技能文件在 Indie Hackers 上成交。"
       ]
     },
     "en": {
-      "lead": "The \"AI will take your coding job\" debate peaked this week at 514 comments on one essay. Today's data gives a stranger answer: the job isn't writing code anymore — it's judging the code, the traffic, and the agents. And we're poor judges: a 40,000-run study found humans approved 1 in 3 dangerous agent commands, and a 1.5-million-page site discovered 99% of its visitors were bots.",
+      "lead": "The profession spent the day doubting itself — 1,167 comments on \"tech workers losing faith in their careers\" and 360 more on \"'Code was never the hard part' is an insult.\" But the same data has a quieter story: while the essays argue, the price of the machine went up. DeepSeek is raising API prices ~10x, ending the subsidy era that made $5/month agent runners possible. And the new unit of value is already clear: the skill file — Product Hunt's #1 launch (338 votes) is open-source GTM skills, Google's fastest-growing repo is google/skills, and a $12 skill file actually sold.",
       "build": {
-        "title": "RealCount",
-        "oneLiner": "a drop-in script that tags every visitor human or bot and shows you human-only pageviews, so you finally know how many of your \"visitors\" are actually people."
+        "title": "SkillVault",
+        "oneLiner": "a storefront where you upload an agent skill file, set a price, and get paid instantly via Stripe, so builders who wrote a useful skill can sell it without building checkout."
       },
       "signals": [
-        "Your numbers are fake: 99% of one founder's 1.5-million-page traffic was bots (372 points, 352 comments), and Indie Hackers' busiest thread (92 comments) confirms analytics are mostly fiction.",
-        "Approval-first agents went mainstream: Soloop's \"Approval-first Agent OS\" took 361 Product Hunt votes, joining the 1-in-3 approval study (330 points, 244 comments) and a 134-standing-rule management guide.",
-        "The taste debate exploded: \"Taste Is All That's Left\" jumped from 155 to 514 comments overnight (649 points), with the cooking-steak post (414 comments) and the career-faith essay (531) completing the week's biggest conversation."
+        "The career-faith cluster peaked: \"Why is everyone in tech so sad?\" (980 points, 1,167 comments) and \"'Code was never the hard part' is an insult\" (566 points, 360 comments, plus Lobsters) — the profession is arguing about whether the job still means anything.",
+        "The cheap-inference era contracts: DeepSeek's API raise lands at ~10x (cache reads 0.002 → 0.02), putting it \"exactly where everyone else is\" (457 comments) — the economics of $5/month agent runners change overnight.",
+        "The skill file became a product: GTM Co-Founder tops Product Hunt with 338 votes, Hexis (166) versions skills in git, google/skills adds 1,143 stars/week, and a $12 skill file sold on Indie Hackers."
       ]
     }
   },
   "archive": [
+    {
+      "date": "2026-08-09",
+      "aihotCount": 6,
+      "buildersCount": 12,
+      "bpBuild": "SkillVault"
+    },
     {
       "date": "2026-08-08",
       "aihotCount": 16,
@@ -329,12 +253,6 @@
       "aihotCount": 4,
       "buildersCount": 12,
       "bpBuild": "`VaultMover`"
-    },
-    {
-      "date": "2026-08-02",
-      "aihotCount": 2,
-      "buildersCount": 12,
-      "bpBuild": "AnswerTrack"
     }
   ]
 }
