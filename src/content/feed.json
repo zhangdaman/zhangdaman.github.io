@@ -1,96 +1,104 @@
 {
-  "generatedAt": "2026-08-13T03:26:00.813Z",
-  "date": "2026-08-13",
+  "generatedAt": "2026-08-14T03:23:31.551Z",
+  "date": "2026-08-14",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "新兴多智能体系统的模式与问题",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "url": "https://www.anthropic.com/research/multiagent-systems",
-        "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
-        "publishedAt": "2026-08-13T01:20:54.259Z",
-        "category": "paper"
-      },
-      {
-        "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+        "title": "从0到1带你速通DeepSeek Harness。",
         "source": "公众号：数字生命卡兹克",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
-        "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
-        "publishedAt": "2026-08-12T22:22:28.000Z",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
+        "summary": "",
+        "publishedAt": "2026-08-13T23:58:00.000Z",
         "category": "tip"
       },
       {
-        "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-        "source": "Claude：Blog（网页）",
-        "url": "https://claude.com/blog/cowork-chrome-side-panel",
-        "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
-        "publishedAt": "2026-08-12T20:15:51.977Z",
+        "title": "Claude 接管应用日常维护：388 个 PR 的实践",
+        "source": "X：Boris Cherny (@bcherny)",
+        "url": "https://x.com/bcherny/status/2088014489438621990",
+        "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
+        "publishedAt": "2026-08-13T21:27:02.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+        "source": "Google DeepMind：Blog（RSS）",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+        "summary": "Google DeepMind 发布 Gemini 3.7 Flash，距 3.6 Flash 仅三周，主打编程与智能体任务，输入/输出价格分别为每百万 token $0.75 和 $3.75，为原 3.6 Flash 的一半。",
+        "publishedAt": "2026-08-13T17:04:18.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+        "source": "MiniMax：Blog（网页）",
+        "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+        "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
+        "publishedAt": "2026-08-13T16:52:23.676Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+        "source": "Google Blog：AI（RSS）",
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+        "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
+        "publishedAt": "2026-08-13T16:45:00.000Z",
         "category": "ai-products"
       },
       {
-        "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
-        "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
-        "publishedAt": "2026-08-12T18:00:08.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-        "source": "Google Research：Blog（网页）",
-        "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-        "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-        "publishedAt": "2026-08-12T17:57:36.369Z",
-        "category": "paper"
-      },
-      {
-        "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/989/001.htm",
-        "summary": "阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262，144 Token 上下文并可扩展至 1，010，000 Token。",
-        "publishedAt": "2026-08-12T16:10:01.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "微软首发自研推理模型MAI-Thinking-1",
-        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-        "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-        "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
-        "publishedAt": "2026-08-12T16:00:59.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-        "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
-        "publishedAt": "2026-08-12T13:01:16.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "url": "https://x.com/OpenRouter/status/2087509478480765218",
-        "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
-        "publishedAt": "2026-08-12T12:00:18.000Z",
+        "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+        "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+        "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+        "publishedAt": "2026-08-13T14:04:55.000Z",
         "category": "ai-products"
       },
       {
-        "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/988/766.htm",
-        "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
-        "publishedAt": "2026-08-12T06:46:51.000Z",
+        "title": "DeepSeek Harness v0.1 开发者预览版发布",
+        "source": "X：DeepSeek (@deepseek_ai)",
+        "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+        "summary": "DeepSeek Harness v0.1 现已推出开发者预览版，并以 MIT 许可证开源。该智能体框架基于 Cordis 元框架构建，核心设计为\"一切皆插件\"，模型、工具、技能、会话、沙箱、文件系统、循环、编排及 UI 均可自由组合、替换和扩展。",
+        "publishedAt": "2026-08-13T13:02:03.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+        "source": "Cursor Blog",
+        "url": "https://cursor.com/blog/builds",
+        "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+        "publishedAt": "2026-08-13T12:00:00.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+        "source": "DeepSeek：API 更新日志",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-13",
+        "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+        "publishedAt": "2026-08-13T11:16:42.199Z",
         "category": "ai-models"
       },
       {
-        "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-        "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
-        "publishedAt": "2026-08-12T05:41:30.137Z",
-        "category": "industry"
+        "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
+        "publishedAt": "2026-08-13T11:00:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座",
+        "source": "公众号：小红书技术（dots.llm）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496062&idx=1&sn=d4c48926c5d7607f129dfea03699a6c0",
+        "summary": "小红书 dots 团队开源 20 亿参数全连续端到端自回归语音合成模型 dots.tts，在 Seed-TTS-Eval 三个子集上取得最佳平均内容准确度和平均说话人相似度。",
+        "publishedAt": "2026-08-13T09:59:00.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+        "source": "公众号：数字生命卡兹克",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+        "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+        "publishedAt": "2026-08-13T04:32:24.000Z",
+        "category": "ai-products"
       }
     ]
   },
@@ -101,158 +109,154 @@
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "We did it, finally... Codex &amp; ChatGPT desktop, now on Linux. Thanks for waiting and you can cancel that MacBook order if you got impatient. It’s that good. 👀 https://t.co/QiiDPFct2v",
-        "url": "https://x.com/thsottiaux/status/2087254026232775052",
-        "createdAt": "2026-08-11T19:05:13.000Z",
-        "engagement": 9785,
+        "text": "Old news actually from a bunch of days ago, but crossed that 15M. Enjoy a nice reset everyone. Landing in the next hour or so, go /fast.",
+        "url": "https://x.com/thsottiaux/status/2087706104814023111",
+        "createdAt": "2026-08-13T01:01:37.000Z",
+        "engagement": 11370,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Your Claude in Chrome sessions now carry over to desktop, web, and mobile. Conversations are saved, and your skills and connectors work in the browser. Available on Max and Team today, rolling out to Pro in the coming weeks. https://t.co/Hnxs18PVI8",
+        "url": "https://x.com/claudeai/status/2087635262390026525",
+        "createdAt": "2026-08-12T20:20:07.000Z",
+        "engagement": 9148
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Typical conversation with @ajambrosino A: core alignment has been reached T: core alignment you say A: i say T: say more A: more And yet I’ve never been more excited about what him and the team are building.",
+        "url": "https://x.com/thsottiaux/status/2087614555203809395",
+        "createdAt": "2026-08-12T18:57:50.000Z",
+        "engagement": 2515,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "I previously promised a reset for every 1M in additional active users for Codex, until 10M. We blew past that and have been silent since 10M. Little surprise for you tomorrow.",
-        "url": "https://x.com/thsottiaux/status/2087423996115681767",
-        "createdAt": "2026-08-12T06:20:37.000Z",
-        "engagement": 2913,
+        "text": "Also don’t say Linux, we just shipped that.",
+        "url": "https://x.com/thsottiaux/status/2087439859493617908",
+        "createdAt": "2026-08-12T07:23:39.000Z",
+        "engagement": 2182,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "LLMs still produce bugs, but those bugs are different than what they used to be. It’s less off-by-ones and more about system design, ui usability, missing broader context. Some kinds of coding has been solved, but not all. While models continue to improve, adversarial code review",
-        "url": "https://x.com/bcherny/status/2087284684103537011",
-        "createdAt": "2026-08-11T21:07:03.000Z",
-        "engagement": 2574
+        "handle": "swyx",
+        "name": "Swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
+        "text": "Perplexity offered to buy @googlechrome one year ago today (this is a scheduled tweet) https://t.co/EdFp28P2qO",
+        "url": "https://x.com/swyx/status/2087691099691475285",
+        "createdAt": "2026-08-13T00:02:00.000Z",
+        "engagement": 1237,
+        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Import your world. Codex. Run. https://t.co/Epj4ULlAC6",
-        "url": "https://x.com/thsottiaux/status/2087252528513814773",
-        "createdAt": "2026-08-11T18:59:16.000Z",
-        "engagement": 2168,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "cli was a year ago. apps maybe 6 months. now it’s services, web, cloud sessions. https://t.co/UlwOZslqX9",
+        "url": "https://x.com/steipete/status/2087568620465607078",
+        "createdAt": "2026-08-12T15:55:18.000Z",
+        "engagement": 1231,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "This is part of working with the EU AI Act, other labs are adding similar watermarking. It’s hard to identify AI-generated text, and this gives people better tools to do that. We’ll also be a shipping text detection API that you can use yourself. https://t.co/OZtG0fNsqc",
-        "url": "https://x.com/trq212/status/2087258090169414008",
-        "createdAt": "2026-08-11T19:21:22.000Z",
-        "engagement": 992,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Endless opportunity everywhere you look",
+        "url": "https://x.com/rauchg/status/2087736311885218160",
+        "createdAt": "2026-08-13T03:01:39.000Z",
+        "engagement": 1178,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "AmandaAskell",
+        "name": "Amanda Askell",
+        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
+        "text": "When I started playing Skyrim, I quickly realized you can make a lot of progress without doing any killing. You can also adopt orphans and build them nice houses, so I focused on that. I honestly don't really remember the plot beyond \"that challenging fantasy philanthropy game\".",
+        "url": "https://x.com/AmandaAskell/status/2087597131800674495",
+        "createdAt": "2026-08-12T17:48:36.000Z",
+        "engagement": 1005
+      },
+      {
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https:/",
+        "text": "This Stanford lecture series is pure gold. Crazy that such high-quality knowledge is freely disseminated on YouTube https://t.co/bHH1QYLy98",
+        "url": "https://x.com/zarazhangrui/status/2087547174662136273",
+        "createdAt": "2026-08-12T14:30:05.000Z",
+        "engagement": 672
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Deep alignment of your AI with you and your context is massively important Important new work by @ibab and team https://t.co/TijcK96ckO",
-        "url": "https://x.com/garrytan/status/2087154547580088470",
-        "createdAt": "2026-08-11T12:29:56.000Z",
-        "engagement": 329,
+        "text": "GBrain just dropped v0.45.6.0 which added 17 new brain skills hardened through my own personal OpenClaw agent with hundreds of thousands of markdown files. A personal AGI is one that works for you. GBrain now works with Codex and Claude code, btw. https://t.co/yFpFU4pn5b https://",
+        "url": "https://x.com/garrytan/status/2087594114372259890",
+        "createdAt": "2026-08-12T17:36:37.000Z",
+        "engagement": 661,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "The growth of @aisdk has been astonishing. ~80.5M downloads every 30 days, and growing faster than all AI labs SDKs. Most importantly: open and provider-agnostic. https://t.co/EZxyu94gk0 https://t.co/sdVZTZhsCP",
-        "url": "https://x.com/rauchg/status/2087339038781161858",
-        "createdAt": "2026-08-12T00:43:02.000Z",
-        "engagement": 305,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "nikunj",
-        "name": "Nikunj Kothari",
-        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
-        "text": "if a founder cancels on you on a scheduled meeting, that’s a sign of great respect in their culture",
-        "url": "https://x.com/nikunj/status/2087341164752240860",
-        "createdAt": "2026-08-12T00:51:29.000Z",
-        "engagement": 295,
-        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "Trying to onboard my parents to ChatGPT desktop app and the separation between Chat, Work, and Codex and the lack of consistency across ChatGPT web, desktop, and mobile apps is all incredibly messy. I think the team should do a clean up / quality pass or maybe ask Codex to do it.",
-        "url": "https://x.com/petergyang/status/2087340277874995223",
-        "createdAt": "2026-08-12T00:47:57.000Z",
-        "engagement": 274,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Keep an eye on this view https://t.co/iir02GoUUw https://t.co/iYEI1rO9Jy https://t.co/0ey1ut4h70",
-        "url": "https://x.com/rauchg/status/2087314071519707288",
-        "createdAt": "2026-08-11T23:03:49.000Z",
-        "engagement": 272,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "realmadhuguru",
-        "name": "Madhu Guru",
-        "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
-        "text": "There’s going to be a ton of money in making open-weight models exceptional at boring, specific business domains. Pick a size x domain combination and go deep. Eg mid-market legal, smb retail, enterprise logistics. The hyperscalers have the primitives but will struggle with domai",
-        "url": "https://x.com/realmadhuguru/status/2087198985685750013",
-        "createdAt": "2026-08-11T15:26:31.000Z",
-        "engagement": 178
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "The side panel now runs the same Claude Cowork session as the desktop, web, and mobile apps. Sessions live with your account, not on any single device, so you can start in a tab and pick it up later somewhere else. Give it a try: https://t.co/8xTEK7osxX",
+        "url": "https://x.com/claudeai/status/2087635263774232617",
+        "createdAt": "2026-08-12T20:20:07.000Z",
+        "engagement": 401
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Anish is a G. Excited for our convo to drop! https://t.co/8rCH3YhHWl",
-        "url": "https://x.com/garrytan/status/2087256959913541812",
-        "createdAt": "2026-08-11T19:16:53.000Z",
-        "engagement": 178,
+        "text": "We are gonna be markdown skill-maxxing from here Thank you @illscience for a fun conversation https://t.co/SvyGMlmclh",
+        "url": "https://x.com/garrytan/status/2087625178293604438",
+        "createdAt": "2026-08-12T19:40:03.000Z",
+        "engagement": 358,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "The Biggest AI Deployment Nobody Talks About | Samsara CEO Sanjit Biswas",
-      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
-      "publishedAt": "2026-07-30T11:30:00.000Z"
+      "name": "AI & I by Every",
+      "title": "Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-08-12T16:55:27.000Z"
     }
   },
   "builderpulse": {
     "ok": true,
-    "date": "2026-08-12",
-    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-08-12.md",
+    "date": "2026-08-14",
+    "sourceUrl": "https://github.com/BuilderPulse/BuilderPulse/blob/main/zh/2026/2026-08-14.md",
     "zh": {
-      "lead": "所有人都在争论哪个模型最聪明。真正的信号已经转移到了别处：今天评论最多的文章说\"网络正在遗忘自己\"，第二篇说 AI 应用会泄露隐藏的思考过程，第三篇是一个国家禁止电话营销——大家讨论的是信任，而不是智能。",
+      "lead": "",
       "build": {
-        "title": "`TraceLeak`",
-        "oneLiner": "一个扫描器，在攻击者提取之前检查你的 AI 应用 API 响应中是否泄露推理痕迹：粘贴一段响应或指向一个端点，就能得到泄露报告，指出暴露的字段、涉及的模型和风险等级。"
+        "title": "",
+        "oneLiner": ""
       },
-      "signals": [
-        "新研究显示，推理痕迹可以从专有 LLM API 中被窃取（stolen-thoughts.com，登上热榜（485 分），引发 205 条讨论）——\"隐藏思考\"的第一类实际可利用漏洞，而目前还没有工具能检查你自己的应用。",
-        "一篇关于 Google AI 摘要抹除互联网集体记忆的文章成为当天讨论度最高的文章（登上热榜（868 分），引发 869 条讨论），评论者记录下了被编造的日落时间，以及杀死原创页面的激励循环。",
-        "法国禁止未经请求的电话营销正式落地（Le Monde，登上热榜（986 分），引发 477 条讨论），并带来二阶冲击：40,000–50,000 个摩洛哥呼叫中心岗位依赖的正是现在被禁的这些电话。"
-      ]
+      "signals": []
     },
     "en": {
-      "lead": "Everyone is arguing about which model is smartest. The real signal moved elsewhere: the most-commented story says the web is forgetting itself, the second says AI apps leak hidden thinking, the third is a country banning telemarketing — the conversation is about trust, not intelligence.",
+      "lead": "",
       "build": {
-        "title": "TraceLeak",
-        "oneLiner": "a scanner that checks your AI app's API responses for leaked reasoning traces before attackers extract them: paste a response or point it at an endpoint, get a leak report naming the exposed fields, the model, and the risk."
+        "title": "",
+        "oneLiner": ""
       },
-      "signals": [
-        "New research shows reasoning traces can be stolen from proprietary LLM APIs (stolen-thoughts.com, 485 points, 205 comments) — the first practical exploit class for \"hidden thinking,\" and no tooling exists yet to check your own app.",
-        "An essay on Google's AI summaries erasing the internet's collective memory became the day's most-discussed story (868 points, 869 comments), with commenters documenting invented sunset times and the incentive loop that kills original pages.",
-        "France's unsolicited telemarketing ban landed (Le Monde, 986 points, 477 comments) with a second-order shock: 40,000–50,000 Moroccan call-center jobs depend on the calls now banned."
-      ]
+      "signals": []
     }
   },
   "archive": [
+    {
+      "date": "2026-08-14",
+      "aihotCount": 12,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-08-13",
       "aihotCount": 11,
@@ -288,12 +292,6 @@
       "aihotCount": 16,
       "buildersCount": 12,
       "bpBuild": "RealCount"
-    },
-    {
-      "date": "2026-08-07",
-      "aihotCount": 19,
-      "buildersCount": 12,
-      "bpBuild": "SpendScope"
     }
   ]
 }
