@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-16T02:20:14.238Z",
-  "date": "2026-08-16",
+  "generatedAt": "2026-08-17T02:19:07.193Z",
+  "date": "2026-08-17",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Cursor 正式被 SpaceX 收购",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://cursor.com/blog/joining-spacex",
-        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-        "publishedAt": "2026-08-15T20:05:54.703Z",
-        "category": "industry"
+        "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+        "source": "Simon Willison 博客",
+        "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+        "summary": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型 Qwen 3.8 27B，官方基准显示其超越前代 Qwen 3.6 27B 及闭源 Qwen 3.7-Plus。",
+        "publishedAt": "2026-08-16T22:00:39.000Z",
+        "category": "tip"
       },
       {
-        "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-        "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
-        "publishedAt": "2026-08-15T11:00:50.000Z",
+        "title": "新兴多智能体系统的模式与问题",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
+        "publishedAt": "2026-08-16T11:17:57.393Z",
         "category": "paper"
       }
     ]
@@ -26,128 +26,131 @@
     "ok": true,
     "items": [
       {
-        "handle": "joshwoodward",
-        "name": "Josh Woodward",
-        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "3.7 Flash is in the @GeminiApp https://t.co/txm3fI0wZo",
-        "url": "https://x.com/joshwoodward/status/2088344782821326980",
-        "createdAt": "2026-08-14T19:19:30.000Z",
-        "engagement": 773
-      },
-      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "What’s a hard problem codex solved for you this week? Where do you learn from others on how to push the frontier?",
-        "url": "https://x.com/thsottiaux/status/2088500028721832432",
-        "createdAt": "2026-08-15T05:36:23.000Z",
-        "engagement": 683,
+        "text": "Incredible things are happening at OpenAI right now. Energy is high.",
+        "url": "https://x.com/thsottiaux/status/2088725514542575903",
+        "createdAt": "2026-08-15T20:32:23.000Z",
+        "engagement": 9577,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "Watermarking without quality loss is a bit unintuitive, doesn't feel like it should work. I made this artifact with Claude to help me understand how it works, sharing in case it's helpful. https://t.co/ALReoOH6tB https://t.co/hEPeCHgGRM",
+        "url": "https://x.com/trq212/status/2088721023223132213",
+        "createdAt": "2026-08-15T20:14:33.000Z",
+        "engagement": 2693,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Looking for a quick restaurant reservation is now super easy in ChatGPT. Together with a bunch more ships https://t.co/8AN0GbFMy3",
-        "url": "https://x.com/thsottiaux/status/2088493756391768252",
-        "createdAt": "2026-08-15T05:11:28.000Z",
-        "engagement": 614,
+        "text": "If you have a company and still use Opus instead of Sol, why so? Does price not matter to you? What's something that would convince you to switch?",
+        "url": "https://x.com/thsottiaux/status/2088850995430477882",
+        "createdAt": "2026-08-16T04:51:00.000Z",
+        "engagement": 2664,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Vercel is the fastest [AI Gateway] infrastructure in the world https://t.co/AdxxRBdgvt",
-        "url": "https://x.com/rauchg/status/2088323451132199338",
-        "createdAt": "2026-08-14T17:54:44.000Z",
-        "engagement": 319,
+        "text": "I think people don’t realize how much of the success of React is actually @shadcn. I once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks. The spec. Shadcn is what people actually wanted from React.",
+        "url": "https://x.com/rauchg/status/2088757738037989755",
+        "createdAt": "2026-08-15T22:40:26.000Z",
+        "engagement": 1099,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "joshwoodward",
-        "name": "Josh Woodward",
-        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "Pomelli is our Google Labs experiment popular with a growing number of small businesses. Why? It's one of the easiest ways to make your products look good in any setting. With this launch, turn those amazing photoshoots into short videos or gifs with that same ease! https://t.co/",
-        "url": "https://x.com/joshwoodward/status/2088261701028503965",
-        "createdAt": "2026-08-14T13:49:22.000Z",
-        "engagement": 195
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "On tokens and prices per token. I said I’d write more about this, so here goes: an OpenAI token != another model’s token. We compare AI prices in dollars per million tokens as if a token were a standardized unit, like a gram or a kilowatt-hour. It isn’t. Different models use and ",
+        "url": "https://x.com/thsottiaux/status/2088866513008873560",
+        "createdAt": "2026-08-16T05:52:40.000Z",
+        "engagement": 1080,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "mattturck",
-        "name": "Matt Turck",
-        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-        "text": "The evolution of a workday: Before AI: [decision] [process] [process] [decision] [process] [process] [process] 10pm: still going With AI: [decision] [decision] [decision] [decision] [decision] 3pm: [brain empty] [need coffee] [staring at wall]",
-        "url": "https://x.com/mattturck/status/2088323186819539041",
-        "createdAt": "2026-08-14T17:53:41.000Z",
-        "engagement": 183,
-        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
+        "handle": "adityaag",
+        "name": "Aditya Agarwal",
+        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Bo",
+        "text": "America turned 250 years old earlier this year. India turns 80 today...80 years young. Building countries is really hard. 80 years in...America was struggling with a civil war. Indians should be damn proud of the country they have built. Like America, India wants more. She wants ",
+        "url": "https://x.com/adityaag/status/2088734739893293175",
+        "createdAt": "2026-08-15T21:09:03.000Z",
+        "engagement": 925,
+        "textZh": "Schrep 和 Gigascale 团队在做一些很特别的事。他们是 @southpkcommons 被投公司的绝佳合作伙伴。@schrep 是我仰望已久的人，期待继续合作。"
       },
       {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "Amazing outcome. Cursor executed the applied AI strategy flawlessly. Most people completely underestimated the market size in AI coding. The biggest developer tool exits in history were on the order of low billions of dollars. And it was already assumed to be a heavily competitiv",
-        "url": "https://x.com/levie/status/2088476232933577124",
-        "createdAt": "2026-08-15T04:01:50.000Z",
-        "engagement": 171,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "We moved the team over to build openclaw with openclaw. Being able to share agent sessions as URLs is a superpower. https://t.co/peCQydXWyc",
-        "url": "https://x.com/steipete/status/2088473882357530979",
-        "createdAt": "2026-08-15T03:52:30.000Z",
-        "engagement": 165,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+        "handle": "swyx",
+        "name": "Swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
+        "text": "in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other. as an outsider i might have assumed that everyone is in secret illuminati group chats. those exist, but are very much short lived ",
+        "url": "https://x.com/swyx/status/2088755688361378082",
+        "createdAt": "2026-08-15T22:32:17.000Z",
+        "engagement": 238,
+        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "\"Steve Jobs walked by and said the font city names weren't bad, but 'at least call them world-class cities.' That's how Paoli and Wynwood became New York and Geneva.\" https://t.co/U9PPNUwkJE",
-        "url": "https://x.com/garrytan/status/2088383794013470812",
-        "createdAt": "2026-08-14T21:54:31.000Z",
-        "engagement": 145,
+        "text": "Anyone else's Codex Desktop app erroring out on chats? https://t.co/raNUNTPqbe",
+        "url": "https://x.com/garrytan/status/2088642982614651196",
+        "createdAt": "2026-08-15T15:04:26.000Z",
+        "engagement": 229,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
-        "handle": "GoogleLabs",
-        "name": "Google Labs",
-        "bio": "Google’s home for our latest AI tools and experiments.",
-        "text": "In the Lab, we’re always tinkering 🧪– from the experiments we graduate to the ones still brewing, we bring the best of our AI models to all kinds of users. Try out these two (if you haven't already!): @PomellibyGoogle - build captivating marketing campaigns tailored to your bran",
-        "url": "https://x.com/GoogleLabs/status/2088307370787328223",
-        "createdAt": "2026-08-14T16:50:50.000Z",
-        "engagement": 120
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Impressive https://t.co/fv5zyLbPNt",
+        "url": "https://x.com/rauchg/status/2088801077659635715",
+        "createdAt": "2026-08-16T01:32:39.000Z",
+        "engagement": 174,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Added a short instruction to our shared AGENTS MD file to upload videos to each PR that changes UI state. https://t.co/BjpJL1qFSR https://t.co/09wZoz7X0J",
-        "url": "https://x.com/steipete/status/2088486859244741020",
-        "createdAt": "2026-08-15T04:44:04.000Z",
-        "engagement": 114,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "Dario should tweet more https://t.co/N29v9simn6",
+        "url": "https://x.com/danshipper/status/2088780884048552202",
+        "createdAt": "2026-08-16T00:12:25.000Z",
+        "engagement": 160,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "The most surprising thing about using GStack pre-Fable 5 and after is now for many one-way-door questions you might get back in Claude Code, you can actually just say \"Take all recommendations\" and be happy",
-        "url": "https://x.com/garrytan/status/2088388000267002195",
-        "createdAt": "2026-08-14T22:11:14.000Z",
-        "engagement": 104,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "I am a fan of Grok Bot but @X is the #1 differentiated data source that it should have access to and it doesn't seem to work? The connector doesn't work and I can't even login to X on the cloud computer. Am I doing something wrong? https://t.co/O5OI9OhETb",
+        "url": "https://x.com/petergyang/status/2088773343629750535",
+        "createdAt": "2026-08-15T23:42:27.000Z",
+        "engagement": 140,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Recursive self improvement https://t.co/wOqa7mW997",
+        "url": "https://x.com/rauchg/status/2088838302367732178",
+        "createdAt": "2026-08-16T04:00:34.000Z",
+        "engagement": 136,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "How to Build Long-Horizon AI Agents — Mitch Troyanovsky, Basis",
-      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
-      "publishedAt": "2026-08-06T11:30:01.000Z"
+      "name": "AI & I by Every",
+      "title": "Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod)",
+      "url": "https://www.youtube.com/watch?v=dlI-5W7d7uU",
+      "publishedAt": "2026-08-05T16:02:13.000Z"
     }
   },
   "builderpulse": {
@@ -172,6 +175,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-08-17",
+      "aihotCount": 2,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-08-16",
       "aihotCount": 2,
@@ -207,12 +216,6 @@
       "aihotCount": 13,
       "buildersCount": 12,
       "bpBuild": "AgentGate"
-    },
-    {
-      "date": "2026-08-10",
-      "aihotCount": 10,
-      "buildersCount": 12,
-      "bpBuild": "OriginLog"
     }
   ]
 }
