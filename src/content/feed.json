@@ -1,64 +1,64 @@
 {
-  "generatedAt": "2026-08-21T02:22:42.221Z",
-  "date": "2026-08-21",
+  "generatedAt": "2026-08-22T02:15:15.296Z",
+  "date": "2026-08-22",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+        "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
         "source": "Claude：Blog（网页）",
-        "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-        "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
-        "publishedAt": "2026-08-20T20:27:01.660Z",
+        "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+        "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+        "publishedAt": "2026-08-21T17:58:29.461Z",
         "category": "ai-products"
       },
       {
-        "title": "Anthropic 如何开展 AI 教学",
+        "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+        "summary": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
+        "publishedAt": "2026-08-21T17:56:25.415Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+        "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
+        "publishedAt": "2026-08-21T17:56:25.415Z",
+        "category": "paper"
+      },
+      {
+        "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
         "source": "Claude：Blog（网页）",
-        "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-        "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
-        "publishedAt": "2026-08-20T17:56:58.396Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-        "source": "Hugging Face：Blog（RSS）",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-        "summary": "Hugging Face 发布 LFM2.5 系列三款模型的 DSpark 草稿模型检查点，通过投机解码在不改变输出质量的前提下，GPU 吞吐最高提升 3.18 倍，端侧最高 2.87 倍。草稿模型约 300M 参数，LFM2.5-2.6B 函数调用延迟平均降低 57%，已开源支持 llama.cpp 和 SGLang。",
-        "publishedAt": "2026-08-20T16:52:57.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-        "source": "Mistral AI：News（网页）",
-        "url": "https://mistral.ai/news/agentic-search",
-        "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
-        "publishedAt": "2026-08-20T16:02:07.300Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-        "source": "Google Cloud：Databases（RSS）",
-        "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-        "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
-        "publishedAt": "2026-08-20T16:00:00.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-        "source": "Claude：Blog（网页）",
-        "url": "https://claude.com/blog/claude-code-guide-for-startups",
-        "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
-        "publishedAt": "2026-08-20T13:26:53.704Z",
+        "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+        "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
+        "publishedAt": "2026-08-21T14:28:27.351Z",
         "category": "tip"
       },
       {
-        "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/992/239.htm",
-        "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
-        "publishedAt": "2026-08-20T09:45:51.000Z",
+        "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
+        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+        "url": "https://x.com/OpenBMB/status/2090786300194590816",
+        "summary": "面壁智能 OpenBMB 推出 MathForm，一个面向 Lean 4 数学自动形式化的开源框架、数据集与模型。其 FormalVerse 数据集含 367K+ 已验证示例；在匹配 100K 预算下，基于其训练的模型 Consistency Check 达 60.32%，优于 FineLeanCorpus（46.53%）与 NuminaMath-LEAN（41.49%）。",
+        "publishedAt": "2026-08-21T13:01:13.000Z",
         "category": "ai-models"
+      },
+      {
+        "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "source": "DeepSeek：API 更新日志",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21",
+        "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+        "publishedAt": "2026-08-21T09:26:04.727Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+        "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+        "publishedAt": "2026-08-21T09:25:43.682Z",
+        "category": "paper"
       }
     ]
   },
@@ -69,127 +69,127 @@
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "It has not been used yet, but would you look at that. Codex for scale. https://t.co/o1pulwoifd",
-        "url": "https://x.com/thsottiaux/status/2090116476414136830",
-        "createdAt": "2026-08-19T16:39:35.000Z",
-        "engagement": 4859,
+        "text": "We've investigated a few messages about codex usage limits being different. That's not something we change without engaging the community and being transparent. What we did see is that when talking to affected users many were using sub2api. Converting a subscription into api traf",
+        "url": "https://x.com/thsottiaux/status/2090675027670978569",
+        "createdAt": "2026-08-21T05:39:04.000Z",
+        "engagement": 2909,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Yay, you can now make transparent images in ChatGPT and through the API with GPT-Image-2. Here is a cactus cactus I am about to print and put on my laptop. https://t.co/1WZd2VSH8y https://t.co/tkFkC7NYpq",
+        "url": "https://x.com/thsottiaux/status/2090631723302469995",
+        "createdAt": "2026-08-21T02:46:59.000Z",
+        "engagement": 2589,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules. Customers can own and control their own data and Anthropic retains none. It’s coming this fall. https",
+        "url": "https://x.com/bcherny/status/2090537902912815536",
+        "createdAt": "2026-08-20T20:34:11.000Z",
+        "engagement": 1766
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Create a ChatGPT Site, share it and create something together. I've been building little games and sites with others and it is so much fun. https://t.co/KrWSbWWTwl",
+        "url": "https://x.com/thsottiaux/status/2090518287532916854",
+        "createdAt": "2026-08-20T19:16:14.000Z",
+        "engagement": 1669,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "amasad",
         "name": "Amjad Masad",
         "bio": "ceo @replit. civilizationist",
-        "text": "Agents made software cheaper but made coding expensive. Today, together with @OpenAI, we’re changing this: https://t.co/OI3eowMt5s",
-        "url": "https://x.com/amasad/status/2090079496124674377",
-        "createdAt": "2026-08-19T14:12:38.000Z",
-        "engagement": 3774,
+        "text": "This partnership with @OpenAI is long overdue. Before Replit was in YC, PG asked Sam to recruit us. Here’s Sam telling the story of how we first met: https://t.co/qgrj1TJv5L https://t.co/IsiPoUBvOx",
+        "url": "https://x.com/amasad/status/2090514571513708874",
+        "createdAt": "2026-08-20T19:01:28.000Z",
+        "engagement": 979,
         "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "we support business privacy! https://t.co/SJ6w5DeYTY",
-        "url": "https://x.com/sama/status/2090163991234453611",
-        "createdAt": "2026-08-19T19:48:23.000Z",
-        "engagement": 3459,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Today we’re previewing Private Safety Processing, designed to let us keep offering Zero Data Retention while improving our safeguards. Even when benefiting from frontier intelligence, customers shouldn’t have to give up control of sensitive data. For ZDR deployments, content stay",
-        "url": "https://x.com/thsottiaux/status/2090173536010957128",
-        "createdAt": "2026-08-19T20:26:19.000Z",
-        "engagement": 2170,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "SF has breathtaking views https://t.co/8WEwlQlxdl",
-        "url": "https://x.com/rauchg/status/2090119796784570872",
-        "createdAt": "2026-08-19T16:52:46.000Z",
-        "engagement": 1986,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "joshwoodward",
-        "name": "Josh Woodward",
-        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "University student plans are back! We've gone global with this one. Over 140 countries will get higher limits, more storage, and new features like our dedicated student hub. It also comes with Notebook, Flow, and more. Sign up today ⬇️ https://t.co/Af43OUufrd",
-        "url": "https://x.com/joshwoodward/status/2090166806401228912",
-        "createdAt": "2026-08-19T19:59:34.000Z",
-        "engagement": 1315
       },
       {
         "handle": "trq212",
         "name": "Thariq",
         "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "for its entire existence, the creation of software has been an incredibly unreliable endeavor most projects ran late, over budget, and still missed user needs if you were an SMB, you simply couldn't get good software built for you this is the promise of the 'software factory'",
-        "url": "https://x.com/trq212/status/2090134945490678071",
-        "createdAt": "2026-08-19T17:52:58.000Z",
-        "engagement": 1066,
+        "text": "we're launching new Fable safeguards for enterprises that work on your infrastructure so you have control over where your data lives &amp; who has access to it we've been developing it alongside ~100 companies for a bit and hoping to roll it out more broadly in the fall https://t",
+        "url": "https://x.com/trq212/status/2090569474139439335",
+        "createdAt": "2026-08-20T22:39:38.000Z",
+        "engagement": 558,
         "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
-        "handle": "mattturck",
-        "name": "Matt Turck",
-        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-        "text": "AI labs: give us billions, we’ll cure cancer Moderna: https://t.co/JPiLCcPHbB",
-        "url": "https://x.com/mattturck/status/2090070949567574151",
-        "createdAt": "2026-08-19T13:38:40.000Z",
-        "engagement": 961,
-        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
-      },
-      {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Excited for our partnership with OpenAI https://t.co/v5cgdOVaON",
-        "url": "https://x.com/amasad/status/2090104535112945906",
-        "createdAt": "2026-08-19T15:52:08.000Z",
-        "engagement": 696,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Can’t wait to show you all what we been cookin’! https://t.co/P4Of1DHTL6",
-        "url": "https://x.com/steipete/status/2090162595257102731",
-        "createdAt": "2026-08-19T19:42:50.000Z",
-        "engagement": 648,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "YC is the YC for consumer hardware https://t.co/VpXRNETldF",
+        "url": "https://x.com/garrytan/status/2090469087722041567",
+        "createdAt": "2026-08-20T16:00:44.000Z",
+        "engagement": 558,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "https://t.co/OL0LzGtvAw is 6.3mb. It starts up in 10µs¹. It's a Zig-compiled static ELF binary, or an even smaller 𝚕𝚒𝚋𝚏𝚡.𝚠𝚊𝚜𝚖² AI will make most infrastructure natively optimized. Case in point: fx can literally finish tasks faster than other agents can boot. Fast is a o",
-        "url": "https://x.com/rauchg/status/2090255740384751664",
-        "createdAt": "2026-08-20T01:52:58.000Z",
-        "engagement": 574,
+        "text": "https://t.co/3Z4NESzNKd 0.0.5 gets even smaller fits in 2 floppy disks 💾💾😁 (𝚡𝚣-compressed) shipping tomorrow with our most-asked feature! https://t.co/HhQ7HHIcUL",
+        "url": "https://x.com/rauchg/status/2090600467592266240",
+        "createdAt": "2026-08-21T00:42:47.000Z",
+        "engagement": 524,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Depiction of me receiving this very important item https://t.co/3Vyj8RYWDq",
-        "url": "https://x.com/thsottiaux/status/2090134827450421604",
-        "createdAt": "2026-08-19T17:52:30.000Z",
-        "engagement": 447,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "My gut is that alot of AI output can be improved just by building a loop where a manager agent negs the other worker agent with prompts like: \"Are you sure this is the best you can do?\" \"I think you can do better, try again\" \"Take a closer look, give me 11/10 output\"",
+        "url": "https://x.com/petergyang/status/2090564541499498919",
+        "createdAt": "2026-08-20T22:20:02.000Z",
+        "engagement": 505,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Bun’s pursuit of simple, fast &amp; open is the perfect match for Vercel and how we think about the world. Congrats @jarredsumner on shipping! https://t.co/cAJehCfYKN",
+        "url": "https://x.com/rauchg/status/2090470175674179695",
+        "createdAt": "2026-08-20T16:05:03.000Z",
+        "engagement": 473,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Interesting violation of “you should dogfood your own product” https://t.co/6S9pdYnHUc",
+        "url": "https://x.com/garrytan/status/2090470082053050655",
+        "createdAt": "2026-08-20T16:04:41.000Z",
+        "engagement": 408,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "We’re building AWS for agents https://t.co/BdfqfqUMl4",
+        "url": "https://x.com/rauchg/status/2090520415336845595",
+        "createdAt": "2026-08-20T19:24:41.000Z",
+        "engagement": 398,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       }
     ],
     "podcast": {
-      "name": "AI & I by Every",
-      "title": "The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod)",
-      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
-      "publishedAt": "2026-08-19T15:16:46.000Z"
+      "name": "No Priors",
+      "title": "From Restoring Sight to Reimagining the Brain, with Max Hodak",
+      "url": "https://www.youtube.com/watch?v=7HXqMepjvy8",
+      "publishedAt": "2026-08-20T10:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -214,6 +214,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-08-22",
+      "aihotCount": 7,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-08-21",
       "aihotCount": 7,
@@ -247,12 +253,6 @@
     {
       "date": "2026-08-16",
       "aihotCount": 2,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-08-15",
-      "aihotCount": 9,
       "buildersCount": 12,
       "bpBuild": ""
     }
