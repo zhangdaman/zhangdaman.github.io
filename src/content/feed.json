@@ -1,64 +1,32 @@
 {
-  "generatedAt": "2026-08-22T02:15:15.296Z",
-  "date": "2026-08-22",
+  "generatedAt": "2026-08-23T02:22:49.370Z",
+  "date": "2026-08-23",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-        "source": "Claude：Blog（网页）",
-        "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-        "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
-        "publishedAt": "2026-08-21T17:58:29.461Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
-        "summary": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
-        "publishedAt": "2026-08-21T17:56:25.415Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
-        "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
-        "publishedAt": "2026-08-21T17:56:25.415Z",
-        "category": "paper"
-      },
-      {
-        "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-        "source": "Claude：Blog（网页）",
-        "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-        "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
-        "publishedAt": "2026-08-21T14:28:27.351Z",
-        "category": "tip"
-      },
-      {
-        "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "url": "https://x.com/OpenBMB/status/2090786300194590816",
-        "summary": "面壁智能 OpenBMB 推出 MathForm，一个面向 Lean 4 数学自动形式化的开源框架、数据集与模型。其 FormalVerse 数据集含 367K+ 已验证示例；在匹配 100K 预算下，基于其训练的模型 Consistency Check 达 60.32%，优于 FineLeanCorpus（46.53%）与 NuminaMath-LEAN（41.49%）。",
-        "publishedAt": "2026-08-21T13:01:13.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-        "source": "DeepSeek：API 更新日志",
-        "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21",
-        "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
-        "publishedAt": "2026-08-21T09:26:04.727Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
-        "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
-        "publishedAt": "2026-08-21T09:25:43.682Z",
-        "category": "paper"
+        "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
+        "summary": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
+        "publishedAt": "2026-08-23T00:53:34.184Z",
+        "category": "industry"
+      },
+      {
+        "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚\"冰丝带\"，666 支队伍竞技 51 赛项",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/0/993/105.htm",
+        "summary": "第二届世界人形机器人运动会今晚在国家速滑馆\"冰丝带\"开幕，666 支队伍、2056 台机器人参赛，队伍数量较首届增长 138%，机器人数量翻了两番。天工 Ultra 在百米预赛跑出 9.39 秒，打破博尔特 9.58 秒的人类世界纪录；荣耀\"闪电\"以 41.95 秒完成 400 米，同样破人类纪录。本届赛项增至 51 项，多项竞技赛取消人工遥控，全程全自主运行。",
+        "publishedAt": "2026-08-22T14:13:48.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
+        "source": "X：蚂蚁百灵 (@AntLingAGI)",
+        "url": "https://x.com/AntLingAGI/status/2091021795373855124",
+        "summary": "今天，我们为 SGLang 推出 Weight Cache Daemon。🚀 在 Ling-2.6-1T FP8 上，它将权重加载时间缩短至约 0.63 秒，比磁盘加载快约 780 倍，并将引擎总启动时间从 8.8 分钟缩短至约 0.53 分钟。其工作原理如下。",
+        "publishedAt": "2026-08-22T04:36:59.000Z",
+        "category": "ai-products"
       }
     ]
   },
@@ -66,130 +34,130 @@
     "ok": true,
     "items": [
       {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "a skill people at Anthropic have been using a lot recently: ELI5 /eli5 &lt;what you want explained&gt; \"explain like I'm someone who knows nothing about this topic, using a HTML artifact with big pictures and few words\" https://t.co/OZqzjAyFdT",
+        "url": "https://x.com/trq212/status/2090884854590382515",
+        "createdAt": "2026-08-21T19:32:50.000Z",
+        "engagement": 8067,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "We've investigated a few messages about codex usage limits being different. That's not something we change without engaging the community and being transparent. What we did see is that when talking to affected users many were using sub2api. Converting a subscription into api traf",
-        "url": "https://x.com/thsottiaux/status/2090675027670978569",
-        "createdAt": "2026-08-21T05:39:04.000Z",
-        "engagement": 2909,
+        "text": "The banked reset will be there by 8pm PST. For all paid users of ChatGPT Work and Codex. Do with this information what you may.",
+        "url": "https://x.com/thsottiaux/status/2090947196107764189",
+        "createdAt": "2026-08-21T23:40:34.000Z",
+        "engagement": 6367,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Yay, you can now make transparent images in ChatGPT and through the API with GPT-Image-2. Here is a cactus cactus I am about to print and put on my laptop. https://t.co/1WZd2VSH8y https://t.co/tkFkC7NYpq",
-        "url": "https://x.com/thsottiaux/status/2090631723302469995",
-        "createdAt": "2026-08-21T02:46:59.000Z",
-        "engagement": 2589,
+        "text": "The banked reset has landed, I repeat, the banked reset has landed. Have an amazing weekend. https://t.co/s9FYCLNYKz",
+        "url": "https://x.com/thsottiaux/status/2090964822422949999",
+        "createdAt": "2026-08-22T00:50:36.000Z",
+        "engagement": 6316,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules. Customers can own and control their own data and Anthropic retains none. It’s coming this fall. https",
-        "url": "https://x.com/bcherny/status/2090537902912815536",
-        "createdAt": "2026-08-20T20:34:11.000Z",
-        "engagement": 1766
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Create a ChatGPT Site, share it and create something together. I've been building little games and sites with others and it is so much fun. https://t.co/KrWSbWWTwl",
-        "url": "https://x.com/thsottiaux/status/2090518287532916854",
-        "createdAt": "2026-08-20T19:16:14.000Z",
-        "engagement": 1669,
+        "text": "Update on rate limits in Codex. We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before. This could explain that usage is draining somewhat faster for those users as hitting the cache consistently is an important component ",
+        "url": "https://x.com/thsottiaux/status/2091033630147854385",
+        "createdAt": "2026-08-22T05:24:01.000Z",
+        "engagement": 3060,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "This partnership with @OpenAI is long overdue. Before Replit was in YC, PG asked Sam to recruit us. Here’s Sam telling the story of how we first met: https://t.co/qgrj1TJv5L https://t.co/IsiPoUBvOx",
-        "url": "https://x.com/amasad/status/2090514571513708874",
-        "createdAt": "2026-08-20T19:01:28.000Z",
-        "engagement": 979,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "This is a UC Berkeley CS professor 😳 https://t.co/I1YBnMTiDC",
+        "url": "https://x.com/garrytan/status/2090801607894344047",
+        "createdAt": "2026-08-21T14:02:03.000Z",
+        "engagement": 2863,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against https://t.co/bnjggVrBDj until it got to 100/100. It made us close quite a few gaps. We worked hard to make sure the criteria is high quality and worth your time &amp; tokens. https://t.co/cpZMKv6XVN",
+        "url": "https://x.com/rauchg/status/2090858571613470919",
+        "createdAt": "2026-08-21T17:48:24.000Z",
+        "engagement": 1470,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Asian American erasure, example #107492 https://t.co/f9UlZlaSqL",
+        "url": "https://x.com/garrytan/status/2090797527222439998",
+        "createdAt": "2026-08-21T13:45:50.000Z",
+        "engagement": 1147,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
         "handle": "trq212",
         "name": "Thariq",
         "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "we're launching new Fable safeguards for enterprises that work on your infrastructure so you have control over where your data lives &amp; who has access to it we've been developing it alongside ~100 companies for a bit and hoping to roll it out more broadly in the fall https://t",
-        "url": "https://x.com/trq212/status/2090569474139439335",
-        "createdAt": "2026-08-20T22:39:38.000Z",
-        "engagement": 558,
+        "text": "debating whether we should make it an official plugin, but you can try installing it here to try with these commands: claude plugin marketplace add anthropics/claude-plugins-community claude plugin install eli5@claude-community",
+        "url": "https://x.com/trq212/status/2090884855798407576",
+        "createdAt": "2026-08-21T19:32:51.000Z",
+        "engagement": 511,
         "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "YC is the YC for consumer hardware https://t.co/VpXRNETldF",
-        "url": "https://x.com/garrytan/status/2090469087722041567",
-        "createdAt": "2026-08-20T16:00:44.000Z",
-        "engagement": 558,
+        "text": "Hate to say it but the luxury belief industrial complex is alive and well https://t.co/gudazm9X0I",
+        "url": "https://x.com/garrytan/status/2090889728719777952",
+        "createdAt": "2026-08-21T19:52:12.000Z",
+        "engagement": 484,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "https://t.co/3Z4NESzNKd 0.0.5 gets even smaller fits in 2 floppy disks 💾💾😁 (𝚡𝚣-compressed) shipping tomorrow with our most-asked feature! https://t.co/HhQ7HHIcUL",
-        "url": "https://x.com/rauchg/status/2090600467592266240",
-        "createdAt": "2026-08-21T00:42:47.000Z",
-        "engagement": 524,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "My gut is that alot of AI output can be improved just by building a loop where a manager agent negs the other worker agent with prompts like: \"Are you sure this is the best you can do?\" \"I think you can do better, try again\" \"Take a closer look, give me 11/10 output\"",
-        "url": "https://x.com/petergyang/status/2090564541499498919",
-        "createdAt": "2026-08-20T22:20:02.000Z",
-        "engagement": 505,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Point Claude Security at a GitHub repo and Mythos scans for vulnerabilities tracing data across files and reasoning about how components interact. Each finding comes back with a CWE category, confidence and severity ratings, and a suggested fix.",
+        "url": "https://x.com/claudeai/status/2090852316328902930",
+        "createdAt": "2026-08-21T17:23:33.000Z",
+        "engagement": 436
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Bun’s pursuit of simple, fast &amp; open is the perfect match for Vercel and how we think about the world. Congrats @jarredsumner on shipping! https://t.co/cAJehCfYKN",
-        "url": "https://x.com/rauchg/status/2090470175674179695",
-        "createdAt": "2026-08-20T16:05:03.000Z",
-        "engagement": 473,
+        "text": "https://t.co/G0UyDr4xgg now supports your @Grok &amp; Codex subs Test it out on a sandbox. Instant to install: https://t.co/ogzI7TeKQ4 https://t.co/DzGu67GnJF",
+        "url": "https://x.com/rauchg/status/2090953806624489501",
+        "createdAt": "2026-08-22T00:06:50.000Z",
+        "engagement": 403,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Interesting violation of “you should dogfood your own product” https://t.co/6S9pdYnHUc",
-        "url": "https://x.com/garrytan/status/2090470082053050655",
-        "createdAt": "2026-08-20T16:04:41.000Z",
-        "engagement": 408,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "We’re building AWS for agents https://t.co/BdfqfqUMl4",
-        "url": "https://x.com/rauchg/status/2090520415336845595",
-        "createdAt": "2026-08-20T19:24:41.000Z",
-        "engagement": 398,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "https://t.co/OqZzvddSs4",
+        "url": "https://x.com/amasad/status/2090846057408483668",
+        "createdAt": "2026-08-21T16:58:40.000Z",
+        "engagement": 369,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       }
     ],
     "podcast": {
       "name": "No Priors",
-      "title": "From Restoring Sight to Reimagining the Brain, with Max Hodak",
-      "url": "https://www.youtube.com/watch?v=7HXqMepjvy8",
-      "publishedAt": "2026-08-20T10:00:00.000Z"
+      "title": "What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-08-13T17:29:00.000Z"
     }
   },
   "builderpulse": {
@@ -214,6 +182,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-08-23",
+      "aihotCount": 3,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-08-22",
       "aihotCount": 7,
@@ -246,12 +220,6 @@
     },
     {
       "date": "2026-08-17",
-      "aihotCount": 2,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-08-16",
       "aihotCount": 2,
       "buildersCount": 12,
       "bpBuild": ""
