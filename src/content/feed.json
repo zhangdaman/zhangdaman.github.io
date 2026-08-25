@@ -1,16 +1,40 @@
 {
-  "generatedAt": "2026-08-24T02:21:57.877Z",
-  "date": "2026-08-24",
+  "generatedAt": "2026-08-25T02:17:20.105Z",
+  "date": "2026-08-25",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/993/305.htm",
-        "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
-        "publishedAt": "2026-08-23T14:13:31.000Z",
-        "category": "industry"
+        "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+        "source": "Meta Engineering Blog（RSS）",
+        "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+        "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
+        "publishedAt": "2026-08-24T18:02:29.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
+        "source": "NVIDIA Blog（RSS）",
+        "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents",
+        "summary": "NVIDIA 实测数据显示，Vera Rubin NVL72 在智能体工作负载下每兆瓦吞吐量较 GB300 NVL72 最高提升 30 倍，每百万 token 成本降低至 35 倍。",
+        "publishedAt": "2026-08-24T15:00:19.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+        "source": "TechCrunch：AI（RSS）",
+        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+        "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
+        "publishedAt": "2026-08-24T15:00:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "GPT-5.6 登陆 Kiro，为开发者提升性价比",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro",
+        "summary": "GPT-5.6 模型家族现已登陆软件开发智能体 Kiro，包含 Sol、Terra 和 Luna 三款模型。在 Terminal-Bench 2.1 测试中，GPT-5.6 Terra 在 Kiro 内完成任务成本降低约 82%。该更新由 OpenAI 与 AWS 合作优化，旨在以更少迭代和更高 token 价值帮助开发者产出更高质量的代码。",
+        "publishedAt": "2026-08-24T12:00:00.000Z",
+        "category": "ai-models"
       }
     ]
   },
@@ -21,126 +45,122 @@
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended.",
-        "url": "https://x.com/thsottiaux/status/2091407991736332689",
-        "createdAt": "2026-08-23T06:11:36.000Z",
-        "engagement": 1495,
+        "text": "Good Sunday. Reset has been propagated to accounts and we landed some fixes to usage for things mentioned yesterday as issues we found. You should feel a positive difference. More to come tomorrow and will keep communicating. https://t.co/6mgUetJnhg",
+        "url": "https://x.com/thsottiaux/status/2091688655828246890",
+        "createdAt": "2026-08-24T00:46:51.000Z",
+        "engagement": 7741,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "San Francisco is a paradise on Earth https://t.co/NqAfgzAnTB",
-        "url": "https://x.com/rauchg/status/2091263423359389951",
-        "createdAt": "2026-08-22T20:37:08.000Z",
-        "engagement": 1104,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "2026 is the year companies start seriously caring about model efficiency and reliability as it becomes critical infrastructure",
+        "url": "https://x.com/thsottiaux/status/2091581575108653374",
+        "createdAt": "2026-08-23T17:41:21.000Z",
+        "engagement": 5597,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorious land and geography. I'm very long 🇺🇸🇦🇷. We're so early.",
-        "url": "https://x.com/rauchg/status/2091338152791474331",
-        "createdAt": "2026-08-23T01:34:05.000Z",
-        "engagement": 765,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "“Pretty soon” turned out to be 3 months. https://t.co/LC19TuXUuP",
-        "url": "https://x.com/amasad/status/2091217410615644349",
-        "createdAt": "2026-08-22T17:34:18.000Z",
-        "engagement": 686,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "If you care about your privacy: 1. Go to https://t.co/yICN6WAe9R in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3. Then pick the ones you want to remove and tell AI to do it Just disconnected half the apps that should no longe",
-        "url": "https://x.com/petergyang/status/2091331251211059468",
-        "createdAt": "2026-08-23T01:06:40.000Z",
-        "engagement": 470,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
-      },
-      {
-        "handle": "nikunj",
-        "name": "Nikunj Kothari",
-        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
-        "text": "Kids, I don't know what advice you are getting, but ragebaiting investors and then sending them SAFE docs to just wire you money is NOT how investing works.. https://t.co/MSXm6S85Vd",
-        "url": "https://x.com/nikunj/status/2091381756012511244",
-        "createdAt": "2026-08-23T04:27:21.000Z",
-        "engagement": 374,
-        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
-      },
-      {
-        "handle": "zarazhangrui",
-        "name": "Zara Zhang",
-        "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https:/",
-        "text": "Everyone who’s ahead in using AI thinks they’re behind",
-        "url": "https://x.com/zarazhangrui/status/2091338374447763481",
-        "createdAt": "2026-08-23T01:34:58.000Z",
-        "engagement": 356
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "I’m working on a new AI skill. It’s called /fuck-cancer Goal is to help patients and their family navigate this whole process and stay informed. What should I include in it?",
-        "url": "https://x.com/petergyang/status/2091239339204415969",
-        "createdAt": "2026-08-22T19:01:26.000Z",
-        "engagement": 193,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
-      },
-      {
-        "handle": "zarazhangrui",
-        "name": "Zara Zhang",
-        "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https:/",
-        "text": "There’s a phenomenon where talented individuals can achieve 10x their potential thanks to AI when working on their own thing But when the same individual is put into a large organization, they at most increase their potential by 20% (and sometimes it’s even decreased) This is why",
-        "url": "https://x.com/zarazhangrui/status/2091379220257603593",
-        "createdAt": "2026-08-23T04:17:16.000Z",
-        "engagement": 154
-      },
-      {
-        "handle": "realmadhuguru",
-        "name": "Madhu Guru",
-        "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
-        "text": "How to build great evals - part 6 Hill climbing on evals is just a fancy way of saying: pick a dimension that matters and optimize for it. This could be improving the quality of existing features based on your latest production data on high value user journeys, expanding to adjac",
-        "url": "https://x.com/realmadhuguru/status/2091278653435072523",
-        "createdAt": "2026-08-22T21:37:39.000Z",
-        "engagement": 151
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Meant 2pm obviously",
+        "url": "https://x.com/thsottiaux/status/2091413240337326588",
+        "createdAt": "2026-08-23T06:32:27.000Z",
+        "engagement": 2501,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the relative capability level of models. The far bigger space over t",
-        "url": "https://x.com/levie/status/2091359223368315050",
-        "createdAt": "2026-08-23T02:57:49.000Z",
-        "engagement": 150,
+        "text": "I’m good to retire now https://t.co/YjTjVxlKvN",
+        "url": "https://x.com/levie/status/2091580656598102047",
+        "createdAt": "2026-08-23T17:37:42.000Z",
+        "engagement": 2028,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "agent native ftw https://t.co/C1mGoNcXpO",
-        "url": "https://x.com/danshipper/status/2091162447029608735",
-        "createdAt": "2026-08-22T13:55:53.000Z",
-        "engagement": 150,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "cli is nice, having UI visualizations and your team where you work is nicer. https://t.co/OFmkkkq6l5",
+        "url": "https://x.com/steipete/status/2091650136506327253",
+        "createdAt": "2026-08-23T22:13:48.000Z",
+        "engagement": 1111,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "ryolu_",
+        "name": "Ryo Lu",
+        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
+        "text": "leaving leaving is the process from fullness into emptiness from the familiar circle of life the routines undone the streets i knew by heart the people i kept meeting the names and labels that had gathered on my skin toward a place entirely unknown where a new life waits to be wr",
+        "url": "https://x.com/ryolu_/status/2091596272654582062",
+        "createdAt": "2026-08-23T18:39:46.000Z",
+        "engagement": 839
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Our philosophy on extending 𝚏𝚡: open protocols. ∙ MCP (modelcontextprotocol⁠.io) ∙ Skills (agentskills⁠.io) ∙ Plugins (agent-plugins⁠.org) And the best one, Unix: ① Small programs that do one thing well and compose by calling other programs. ② 𝚕𝚒𝚋𝚏𝚡 that enables embeddabil",
+        "url": "https://x.com/rauchg/status/2091583525661384813",
+        "createdAt": "2026-08-23T17:49:06.000Z",
+        "engagement": 736,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Prediction: systems of record will need to become AI harnesses or face replacement by agents",
+        "url": "https://x.com/garrytan/status/2091742825042030681",
+        "createdAt": "2026-08-24T04:22:06.000Z",
+        "engagement": 596,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Intelligence is getting cheaper. @OpenAI Sol's price reductions & discounts on Vercel AI Gateway have made Sol our fastest-growing frontier model. This shows ① that the demand for intelligence is highly elastic: as inference costs fall, usage grows rapidly. ② If you're not using ",
+        "url": "https://x.com/rauchg/status/2091671326897713424",
+        "createdAt": "2026-08-23T23:38:00.000Z",
+        "engagement": 342,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "I added the rotation USB protocol to https://t.co/kyF8ap5Pq6 and told my claw to look around- now it's having fun with my 360 webcam.",
+        "url": "https://x.com/steipete/status/2091639468935831910",
+        "createdAt": "2026-08-23T21:31:24.000Z",
+        "engagement": 219,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "Mother in law is visiting from India.. Wants to do serendipitous date night with her grand daughter. Realized she didn’t sign up for roaming and we need a way to communicate. I get a data eSIM in under three minutes and she’s connected. What a wonderful world we live in 🤗 (real ",
+        "url": "https://x.com/nikunj/status/2091696412744700268",
+        "createdAt": "2026-08-24T01:17:41.000Z",
+        "engagement": 170,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
+      },
+      {
+        "handle": "realmadhuguru",
+        "name": "Madhu Guru",
+        "bio": "Sr Director, AI at Meta; Prev: Google - Led Gemini, Veo, Nano Banana.",
+        "text": "How to build great evals - part 7. The Goldilocks principle for eval construction. Your evals should measure at the level of the various jobs to be done, not just the final answer. E.g. consider a financial analysis agent. It's ultimate output is a stock recommendation. The most ",
+        "url": "https://x.com/realmadhuguru/status/2091684812012875981",
+        "createdAt": "2026-08-24T00:31:35.000Z",
+        "engagement": 118
       }
     ],
-    "podcast": {
-      "name": "AI & I by Every",
-      "title": "Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)",
-      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
-      "publishedAt": "2026-08-12T16:55:27.000Z"
-    }
+    "podcast": null
   },
   "builderpulse": {
     "ok": true,
@@ -164,6 +184,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-08-25",
+      "aihotCount": 4,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-08-24",
       "aihotCount": 1,
@@ -196,12 +222,6 @@
     },
     {
       "date": "2026-08-19",
-      "aihotCount": 9,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-08-18",
       "aihotCount": 9,
       "buildersCount": 12,
       "bpBuild": ""
