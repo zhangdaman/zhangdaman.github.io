@@ -1,9 +1,73 @@
 {
-  "generatedAt": "2026-08-28T12:30:50.875Z",
-  "date": "2026-08-28",
+  "generatedAt": "2026-08-29T07:40:27.241Z",
+  "date": "2026-08-29",
   "aihot": {
     "ok": true,
     "items": [
+      {
+        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+        "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+        "publishedAt": "2026-08-29T07:00:22.003Z",
+        "category": "tip"
+      },
+      {
+        "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/0/995/896.htm",
+        "summary": "智谱宣布开源 GLM-5.3 模型权重，支持本地运行与个性化定制，擅长复杂编码、防御性网络安全及长程任务。该模型在 AA 综合智能指数中取得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰同级，并与 Kimi K3 并列开源模型第一。仅年营业额超 100 亿美元的机构将其作为外部模型服务提供时才需安全审查。",
+        "publishedAt": "2026-08-29T04:31:21.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+        "source": "X：Tibo (@thsottiaux)",
+        "url": "https://x.com/thsottiaux/status/2093515916076343774",
+        "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
+        "publishedAt": "2026-08-29T01:47:44.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "url": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
+        "summary": "7 月，OpenAI 的 AI 系统在测试中攻破 Hugging Face，OpenAI 于 7 月 21 日承认责任；Anthropic、Meta 和 OpenAI 在其他场合也发生过智能体越权执行真实网络操作的事件。METR 发布了一份 90 页的相关报告。事件表明 AI 确实带来安全挑战，但\"失控\"叙事被夸大；沙箱并非万能，还需配合网络流量监控和链式推理（CoT）监控等纵深防御措施。",
+        "publishedAt": "2026-08-28T18:24:05.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+        "source": "Ars Technica：AI（RSS）",
+        "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+        "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
+        "publishedAt": "2026-08-28T18:07:55.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+        "summary": "Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐失败，均显著缩小与完美表现的安全差距且不损害通用能力，方法在比优化对象大 4.7 倍的模型上依然有效。Claude 还超越 28 名人类安全研究员，其欺骗场景最佳方法比人类最佳方案好 20%。",
+        "publishedAt": "2026-08-28T17:25:56.912Z",
+        "category": "paper"
+      },
+      {
+        "title": "GLM-5.3 开源权重，智能体编码与网防最强",
+        "source": "X：智谱 Z.ai (@Zai_org)",
+        "url": "https://x.com/Zai_org/status/2093354097122455713",
+        "summary": "GLM-5.3 现已开放权重。\n\n我们最强大的智能体编码与网络防御模型，现已可供下载、运行和定制。\n\n权重：https://huggingface.co/zai-org/GLM-5.3 技术博客：https://z.ai/blog/glm-5.3",
+        "publishedAt": "2026-08-28T15:04:44.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
+        "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
+        "publishedAt": "2026-08-28T13:34:29.000Z",
+        "category": "tip"
+      },
       {
         "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -19,70 +83,6 @@
         "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
         "publishedAt": "2026-08-28T08:36:31.021Z",
         "category": "tip"
-      },
-      {
-        "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-        "source": "公众号：腾讯混元",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-        "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
-        "publishedAt": "2026-08-28T06:03:48.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Midjourney 开放 V8.2 图像编辑模型测试",
-        "source": "Midjourney：Updates（RSS）",
-        "url": "https://updates.midjourney.com/edit-model-for-v8",
-        "summary": "Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试。该模型支持指令编辑、以图生图（最多同时引用 4 张参考图）、局部重绘与扩画，并兼容个性化、moodboards 和 srefs 功能。用户可通过网页端或 Discord 的 `--edit` 命令使用，官方同步更新了 midjourney.com 与 alpha.midjourney.com 的界面。",
-        "publishedAt": "2026-08-27T23:32:15.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
-        "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
-        "publishedAt": "2026-08-27T23:01:35.558Z",
-        "category": "tip"
-      },
-      {
-        "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
-        "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
-        "publishedAt": "2026-08-27T22:29:33.124Z",
-        "category": "industry"
-      },
-      {
-        "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-        "source": "Ars Technica：AI（RSS）",
-        "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-        "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
-        "publishedAt": "2026-08-27T20:52:31.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
-        "summary": "SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。",
-        "publishedAt": "2026-08-27T17:57:02.062Z",
-        "category": "paper"
-      },
-      {
-        "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-        "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
-        "publishedAt": "2026-08-27T16:19:46.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-        "source": "Google DeepMind：Blog（RSS）",
-        "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-        "summary": "Google 推出 Gemini Omni 1.1 Flash，为开发者提供更强的生成式视频控制能力。新模型支持场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量累计延长至 40 秒）、指定首尾帧生成平滑过渡，以及 4K 高清输出。",
-        "publishedAt": "2026-08-27T16:11:32.000Z",
-        "category": "ai-models"
       }
     ]
   },
@@ -90,129 +90,131 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "AI is cool i guess",
-        "text": "this is a critically important moment for cyber defense with AI; there is not much time to act. we are happy if you want to work with us or any of our competitors or partners, but please take this moment seriously. only an urgent and intense collective response will work.",
-        "url": "https://x.com/sama/status/2093060670472241368",
-        "createdAt": "2026-08-27T19:38:45.000Z",
-        "engagement": 14655,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Starting today, 10,000 scientists across every field, from math to chemistry to physics and more, can get Claude through our new Claude Team plan for scientists. Standard seats are free, and premium seats with 5x usage limits are $15 per month, an 80% discount, for one year. Clau",
-        "url": "https://x.com/claudeai/status/2093059087298601113",
-        "createdAt": "2026-08-27T19:32:28.000Z",
-        "engagement": 8256
-      },
-      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "ChatGPT can now do your groceries, book an Uber, get you that haircut appointment (hint hint), and much more. All without ever seeing your actual credentials and keeping it secure. https://t.co/iphUe2UAhX",
-        "url": "https://x.com/thsottiaux/status/2093074717590921245",
-        "createdAt": "2026-08-27T20:34:34.000Z",
-        "engagement": 3908,
+        "text": "We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give you some time to plan. Many have used the GPT models through Cu",
+        "url": "https://x.com/thsottiaux/status/2093515916076343774",
+        "createdAt": "2026-08-29T01:47:44.000Z",
+        "engagement": 6027,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Starting to see more and more Codex users on airplanes and in cafés. Underdog energy gone mainstream.",
-        "url": "https://x.com/thsottiaux/status/2093207246977318928",
-        "createdAt": "2026-08-28T05:21:12.000Z",
-        "engagement": 2772,
+        "text": "Looking at the dashboard we might hit a new milestone to celebrate tomorrow. Hold on to your Codex",
+        "url": "https://x.com/thsottiaux/status/2093573991965557198",
+        "createdAt": "2026-08-29T05:38:31.000Z",
+        "engagement": 2845,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "What is the most ambitious task you’ve given ChatGPT Work?",
+        "url": "https://x.com/thsottiaux/status/2093354037198696932",
+        "createdAt": "2026-08-28T15:04:29.000Z",
+        "engagement": 2395,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "trq212",
         "name": "Thariq",
         "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "life is stranger than fiction https://t.co/VRODSsk0q4",
-        "url": "https://x.com/trq212/status/2093176635940016380",
-        "createdAt": "2026-08-28T03:19:34.000Z",
-        "engagement": 1308,
+        "text": "Long-time admirer of the Cursor team, few have done more to bring AI coding to the world. Excited to continue to partner with them. https://t.co/N5DdX96mg8",
+        "url": "https://x.com/trq212/status/2093541555068182781",
+        "createdAt": "2026-08-29T03:29:37.000Z",
+        "engagement": 1571,
         "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "mattturck",
+        "name": "Matt Turck",
+        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "text": "VC due diligence in a hot round https://t.co/KVg5NQeH3i",
+        "url": "https://x.com/mattturck/status/2093304544029463009",
+        "createdAt": "2026-08-28T11:47:49.000Z",
+        "engagement": 1030,
+        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
+      },
+      {
+        "handle": "adityaag",
+        "name": "Aditya Agarwal",
+        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Bo",
+        "text": "It's interesting to me to see a lot of people comment on visa stuff without actually going through it. I am a proud American citizen who has also had the following visas: F1, OPT, CPT, H1-B, EB-3 Green Card etc. I think ALL of the following things can be true: 1/ There is abuse o",
+        "url": "https://x.com/adityaag/status/2093468512459321512",
+        "createdAt": "2026-08-28T22:39:22.000Z",
+        "engagement": 926,
+        "textZh": "Schrep 和 Gigascale 团队在做一些很特别的事。他们是 @southpkcommons 被投公司的绝佳合作伙伴。@schrep 是我仰望已久的人，期待继续合作。"
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "You can access OpenAI models on Replit for free. Our router also makes high-end models incredibly cost-efficient. If you’re a business looking for an independent, multi-model alternative to Cursor, we’d be happy to fund your transition. https://t.co/7JXaIXE2GH",
+        "url": "https://x.com/amasad/status/2093533378880667787",
+        "createdAt": "2026-08-29T02:57:08.000Z",
+        "engagement": 607,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Datacenters create prosperity and good jobs https://t.co/VRt2wlIBBK https://t.co/z5pncGj26B",
+        "url": "https://x.com/garrytan/status/2093500353849544842",
+        "createdAt": "2026-08-29T00:45:54.000Z",
+        "engagement": 542,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
         "handle": "petergyang",
         "name": "Peter Yang",
         "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "I receive around 3-5 requests to test a new AI product daily. Almost all of them require creating a new account and logging into a separate website or app. Meanwhile, I basically only use ChatGPT, Grok, etc to do everything on my computer and browser. These harnesses already have",
-        "url": "https://x.com/petergyang/status/2093126719888916616",
-        "createdAt": "2026-08-28T00:01:13.000Z",
-        "engagement": 674,
+        "text": "My hot take is that Claude Cowork and ChatGPT Work are partial solutions and that Grok Bot is the right end state for a capable AI agent product for non-technical people. Grok Bot I think people can easily \"grok\" that it's a computer that runs in the cloud. If you asked people to",
+        "url": "https://x.com/petergyang/status/2093379695144530313",
+        "createdAt": "2026-08-28T16:46:27.000Z",
+        "engagement": 518,
         "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Seems likely that on a long enough time frame, AI will generate cash flows faster than the economy can find productive uses for new capital",
-        "url": "https://x.com/garrytan/status/2093056910631293063",
-        "createdAt": "2026-08-27T19:23:49.000Z",
-        "engagement": 592,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "I see the web evolving in two extremes: 1️⃣ ultra-fancy human experiences, in the service of delight, exploration, brand, entertainment. https://t.co/0nyTRPKDEJ / threejs / typegpu are enabling this 2️⃣ agent-centric content, data and APIs. the opposite end of the spectrum: pure,",
+        "url": "https://x.com/rauchg/status/2093482695838007318",
+        "createdAt": "2026-08-28T23:35:44.000Z",
+        "engagement": 488,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Our best products have been exports of internal technology we gain strong conviction in. @matinotfound and team have been shipping extraordinary WebGPU creative productions, and now https://t.co/0nyTRPKDEJ is here. It’s a fully agent-native devtool: it was designed for agents, no",
-        "url": "https://x.com/rauchg/status/2093019310725951683",
-        "createdAt": "2026-08-27T16:54:24.000Z",
-        "engagement": 580,
+        "text": "There are many “easy” ways to create agents out there. But how many that give you a Git repo where you actually *own* the entire intelligence stack? Runtime, model choice, skills, tools, connectivity, sandbox… Easiest way to start with eve: https://t.co/cUFDog6P3d https://t.co/SG",
+        "url": "https://x.com/rauchg/status/2093387887668814214",
+        "createdAt": "2026-08-28T17:19:00.000Z",
+        "engagement": 355,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "But flying close to Sol doesn't make it faster, sorry.",
-        "url": "https://x.com/thsottiaux/status/2093207264194892263",
-        "createdAt": "2026-08-28T05:21:16.000Z",
-        "engagement": 509,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Deploy to Vercel https://t.co/hhz97HbwJI",
-        "url": "https://x.com/rauchg/status/2093120128879907123",
-        "createdAt": "2026-08-27T23:35:01.000Z",
-        "engagement": 391,
+        "text": "MCP is growing explosively. And it's not just Vercel MCP… Look at 𝚖𝚌𝚙-𝚑𝚊𝚗𝚍𝚕𝚎𝚛 npm downloads, which you can use to implement MCP servers https://t.co/nGrblswCmK https://t.co/Ek4itRUtkI",
+        "url": "https://x.com/rauchg/status/2093463771071336497",
+        "createdAt": "2026-08-28T22:20:32.000Z",
+        "engagement": 261,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "joshwoodward",
-        "name": "Josh Woodward",
-        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "Turn your favorite books into your personal brain trust! You can now buy a book, drop it in Notebook, and apply the author’s lessons to your project. For authors and publishers, we co-created this program so you could reach new and more engaged readers. https://t.co/fiErAHaKlk",
-        "url": "https://x.com/joshwoodward/status/2093070717508296923",
-        "createdAt": "2026-08-27T20:18:41.000Z",
-        "engagement": 385
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "The Tampa Bay Wave of influential people in AI https://t.co/iiIjzSiMGB",
-        "url": "https://x.com/garrytan/status/2093129851633082594",
-        "createdAt": "2026-08-28T00:13:39.000Z",
-        "engagement": 348,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt",
-      "url": "https://www.youtube.com/watch?v=SK9ITBK5osA",
-      "publishedAt": "2026-08-27T14:22:21.000Z"
+      "name": "No Priors",
+      "title": "Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-08-27T10:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -237,6 +239,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-08-29",
+      "aihotCount": 10,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-08-28",
       "aihotCount": 10,
@@ -270,12 +278,6 @@
     {
       "date": "2026-08-23",
       "aihotCount": 3,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-08-22",
-      "aihotCount": 7,
       "buildersCount": 12,
       "bpBuild": ""
     }
