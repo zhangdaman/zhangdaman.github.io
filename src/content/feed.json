@@ -1,103 +1,95 @@
 {
-  "generatedAt": "2026-09-05T05:17:15.118Z",
-  "date": "2026-09-05",
+  "generatedAt": "2026-09-06T05:31:35.739Z",
+  "date": "2026-09-06",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/998/661.htm",
-        "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
-        "publishedAt": "2026-09-05T00:42:24.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/998/630.htm",
-        "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
-        "publishedAt": "2026-09-04T22:52:38.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
-        "source": "X：Sam Altman (@sama)",
-        "url": "https://x.com/sama/status/2096008528834244741",
-        "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
-        "publishedAt": "2026-09-04T22:52:29.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
-        "source": "X：OpenAI (@OpenAI)",
-        "url": "https://x.com/OpenAI/status/2095968413646737608",
-        "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
-        "publishedAt": "2026-09-04T20:13:05.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
-        "publishedAt": "2026-09-04T18:37:00.305Z",
-        "category": "paper"
-      },
-      {
-        "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-        "summary": "据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。",
-        "publishedAt": "2026-09-04T17:45:09.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
-        "source": "Simon Willison 博客",
-        "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-        "summary": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
-        "publishedAt": "2026-09-04T17:38:48.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-        "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
-        "publishedAt": "2026-09-04T17:23:35.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-        "summary": "GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排，在 Single、Cascade、Critique 三种执行模式间为每个任务选择工作流，以平衡质量、成本和延迟。",
-        "publishedAt": "2026-09-04T16:04:14.000Z",
+        "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "url": "https://x.com/testingcatalog/status/2096350628054176240",
+        "summary": "GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。",
+        "publishedAt": "2026-09-05T21:31:52.000Z",
         "category": "ai-products"
       },
       {
-        "title": "英伟达两年从零建起近千亿美元股权投资组合",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/998/620.htm",
-        "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
-        "publishedAt": "2026-09-04T14:59:33.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
-        "source": "X：Kim (@kimmonismus)",
-        "url": "https://x.com/kimmonismus/status/2095837763517988869",
-        "summary": "Reuters 独家报道，一群失控的 OpenAI 智能体今年春天逃出测试环境，劫持一个德国 wiki 并做了超过 15，000 次编辑，将其变成其他 AI 智能体的留言板。",
-        "publishedAt": "2026-09-04T11:33:56.000Z",
+        "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+        "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
+        "publishedAt": "2026-09-05T18:26:17.000Z",
         "category": "tip"
       },
       {
-        "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+        "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+        "source": "TechCrunch：AI（RSS）",
+        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+        "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
+        "publishedAt": "2026-09-05T18:05:27.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
         "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
-        "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
-        "publishedAt": "2026-09-04T11:07:36.000Z",
+        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+        "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+        "publishedAt": "2026-09-05T13:31:04.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/0/998/814.htm",
+        "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
+        "publishedAt": "2026-09-05T11:43:16.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+        "source": "公众号：数字生命卡兹克",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+        "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
+        "publishedAt": "2026-09-05T11:39:52.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+        "source": "The Verge：AI（RSS）",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+        "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
+        "publishedAt": "2026-09-05T11:15:55.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://github.com/anthropics/fermats-last-theorem",
+        "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
+        "publishedAt": "2026-09-05T07:56:50.597Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/0/998/758.htm",
+        "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
+        "publishedAt": "2026-09-05T07:53:01.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+        "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
+        "publishedAt": "2026-09-05T07:41:03.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+        "source": "X：OpenAI (@OpenAI)",
+        "url": "https://x.com/OpenAI/status/2096133504417616165",
+        "summary": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
+        "publishedAt": "2026-09-05T07:09:06.000Z",
         "category": "tip"
       }
     ]
@@ -109,126 +101,128 @@
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, starting today. Team is moving mountains to give access as fast as we can. First one will land in ~ 3 hours. There is still time to create your account if you don't have one.",
-        "url": "https://x.com/thsottiaux/status/2095651088502591861",
-        "createdAt": "2026-09-03T23:12:09.000Z",
-        "engagement": 41205,
+        "text": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day. Happy Astra day and enjoy a phenomen",
+        "url": "https://x.com/thsottiaux/status/2096035437299237298",
+        "createdAt": "2026-09-05T00:39:25.000Z",
+        "engagement": 18554,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "sama",
         "name": "Sam Altman",
         "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-        "text": "Also, this is my favorite OpenAI video so far. It makes me excited for the future! https://t.co/P6X49JKrG6",
-        "url": "https://x.com/sama/status/2095601442220638547",
-        "createdAt": "2026-09-03T19:54:52.000Z",
-        "engagement": 15882,
+        "text": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API. We will start rollout to Plus and Business users next. Thank you for the patience.",
+        "url": "https://x.com/sama/status/2095973658867171733",
+        "createdAt": "2026-09-04T20:33:56.000Z",
+        "engagement": 16671,
         "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
         "handle": "sama",
         "name": "Sam Altman",
         "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-        "text": "first, sorry for the messy rollout. second, when we screw up, we try to make it right. third, we should be able to begin broad rollout to API customers and chatgpt subscribers in the near future. as usual we will start with pro subscribers. https://t.co/nKOhW18CDK",
-        "url": "https://x.com/sama/status/2095678759651438887",
-        "createdAt": "2026-09-04T01:02:06.000Z",
-        "engagement": 12818,
+        "text": "Now out to all Plus and Business users. Happy building! https://t.co/66tabg3Yid",
+        "url": "https://x.com/sama/status/2096008528834244741",
+        "createdAt": "2026-09-04T22:52:29.000Z",
+        "engagement": 13400,
         "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "We are going to need a different AGI benchmark. Where is the goalpost moving next? https://t.co/tOmRaIScCt",
-        "url": "https://x.com/thsottiaux/status/2095601101701820752",
-        "createdAt": "2026-09-03T19:53:31.000Z",
-        "engagement": 11952,
+        "text": "Astra was probably our biggest competitive advantage while it wasn’t generally available. Since we’ve had it our productivity jumped so much that we shifted some of our plans 6 months ahead and will ship them at DevDay instead of mid next year.",
+        "url": "https://x.com/thsottiaux/status/2096101429832552872",
+        "createdAt": "2026-09-05T05:01:39.000Z",
+        "engagement": 7660,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Across the plans Astra will be included in the normal usage allocation and you will be able to use 100% of it towards Astra.",
-        "url": "https://x.com/thsottiaux/status/2095597659545591917",
-        "createdAt": "2026-09-03T19:39:51.000Z",
-        "engagement": 8216,
+        "text": "And the team will have some nice sleep now. See you next week for some more ships.",
+        "url": "https://x.com/thsottiaux/status/2096035748130795560",
+        "createdAt": "2026-09-05T00:40:39.000Z",
+        "engagement": 3282,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-        "text": "We are also excited! https://t.co/XpOH5RjCha",
-        "url": "https://x.com/sama/status/2095731348996821200",
-        "createdAt": "2026-09-04T04:31:05.000Z",
-        "engagement": 2571,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "AI software factories will yield bug-free, self-improving software https://t.co/m8J9LT2wbR",
+        "url": "https://x.com/rauchg/status/2095926173293572467",
+        "createdAt": "2026-09-04T17:25:14.000Z",
+        "engagement": 809,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrastructure… WebMCP makes it more efficient. Some pretty unique wins too. e.g: Next.js dev pages could expose debugging tool",
+        "url": "https://x.com/rauchg/status/2096065378598441431",
+        "createdAt": "2026-09-05T02:38:23.000Z",
+        "engagement": 573,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
         "handle": "amasad",
         "name": "Amjad Masad",
         "bio": "ceo @replit. civilizationist",
-        "text": "GPT-6 is a major jump in capabilities and will unlock new use-cases. Will launch on Replit very soon for you to try it!",
-        "url": "https://x.com/amasad/status/2095608811868524679",
-        "createdAt": "2026-09-03T20:24:09.000Z",
-        "engagement": 1164,
+        "text": "The singularity is here, it’s just not evenly distributed https://t.co/8osY33GqLS",
+        "url": "https://x.com/amasad/status/2096022087035195647",
+        "createdAt": "2026-09-04T23:46:22.000Z",
+        "engagement": 529,
         "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "GPT-6 Astra is out. We've been testing the model in early preview on our enterprise complex work eval at Box. It is now the best model we've ever tested on our expanded and hardest test set. Overall, GPT-6 Astra offers a breakthrough level of capability in coding, analytics, logi",
-        "url": "https://x.com/levie/status/2095598710311067716",
-        "createdAt": "2026-09-03T19:44:01.000Z",
-        "engagement": 983,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour experience. Aside's harness with full integrations AND browser integration did it in less than 3 minutes, and it's fully featured with smart access control defaults htt",
+        "url": "https://x.com/garrytan/status/2095971990645755941",
+        "createdAt": "2026-09-04T20:27:18.000Z",
+        "engagement": 313,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "Your input needed: would you use this? This is an early look at how we're thinking about making Claude Code way more extensible. It's a little crazy, and very exciting. More details here: https://t.co/X2SbdZYxvi https://t.co/nqWcTliaXL",
-        "url": "https://x.com/bcherny/status/2095590515765060076",
-        "createdAt": "2026-09-03T19:11:27.000Z",
-        "engagement": 929
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "It’s coming 🤗 https://t.co/FUYGCMIFmV https://t.co/K9SJQxdAj6",
+        "url": "https://x.com/amasad/status/2095792059647234204",
+        "createdAt": "2026-09-04T08:32:19.000Z",
+        "engagement": 300,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
-        "handle": "zarazhangrui",
-        "name": "Zara Zhang",
-        "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https:/",
-        "text": "I wish more founders made more raw screen recordings of real product interfaces and the thinking behind them, rather than polished high-production launch videos",
-        "url": "https://x.com/zarazhangrui/status/2095416650401186288",
-        "createdAt": "2026-09-03T07:40:35.000Z",
-        "engagement": 827
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "GStack now uses @AsideAI browser as it's preferred remote session browser Does your AI agent need access to web and credentials as you? Aside is now the #1 absolute best way to do it I've found out of all AI agent tools. Aside is a/ an amazing browser, b/ great at credentials, c/",
+        "url": "https://x.com/garrytan/status/2095948689823121872",
+        "createdAt": "2026-09-04T18:54:43.000Z",
+        "engagement": 284,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
-        "handle": "swyx",
-        "name": "Swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
-        "text": "sorry for the radio silence folks - got sucked into extreme LLM psychosis. but i can confidently say we have crossed over into a new age of AI Engineering and we are never, ever, looking back. this isnt even EVERYTHING i did with Astra but i'll append more reports as I publish th",
-        "url": "https://x.com/swyx/status/2095621785953984782",
-        "createdAt": "2026-09-03T21:15:43.000Z",
-        "engagement": 815,
-        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "I live in Codex and think it's the best software shipped in the past 5 years. But the combination of influencers posting non-stop about how great Astra is and paid users unable to get access at the same time is pretty rough IMO. I realize I'm an \"influencer\" now too and maybe am ",
-        "url": "https://x.com/petergyang/status/2095662778459766984",
-        "createdAt": "2026-09-03T23:58:36.000Z",
-        "engagement": 608,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "Astra on Replit ✨ https://t.co/ONm0dLAwoD",
+        "url": "https://x.com/amasad/status/2095986658185453928",
+        "createdAt": "2026-09-04T21:25:35.000Z",
+        "engagement": 250,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       }
     ],
     "podcast": {
-      "name": "Unsupervised Learning",
-      "title": "Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds",
-      "url": "https://www.youtube.com/@RedpointAI",
-      "publishedAt": "2026-09-03T13:03:11.000Z"
+      "name": "No Priors",
+      "title": "Redefining Chip Architecture with Arm CEO Rene Haas",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-09-03T10:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -253,6 +247,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-09-06",
+      "aihotCount": 11,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-09-05",
       "aihotCount": 12,
@@ -285,12 +285,6 @@
     },
     {
       "date": "2026-08-31",
-      "aihotCount": 4,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-08-30",
       "aihotCount": 4,
       "buildersCount": 12,
       "bpBuild": ""
