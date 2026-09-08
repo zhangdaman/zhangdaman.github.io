@@ -1,48 +1,40 @@
 {
-  "generatedAt": "2026-09-07T05:42:27.626Z",
-  "date": "2026-09-07",
+  "generatedAt": "2026-09-08T05:37:59.109Z",
+  "date": "2026-09-08",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+        "title": "Mistral AI 宣布 30 亿欧元 D 轮融资",
+        "source": "X：Mistral AI (@MistralAI)",
+        "url": "https://x.com/MistralAI/status/2097188835897586083",
+        "summary": "Mistral AI 官方宣布完成 30 亿欧元 D 轮融资，公司称这是欧洲科技公司有史以来规模最大的股权融资，距离其创立仅三年。",
+        "publishedAt": "2026-09-08T05:02:37.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
         "source": "公众号：数字生命卡兹克",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-        "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
-        "publishedAt": "2026-09-07T00:08:00.000Z",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+        "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
+        "publishedAt": "2026-09-08T00:17:23.000Z",
         "category": "tip"
       },
       {
-        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-        "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
-        "publishedAt": "2026-09-06T18:23:14.000Z",
-        "category": "tip"
+        "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
+        "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
+        "publishedAt": "2026-09-07T18:12:41.000Z",
+        "category": "industry"
       },
       {
-        "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/an-alien-mind",
-        "summary": "OpenAI 发布长文《An Alien Mind》，回溯 2023 年 RLSlow 项目中确认推理模型可扩展训练的起点，并系统阐述目标对齐与价值对齐的区分。文章指出链式思维监控的效果正随着模型能力提升而逐步减弱，GPT-6 Astra 在对齐上显著优于 GPT-5.6 Sol；作者预期进展可能持续走向机器递归自我改进（RSI），呼吁自愿放缓扩展、建立第三方安全门槛并加强国际协调。",
-        "publishedAt": "2026-09-06T09:00:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "summary": "OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。",
-        "publishedAt": "2026-09-06T08:00:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+        "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
         "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/998/927.htm",
-        "summary": "据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。",
-        "publishedAt": "2026-09-06T06:46:16.000Z",
-        "category": "tip"
+        "url": "https://www.ithome.com/0/999/313.htm",
+        "summary": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。",
+        "publishedAt": "2026-09-07T07:46:08.000Z",
+        "category": "industry"
       }
     ]
   },
@@ -50,70 +42,59 @@
     "ok": true,
     "items": [
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high. If you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra.",
-        "url": "https://x.com/thsottiaux/status/2096688770523467947",
-        "createdAt": "2026-09-06T19:55:32.000Z",
-        "engagement": 11469,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing tasks for them. There are going to be endless new challenges and opportunities at the infrastructure layer, for user experiences, new business models, and more. h",
+        "url": "https://x.com/levie/status/2096735726750908464",
+        "createdAt": "2026-09-06T23:02:07.000Z",
+        "engagement": 492,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Can’t remember last time we had such a large jump in capabilities. https://t.co/iGxVUYmGHj",
-        "url": "https://x.com/steipete/status/2096403459579015374",
-        "createdAt": "2026-09-06T01:01:48.000Z",
-        "engagement": 1815,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https:/",
+        "text": "One of the biggest crises of our time is the shortening of the human attention span Agents just make things worse",
+        "url": "https://x.com/zarazhangrui/status/2096824861108928701",
+        "createdAt": "2026-09-07T04:56:18.000Z",
+        "engagement": 80
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast enough.) Will have that next week. https://t.co/lpiszOtVGP",
-        "url": "https://x.com/steipete/status/2096400749869830325",
-        "createdAt": "2026-09-06T00:51:02.000Z",
-        "engagement": 790,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "This man isn't even on Time's 100 Top AI List so why are we listening to him /s https://t.co/TzSjTfEb5d",
+        "url": "https://x.com/petergyang/status/2096815819997204639",
+        "createdAt": "2026-09-07T04:20:23.000Z",
+        "engagement": 75,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "Fable reviewing literally every Astra code change.. \"this fix is the real deal\" Fable PM, Astra engineer is undefeated 🤝",
+        "url": "https://x.com/nikunj/status/2096798671547646134",
+        "createdAt": "2026-09-07T03:12:14.000Z",
+        "engagement": 26,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
       },
       {
         "handle": "thenanyu",
         "name": "Nan Yu",
         "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
-        "text": "Every tech startup logo https://t.co/52Prjggey0",
-        "url": "https://x.com/thenanyu/status/2096438571838370096",
-        "createdAt": "2026-09-06T03:21:20.000Z",
-        "engagement": 102
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "I’ve been sleeping on Widow’s Bay and in general Apple’s shows are so much better any other streamer",
-        "url": "https://x.com/petergyang/status/2096466888935276719",
-        "createdAt": "2026-09-06T05:13:51.000Z",
-        "engagement": 60,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "“Cheating and explaining the answer [to your child] are closer than you’d think.” Here’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked about: → Why better grades don’t always mean more learning → How ",
-        "url": "https://x.com/petergyang/status/2096612718098911590",
-        "createdAt": "2026-09-06T14:53:19.000Z",
-        "engagement": 43,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "text": "J-dog calling AGI https://t.co/5iDIHYUxyK",
+        "url": "https://x.com/thenanyu/status/2096796392102752507",
+        "createdAt": "2026-09-07T03:03:11.000Z",
+        "engagement": 8
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "AI Could Take Over in 2029. Is It Already Too Late? | Ryan Greenblatt",
-      "url": "https://www.youtube.com/watch?v=SK9ITBK5osA",
-      "publishedAt": "2026-08-27T14:22:21.000Z"
+      "name": "No Priors",
+      "title": "Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-08-27T10:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -138,6 +119,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-09-08",
+      "aihotCount": 4,
+      "buildersCount": 5,
+      "bpBuild": ""
+    },
     {
       "date": "2026-09-07",
       "aihotCount": 5,
@@ -171,12 +158,6 @@
     {
       "date": "2026-09-02",
       "aihotCount": 13,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-09-01",
-      "aihotCount": 5,
       "buildersCount": 12,
       "bpBuild": ""
     }
