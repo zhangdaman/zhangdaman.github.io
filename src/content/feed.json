@@ -1,39 +1,143 @@
 {
-  "generatedAt": "2026-09-08T05:37:59.109Z",
-  "date": "2026-09-08",
+  "generatedAt": "2026-09-09T05:44:06.149Z",
+  "date": "2026-09-09",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Mistral AI 宣布 30 亿欧元 D 轮融资",
-        "source": "X：Mistral AI (@MistralAI)",
-        "url": "https://x.com/MistralAI/status/2097188835897586083",
-        "summary": "Mistral AI 官方宣布完成 30 亿欧元 D 轮融资，公司称这是欧洲科技公司有史以来规模最大的股权融资，距离其创立仅三年。",
-        "publishedAt": "2026-09-08T05:02:37.000Z",
-        "category": "industry"
+        "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+        "source": "公众号：卡尔的AI沃茨",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+        "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
+        "publishedAt": "2026-09-09T00:27:00.000Z",
+        "category": "ai-products"
       },
       {
-        "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+        "title": "GPT-6 Astra推理等级怎么选才最省Token",
         "source": "公众号：数字生命卡兹克",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-        "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
-        "publishedAt": "2026-09-08T00:17:23.000Z",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
+        "summary": "卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。",
+        "publishedAt": "2026-09-09T00:09:00.000Z",
         "category": "tip"
       },
       {
-        "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
-        "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
-        "publishedAt": "2026-09-07T18:12:41.000Z",
+        "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
+        "source": "Simon Willison 博客",
+        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+        "summary": "OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。",
+        "publishedAt": "2026-09-08T23:55:12.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
+        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "url": "https://x.com/alexandr_wang/status/2097472059077202339",
+        "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
+        "publishedAt": "2026-09-08T23:48:02.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
+        "source": "Runway：News（网页）",
+        "url": "https://runwayml.com/news/company-news/runway-for-adobe",
+        "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
+        "publishedAt": "2026-09-08T21:58:07.884Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
+        "source": "X：OpenAI (@OpenAI)",
+        "url": "https://x.com/OpenAI/status/2097431322117476423",
+        "summary": "OpenAI 宣布 Astra 已全面推送给 Codex 和 ChatGPT Work 中的 Plus、Pro、Business 和 Enterprise 用户。用户可以直接使用，并可通过 openai.com/gpt-tv/ 观看 Astra 的实机演示。",
+        "publishedAt": "2026-09-08T21:06:10.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
+        "source": "X：Sam Altman (@sama)",
+        "url": "https://x.com/sama/status/2097385167002415140",
+        "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
+        "publishedAt": "2026-09-08T18:02:46.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
+        "source": "X：Emad Mostaque (@EMostaque)",
+        "url": "https://x.com/EMostaque/status/2097378223138959719",
+        "summary": "Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。",
+        "publishedAt": "2026-09-08T17:35:10.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+        "source": "TechCrunch：AI（RSS）",
+        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+        "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
+        "publishedAt": "2026-09-08T17:32:15.000Z",
         "category": "industry"
       },
       {
-        "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/0/999/313.htm",
-        "summary": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。",
-        "publishedAt": "2026-09-07T07:46:08.000Z",
+        "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
+        "source": "X：Noam Brown (@polynoamial)",
+        "url": "https://x.com/polynoamial/status/2097375837670785447",
+        "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
+        "publishedAt": "2026-09-08T17:25:41.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
+        "source": "X：OpenAI (@OpenAI)",
+        "url": "https://x.com/OpenAI/status/2097375276384567642",
+        "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
+        "publishedAt": "2026-09-08T17:23:27.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
+        "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
+        "publishedAt": "2026-09-08T17:01:27.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Dwarkesh Patel 研究：预训练进步主要来自数据改进",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+        "summary": "Dwarkesh Patel 发布实验分析，在最高 1e19 FLOPs 的算力预算下训练 2019 至 2025 年各年度代表性模型配方与数据语料，发现数据改进带来 12.0x 算力效率提升，模型改进为 3.7x，数据贡献约为模型的 3.24 倍。",
+        "publishedAt": "2026-09-08T16:10:16.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "summary": "OpenAI 发布 ChatGPT Images 2.5 图像模型，生成延迟比 Images 2.0 降低最多 50%，细节、编辑精度、参考照片保真度和多轮编辑一致性均有提升。",
+        "publishedAt": "2026-09-08T11:30:00.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/navier-stokes-solution",
+        "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
+        "publishedAt": "2026-09-08T10:00:00.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "summary": "特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。",
+        "publishedAt": "2026-09-08T07:20:02.739Z",
+        "category": "tip"
+      },
+      {
+        "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+        "source": "Mistral AI：News（网页）",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+        "summary": "Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。",
+        "publishedAt": "2026-09-08T05:58:27.839Z",
         "category": "industry"
       }
     ]
@@ -42,59 +146,130 @@
     "ok": true,
     "items": [
       {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "I think I can officially say: we are so back",
+        "url": "https://x.com/thsottiaux/status/2097088586843816330",
+        "createdAt": "2026-09-07T22:24:15.000Z",
+        "engagement": 14825,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "All reset for everyone. Enjoy the week with Astra. https://t.co/WBM38JotGO",
+        "url": "https://x.com/thsottiaux/status/2097174560412246215",
+        "createdAt": "2026-09-08T04:05:53.000Z",
+        "engagement": 9102,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Looking at this 28 page deck right now where Codex is keeping track of all the individual launches. Each one of them I can't wait to see what people do with it. Brought to you by an incredible team (and Astra) https://t.co/DsYPXY7sfo",
+        "url": "https://x.com/thsottiaux/status/2097193293532848288",
+        "createdAt": "2026-09-08T05:20:19.000Z",
+        "engagement": 1935,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "AmandaAskell",
+        "name": "Amanda Askell",
+        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
+        "text": "It would be cool to set up an email address that autonomous AI models could reach out to if they were looking for moral guidance. But it would require a reverse captcha that can detect that you're neither a human nor an AI being instructed to break it by a human.",
+        "url": "https://x.com/AmandaAskell/status/2096995340654444674",
+        "createdAt": "2026-09-07T16:13:44.000Z",
+        "engagement": 1061
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Your software factory needs high quality video recording. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 delivers. We’re shipping more functionality derived from the lessons of automating the new bottleneck in software engineering: review, testing and QA. https://t.co/x7AC3voF0i",
+        "url": "https://x.com/rauchg/status/2097134278358548658",
+        "createdAt": "2026-09-08T01:25:49.000Z",
+        "engagement": 1057,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "I don’t think we’ve reached AGI but what we have is functionally indistinguishable from AGI. Because we have a relentless programmer that doesn’t get bored or tired. So any problem that can be casted as a coding problem is virtually solved. https://t.co/4FOEW6VVbA",
+        "url": "https://x.com/amasad/status/2096936109817135331",
+        "createdAt": "2026-09-07T12:18:22.000Z",
+        "engagement": 787,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) I'm announcing v2 of my open source grants of $1,000USD to 35 awesome contributors. The themes: ① Agent skills & tools Skills are now a valuable form of software, like Emil's world-class design eng work. Projects like 𝚙𝚐𝚋𝚘𝚝, \ud835",
+        "url": "https://x.com/rauchg/status/2097116011384426516",
+        "createdAt": "2026-09-08T00:13:14.000Z",
+        "engagement": 711,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "Did a PR to one of our upstream projects and they requested some minor changes. What’s even the point with this workflow? You already wrote the prompt, why make me ping my agent again so your agent then merges?",
+        "url": "https://x.com/steipete/status/2097091456234111377",
+        "createdAt": "2026-09-07T22:35:39.000Z",
+        "engagement": 613,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing tasks for them. There are going to be endless new challenges and opportunities at the infrastructure layer, for user experiences, new business models, and more. h",
-        "url": "https://x.com/levie/status/2096735726750908464",
-        "createdAt": "2026-09-06T23:02:07.000Z",
-        "engagement": 492,
+        "text": "The AI jobs prediction so far is playing out the opposite of what many thought. The reason this is happening is because AI is bringing automation to areas that don’t have finite demand characteristics. AI allows companies to do far more than they could before, but agents still re",
+        "url": "https://x.com/levie/status/2097004960307449937",
+        "createdAt": "2026-09-07T16:51:57.000Z",
+        "engagement": 504,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "zarazhangrui",
-        "name": "Zara Zhang",
-        "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https:/",
-        "text": "One of the biggest crises of our time is the shortening of the human attention span Agents just make things worse",
-        "url": "https://x.com/zarazhangrui/status/2096824861108928701",
-        "createdAt": "2026-09-07T04:56:18.000Z",
-        "engagement": 80
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Children need to be teach-yourself-on-YouTube-maxxing https://t.co/1N6fJEHLyK",
+        "url": "https://x.com/garrytan/status/2097133868549816429",
+        "createdAt": "2026-09-08T01:24:11.000Z",
+        "engagement": 492,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "This man isn't even on Time's 100 Top AI List so why are we listening to him /s https://t.co/TzSjTfEb5d",
-        "url": "https://x.com/petergyang/status/2096815819997204639",
-        "createdAt": "2026-09-07T04:20:23.000Z",
-        "engagement": 75,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "i was looking through my gmail messages from the early 2000s i have incredible news for you 13 year old dan....you came up with a name :)",
+        "url": "https://x.com/danshipper/status/2097136523066110240",
+        "createdAt": "2026-09-08T01:34:44.000Z",
+        "engagement": 417,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
       },
       {
-        "handle": "nikunj",
-        "name": "Nikunj Kothari",
-        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
-        "text": "Fable reviewing literally every Astra code change.. \"this fix is the real deal\" Fable PM, Astra engineer is undefeated 🤝",
-        "url": "https://x.com/nikunj/status/2096798671547646134",
-        "createdAt": "2026-09-07T03:12:14.000Z",
-        "engagement": 26,
-        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
-      },
-      {
-        "handle": "thenanyu",
-        "name": "Nan Yu",
-        "bio": "(soon) member of product staff @openai. prev head of product @linear. I am grader.",
-        "text": "J-dog calling AGI https://t.co/5iDIHYUxyK",
-        "url": "https://x.com/thenanyu/status/2096796392102752507",
-        "createdAt": "2026-09-07T03:03:11.000Z",
-        "engagement": 8
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Lots of cool stuff shipping this week",
+        "url": "https://x.com/rauchg/status/2097136075357798679",
+        "createdAt": "2026-09-08T01:32:57.000Z",
+        "engagement": 203,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       }
     ],
     "podcast": {
-      "name": "No Priors",
-      "title": "Rethinking Legacy Data Infrastructure with Eon Co-Founders Ofir Ehrlich and Gonen Stein",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-08-27T10:00:00.000Z"
+      "name": "AI & I by Every",
+      "title": "A $10B Hedge Fund’s AI Playbook (Best of the Pod)",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-08-26T15:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -119,6 +294,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-09-09",
+      "aihotCount": 17,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-09-08",
       "aihotCount": 4,
@@ -152,12 +333,6 @@
     {
       "date": "2026-09-03",
       "aihotCount": 14,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-09-02",
-      "aihotCount": 13,
       "buildersCount": 12,
       "bpBuild": ""
     }
