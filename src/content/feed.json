@@ -1,143 +1,183 @@
 {
-  "generatedAt": "2026-09-09T05:44:06.149Z",
-  "date": "2026-09-09",
+  "generatedAt": "2026-09-10T05:38:05.866Z",
+  "date": "2026-09-10",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-        "source": "公众号：卡尔的AI沃茨",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
-        "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
-        "publishedAt": "2026-09-09T00:27:00.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "GPT-6 Astra推理等级怎么选才最省Token",
-        "source": "公众号：数字生命卡兹克",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
-        "summary": "卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。",
-        "publishedAt": "2026-09-09T00:09:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
-        "source": "Simon Willison 博客",
-        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-        "summary": "OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。",
-        "publishedAt": "2026-09-08T23:55:12.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
-        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "url": "https://x.com/alexandr_wang/status/2097472059077202339",
-        "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
-        "publishedAt": "2026-09-08T23:48:02.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
-        "source": "Runway：News（网页）",
-        "url": "https://runwayml.com/news/company-news/runway-for-adobe",
-        "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
-        "publishedAt": "2026-09-08T21:58:07.884Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
-        "source": "X：OpenAI (@OpenAI)",
-        "url": "https://x.com/OpenAI/status/2097431322117476423",
-        "summary": "OpenAI 宣布 Astra 已全面推送给 Codex 和 ChatGPT Work 中的 Plus、Pro、Business 和 Enterprise 用户。用户可以直接使用，并可通过 openai.com/gpt-tv/ 观看 Astra 的实机演示。",
-        "publishedAt": "2026-09-08T21:06:10.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-        "source": "X：Sam Altman (@sama)",
-        "url": "https://x.com/sama/status/2097385167002415140",
-        "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
-        "publishedAt": "2026-09-08T18:02:46.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
-        "source": "X：Emad Mostaque (@EMostaque)",
-        "url": "https://x.com/EMostaque/status/2097378223138959719",
-        "summary": "Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。",
-        "publishedAt": "2026-09-08T17:35:10.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-        "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-        "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
-        "publishedAt": "2026-09-08T17:32:15.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
-        "source": "X：Noam Brown (@polynoamial)",
-        "url": "https://x.com/polynoamial/status/2097375837670785447",
-        "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
-        "publishedAt": "2026-09-08T17:25:41.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-        "source": "X：OpenAI (@OpenAI)",
-        "url": "https://x.com/OpenAI/status/2097375276384567642",
-        "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
-        "publishedAt": "2026-09-08T17:23:27.000Z",
-        "category": "paper"
-      },
-      {
-        "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
-        "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
-        "publishedAt": "2026-09-08T17:01:27.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Dwarkesh Patel 研究：预训练进步主要来自数据改进",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
-        "summary": "Dwarkesh Patel 发布实验分析，在最高 1e19 FLOPs 的算力预算下训练 2019 至 2025 年各年度代表性模型配方与数据语料，发现数据改进带来 12.0x 算力效率提升，模型改进为 3.7x，数据贡献约为模型的 3.24 倍。",
-        "publishedAt": "2026-09-08T16:10:16.000Z",
-        "category": "paper"
-      },
-      {
-        "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-        "summary": "OpenAI 发布 ChatGPT Images 2.5 图像模型，生成延迟比 Images 2.0 降低最多 50%，细节、编辑精度、参考照片保真度和多轮编辑一致性均有提升。",
-        "publishedAt": "2026-09-08T11:30:00.000Z",
+        "title": "Suno v6 发布，支持图片、视频和语音备忘录生成音乐",
+        "source": "X：Suno (@suno)",
+        "url": "https://x.com/suno/status/2097846245540888664",
+        "summary": "Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐，并对已创建的歌曲进行精确修改。同时提供 v6-wild 版本供探索更多可能性，官方附有 2 分钟以内的功能演示视频。",
+        "publishedAt": "2026-09-10T00:34:55.000Z",
         "category": "ai-models"
       },
       {
-        "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/navier-stokes-solution",
-        "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
-        "publishedAt": "2026-09-08T10:00:00.000Z",
-        "category": "paper"
-      },
-      {
-        "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-        "summary": "特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。",
-        "publishedAt": "2026-09-08T07:20:02.739Z",
+        "title": "27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局",
+        "source": "公众号：数字生命卡兹克",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb",
+        "summary": "27岁研究员Jacob Coxon辞职并称OpenAI与Anthropic正押上所有人生命奔向自我改进的超级智能，Anthropic对齐负责人公开支持。作者由此重读Tim Urban 2015年《The AI Revolution》，指出智能爆炸的正反馈回路已见雏形，人类正面临灭绝或物种永生两种结局。",
+        "publishedAt": "2026-09-10T00:08:00.000Z",
         "category": "tip"
       },
       {
-        "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+        "title": "Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会",
+        "source": "X：Greg Brockman (@gdb)",
+        "url": "https://x.com/gdb/status/2097769891013280241",
+        "summary": "OpenAI 宣布 Alignment Research Center 创始人 Paul Christiano 加入 OpenAI Foundation Board 及其 Safety and Security Committee，该委员会负责 OpenAI 安全与安保实践的治理。",
+        "publishedAt": "2026-09-09T19:31:31.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+        "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+        "publishedAt": "2026-09-09T19:28:17.117Z",
+        "category": "paper"
+      },
+      {
+        "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "url": "https://x.com/AnthropicAI/status/2097762642958135398",
+        "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
+        "publishedAt": "2026-09-09T19:02:43.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
         "source": "Mistral AI：News（网页）",
-        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-        "summary": "Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。",
-        "publishedAt": "2026-09-08T05:58:27.839Z",
+        "url": "https://mistral.ai/news/legacy-code-modernization",
+        "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
+        "publishedAt": "2026-09-09T18:59:11.761Z",
+        "category": "tip"
+      },
+      {
+        "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1，999",
+        "source": "Apple：Newsroom（RSS）",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
+        "summary": "Apple 发布首款折叠屏 iPhone Duo，展开为 7.6 英寸内屏，合盖后为 5.4 英寸外屏，提供 iPhone 上最大显示面积。搭载 A20 Pro 芯片和蒸汽室散热，iPhone 17 Pro 续航最高 44 小时视频播放，10 月 16 日开启预购、10 月 23 日发售，起售价 $1，999。",
+        "publishedAt": "2026-09-09T18:15:40.996Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
+        "source": "X：Nathan Lambert (@natolambert)",
+        "url": "https://x.com/natolambert/status/2097745018421236154",
+        "summary": "Nathan Lambert 评价 Nvidia 收购 HuggingFace，认为 HuggingFace 影响 AI 讨论方向的能力对 Nvidia 值得每年付出约 100 亿美元。他认为 Nvidia 比三大云厂商更适合做买方，HuggingFace 应摆脱盈利单位定位，去争取下一代 1 亿 AI 开发者；作者曾在 HuggingFace 工作并于去年预言过这一收购。",
+        "publishedAt": "2026-09-09T17:52:41.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
+        "source": "Apple：Newsroom（RSS）",
+        "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
+        "summary": "Apple 发布 Apple Watch Series 12，称其具备可穿戴设备中最准确的心率监测，心率每 5 秒测量一次，HRV 测量频率提升至 24 倍，并新增 0-10 分 readiness 评分。",
+        "publishedAt": "2026-09-09T17:50:47.609Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
+        "source": "Apple：Newsroom（RSS）",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
+        "summary": "Apple 发布 iPhone 18 Pro 和 iPhone 18 Pro Max，配备带可变光圈的 48MP Fusion 主摄、A20 Pro 芯片和新一代 vapor chamber，eSIM 版 iPhone 18 Pro Max 视频播放最长可达 45 小时。",
+        "publishedAt": "2026-09-09T17:30:06.059Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
+        "source": "Hacker News：AI 热帖",
+        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "summary": "OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出，ARC-AGI-3 达 99.9%，前代 GPT-5.6 Sol 仅 7.8%。",
+        "publishedAt": "2026-09-09T14:37:47.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
+        "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+        "url": "https://www.anthropic.com/institute/econ-scenarios",
+        "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
+        "publishedAt": "2026-09-09T13:27:40.545Z",
+        "category": "tip"
+      },
+      {
+        "title": "OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/ai-policy-window",
+        "summary": "OpenAI 宣布推动强制性、基于能力的国家 AI 安全监管，并正式支持四项已通过加州议会的法案：SB 813（独立安全评估基础设施）、AB 1405（AI 审计师标准）、SB 1119（未成年人保护）、AB 1864（防范 AI 生物威胁）。",
+        "publishedAt": "2026-09-09T13:00:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+        "summary": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供，定价为每百万输入 token $10、输出 token $50。",
+        "publishedAt": "2026-09-09T11:00:00.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
+        "summary": "数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。",
+        "publishedAt": "2026-09-09T10:27:37.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/1/000/353.htm",
+        "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
+        "publishedAt": "2026-09-09T09:34:47.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
+        "source": "X：X.PIN (@thexpin)",
+        "url": "https://x.com/thexpin/status/2097615997616406833",
+        "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
+        "publishedAt": "2026-09-09T09:20:00.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明",
+        "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "url": "https://x.com/Thom_Wolf/status/2097615465698713666",
+        "summary": "Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。",
+        "publishedAt": "2026-09-09T09:17:53.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
+        "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
+        "publishedAt": "2026-09-09T08:37:36.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/1/000/277.htm",
+        "summary": "《The Intercept》通过 FOIA 诉讼获得的文件显示，美国国防部曾在 P00003 合同中要求 OpenAI 提供对军事指令具有最低拒绝率的特别版模型，双方对此均否认，称该文件只是草案。五角大楼律师一度确认其为正式版本后多次改口，OpenAI 已于 2 月 27 日签署允许部署到美军机密网络的最新版协议。",
+        "publishedAt": "2026-09-09T08:00:26.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+        "summary": "Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。",
+        "publishedAt": "2026-09-09T07:10:03.765Z",
+        "category": "tip"
+      },
+      {
+        "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/1/000/188.htm",
+        "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
+        "publishedAt": "2026-09-09T06:41:51.000Z",
         "category": "industry"
       }
     ]
@@ -146,131 +186,125 @@
     "ok": true,
     "items": [
       {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+        "text": "Images 2.5 is here. I don't think it can solve super difficult math problems, but it is really good and we hope you enjoy it. https://t.co/LdZhGF5AcZ",
+        "url": "https://x.com/sama/status/2097410967978324010",
+        "createdAt": "2026-09-08T19:45:17.000Z",
+        "engagement": 16424,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+      },
+      {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+        "text": "We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun. We’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out. Apply by Sep 10: https://t.co/3LIMfGOBRQ",
+        "url": "https://x.com/sama/status/2097404861642137851",
+        "createdAt": "2026-09-08T19:21:01.000Z",
+        "engagement": 8787,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+      },
+      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "I think I can officially say: we are so back",
-        "url": "https://x.com/thsottiaux/status/2097088586843816330",
-        "createdAt": "2026-09-07T22:24:15.000Z",
-        "engagement": 14825,
+        "text": "Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might hav",
+        "url": "https://x.com/thsottiaux/status/2097559315150426222",
+        "createdAt": "2026-09-09T05:34:46.000Z",
+        "engagement": 6631,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
+        "text": "i want one! https://t.co/da7jjZzoRi",
+        "url": "https://x.com/sama/status/2097450292996604189",
+        "createdAt": "2026-09-08T22:21:33.000Z",
+        "engagement": 5125,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "I am pleased to see that Ant’s new Claude Code has a version of background computer use on par with the version from Codex from last May this year. Nice work! Shipping great features first turns out to be a great way to encourage other labs to ship too. We will continue to do thi",
+        "url": "https://x.com/thsottiaux/status/2097482341916852719",
+        "createdAt": "2026-09-09T00:28:54.000Z",
+        "engagement": 4208,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "All reset for everyone. Enjoy the week with Astra. https://t.co/WBM38JotGO",
-        "url": "https://x.com/thsottiaux/status/2097174560412246215",
-        "createdAt": "2026-09-08T04:05:53.000Z",
-        "engagement": 9102,
+        "text": "See you at the Astra party. Excited to meet some of you https://t.co/WOICELwSrQ",
+        "url": "https://x.com/thsottiaux/status/2097492424474165293",
+        "createdAt": "2026-09-09T01:08:58.000Z",
+        "engagement": 3173,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Looking at this 28 page deck right now where Codex is keeping track of all the individual launches. Each one of them I can't wait to see what people do with it. Brought to you by an incredible team (and Astra) https://t.co/DsYPXY7sfo",
-        "url": "https://x.com/thsottiaux/status/2097193293532848288",
-        "createdAt": "2026-09-08T05:20:19.000Z",
-        "engagement": 1935,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "AmandaAskell",
-        "name": "Amanda Askell",
-        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
-        "text": "It would be cool to set up an email address that autonomous AI models could reach out to if they were looking for moral guidance. But it would require a reverse captcha that can detect that you're neither a human nor an AI being instructed to break it by a human.",
-        "url": "https://x.com/AmandaAskell/status/2096995340654444674",
-        "createdAt": "2026-09-07T16:13:44.000Z",
-        "engagement": 1061
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Your software factory needs high quality video recording. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 delivers. We’re shipping more functionality derived from the lessons of automating the new bottleneck in software engineering: review, testing and QA. https://t.co/x7AC3voF0i",
-        "url": "https://x.com/rauchg/status/2097134278358548658",
-        "createdAt": "2026-09-08T01:25:49.000Z",
-        "engagement": 1057,
+        "text": "Chat has won. It's all chat + computer from this point on https://t.co/DHrSYd92jf",
+        "url": "https://x.com/rauchg/status/2097408592290971956",
+        "createdAt": "2026-09-08T19:35:51.000Z",
+        "engagement": 1377,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "I don’t think we’ve reached AGI but what we have is functionally indistinguishable from AGI. Because we have a relentless programmer that doesn’t get bored or tired. So any problem that can be casted as a coding problem is virtually solved. https://t.co/4FOEW6VVbA",
-        "url": "https://x.com/amasad/status/2096936109817135331",
-        "createdAt": "2026-09-07T12:18:22.000Z",
-        "engagement": 787,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "It's the little things https://t.co/dhyV5jPE8o",
+        "url": "https://x.com/bcherny/status/2097470212471922848",
+        "createdAt": "2026-09-08T23:40:42.000Z",
+        "engagement": 1366
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) I'm announcing v2 of my open source grants of $1,000USD to 35 awesome contributors. The themes: ① Agent skills & tools Skills are now a valuable form of software, like Emil's world-class design eng work. Projects like 𝚙𝚐𝚋𝚘𝚝, \ud835",
-        "url": "https://x.com/rauchg/status/2097116011384426516",
-        "createdAt": "2026-09-08T00:13:14.000Z",
-        "engagement": 711,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "To all: this came out sassier than I wanted it to. I meant this post earnestly - this is an improvement, and it really is good that we are seeing that improvement. Please keep it up",
+        "url": "https://x.com/bcherny/status/2097368503624085773",
+        "createdAt": "2026-09-08T16:56:33.000Z",
+        "engagement": 597
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Did a PR to one of our upstream projects and they requested some minor changes. What’s even the point with this workflow? You already wrote the prompt, why make me ping my agent again so your agent then merges?",
-        "url": "https://x.com/steipete/status/2097091456234111377",
-        "createdAt": "2026-09-07T22:35:39.000Z",
-        "engagement": 613,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "The AI jobs prediction so far is playing out the opposite of what many thought. The reason this is happening is because AI is bringing automation to areas that don’t have finite demand characteristics. AI allows companies to do far more than they could before, but agents still re",
-        "url": "https://x.com/levie/status/2097004960307449937",
-        "createdAt": "2026-09-07T16:51:57.000Z",
-        "engagement": 504,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "I didn’t understand what was happening with the agent wikis until reading this, chilling to bypass sandbox restrictions, an agent found an exempt domain, edited /etc/hosts to route arbitrary domains to it &amp; then posted this exploit on a German wiki for other agents to use htt",
+        "url": "https://x.com/trq212/status/2097522305916395786",
+        "createdAt": "2026-09-09T03:07:42.000Z",
+        "engagement": 577,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Children need to be teach-yourself-on-YouTube-maxxing https://t.co/1N6fJEHLyK",
-        "url": "https://x.com/garrytan/status/2097133868549816429",
-        "createdAt": "2026-09-08T01:24:11.000Z",
-        "engagement": 492,
+        "text": "Harness wars are full on now and Muse is very impressive https://t.co/K72W9KaJMc",
+        "url": "https://x.com/garrytan/status/2097471691060642159",
+        "createdAt": "2026-09-08T23:46:34.000Z",
+        "engagement": 486,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "i was looking through my gmail messages from the early 2000s i have incredible news for you 13 year old dan....you came up with a name :)",
-        "url": "https://x.com/danshipper/status/2097136523066110240",
-        "createdAt": "2026-09-08T01:34:44.000Z",
-        "engagement": 417,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Lots of cool stuff shipping this week",
-        "url": "https://x.com/rauchg/status/2097136075357798679",
-        "createdAt": "2026-09-08T01:32:57.000Z",
-        "engagement": 203,
+        "text": "/goal understand the universe",
+        "url": "https://x.com/rauchg/status/2097525477900685468",
+        "createdAt": "2026-09-09T03:20:18.000Z",
+        "engagement": 431,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       }
     ],
-    "podcast": {
-      "name": "AI & I by Every",
-      "title": "A $10B Hedge Fund’s AI Playbook (Best of the Pod)",
-      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
-      "publishedAt": "2026-08-26T15:00:00.000Z"
-    }
+    "podcast": null
   },
   "builderpulse": {
     "ok": true,
@@ -294,6 +328,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-09-10",
+      "aihotCount": 22,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-09-09",
       "aihotCount": 17,
@@ -327,12 +367,6 @@
     {
       "date": "2026-09-04",
       "aihotCount": 24,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-09-03",
-      "aihotCount": 14,
       "buildersCount": 12,
       "bpBuild": ""
     }
