@@ -1,136 +1,64 @@
 {
-  "generatedAt": "2026-09-11T05:38:07.584Z",
-  "date": "2026-09-11",
+  "generatedAt": "2026-09-12T05:25:25.727Z",
+  "date": "2026-09-12",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "url": "https://x.com/elonmusk/status/2098217236771295567",
-        "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
-        "publishedAt": "2026-09-11T01:09:06.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-        "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-        "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-        "publishedAt": "2026-09-10T20:57:30.000Z",
+        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+        "source": "Hacker News：AI 热帖",
+        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+        "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+        "publishedAt": "2026-09-12T02:39:39.000Z",
         "category": "industry"
       },
       {
-        "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-        "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
-        "publishedAt": "2026-09-10T17:28:52.100Z",
+        "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://www.rubyhack.ai/",
+        "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
+        "publishedAt": "2026-09-12T00:24:20.561Z",
         "category": "paper"
       },
       {
-        "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
-        "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
-        "publishedAt": "2026-09-10T16:33:44.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
-        "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-        "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
-        "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
-        "publishedAt": "2026-09-10T15:49:16.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-        "source": "X：Google AI (@GoogleAI)",
-        "url": "https://x.com/GoogleAI/status/2098072879480947085",
-        "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-        "publishedAt": "2026-09-10T15:35:29.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://shopify.engineering/back-to-native",
-        "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
-        "publishedAt": "2026-09-10T15:04:41.487Z",
+        "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/1/001/488.htm",
+        "summary": "据路透社报道，英伟达正与 Anthropic 洽谈以基石投资者身份参与其 IPO，考虑投资至多 100 亿美元。Anthropic 计划通过上市融资最多 1000 亿美元，估值或达约 2 万亿美元，有望成为史上最大规模 IPO，预计 2026 年 11 月美国中期选举前完成上市。",
+        "publishedAt": "2026-09-11T23:22:39.000Z",
         "category": "industry"
       },
       {
-        "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/put-data-to-work",
-        "summary": "OpenAI 在 ChatGPT Work 中推出新的 Data agent，用户用自然语言即可连接公司数据、分析变化并生成可分享的交互式仪表盘。",
-        "publishedAt": "2026-09-10T15:00:00.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
-        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-        "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
-        "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
-        "publishedAt": "2026-09-10T14:21:06.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
-        "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
-        "publishedAt": "2026-09-10T12:40:51.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
-        "source": "Cursor Blog",
-        "url": "https://cursor.com/blog/projects",
-        "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
-        "publishedAt": "2026-09-10T12:00:00.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://cognition.com/blog/factoring-rsa-260",
-        "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
-        "publishedAt": "2026-09-10T10:50:45.032Z",
+        "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+        "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
+        "publishedAt": "2026-09-11T18:26:10.000Z",
         "category": "tip"
       },
       {
-        "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-        "source": "X：Kim (@kimmonismus)",
-        "url": "https://x.com/kimmonismus/status/2097970735591366804",
-        "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
-        "publishedAt": "2026-09-10T08:49:36.000Z",
-        "category": "ai-models"
+        "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
+        "publishedAt": "2026-09-11T16:28:11.000Z",
+        "category": "tip"
       },
       {
-        "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-        "source": "X：Kim (@kimmonismus)",
-        "url": "https://x.com/kimmonismus/status/2097962333767102665",
-        "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
-        "publishedAt": "2026-09-10T08:16:13.000Z",
-        "category": "ai-models"
+        "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+        "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
+        "publishedAt": "2026-09-11T13:50:28.000Z",
+        "category": "paper"
       },
       {
-        "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-        "source": "MarkTechPost（RSS）",
-        "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-        "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
-        "publishedAt": "2026-09-10T07:31:01.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-        "source": "DeepSeek：API 更新日志",
-        "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10",
-        "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
-        "publishedAt": "2026-09-10T05:58:04.695Z",
-        "category": "ai-models"
+        "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "summary": "OpenAI 发文（系列上篇）讲述其在线存储平台 Habitat 的演进：现每秒处理超 7000 万请求、服务每周超 10 亿用户、管理超 500PB 数据，覆盖近 40 个地区。",
+        "publishedAt": "2026-09-11T10:00:00.000Z",
+        "category": "tip"
       }
     ]
   },
@@ -138,126 +66,128 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-        "text": "ocarina of time remake is the best news in a long time. i will be unavailable november 5 and 6; need to find a case of mountain dew.",
-        "url": "https://x.com/sama/status/2097696043492143157",
-        "createdAt": "2026-09-09T14:38:04.000Z",
-        "engagement": 15622,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apologize.",
-        "url": "https://x.com/thsottiaux/status/2097752790177370535",
-        "createdAt": "2026-09-09T18:23:34.000Z",
-        "engagement": 9347,
+        "text": "To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest ac",
+        "url": "https://x.com/thsottiaux/status/2098113585683808624",
+        "createdAt": "2026-09-10T18:17:14.000Z",
+        "engagement": 16086,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-        "text": "This would suck, but we will prioritize great service for customers until we can get back on top of things. https://t.co/Qi5ssKJic6",
-        "url": "https://x.com/sama/status/2097695001341829212",
-        "createdAt": "2026-09-09T14:33:56.000Z",
-        "engagement": 7198,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Happy to be building here with you all. Lots to explore",
-        "url": "https://x.com/thsottiaux/status/2097829053147582782",
-        "createdAt": "2026-09-09T23:26:36.000Z",
-        "engagement": 5850,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-        "text": "Welcome, Paul. Grateful you are doing this, and all you have done for AI safety. Excited to work together again. https://t.co/k6NUqN6Lsd",
-        "url": "https://x.com/sama/status/2097776310940569783",
-        "createdAt": "2026-09-09T19:57:01.000Z",
-        "engagement": 3439,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
         "handle": "claudeai",
         "name": "Claude",
         "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "New on Claude Marketplace: @CrowdStrike, @cursor_ai, @FactoryAI, @GammaApp, and @vercel. Enterprises can now use their Anthropic spend commitment to buy more Claude-powered products and agents. Get started: https://t.co/L14yHet6h3 https://t.co/ZdoWCw7th3 https://t.co/zX1HFU1iG2",
-        "url": "https://x.com/claudeai/status/2097718980437831935",
-        "createdAt": "2026-09-09T16:09:13.000Z",
-        "engagement": 3064
+        "text": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https://t.co/AjMK4OHHBV https://t.co/0U8lcqsdrq",
+        "url": "https://x.com/claudeai/status/2098138736642933143",
+        "createdAt": "2026-09-10T19:57:11.000Z",
+        "engagement": 2875
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "One of the greatest joys is debating new model names with researchers. They come up with the most hilarious stuff",
-        "url": "https://x.com/thsottiaux/status/2097912273264095536",
-        "createdAt": "2026-09-10T04:57:17.000Z",
-        "engagement": 3029,
+        "text": "Scaled agents on demand. This is pretty much the infrastructure that runs under the hood for ChatGPT Work, all wrapped up in an API which you can use to get started in &lt; 1 min. Happy building. https://t.co/GhmuBkfjP1",
+        "url": "https://x.com/thsottiaux/status/2098238138334548260",
+        "createdAt": "2026-09-11T02:32:10.000Z",
+        "engagement": 2775,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "steipete",
         "name": "Peter Steinberger",
         "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "This is brilliant. https://t.co/39dr9faUMC",
-        "url": "https://x.com/steipete/status/2097830230899769349",
-        "createdAt": "2026-09-09T23:31:17.000Z",
-        "engagement": 1225,
+        "text": "This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are. https://t.co/q4jqVBW00r",
+        "url": "https://x.com/steipete/status/2098089196800098798",
+        "createdAt": "2026-09-10T16:40:19.000Z",
+        "engagement": 2390,
         "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Jane Kim: Big Talk, little respect for facts, outright falsehoods Jane Kim is a NIMBY who helped create the SF doom loop, and now she's failing up: she wants to be CA Insurance Commissioner She is no public servant. We should keep her out of office. https://t.co/ryRKwZVylb https:",
-        "url": "https://x.com/garrytan/status/2097728692596486487",
-        "createdAt": "2026-09-09T16:47:48.000Z",
-        "engagement": 236,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Do you pronounce it data or data? This is the way everyone makes dashboards and learns about the business at OpenAI. Can't live without it. https://t.co/9NAremYs1h",
+        "url": "https://x.com/thsottiaux/status/2098165551554240764",
+        "createdAt": "2026-09-10T21:43:44.000Z",
+        "engagement": 2012,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "The way to the reconcile capability level of AI vs. GDP impact is that the diffusion of AI will take much longer than people think. And it will also show up in ways that are hard to measure in GDP immediately. You could bring the world’s greatest superintelligence to many workflo",
-        "url": "https://x.com/levie/status/2097738533297689012",
-        "createdAt": "2026-09-09T17:26:55.000Z",
-        "engagement": 233,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "Try this prompt in Claude chat to give it more context about yourself: Interview me in depth using free text, or askuserquestion tool when multiple choice works, about relevant parts of my life you don’t know about yet and save it all to memory. https://t.co/VnfnFo7h4q",
+        "url": "https://x.com/trq212/status/2098157600361861579",
+        "createdAt": "2026-09-10T21:12:08.000Z",
+        "engagement": 1868,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads https://t.co/SjpzARwZfK",
-        "url": "https://x.com/petergyang/status/2097763574886375832",
-        "createdAt": "2026-09-09T19:06:25.000Z",
-        "engagement": 216,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can. Sharing my response below, for anyone else in a similar situation. What do you think? https://t.co/z1GtgK14RM",
+        "url": "https://x.com/bcherny/status/2098217571153838124",
+        "createdAt": "2026-09-11T01:10:26.000Z",
+        "engagement": 1792
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "Hey ████, I think there is room for both. 1. Prototypes and other throw-away code can be treated as totally black box. If you’re going to throw it away anyway, and if the blast radius of it breaking is low, it doesn’t need to be perfect. 2. Production code written by Claude shoul",
+        "url": "https://x.com/bcherny/status/2098217573276131577",
+        "createdAt": "2026-09-11T01:10:27.000Z",
+        "engagement": 1202
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "Better hop on soon. Astra demand is growing too fast! https://t.co/MgCFw04sxJ",
+        "url": "https://x.com/steipete/status/2098088917782413740",
+        "createdAt": "2026-09-10T16:39:13.000Z",
+        "engagement": 661,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "Lots of risk with AI. I worry a lot about cybersecurity for example. However, “extinction risk” — literally 100% of humans die — is not remotely one of them. https://t.co/48n1fYmyh7",
+        "url": "https://x.com/amasad/status/2098171265924116732",
+        "createdAt": "2026-09-10T22:06:26.000Z",
+        "engagement": 561,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "8 price cuts, fee removals and structure improvements, plus 16 model discounts… in the last 6 months alone. More to come… https://t.co/pCIUumUVEr",
-        "url": "https://x.com/rauchg/status/2097828203658383674",
-        "createdAt": "2026-09-09T23:23:14.000Z",
-        "engagement": 215,
+        "text": "Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date. Vercel is one of the most heavily multi-tenant systems in the world. Billions of application deployments co-exist and are accessible ('routable') on our CDN at any given moment. Underlying our CD",
+        "url": "https://x.com/rauchg/status/2098091056302833837",
+        "createdAt": "2026-09-10T16:47:43.000Z",
+        "engagement": 529,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "joshwoodward",
+        "name": "Josh Woodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "text": "Gemini, now on Windows! Get it: https://t.co/mKpROGeCl3 https://t.co/59jHumlY0X",
+        "url": "https://x.com/joshwoodward/status/2098131750660772342",
+        "createdAt": "2026-09-10T19:29:25.000Z",
+        "engagement": 485
       }
     ],
-    "podcast": null
+    "podcast": {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "When AI Improves Itself | Richard Socher (Recursive)",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-09-10T11:30:00.000Z"
+    }
   },
   "builderpulse": {
     "ok": true,
@@ -281,6 +211,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-09-12",
+      "aihotCount": 7,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-09-11",
       "aihotCount": 16,
@@ -314,12 +250,6 @@
     {
       "date": "2026-09-06",
       "aihotCount": 11,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-09-05",
-      "aihotCount": 12,
       "buildersCount": 12,
       "bpBuild": ""
     }
