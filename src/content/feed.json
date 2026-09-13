@@ -1,63 +1,55 @@
 {
-  "generatedAt": "2026-09-12T05:25:25.727Z",
-  "date": "2026-09-12",
+  "generatedAt": "2026-09-13T05:40:50.060Z",
+  "date": "2026-09-13",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-        "source": "Hacker News：AI 热帖",
-        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-        "publishedAt": "2026-09-12T02:39:39.000Z",
-        "category": "industry"
+        "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+        "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
+        "publishedAt": "2026-09-12T23:16:27.000Z",
+        "category": "ai-models"
       },
       {
-        "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://www.rubyhack.ai/",
-        "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-        "publishedAt": "2026-09-12T00:24:20.561Z",
-        "category": "paper"
-      },
-      {
-        "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/1/001/488.htm",
-        "summary": "据路透社报道，英伟达正与 Anthropic 洽谈以基石投资者身份参与其 IPO，考虑投资至多 100 亿美元。Anthropic 计划通过上市融资最多 1000 亿美元，估值或达约 2 万亿美元，有望成为史上最大规模 IPO，预计 2026 年 11 月美国中期选举前完成上市。",
-        "publishedAt": "2026-09-11T23:22:39.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-        "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
-        "publishedAt": "2026-09-11T18:26:10.000Z",
+        "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+        "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+        "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+        "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+        "publishedAt": "2026-09-12T20:18:42.000Z",
         "category": "tip"
       },
       {
-        "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-        "publishedAt": "2026-09-11T16:28:11.000Z",
+        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+        "source": "X：Thariq (@trq212)",
+        "url": "https://x.com/trq212/status/2098860941391872132",
+        "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+        "publishedAt": "2026-09-12T19:46:58.000Z",
         "category": "tip"
       },
       {
-        "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-        "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
-        "publishedAt": "2026-09-11T13:50:28.000Z",
-        "category": "paper"
+        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+        "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+        "publishedAt": "2026-09-12T17:33:23.000Z",
+        "category": "ai-products"
       },
       {
-        "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "summary": "OpenAI 发文（系列上篇）讲述其在线存储平台 Habitat 的演进：现每秒处理超 7000 万请求、服务每周超 10 亿用户、管理超 500PB 数据，覆盖近 40 个地区。",
-        "publishedAt": "2026-09-11T10:00:00.000Z",
+        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+        "source": "Suno：Blog（网页）",
+        "url": "https://suno.com/blog/introducing-v6",
+        "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
+        "publishedAt": "2026-09-12T16:39:24.855Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+        "source": "X：Sam Altman (@sama)",
+        "url": "https://x.com/sama/status/2098811563415150910",
+        "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+        "publishedAt": "2026-09-12T16:30:45.000Z",
         "category": "tip"
       }
     ]
@@ -69,124 +61,125 @@
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest ac",
-        "url": "https://x.com/thsottiaux/status/2098113585683808624",
-        "createdAt": "2026-09-10T18:17:14.000Z",
-        "engagement": 16086,
+        "text": "Hi Astra users. A reset and a quick update on quality issues that have been posted around. Working with some of you, we have found and fixed the following issues: - Some skills written for previous models were triggering too often or preventing the model from checking its work. -",
+        "url": "https://x.com/thsottiaux/status/2098612714704891959",
+        "createdAt": "2026-09-12T03:20:36.000Z",
+        "engagement": 16883,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https://t.co/AjMK4OHHBV https://t.co/0U8lcqsdrq",
-        "url": "https://x.com/claudeai/status/2098138736642933143",
-        "createdAt": "2026-09-10T19:57:11.000Z",
-        "engagement": 2875
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Scaled agents on demand. This is pretty much the infrastructure that runs under the hood for ChatGPT Work, all wrapped up in an API which you can use to get started in &lt; 1 min. Happy building. https://t.co/GhmuBkfjP1",
-        "url": "https://x.com/thsottiaux/status/2098238138334548260",
-        "createdAt": "2026-09-11T02:32:10.000Z",
-        "engagement": 2775,
+        "text": "Astra powered ships this week - Images 2.5 - GPT-Live-1 - Agents API - Data Agent - ChatGPT for Financial Services and yet it’s not yet DevDay. Busy plans for next week too.",
+        "url": "https://x.com/thsottiaux/status/2098639827084480864",
+        "createdAt": "2026-09-12T05:08:20.000Z",
+        "engagement": 4408,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "This makes a lot of sense. Duplicating logic is no longer painful. Abstractions still are. https://t.co/q4jqVBW00r",
-        "url": "https://x.com/steipete/status/2098089196800098798",
-        "createdAt": "2026-09-10T16:40:19.000Z",
-        "engagement": 2390,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Do you pronounce it data or data? This is the way everyone makes dashboards and learns about the business at OpenAI. Can't live without it. https://t.co/9NAremYs1h",
-        "url": "https://x.com/thsottiaux/status/2098165551554240764",
-        "createdAt": "2026-09-10T21:43:44.000Z",
-        "engagement": 2012,
+        "text": "Excited to welcome Aidan & @ Sasha from the Git AI team to OpenAI! They are building in the open and have developed an open-source tool that helps developers understand how coding agents contribute to their codebase. Together, we’ll make it easier for businesses to see where Code",
+        "url": "https://x.com/thsottiaux/status/2098569976143806918",
+        "createdAt": "2026-09-12T00:30:46.000Z",
+        "engagement": 3115,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "trq212",
         "name": "Thariq",
         "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "Try this prompt in Claude chat to give it more context about yourself: Interview me in depth using free text, or askuserquestion tool when multiple choice works, about relevant parts of my life you don’t know about yet and save it all to memory. https://t.co/VnfnFo7h4q",
-        "url": "https://x.com/trq212/status/2098157600361861579",
-        "createdAt": "2026-09-10T21:12:08.000Z",
-        "engagement": 1868,
+        "text": "it's basically impossible to interpret evals by looking at just at the pass/fail scores these days many of the failures I see in benchmarks are due to overly strict hidden tests, in some cases the model's answer makes more sense than the expected eval result",
+        "url": "https://x.com/trq212/status/2098490139798655427",
+        "createdAt": "2026-09-11T19:13:32.000Z",
+        "engagement": 1566,
         "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "Every day, I get a lot of of emails and messages like this one. I try to respond to as many as I can. Sharing my response below, for anyone else in a similar situation. What do you think? https://t.co/z1GtgK14RM",
-        "url": "https://x.com/bcherny/status/2098217571153838124",
-        "createdAt": "2026-09-11T01:10:26.000Z",
-        "engagement": 1792
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "we heard feedback that it's hard to know if your skills are still working with new model releases plugin evals are here to help run `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs",
+        "url": "https://x.com/trq212/status/2098531560643539440",
+        "createdAt": "2026-09-11T21:58:07.000Z",
+        "engagement": 1308,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "Hey ████, I think there is room for both. 1. Prototypes and other throw-away code can be treated as totally black box. If you’re going to throw it away anyway, and if the blast radius of it breaking is low, it doesn’t need to be perfect. 2. Production code written by Claude shoul",
-        "url": "https://x.com/bcherny/status/2098217573276131577",
-        "createdAt": "2026-09-11T01:10:27.000Z",
-        "engagement": 1202
+        "handle": "ryolu_",
+        "name": "Ryo Lu",
+        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
+        "text": "i emptied my house said goodbyes and moved to taipei so far so great! 💛 https://t.co/vvAbELmie8",
+        "url": "https://x.com/ryolu_/status/2098612137321201942",
+        "createdAt": "2026-09-12T03:18:18.000Z",
+        "engagement": 1034
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Better hop on soon. Astra demand is growing too fast! https://t.co/MgCFw04sxJ",
-        "url": "https://x.com/steipete/status/2098088917782413740",
-        "createdAt": "2026-09-10T16:39:13.000Z",
-        "engagement": 661,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "TBH once you score 1600 you should unlock a second harder test that gives you a second score on top of the 1600— we should have more and higher measures of excellence But instead they ban the SAT so that everything turns into random lottery and excellence cannot be recognized htt",
+        "url": "https://x.com/garrytan/status/2098615692425851205",
+        "createdAt": "2026-09-12T03:32:26.000Z",
+        "engagement": 766,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https:/",
+        "text": "I think the idea of a \"one-person company\" is overrated Yes, a person can do a lot more thanks to AI. But building something new can be a profoundly lonely experience. You need someone to brainstorm together, suffer together, celebrate together... It is extremely easy to lose mot",
+        "url": "https://x.com/zarazhangrui/status/2098483800456179923",
+        "createdAt": "2026-09-11T18:48:20.000Z",
+        "engagement": 753
+      },
+      {
+        "handle": "ryolu_",
+        "name": "Ryo Lu",
+        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
+        "text": "long-lived agents for your big ideas now in Cursor https://t.co/2sa0rX2415",
+        "url": "https://x.com/ryolu_/status/2098324260867772806",
+        "createdAt": "2026-09-11T08:14:23.000Z",
+        "engagement": 606
       },
       {
         "handle": "amasad",
         "name": "Amjad Masad",
         "bio": "ceo @replit. civilizationist",
-        "text": "Lots of risk with AI. I worry a lot about cybersecurity for example. However, “extinction risk” — literally 100% of humans die — is not remotely one of them. https://t.co/48n1fYmyh7",
-        "url": "https://x.com/amasad/status/2098171265924116732",
-        "createdAt": "2026-09-10T22:06:26.000Z",
-        "engagement": 561,
+        "text": "Replit acquires a business entirely built on Replit. I expect first of many to come. https://t.co/hL516eAAu2",
+        "url": "https://x.com/amasad/status/2098548464452055437",
+        "createdAt": "2026-09-11T23:05:17.000Z",
+        "engagement": 565,
         "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date. Vercel is one of the most heavily multi-tenant systems in the world. Billions of application deployments co-exist and are accessible ('routable') on our CDN at any given moment. Underlying our CD",
-        "url": "https://x.com/rauchg/status/2098091056302833837",
-        "createdAt": "2026-09-10T16:47:43.000Z",
-        "engagement": 529,
+        "text": "Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure. AI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly. Proud to serve Tailscale, the 🐐 networking technology company h",
+        "url": "https://x.com/rauchg/status/2098531157230969062",
+        "createdAt": "2026-09-11T21:56:31.000Z",
+        "engagement": 299,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "joshwoodward",
-        "name": "Josh Woodward",
-        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "Gemini, now on Windows! Get it: https://t.co/mKpROGeCl3 https://t.co/59jHumlY0X",
-        "url": "https://x.com/joshwoodward/status/2098131750660772342",
-        "createdAt": "2026-09-10T19:29:25.000Z",
-        "engagement": 485
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "Astra on OC in a cloud session playing Doom with CUA. Not quite AGI yet, but probably beats fly brain. https://t.co/SrJlaey3MB",
+        "url": "https://x.com/steipete/status/2098527519213604889",
+        "createdAt": "2026-09-11T21:42:03.000Z",
+        "engagement": 288,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "When AI Improves Itself | Richard Socher (Recursive)",
-      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
-      "publishedAt": "2026-09-10T11:30:00.000Z"
+      "name": "No Priors",
+      "title": "Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong",
+      "url": "https://www.youtube.com/watch?v=uLDK4l_-gUE",
+      "publishedAt": "2026-09-10T10:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -211,6 +204,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-09-13",
+      "aihotCount": 6,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-09-12",
       "aihotCount": 7,
@@ -245,12 +244,6 @@
       "date": "2026-09-07",
       "aihotCount": 5,
       "buildersCount": 6,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-09-06",
-      "aihotCount": 11,
-      "buildersCount": 12,
       "bpBuild": ""
     }
   ]
