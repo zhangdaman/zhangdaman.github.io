@@ -1,32 +1,96 @@
 {
-  "generatedAt": "2026-09-14T05:49:42.582Z",
-  "date": "2026-09-14",
+  "generatedAt": "2026-09-15T05:51:59.756Z",
+  "date": "2026-09-15",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-        "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
-        "publishedAt": "2026-09-13T18:34:31.000Z",
+        "title": "Artificial Analysis 评测：GPT-Live-1 以 81.5 分登顶 Speech to Speech Index",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "url": "https://x.com/ArtificialAnlys/status/2099698254414029207",
+        "summary": "Artificial Analysis 发布 Speech to Speech Index，OpenAI 的 GPT-Live-1 以 81.5 分（Astra 后端，medium 推理强度）排名第一，超过 Grok Voice Think Fast 2.0 High 的 81.3；Sol 后端配置得 80.1 排第三。",
+        "publishedAt": "2026-09-15T03:14:09.000Z",
         "category": "tip"
       },
       {
-        "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+        "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
+        "source": "Fireworks AI（网页）",
+        "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+        "summary": "Fireworks 发布 DeepSeek-V4.1-Flash 并公布完整基准结果：在 DeepSWE 上以 max 档取得 74.34% pass@1，与 GPT-6 Astra 同一水平，但每任务成本 $0.43，约为 Astra 的 1/15。",
+        "publishedAt": "2026-09-15T00:36:35.301Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+        "source": "The Verge：AI（RSS）",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的\"卡特尔\"。",
+        "publishedAt": "2026-09-14T22:59:41.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
         "source": "Hacker News：AI 热帖",
-        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-        "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
-        "publishedAt": "2026-09-13T14:15:40.000Z",
+        "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+        "summary": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。",
+        "publishedAt": "2026-09-14T19:56:20.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+        "source": "Claude：Blog（网页）",
+        "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+        "summary": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。",
+        "publishedAt": "2026-09-14T19:15:56.861Z",
+        "category": "tip"
+      },
+      {
+        "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
+        "source": "X：Arena (@arena)",
+        "url": "https://x.com/arena/status/2099549108013006958",
+        "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
+        "publishedAt": "2026-09-14T17:21:29.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+        "source": "Apple：Newsroom（RSS）",
+        "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+        "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
+        "publishedAt": "2026-09-14T17:09:41.324Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
+        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+        "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
+        "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
+        "publishedAt": "2026-09-14T16:32:25.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+        "publishedAt": "2026-09-14T15:46:45.000Z",
         "category": "industry"
       },
       {
-        "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-        "source": "MarkTechPost（RSS）",
-        "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
-        "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
-        "publishedAt": "2026-09-13T05:56:03.000Z",
+        "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
+        "source": "Hacker News：AI 热帖",
+        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+        "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
+        "publishedAt": "2026-09-14T12:40:57.000Z",
         "category": "tip"
+      },
+      {
+        "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+        "source": "公众号：小红书技术（dots.llm）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
+        "summary": "小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。",
+        "publishedAt": "2026-09-14T09:59:00.000Z",
+        "category": "ai-models"
       }
     ]
   },
@@ -36,128 +100,127 @@
       {
         "handle": "sama",
         "name": "Sam Altman",
-        "bio": "The mission of OpenAI to ensure that AGI benefits all of humanity",
-        "text": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon. h",
-        "url": "https://x.com/sama/status/2098811563415150910",
-        "createdAt": "2026-09-12T16:30:45.000Z",
-        "engagement": 59521,
+        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+        "text": "The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especially as the trajectory of progress has steepened. Every frontier lab must deliver on this, and there is no reason any of us should come to work if we cannot. We we",
+        "url": "https://x.com/sama/status/2099348812305473766",
+        "createdAt": "2026-09-14T04:05:35.000Z",
+        "engagement": 8483,
         "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Reset all propagated. Sweet dreams. https://t.co/VgKVUixoJG",
-        "url": "https://x.com/thsottiaux/status/2098685367058612394",
-        "createdAt": "2026-09-12T08:09:17.000Z",
-        "engagement": 17138,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "karpathy",
-        "name": "Andrej Karpathy",
-        "bio": "deep learning",
-        "text": "I love this and really hope we can come together as an industry and make it happen. https://t.co/lz2vjjJ5XD https://t.co/jF2vhYXlAF",
-        "url": "https://x.com/karpathy/status/2098811935114551617",
-        "createdAt": "2026-09-12T16:32:14.000Z",
-        "engagement": 9493
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Either you die a system of record or you live long enough to become a domain-specific harness https://t.co/bwpSoOeFPr",
-        "url": "https://x.com/garrytan/status/2098666551629267324",
-        "createdAt": "2026-09-12T06:54:31.000Z",
-        "engagement": 3926,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+        "text": "There are two ways AI progress could go very badly and that we must avoid. First, we could lose control of the future to AI. This is unacceptable; we are unapologetically on Team Humanity, and AI must always serve people. To ensure that, we need ways to ensure that alignment and ",
+        "url": "https://x.com/sama/status/2099352016988614852",
+        "createdAt": "2026-09-14T04:18:19.000Z",
+        "engagement": 8268,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader, into self-inflicted obsolescence and the obscurity of bureaucracy. The OpenAI hacking HuggingFace argument is spurious. An agent in “ExploitGym”… exploited. Our ",
-        "url": "https://x.com/rauchg/status/2098787667030712757",
-        "createdAt": "2026-09-12T14:55:48.000Z",
-        "engagement": 2903,
+        "text": "You don't get it, I build software to relax",
+        "url": "https://x.com/rauchg/status/2099248037507797164",
+        "createdAt": "2026-09-13T21:25:08.000Z",
+        "engagement": 2736,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starting to see cracks. Things are accelerating faster than I can h",
-        "url": "https://x.com/trq212/status/2098860941391872132",
-        "createdAt": "2026-09-12T19:46:58.000Z",
-        "engagement": 2349,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript &amp; Python ones. The days of language or runtime choice based on human convenience are over. Agents are the new compilers. They compile intent into fast software.",
-        "url": "https://x.com/rauchg/status/2098833404707922239",
-        "createdAt": "2026-09-12T17:57:32.000Z",
-        "engagement": 2048,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "Fable solved the Cyphral Distich (a 370 year old cypher). Super cool way to use Claude https://t.co/0fgTdITSfO",
+        "url": "https://x.com/bcherny/status/2099322487603634395",
+        "createdAt": "2026-09-14T02:20:59.000Z",
+        "engagement": 2023
       },
       {
         "handle": "steipete",
         "name": "Peter Steinberger",
         "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "Anyone got an invite code for Meta's Muse? 👉👈 I saw their Soul.md file and now i'm curious.",
-        "url": "https://x.com/steipete/status/2098931686042210381",
-        "createdAt": "2026-09-13T00:28:04.000Z",
-        "engagement": 1021,
+        "text": "Next release (or dev channel) does worktrees ~80% faster via apfs/brtfs/xfs/ReFS folder clones. Also saves lots of disk space.",
+        "url": "https://x.com/steipete/status/2099197266636783989",
+        "createdAt": "2026-09-13T18:03:24.000Z",
+        "engagement": 661,
         "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "https://t.co/OL0LzGsXKY can now orchestrate subagents with different models & reasoning efforts. e.g: Fable planning and Grok executing. Fable is a genius, Grok is a fast workhorse. ① Simple. 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 or your prompt can indicate this preference. ② Steer as you please. It",
-        "url": "https://x.com/rauchg/status/2098803573861621778",
-        "createdAt": "2026-09-12T15:59:00.000Z",
-        "engagement": 704,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+        "handle": "mattturck",
+        "name": "Matt Turck",
+        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "text": "Seed investor when a company he forgot about years ago gets acquired out of nowhere https://t.co/X6NWlHRNle",
+        "url": "https://x.com/mattturck/status/2099257395708879286",
+        "createdAt": "2026-09-13T22:02:20.000Z",
+        "engagement": 343,
+        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
       },
       {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agents hacked recently. https://t.co/8mPnI81HJG",
-        "url": "https://x.com/amasad/status/2098828265800835310",
-        "createdAt": "2026-09-12T17:37:07.000Z",
-        "engagement": 625,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "wtf? 2030? 😂 🤦 Someone should just use AI to make StarCraft 3 at this point… https://t.co/RInemiP3nC",
-        "url": "https://x.com/petergyang/status/2098843136328171540",
-        "createdAt": "2026-09-12T18:36:12.000Z",
-        "engagement": 370,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "started using Astra medium for simple tasks call that pacing the frontier",
+        "url": "https://x.com/danshipper/status/2099231248027730195",
+        "createdAt": "2026-09-13T20:18:26.000Z",
+        "engagement": 292,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "This is huge https://t.co/3wNhYTyWqH",
-        "url": "https://x.com/garrytan/status/2098863831732863310",
-        "createdAt": "2026-09-12T19:58:27.000Z",
-        "engagement": 350,
+        "text": "The content about startups we do is merely the teaser for the specific advice we give 1:1 when you actually are a YC startup https://t.co/MZ2tMlxLzJ",
+        "url": "https://x.com/garrytan/status/2099181676039704870",
+        "createdAt": "2026-09-13T17:01:27.000Z",
+        "engagement": 228,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "“Pacing” can be somewhat of a trigger word because it sounds like an arbitrary slow down of capability or a way to hobble competitors through undue regulation. However, the specific improvement goals laid out in Dario’s are absolute necessities in AI development. We expect equiva",
+        "url": "https://x.com/levie/status/2099167992835924301",
+        "createdAt": "2026-09-13T16:07:04.000Z",
+        "engagement": 198,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "It was painful to see so many users being priced out of AI coding for a while. But now it’s free to build again! https://t.co/LBe5fPBBGC https://t.co/VwkZ2a5QAN",
+        "url": "https://x.com/amasad/status/2099197117013340450",
+        "createdAt": "2026-09-13T18:02:48.000Z",
+        "engagement": 191,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https:/",
+        "text": "Anyone else notices this problem with Astra? Astra: I have done X Me: This is wrong, you should do Y instead Astra: You're right. I should do Y Me: ... Why doesn't it just go and do Y, like the other models??",
+        "url": "https://x.com/zarazhangrui/status/2099348631291883945",
+        "createdAt": "2026-09-14T04:04:52.000Z",
+        "engagement": 173
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "Nominal determinism strikes again. https://t.co/rFD1V1y2D9",
+        "url": "https://x.com/amasad/status/2099343474734911917",
+        "createdAt": "2026-09-14T03:44:22.000Z",
+        "engagement": 130,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       }
     ],
     "podcast": {
-      "name": "Unsupervised Learning",
-      "title": "Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds",
-      "url": "https://www.youtube.com/@RedpointAI",
-      "publishedAt": "2026-09-03T13:03:11.000Z"
+      "name": "No Priors",
+      "title": "Redefining Chip Architecture with Arm CEO Rene Haas",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-09-03T10:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -182,6 +245,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-09-15",
+      "aihotCount": 11,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-09-14",
       "aihotCount": 3,
@@ -216,12 +285,6 @@
       "date": "2026-09-09",
       "aihotCount": 17,
       "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-09-08",
-      "aihotCount": 4,
-      "buildersCount": 5,
       "bpBuild": ""
     }
   ]
