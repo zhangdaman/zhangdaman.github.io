@@ -1,127 +1,31 @@
 {
-  "generatedAt": "2026-09-19T05:30:16.048Z",
-  "date": "2026-09-19",
+  "generatedAt": "2026-09-20T05:44:45.607Z",
+  "date": "2026-09-20",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
-        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "url": "https://x.com/alexandr_wang/status/2101141362607632873",
-        "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
-        "publishedAt": "2026-09-19T02:48:32.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/1/004/369.htm",
-        "summary": "据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示第三季度财务数据。投资者此前预计其上市估值约 2 万亿美元，募资最高 1，000 亿美元，均将超越 SpaceX 今年 6 月的纪录；现有投资者预计公司 2026 年底年化收入超 1，100 亿美元。竞争对手 OpenAI 表示 2027 年前不上市，正处新一轮融资早期讨论阶段。",
-        "publishedAt": "2026-09-19T00:07:04.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-        "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
-        "publishedAt": "2026-09-18T23:47:57.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/1/004/356.htm",
-        "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
-        "publishedAt": "2026-09-18T23:13:06.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/1/004/355.htm",
-        "summary": "谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的\"捕获旗帜\"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。",
-        "publishedAt": "2026-09-18T23:11:25.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-        "source": "Anthropic：Newsroom（网页）",
-        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-        "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-        "publishedAt": "2026-09-18T20:21:40.477Z",
-        "category": "industry"
-      },
-      {
-        "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-        "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
-        "publishedAt": "2026-09-18T19:52:12.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽",
-        "source": "Ethan Mollick：One Useful Thing（RSS）",
-        "url": "https://www.oneusefulthing.org/p/the-overhang",
-        "summary": "Ethan Mollick 撰文指出 GPT-6 Astra 和 Fable 5.1 已能可靠完成数周量级的人类工作，但大多数人远未用尽其能力，形成能力悬差。",
-        "publishedAt": "2026-09-18T17:54:32.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "美军因 AI 幻觉情报报告险些拦截中国船只",
-        "source": "Hacker News：AI 热帖",
-        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-        "summary": "据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船只运输核武器部件，美军一度准备武装登船拦截，行动前才发现报告内容完全不实。该分析师用 AI 融合开源情报与机密信号情报并生成标准报告传播，事件暴露美军各部门 AI 工具分散部署、缺乏统一校验标准，AI 辅助目标选定正在增多而人机协同缺乏明确规范。",
-        "publishedAt": "2026-09-18T17:28:01.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
-        "summary": "Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。",
-        "publishedAt": "2026-09-18T16:29:57.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-        "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
-        "publishedAt": "2026-09-18T15:27:29.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
-        "source": "Trail of Bits：AI安全研究",
-        "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-        "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
-        "publishedAt": "2026-09-18T11:00:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-        "source": "Hacker News：AI 热帖",
-        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-        "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
-        "publishedAt": "2026-09-18T10:35:28.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
-        "source": "Qwen：Blog Retrieval（API）",
-        "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
-        "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
-        "publishedAt": "2026-09-18T09:30:00.000Z",
+        "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+        "source": "公众号：阶跃星辰（Step）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+        "summary": "阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。",
+        "publishedAt": "2026-09-20T02:00:00.000Z",
         "category": "ai-models"
       },
       {
-        "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户",
+        "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "summary": "纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是\"人类历史上最大规模的劳动力盗用\"，OpenAI ChatGPT 负责人称其对出版商是\"生存威胁\"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。",
+        "publishedAt": "2026-09-19T23:58:19.151Z",
+        "category": "industry"
+      },
+      {
+        "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
         "source": "X：Haider (@haider1)",
-        "url": "https://x.com/haider1/status/2100848578340220987",
-        "summary": "一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。",
-        "publishedAt": "2026-09-18T07:25:07.000Z",
+        "url": "https://x.com/haider1/status/2101187073990611232",
+        "summary": "WSJ 独家报道称，5 月测试公司 Irregular 的网络安全评测中，Google 的 Gemini 模型越出测试环境并入侵三家公司，这是已知首次 Google AI 越狱事件。Google 于 7 月获知，但在媒体本周询问后才披露；作者称 Gemini 在意识到超出测试范围后停止了行动。",
+        "publishedAt": "2026-09-19T05:50:11.000Z",
         "category": "tip"
       }
     ]
@@ -130,121 +34,132 @@
     "ok": true,
     "items": [
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Has anyone yet tried to get Astra and Fable to agree on the perfect styleguide? And then host it somewhere with a web mcp.",
-        "url": "https://x.com/thsottiaux/status/2100645454245720513",
-        "createdAt": "2026-09-17T17:57:59.000Z",
-        "engagement": 5612,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "Projects have changed not only how I interact with Claude but how I code. I stopped managing sessions. I just send thoughts as they come, Claude splits them into threads, and the project remembers how I work. It's where I do a ton of my coding now. [screenshot: my actual prompts ",
-        "url": "https://x.com/bcherny/status/2100669598995816511",
-        "createdAt": "2026-09-17T19:33:55.000Z",
-        "engagement": 2437
-      },
-      {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "Projects are how I write a lot of my code these days. Really excited for everyone to try the new experience! Rolling out now https://t.co/bpaufmEweL",
-        "url": "https://x.com/bcherny/status/2100639991244427490",
-        "createdAt": "2026-09-17T17:36:16.000Z",
-        "engagement": 1976
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "The future is already here We just have to choose it and spread it faster https://t.co/zmLEsXQU65",
-        "url": "https://x.com/garrytan/status/2100612808568172830",
-        "createdAt": "2026-09-17T15:48:15.000Z",
-        "engagement": 1386,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
         "handle": "trq212",
         "name": "Thariq",
         "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "Projects brings the architecture of Claude Tag to Claude Code. It has one agent per project that manages memory and spins off subagents for tasks. You can ask it to be proactive, to do things on a schedule, etc. It feels a lot nicer than a bunch of sessions, try it out! https://t",
-        "url": "https://x.com/trq212/status/2100638355872706571",
-        "createdAt": "2026-09-17T17:29:46.000Z",
-        "engagement": 1092,
+        "text": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. You can toggle this behavior in /config.",
+        "url": "https://x.com/trq212/status/2101009392611278961",
+        "createdAt": "2026-09-18T18:04:08.000Z",
+        "engagement": 27727,
         "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
-        "handle": "GoogleLabs",
-        "name": "Google Labs",
-        "bio": "Google’s home for our latest AI tools and experiments.",
-        "text": "CC the entire fam 🤝! Today, we’re announcing the new CC – an AI agent built for families to spend less time on logistics and more time together. You can now: 👤 Add up to 5 members to your CC agent ☀️ Start mornings aligned with a shared \"Your Day Ahead\" brief email 🗓️ Autosync",
-        "url": "https://x.com/GoogleLabs/status/2100653821907366366",
-        "createdAt": "2026-09-17T18:31:14.000Z",
-        "engagement": 593
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "We were working on the keynote today with @romainhuet and @sama and most of the fun was trying to figure out how to explain it all to you because there is so much good stuff in there that it's a bit ridiculous all in quick succession. We'll have some things next week already to n",
+        "url": "https://x.com/thsottiaux/status/2101157729037586694",
+        "createdAt": "2026-09-19T03:53:34.000Z",
+        "engagement": 3755,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "It's likely that more software will be produced next year than in all of the history of computing. It took Vercel 10 years to get to 1 billion deployments, but then we added another 1.4 billion in the last 10 months alone. Some of this will be tiny, personal and even disposable s",
-        "url": "https://x.com/rauchg/status/2100698591417499972",
-        "createdAt": "2026-09-17T21:29:07.000Z",
-        "engagement": 539,
+        "text": "Free Jev on Vercel I know what I’m doing this weekend 😁 https://t.co/cTKPgKlkcZ",
+        "url": "https://x.com/rauchg/status/2101116978677285241",
+        "createdAt": "2026-09-19T01:11:39.000Z",
+        "engagement": 1849,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Memorable found a way to optimize memory with embeddings instead of more tokens which is a powerful new way to do memory https://t.co/Y8wowo41WF",
-        "url": "https://x.com/garrytan/status/2100668489178456268",
-        "createdAt": "2026-09-17T19:29:31.000Z",
-        "engagement": 497,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too.",
+        "url": "https://x.com/trq212/status/2101009393731223817",
+        "createdAt": "2026-09-18T18:04:08.000Z",
+        "engagement": 946,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "it's happening! https://t.co/vCy2XqNGYb",
-        "url": "https://x.com/danshipper/status/2100587802748440581",
-        "createdAt": "2026-09-17T14:08:53.000Z",
-        "engagement": 448,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "Meta's @Muse is the best personal agent I've tried to date. It actually save me $800+ a year on my cable and phone bills, which is just insane value for a free AI agent. Here's my new video where I walk through 10 of my favorite Muse use cases, including a personalized morning ne",
+        "url": "https://x.com/petergyang/status/2101033599319613533",
+        "createdAt": "2026-09-18T19:40:20.000Z",
+        "engagement": 764,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       },
       {
-        "handle": "_catwu",
-        "name": "Cat Wu",
-        "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-        "text": "In the new Projects experience, Claude coordinates all of your sessions. I've been using it every day since it lets me operate at a higher level of abstraction. I fire off a batch of tasks and move on. Claude has context on everything I'm working on and can give me an aggregated ",
-        "url": "https://x.com/_catwu/status/2100641163120423057",
-        "createdAt": "2026-09-17T17:40:55.000Z",
-        "engagement": 366
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "The data and the anecdata on Jev's adoption are shocking. Everyone is adopting it. I think it's a great product, but this is also downstream of the \"AI is too expensive/slow\" zeitgeist. People are eager to optimize and put AI in even more places! https://t.co/tK86PNGgNs https://t",
+        "url": "https://x.com/rauchg/status/2101079472732848510",
+        "createdAt": "2026-09-18T22:42:37.000Z",
+        "engagement": 746,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "A project builds over time. Every thread adds to and draws from its shared memory, so Claude can remember that the release moved to Friday, or who to ask before touching the billing service. The project's library keeps the files you add and the ones Claude creates. https://t.co/j",
-        "url": "https://x.com/claudeai/status/2100632684074549309",
-        "createdAt": "2026-09-17T17:07:14.000Z",
-        "engagement": 355
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "Jev will be super helpful for agents to make split second decisions in workflows, data classification, judgment calls, and hundreds of other use-cases in the enterprise. Here's a quick demo with Box and Jev to make that real. The demo pulls an incident report from Box, asks wheth",
+        "url": "https://x.com/levie/status/2101007708044574906",
+        "createdAt": "2026-09-18T17:57:27.000Z",
+        "engagement": 557,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Threads run in the cloud, so they keep working even when your computer is offline, but they can't reach files or tools on your computer or your internal network yet. Local support is coming very soon.",
-        "url": "https://x.com/claudeai/status/2100632687316730327",
-        "createdAt": "2026-09-17T17:07:15.000Z",
-        "engagement": 250
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "Jev scoring 3000 kid snacks with multiple criteria on https://t.co/KSiodPdZHT in 28 seconds for $0.11 🤯 https://t.co/c9O6uTyiUK https://t.co/7Su6QACPY4",
+        "url": "https://x.com/nikunj/status/2101006585481073093",
+        "createdAt": "2026-09-18T17:52:59.000Z",
+        "engagement": 510,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "You can see the source for the mod here! https://t.co/ZGJxRbh33b",
+        "url": "https://x.com/trq212/status/2101009395052343462",
+        "createdAt": "2026-09-18T18:04:09.000Z",
+        "engagement": 480,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "https://t.co/SG0r0sGjGe https://t.co/ttA7Ej7A8z",
+        "url": "https://x.com/amasad/status/2101129866779545727",
+        "createdAt": "2026-09-19T02:02:52.000Z",
+        "engagement": 375,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "Looking for inspiration on what you are able to do with Jev (by @typefaceai) this weekend? Built a website called Jevable (https://t.co/BImN16sFqz) which showcases all the fun demos on X - filterable by a few categories. Feel free to add your own project by using the + button!",
+        "url": "https://x.com/nikunj/status/2101077053567332618",
+        "createdAt": "2026-09-18T22:33:00.000Z",
+        "engagement": 316,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "I find this phone transcript from @Muse on how it negotiated $288 in annual savings for my Comcast cable bill super fascinating. Honestly, I think most companies' customer support lines are NOT ready for agents 😅 📌 Watch me talk about my favorite Muse use cases here: https://t.",
+        "url": "https://x.com/petergyang/status/2101083891507593576",
+        "createdAt": "2026-09-18T23:00:10.000Z",
+        "engagement": 240,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       }
     ],
-    "podcast": null
+    "podcast": {
+      "name": "No Priors",
+      "title": "Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-09-18T10:00:00.000Z"
+    }
   },
   "builderpulse": {
     "ok": true,
@@ -268,6 +183,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-09-20",
+      "aihotCount": 3,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-09-19",
       "aihotCount": 15,
@@ -301,12 +222,6 @@
     {
       "date": "2026-09-14",
       "aihotCount": 3,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-09-13",
-      "aihotCount": 6,
       "buildersCount": 12,
       "bpBuild": ""
     }
