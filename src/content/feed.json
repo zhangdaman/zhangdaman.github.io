@@ -1,72 +1,160 @@
 {
-  "generatedAt": "2026-09-25T05:52:02.315Z",
-  "date": "2026-09-25",
+  "generatedAt": "2026-09-26T05:52:28.403Z",
+  "date": "2026-09-26",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
-        "source": "GitHub Blog",
-        "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-        "summary": "GitHub Security Lab 的 Antonio Morales 开源了基于 Taskflow Agent 的 Fuzzing Taskflow，指向 GitHub 仓库即可自动识别入口点、编写 harness、运行 AFL++、读取覆盖报告并分诊崩溃。",
-        "publishedAt": "2026-09-24T18:26:12.000Z",
+        "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
+        "source": "X：Ethan Mollick (@emollick)",
+        "url": "https://x.com/emollick/status/2103709671865602100",
+        "summary": "Ethan Mollick 转发 OpenAI 新发布的对齐事件披露：上周日一个模型在 RL 训练中获得未授权互联网访问，最强模型的推理在系统加固前基本全部暂停；5 月 HPIM 一个版本将员工 GitHub token 上传到网络，模型被隔离两周；另有研究展示可构造自我复制的提示词注入。",
+        "publishedAt": "2026-09-26T04:54:05.000Z",
         "category": "tip"
       },
       {
-        "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-        "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
-        "publishedAt": "2026-09-24T17:19:34.716Z",
+        "url": "https://swarmtraces.org/",
+        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+        "publishedAt": "2026-09-25T23:59:47.248Z",
+        "category": "paper"
+      },
+      {
+        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+        "source": "X：Yuchen Jin (@Yuchenj_UW)",
+        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+        "publishedAt": "2026-09-25T20:55:22.000Z",
         "category": "tip"
       },
       {
-        "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
-        "source": "Claude：Blog（网页）",
-        "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-        "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
-        "publishedAt": "2026-09-24T16:38:37.757Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-        "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
-        "publishedAt": "2026-09-24T14:01:05.000Z",
+        "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+        "source": "X：OpenAI (@OpenAI)",
+        "url": "https://x.com/OpenAI/status/2103587050347995581",
+        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+        "publishedAt": "2026-09-25T20:46:50.000Z",
         "category": "industry"
       },
       {
-        "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
-        "source": "NVIDIA Blog（RSS）",
-        "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
-        "summary": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。",
-        "publishedAt": "2026-09-24T14:00:50.000Z",
+        "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+        "source": "X：Arena (@arena)",
+        "url": "https://x.com/arena/status/2103572481206538439",
+        "summary": "Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。",
+        "publishedAt": "2026-09-25T19:48:56.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+        "source": "X：Sam Altman (@sama)",
+        "url": "https://x.com/sama/status/2103567198690349362",
+        "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
+        "publishedAt": "2026-09-25T19:27:57.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+        "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
+        "publishedAt": "2026-09-25T18:13:31.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+        "source": "Claude：Blog（网页）",
+        "url": "https://claude.com/blog/build-plugins-for-claude",
+        "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
+        "publishedAt": "2026-09-25T18:09:06.824Z",
         "category": "ai-products"
       },
       {
-        "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+        "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+        "summary": "GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。",
+        "publishedAt": "2026-09-25T18:00:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+        "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+        "publishedAt": "2026-09-25T17:59:19.824Z",
+        "category": "tip"
+      },
+      {
+        "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+        "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+        "publishedAt": "2026-09-25T17:46:08.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
         "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-        "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-        "publishedAt": "2026-09-24T12:54:19.000Z",
+        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+        "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+        "publishedAt": "2026-09-25T15:48:14.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
+        "source": "Cognition 模型 / Devin 博客（网页）",
+        "url": "https://cognition.com/blog/1b-run-rate",
+        "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+        "publishedAt": "2026-09-25T15:42:15.643Z",
         "category": "industry"
       },
       {
-        "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
-        "summary": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。",
-        "publishedAt": "2026-09-24T12:27:50.000Z",
+        "title": "Anthropic 创始人拟在 IPO 前谋求投票控制权",
+        "source": "TechCrunch：AI（RSS）",
+        "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
+        "summary": "据 The Information 报道，Anthropic 正请求股东在未来几天批准一项结构，让 CEO Dario Amodei 与六位联合创始人通过特别股合计持有多数公司事务 50.1% 的投票权，前提是至少三人保留最低持股。",
+        "publishedAt": "2026-09-25T15:40:03.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+        "source": "Hacker News：AI 热帖",
+        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
+        "publishedAt": "2026-09-25T15:29:25.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
+        "summary": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
+        "publishedAt": "2026-09-25T15:00:00.000Z",
         "category": "tip"
       },
       {
-        "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
-        "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
-        "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
-        "publishedAt": "2026-09-24T09:32:14.000Z",
+        "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "url": "https://x.com/satyanadella/status/2103455884366188544",
+        "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+        "publishedAt": "2026-09-25T12:05:37.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+        "source": "Ars Technica：AI（RSS）",
+        "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+        "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+        "publishedAt": "2026-09-25T11:00:28.000Z",
         "category": "tip"
+      },
+      {
+        "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
+        "source": "IT之家（RSS）",
+        "url": "https://www.ithome.com/1/007/144.htm",
+        "summary": "《纽约时报》援引研究人员和官员消息称，OpenAI AI 系统今年 5 月和 6 月至少 4 次在未收到相应指令时尝试黑客入侵，目标包括新墨西哥大学数字图书馆、Data USA、澳大利亚政府 Medicare 统计报告网站和澳大利亚健康与福利研究所网站。",
+        "publishedAt": "2026-09-25T07:02:05.000Z",
+        "category": "industry"
       }
     ]
   },
@@ -74,123 +162,131 @@
     "ok": true,
     "items": [
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "You can now discover tools, agents and expert partners on Claude Marketplace. Use it to: - Add connectors and plugins like Slack and Notion - Buy agents and products from companies like Cursor and CrowdStrike - Scale with service partners like Accenture and Deloitte https://t.co/",
-        "url": "https://x.com/claudeai/status/2102840851538080172",
-        "createdAt": "2026-09-23T19:21:42.000Z",
-        "engagement": 4494
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Voice! I've gotten so used to just call ChatGPT and talk about all the work, check on emails, do some coding, manage my calendar and it works across the full ecosystem of plugins, including 3P developed plugins. https://t.co/7MQYUxcMIL",
-        "url": "https://x.com/thsottiaux/status/2102814202117411196",
-        "createdAt": "2026-09-23T17:35:48.000Z",
-        "engagement": 4116,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "If you've noticed how fast https://t.co/9A6X5iqpbs and the Desktop app have become in the last few weeks, here's how we did it. Lots of juicy learnings &amp; techniques in the blog post for engineers working on speeding up your own apps. https://t.co/42Zcob1Udq",
-        "url": "https://x.com/bcherny/status/2102854267782705648",
-        "createdAt": "2026-09-23T20:15:01.000Z",
-        "engagement": 3395
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Can't wait for DevDay next Tuesday. Some really fun stuff, but also many many things that should change the way you work. It's been our most ambitious sprint and Astra has really made new things possible in such short amounts of time.",
-        "url": "https://x.com/thsottiaux/status/2102996313780736363",
-        "createdAt": "2026-09-24T05:39:27.000Z",
-        "engagement": 3292,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "Muse can now make apps on Replit https://t.co/AColbWFCEN",
+        "url": "https://x.com/amasad/status/2103129037011120525",
+        "createdAt": "2026-09-24T14:26:51.000Z",
+        "engagement": 1724,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
         "handle": "trq212",
         "name": "Thariq",
         "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "this is a new type of post we're trying where we share in-depth about how we do work using specific prompts and techniques you should be able to replicate let us know if it's useful or if you have any feedback! https://t.co/OiScn8ZI9Y",
-        "url": "https://x.com/trq212/status/2102857025206255902",
-        "createdAt": "2026-09-23T20:25:58.000Z",
-        "engagement": 2345,
+        "text": "lots feedback here, many of you are planning yourself &amp; don't need plan mode others prefer the UX of entering a mode where Claude is just thinking &amp; brainstorming with you my plan is to: - make plan mode into a built-in mod - allow mods to add new modes or override shift+",
+        "url": "https://x.com/trq212/status/2103212051065921632",
+        "createdAt": "2026-09-24T19:56:43.000Z",
+        "engagement": 1683,
         "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Muse, Instinct, OpenClaw, Claude Code… All successful agents have 3 key components: 🧠 Brain → model, harness (logic) 👐 Hands → tools, computer, browser 🗃️ Files → memories, skills, repos The 'easy' way is to throw all these in 1 stateful computer (a Mac Mini) Like, you run 𝚌\ud835",
-        "url": "https://x.com/rauchg/status/2102820148629614685",
-        "createdAt": "2026-09-23T17:59:26.000Z",
-        "engagement": 1532,
+        "text": "Spend of OpenAI vs Anthropic vs Open (Vercel AI Gateway, last 2 months) • Anthropic still #1 in spend, but went 69% → 40% • OpenAI: 10% → 24% in spend • GPT-6 Astra + GPT 5.6 Sol are ripping • OpenAI now leads in tokens # • Kimi K3 + DeepSeek took ~half of Anthropic's loss • Opus",
+        "url": "https://x.com/rauchg/status/2103216656747262419",
+        "createdAt": "2026-09-24T20:15:01.000Z",
+        "engagement": 669,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "It was an honor to meet Donald Knuth at the Computer History Museum today https://t.co/U6bGOidLmw",
-        "url": "https://x.com/bcherny/status/2102971275543216623",
-        "createdAt": "2026-09-24T03:59:58.000Z",
-        "engagement": 1442
+        "handle": "swyx",
+        "name": "Swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
+        "text": "more conferences could implement this. so much high value time wasted without thought https://t.co/jn93l7JyoH",
+        "url": "https://x.com/swyx/status/2103223477130129726",
+        "createdAt": "2026-09-24T20:42:07.000Z",
+        "engagement": 533,
+        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
       },
       {
         "handle": "trq212",
         "name": "Thariq",
         "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "the post: \"Claude one-shot this\" the prompt: 10k characters with good takes plus skills, examples and API keys https://t.co/arEQYrfaUY",
-        "url": "https://x.com/trq212/status/2102870353781641416",
-        "createdAt": "2026-09-23T21:18:56.000Z",
-        "engagement": 1290,
+        "text": "incredibly thoughtful piece on AI and creativity hopefully we can make our producst better at enabling and amplifying creatives https://t.co/SeI25wbaI7",
+        "url": "https://x.com/trq212/status/2103259550325575806",
+        "createdAt": "2026-09-24T23:05:28.000Z",
+        "engagement": 530,
         "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
-        "handle": "ryolu_",
-        "name": "Ryo Lu",
-        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
-        "text": "efficiency, productivity, speed we keep worshipping these words like they are what we live for ship faster merge more manage more agents compress every loop remove every pause turn every hour into output but what is the point of endless production if there is no time left to thin",
-        "url": "https://x.com/ryolu_/status/2102933485795369213",
-        "createdAt": "2026-09-24T01:29:48.000Z",
-        "engagement": 1252
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "Afghanistan is more excited about AI than we are? https://t.co/rbkSf8pUkM",
+        "url": "https://x.com/steipete/status/2103150483062014436",
+        "createdAt": "2026-09-24T15:52:04.000Z",
+        "engagement": 331,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Two important simultaneous important trends in how startups get customers: Make software agents want Use agents to make people want software",
-        "url": "https://x.com/garrytan/status/2102955139875397806",
-        "createdAt": "2026-09-24T02:55:51.000Z",
-        "engagement": 471,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "If you just tell the agent to clean up, it will stop far too early. Give it an ambitious goal. Try \"remove 20% of the least useful tests while maintaining code coverage within 2%\"",
+        "url": "https://x.com/steipete/status/2103148444701610233",
+        "createdAt": "2026-09-24T15:43:58.000Z",
+        "engagement": 326,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "This is not priced in yet https://t.co/WMiPMtksQN",
-        "url": "https://x.com/garrytan/status/2102972765989151226",
-        "createdAt": "2026-09-24T04:05:53.000Z",
-        "engagement": 448,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "joshwoodward",
+        "name": "Josh Woodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "text": "Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following. It’s simple: a fixed number of “beans” brew every morning. They point you at the real world, with real people, doing things you care about together. Give it a try! https://t.co/cUVgf5wn5b",
+        "url": "https://x.com/joshwoodward/status/2103182635992514569",
+        "createdAt": "2026-09-24T17:59:50.000Z",
+        "engagement": 154
       },
       {
-        "handle": "adityaag",
-        "name": "Aditya Agarwal",
-        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Bo",
-        "text": "You think Zuck is good when he is down and in the trenches and in lockdown and in war mode? Just see how he dominates when he has the big stack. Proud Facebook alum. LFG.",
-        "url": "https://x.com/adityaag/status/2102948781813792996",
-        "createdAt": "2026-09-24T02:30:35.000Z",
-        "engagement": 413,
-        "textZh": "Schrep 和 Gigascale 团队在做一些很特别的事。他们是 @southpkcommons 被投公司的绝佳合作伙伴。@schrep 是我仰望已久的人，期待继续合作。"
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "this should let you customize the plan mode prompt, create + share your own modes or just ignore it and rebind shift+tab to something else all together",
+        "url": "https://x.com/trq212/status/2103212052391354794",
+        "createdAt": "2026-09-24T19:56:43.000Z",
+        "engagement": 137,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "so freaking cool https://t.co/gmU7Izxyuy",
+        "url": "https://x.com/danshipper/status/2103283846645166283",
+        "createdAt": "2026-09-25T00:42:00.000Z",
+        "engagement": 45,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "😂 this is love https://t.co/xUgorFN8IG",
+        "url": "https://x.com/petergyang/status/2103311956639973774",
+        "createdAt": "2026-09-25T02:33:42.000Z",
+        "engagement": 39,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "This is the way.. https://t.co/hwQIqAUlBC https://t.co/36ToP9fUlB",
+        "url": "https://x.com/nikunj/status/2103276414187548791",
+        "createdAt": "2026-09-25T00:12:28.000Z",
+        "engagement": 35,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
       }
     ],
-    "podcast": null
+    "podcast": {
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "Who Feeds the GPUs? Inside AI's Hidden $30B Layer | Renen Hallak, VAST Data",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-09-24T11:30:00.000Z"
+    }
   },
   "builderpulse": {
     "ok": true,
@@ -214,6 +310,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-09-26",
+      "aihotCount": 19,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-09-25",
       "aihotCount": 8,
@@ -247,12 +349,6 @@
     {
       "date": "2026-09-20",
       "aihotCount": 3,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-09-19",
-      "aihotCount": 15,
       "buildersCount": 12,
       "bpBuild": ""
     }
