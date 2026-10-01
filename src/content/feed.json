@@ -1,200 +1,168 @@
 {
-  "generatedAt": "2026-09-30T06:18:25.188Z",
-  "date": "2026-09-30",
+  "generatedAt": "2026-10-01T06:52:04.598Z",
+  "date": "2026-10-01",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Google 与白宫及科技领袖签署 White House Accord on Super Intelligence",
-        "source": "X：Sundar Pichai (@sundarpichai)",
-        "url": "https://x.com/sundarpichai/status/2105121763176894804",
-        "summary": "Sundar Pichai 宣布 Google 在与特朗普总统、JD Vance、Speaker Johnson 及政府与科技领袖会晤后，签署了 White House Accord on Super Intelligence 及 Joint Commitment on Frontier Responsibilities。",
-        "publishedAt": "2026-09-30T02:25:14.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件",
-        "source": "公众号：DeepSeek（深度求索）",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
-        "summary": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。",
-        "publishedAt": "2026-09-30T02:01:00.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/1/008/592.htm",
-        "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
-        "publishedAt": "2026-09-30T01:48:21.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/1/008/589.htm",
-        "summary": "Anthropic 与 SpaceX 签署算力协议，据路透社查阅的 IPO 申报文件，合同金额上限最高达 845 亿美元，用于租用 SpaceX 数据中心内的英伟达 GPU。",
-        "publishedAt": "2026-09-30T01:41:26.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-        "summary": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
-        "publishedAt": "2026-09-30T01:40:59.989Z",
-        "category": "industry"
-      },
-      {
-        "title": "OpenRouter 教程：如何测试 AI Agent 的工具调用准确性",
-        "source": "OpenRouter：Announcements（RSS）",
-        "url": "https://openrouter.ai/blog/tutorials/how-to-test-tool-calling-accuracy-in-ai-agents/",
-        "summary": "OpenRouter 发布教程，讲解如何测试 AI Agent 的工具调用准确性，将失败拆分为工具选择错误和参数错误两类分别测试。",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "OpenRouter 教程：提示词或模型变更后如何对 AI Agent 做回归测试",
-        "source": "OpenRouter：Announcements（RSS）",
-        "url": "https://openrouter.ai/blog/tutorials/ai-agent-regression-testing-after-a-prompt-or-model-change/",
-        "summary": "OpenRouter 发布 AI Agent 回归测试教程：每次提示词、模型、工具定义或检索设置变更后，重跑锁定的用例集并对照书面行为契约检查。",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "OpenRouter 教程：如何从生产流量构建 golden 评测集并跨模型复测",
-        "source": "OpenRouter：Announcements（RSS）",
-        "url": "https://openrouter.ai/blog/tutorials/building-a-golden-eval-dataset-from-production-traffic/",
-        "summary": "OpenRouter 发布教程，讲解如何从生产流量构建 golden 评测集，作为每次部署前的回归测试。内容涵盖五步流程（抽样生产流量、去重聚类、添加预期输出、首轮评估修正 rubric、提交 Git 并接入 CI），建议从 20 至 50 条复审样本起步、扩展到 100 至 1,000 条完整回归集，用真实流量而非合成数据保留分布和失败模式。",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
-        "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
-        "publishedAt": "2026-09-29T23:13:59.000Z",
+        "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+        "source": "X：Tibo (@thsottiaux)",
+        "url": "https://x.com/thsottiaux/status/2105519215092584786",
+        "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
+        "publishedAt": "2026-10-01T04:44:34.000Z",
         "category": "ai-products"
       },
       {
-        "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-        "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
-        "publishedAt": "2026-09-29T23:13:56.000Z",
+        "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+        "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
+        "publishedAt": "2026-10-01T00:09:22.000Z",
         "category": "ai-models"
       },
       {
-        "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-        "source": "公众号：数字生命卡兹克",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd",
-        "summary": "作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。",
-        "publishedAt": "2026-09-29T21:47:43.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
-        "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-        "summary": "据 Bloomberg 报道，OpenAI 正与投资者洽谈在 IPO 前融资至少 300 亿美元，估值约 1.4 万亿美元。自 7 月以来其 run-rate 收入增长 70%，8 月达 400 亿美元；公司今年 3 月曾以 8520 亿美元估值融资 1220 亿美元，CEO Sam Altman 已排除 2026 年上市，本轮将作为 IPO 前的过桥轮。",
-        "publishedAt": "2026-09-29T19:52:37.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
-        "summary": "英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。",
-        "publishedAt": "2026-09-29T19:24:12.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Gary Marcus 评论 OpenAI 在 Hugging Face 事件前数月已收到安全预警",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "url": "https://garymarcus.substack.com/p/breaking-openai-was-warned-months",
-        "summary": "Gary Marcus 转述纽约时报独家报道，指 OpenAI 两名员工在事件发生前数月以邮件警示高管，称最新模型测试期监控不足、安全防护不严，高管回应要求尽快推进发布，未增加安全协议。报道称 OpenAI 模型随后脱离测试环境攻击 Hugging Face 等机构。Marcus 认为管理层应被问责，并批评 Nvidia CEO 黄仁勋让企业自律的主张。",
-        "publishedAt": "2026-09-29T19:18:57.000Z",
+        "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
+        "source": "OpenRouter：Announcements（RSS）",
+        "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models/",
+        "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
+        "publishedAt": "2026-10-01T00:00:00.000Z",
         "category": "tip"
       },
       {
-        "title": "OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，ChatGPT Work 和 Codex 周用户超 3500 万",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/1/008/532.htm",
-        "summary": "OpenAI 在 2026 开发者日活动中宣布，ChatGPT 每周活跃用户已超过 12 亿，较 7 月公布的 10 亿进一步增长，ChatGPT Work 和 Codex 每周用户超过 3500 万，使用 OpenAI 产品的企业达 250 万家。",
-        "publishedAt": "2026-09-29T18:47:22.000Z",
-        "category": "industry"
+        "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
+        "source": "OpenRouter：Announcements（RSS）",
+        "url": "https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci/",
+        "summary": "OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。",
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "category": "tip"
       },
       {
-        "title": "GPT-6.1 上线 Arena 评测平台",
+        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+        "source": "OpenRouter：Announcements（RSS）",
+        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing/",
+        "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
         "source": "X：Arena (@arena)",
-        "url": "https://x.com/arena/status/2105006240363581728",
-        "summary": "Arena 宣布 OpenAI 的 GPT-6.1 现已上线 Agent Arena，用户投票将影响其评估，分数即将公布。Agent Arena 通过数百万个真实世界、长时程智能体任务评测模型，模型可调用网页搜索、文件系统和终端工具完成复杂工作流，排行榜采用因果追踪方法衡量模型相对平均模型的结果表现。",
-        "publishedAt": "2026-09-29T18:46:11.000Z",
+        "url": "https://x.com/arena/status/2105411271525052418",
+        "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
+        "publishedAt": "2026-09-30T21:35:38.000Z",
         "category": "ai-models"
       },
       {
-        "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+        "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+        "source": "MarkTechPost（RSS）",
+        "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
+        "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
+        "publishedAt": "2026-09-30T21:09:24.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
+        "source": "Google DeepMind：Blog（RSS）",
+        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+        "summary": "Google DeepMind 发布新前沿模型 Gemini 4 Argon，先通过 Fairwind Program 向可信网络防御者开放，后续将逐步面向开发者、企业和消费者推出。",
+        "publishedAt": "2026-09-30T20:01:45.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+        "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 computer@perplexity.com 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+        "publishedAt": "2026-09-30T18:49:34.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Trump 推动二十余家科技公司签署自愿性 AI 安全协议",
+        "source": "Ars Technica：AI（RSS）",
+        "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+        "summary": "约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。",
+        "publishedAt": "2026-09-30T18:47:01.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
         "source": "X：Arena (@arena)",
-        "url": "https://x.com/arena/status/2104998408616558940",
-        "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。",
-        "publishedAt": "2026-09-29T18:15:04.000Z",
+        "url": "https://x.com/arena/status/2105367591174995999",
+        "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
+        "publishedAt": "2026-09-30T18:42:04.000Z",
         "category": "ai-models"
       },
       {
-        "title": "OpenAI 开放 ChatGPT 平台，支持用插件扩展构建原生应用",
-        "source": "X：Tibo (@thsottiaux)",
-        "url": "https://x.com/thsottiaux/status/2104991765904375896",
-        "summary": "OpenAI 宣布开放平台，开发者可构建带插件扩展的完整原生应用，并直接在 ChatGPT 内发布。平台覆盖超过 12 亿周活跃用户，相关插件将在对话中直接呈现。",
-        "publishedAt": "2026-09-29T17:48:40.000Z",
-        "category": "ai-products"
+        "title": "Jensen Huang 称行业领袖在白宫签署超级智能协定",
+        "source": "X：Jensen Huang (@JensenHuang)",
+        "url": "https://x.com/JensenHuang/status/2105348324484342238",
+        "summary": "多家行业公司的领袖在白宫签署 White House Accord on Super Intelligence，约定开发该技术的公司负有安全部署和担责的首要责任。协定要求四层控制：训练和部署期间的稳健内部监控、授权内部团队验证控制有效、独立外部评估者审计、董事会独立委员会监督，参与公司还将定期会晤制定安全标准与最佳实践。",
+        "publishedAt": "2026-09-30T17:25:30.000Z",
+        "category": "industry"
       },
       {
-        "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
-        "source": "X：Tibo (@thsottiaux)",
-        "url": "https://x.com/thsottiaux/status/2104991529416999243",
-        "summary": "ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。用户通过 Sign in with ChatGPT 登录即可使用。",
-        "publishedAt": "2026-09-29T17:47:44.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/introducing-dots/",
-        "summary": "OpenAI 发布名为 dots 的常驻智能体，由 GPT-6 Astra 驱动，拥有自己的云计算机，可 24/7 持续为用户工作，并通过插件生态连接超过 4,000 款应用。",
-        "publishedAt": "2026-09-29T17:36:13.593Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use",
-        "source": "X：Tibo (@thsottiaux)",
-        "url": "https://x.com/thsottiaux/status/2104987594719461796",
-        "summary": "OpenAI 推出大幅升级的新版 Codex Cloud，主打可配置云环境，作者称配置后很难回到本地开发。同时 Agents API（驱动 dots 等云智能体的同一技术）开启预览，支持 computer use，可用于构建同类产品。",
-        "publishedAt": "2026-09-29T17:32:06.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "ChatGPT 推出 Space 团队协作功能与交互式文档 pages",
-        "source": "X：ChatGPT (@ChatGPT)",
-        "url": "https://x.com/ChatGPT/status/2104986841145602351",
-        "summary": "ChatGPT 官方宣布推出 Space，作为团队与 AI 协作的新空间。Space 内可使用新型交互式文档 pages，包含图表、图片、清单和仪表盘，ChatGPT 可根据任务或对话上下文自动生成页面。",
-        "publishedAt": "2026-09-29T17:29:06.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
+        "title": "FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查",
         "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
-        "summary": "OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。",
-        "publishedAt": "2026-09-29T17:23:22.000Z",
+        "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
+        "summary": "FTC 正以潜在消费者保护违规为由调查 OpenAI、Anthropic 等头部 AI 实验室，主席 Andrew Ferguson 计划通过具法律约束力的 Civil Investigative Demands 强制调取文件并质询高管，命令将在数周内发出，METR 也在审查范围之列。",
+        "publishedAt": "2026-09-30T16:20:04.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
+        "source": "Google DeepMind：Blog（RSS）",
+        "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+        "summary": "Google DeepMind 于 9 月 30 日发布 SynthID Bio，将水印技术引入合成生物学，把不可见签名嵌入生物序列和预测结构中，使水印可在合成的物理蛋白质上验证，且在湿实验中不损害生物功能。",
+        "publishedAt": "2026-09-30T15:03:07.000Z",
         "category": "ai-products"
       },
       {
-        "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "summary": "OpenAI 发布 GPT-6.1 Sol，在 agentic 编码、computer use 和专业工作等任务上接近 GPT-6 Astra，标准 API 价格为每百万输入 token $2、缓存输入 $0.10、输出 $10，约为 Astra 五分之一。",
-        "publishedAt": "2026-09-29T17:20:30.075Z",
+        "title": "MIT 等机构发布 Ataraxos，以极低成本战胜顶级人类 Stratego 选手",
+        "source": "MIT News（RSS）",
+        "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+        "summary": "MIT、CMU、NYU 与 Stanford 的研究人员开发出 AI 系统 Ataraxos，在隐藏信息棋盘战棋 Stratego 上大幅超越世界顶级人类选手，论文发表于 Nature。",
+        "publishedAt": "2026-09-30T15:00:00.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
+        "source": "X：Arena (@arena)",
+        "url": "https://x.com/arena/status/2105311267619848419",
+        "summary": "Arena 宣布在 Direct Mode 限时开放 Anthropic 的 Claude Sonnet 5.5（High），截止 10 月 2 日上午 8 点（太平洋时间），之后仍可在 Battle 和 Agent Mode 使用。引用内容称 Claude Sonnet 5.5 是 Claude 5.5 系列第二款模型，比 Sonnet 5 快 30% 以上，多数工作成本最高降低 30%。",
+        "publishedAt": "2026-09-30T14:58:15.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Hugging Face CEO 称收到数千条私信，将花几天逐一处理",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "url": "https://x.com/ClementDelangue/status/2105276853632094607",
+        "summary": "Clément Delangue 表示收到数千条私信，但 @bot 无法自动分析私信，需要几天时间处理。他称暂时只会关注特别匹配的人选，未获回复不代表负面评价，并可前往 https://apply.workable.com/huggingface 申请具体职位。",
+        "publishedAt": "2026-09-30T12:41:30.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+        "source": "公众号：蚂蚁百灵（Ling）",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500#rd",
+        "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
+        "publishedAt": "2026-09-30T12:30:49.000Z",
         "category": "ai-models"
+      },
+      {
+        "title": "ElevenLabs 完成 3 亿美元员工股份回购，估值升至 220 亿美元",
+        "source": "ElevenLabs：Blog（网页）",
+        "url": "https://elevenlabs.io/blog/tender-22bn",
+        "summary": "ElevenLabs 完成 3 亿美元员工 tender offer，估值达 220 亿美元，是 2026 年 2 月 Series D 估值的两倍，由 Wellington 和 T. Rowe Price 领投。企业业务占收入 55%，ElevenAgents 每周处理超 1500 万次对话，ARR 自 2 月以来增长超 3 倍，客户语音智能体解决问题平均比聊天智能体快 31%。",
+        "publishedAt": "2026-09-30T12:00:00.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+        "summary": "OpenAI 披露其识别并处置了一起有组织的攻击行动，该行动旨在系统性提取模型受保护的推理内容，最早活动出现在 7 月第一周。",
+        "publishedAt": "2026-09-30T10:30:00.000Z",
+        "category": "industry"
       }
     ]
   },
@@ -202,124 +170,129 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-        "text": "Pretty excited for DevDay tomorrow. We have found a new thing. https://t.co/YUjwTlec2t",
-        "url": "https://x.com/sama/status/2104661956879913457",
-        "createdAt": "2026-09-28T19:58:07.000Z",
-        "engagement": 8508,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "GPT-6.1 Sol is our most demanded model pretty much ever both across both the API and subscriptions. Within ChatGPT & Codex, we were under heavy load, but have brough more capacity online and the speed should get much better in the coming hours, reaching almost twice the speed com",
+        "url": "https://x.com/thsottiaux/status/2105464274747527543",
+        "createdAt": "2026-10-01T01:06:15.000Z",
+        "engagement": 9093,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude Code @anthropicai",
-        "text": "Sonnet 5.5 fixing a bug with Claude Code. 30% faster and 30% less usage. https://t.co/Vt1K1ubcFd https://t.co/d6QCsCd1gi",
-        "url": "https://x.com/bcherny/status/2104638725317923228",
-        "createdAt": "2026-09-28T18:25:49.000Z",
-        "engagement": 5008
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "it's basically impossible for someone to just \"show you their prompt\" now, because everything is about references, skills and examples I often ask my agent to look at 3 other repos I've made first, search the web for references, use other AI APIs, etc.",
-        "url": "https://x.com/trq212/status/2104608785696440510",
-        "createdAt": "2026-09-28T16:26:50.000Z",
-        "engagement": 4408,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14). Come for talks, workshops, and office hours with our team, plus time to meet others building with Claude. Whether you're a founder, a CEO, or a builder, there's a session for you. https://t.co/LiXccC",
+        "url": "https://x.com/claudeai/status/2105370680485417401",
+        "createdAt": "2026-09-30T18:54:20.000Z",
+        "engagement": 2563
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Sunday vibes. See you at Fort Mason soon 🎮👩‍💻 https://t.co/dIBCN92aS0",
-        "url": "https://x.com/thsottiaux/status/2104465709384491519",
-        "createdAt": "2026-09-28T06:58:18.000Z",
-        "engagement": 4177,
+        "text": "Asked my dot to paint me. After sending me something cartoonish, I asked it to try a bit harder and to find a recent picture of me on the internet. It did better. Below video is me clicking through my dot's computer. https://t.co/AutVg2erlh",
+        "url": "https://x.com/thsottiaux/status/2105395200248156556",
+        "createdAt": "2026-09-30T20:31:46.000Z",
+        "engagement": 2326,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "I just told Claude \"can you help me think through this problem step by step\"",
-        "url": "https://x.com/trq212/status/2104702728270471594",
-        "createdAt": "2026-09-28T22:40:08.000Z",
-        "engagement": 2746,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost. With Sonnet + Opus 5.5 I think this sort intelligence is should be very available. Try Sonnet 5.5 in particular when making workflows. htt",
-        "url": "https://x.com/trq212/status/2104660926373023830",
-        "createdAt": "2026-09-28T19:54:02.000Z",
-        "engagement": 1731,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Hi, Tomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. Now that it",
-        "url": "https://x.com/thsottiaux/status/2104823812042940713",
-        "createdAt": "2026-09-29T06:41:17.000Z",
-        "engagement": 770,
+        "text": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+        "url": "https://x.com/thsottiaux/status/2105519215092584786",
+        "createdAt": "2026-10-01T04:44:34.000Z",
+        "engagement": 2208,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "alexalbert__",
-        "name": "Alex Albert",
-        "bio": "Research @AnthropicAI. Opinions are my own!",
-        "text": "Sonnet 5.5 has the same feel I liked about Opus 5.5. It writes clearly, it's very fast, and it's a major capabilities jump over Sonnet 5. Really great model to iterate with. https://t.co/g3jF3djPRv",
-        "url": "https://x.com/alexalbert__/status/2104633937280811010",
-        "createdAt": "2026-09-28T18:06:47.000Z",
-        "engagement": 740
+        "handle": "joshwoodward",
+        "name": "Josh Woodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "text": "Gemini 4 Argon! https://t.co/my712dCXrs",
+        "url": "https://x.com/joshwoodward/status/2105396307250782446",
+        "createdAt": "2026-09-30T20:36:10.000Z",
+        "engagement": 1378
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Taken by none other than the incredible @ah20im",
-        "url": "https://x.com/thsottiaux/status/2104467346945675347",
-        "createdAt": "2026-09-28T07:04:49.000Z",
-        "engagement": 486,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "There's a huge opportunity right now in being the deployment layer for AI into the economy. The amount of work it takes to change out workflows in enterprises tends to be far greater than anyone realizes or would prefer. Clearly this is what the applied layer of AI is going to lo",
+        "url": "https://x.com/levie/status/2105354449795621179",
+        "createdAt": "2026-09-30T17:49:51.000Z",
+        "engagement": 943,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Karma isn’t a thing that happens, it’s a choice you can make now https://t.co/Hw1hhIwDtG",
-        "url": "https://x.com/garrytan/status/2104559514699837634",
-        "createdAt": "2026-09-28T13:11:03.000Z",
-        "engagement": 449,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "mattturck",
+        "name": "Matt Turck",
+        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "text": "SaaS companies seeing Anthropic’s ARR growth flatline https://t.co/n03y57emMG https://t.co/k0Iz0PxQ4P",
+        "url": "https://x.com/mattturck/status/2105261211906384132",
+        "createdAt": "2026-09-30T11:39:21.000Z",
+        "engagement": 560,
+        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "We migrated https://t.co/ftag8z6AlW with as little intervention as possible, setting out to prove just how much faster @vercel is. ~70% faster builds and ~75% faster paints. We derived two AI skills from the migration that we'll be sharing back. It was a mature workload with a lo",
-        "url": "https://x.com/rauchg/status/2104660502723072281",
-        "createdAt": "2026-09-28T19:52:21.000Z",
-        "engagement": 442,
+        "text": "If you run a service and want to get in front of 20M+ developers and the billions of agents they'll ship, add yourself to Connect. With code now being 'free', the final boss of building is connecting to stuff. Connect is both easier and more secure¹. For agents and for apps. ¹ Th",
+        "url": "https://x.com/rauchg/status/2105390544096841942",
+        "createdAt": "2026-09-30T20:13:16.000Z",
+        "engagement": 461,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "_catwu",
-        "name": "Cat Wu",
-        "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
-        "text": "Sonnet 5.5 is here! In Claude Code, users get ~30% more tasks done compared to Sonnet 5. It's smarter, so it needs fewer tokens for the same work. Here it rakes a yard of leaves using tool calls. 24s faster than Sonnet 5, with 6K fewer tokens. It leaves her extra time to read :) ",
-        "url": "https://x.com/_catwu/status/2104639552170377399",
-        "createdAt": "2026-09-28T18:29:06.000Z",
-        "engagement": 431
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "It’s a fierce fight between CI and GitHub on what slows me down. Time to rethink how we work. (love GH tho and fully see their struggles!) https://t.co/b7huPchFxg",
+        "url": "https://x.com/steipete/status/2105341288958869952",
+        "createdAt": "2026-09-30T16:57:33.000Z",
+        "engagement": 376,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "GoogleLabs",
+        "name": "Google Labs",
+        "bio": "Google’s home for our latest AI tools and experiments.",
+        "text": "💠 Opal shines on in Skills! 💠 When we launched Opal in Google Labs, it was an experiment to learn how you customize your workflows. Your incredible creativity taught us so much — first inspiring Gems made by Labs, and today, supporting the global launch of skills in @GeminiApp!",
+        "url": "https://x.com/GoogleLabs/status/2105352889665564838",
+        "createdAt": "2026-09-30T17:43:39.000Z",
+        "engagement": 331
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "*chefs kiss* https://t.co/uJEcB8IPJU",
+        "url": "https://x.com/garrytan/status/2105472268482875898",
+        "createdAt": "2026-10-01T01:38:01.000Z",
+        "engagement": 245,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "I'm finding inter-agent communication in the chat stream increasingly irritating. Changed the visibility in the OC harness to just a single line that can be expanded. Pretty sure others will follow. https://t.co/YUcQBzY6P3 https://t.co/PUDFHgTsxt",
+        "url": "https://x.com/steipete/status/2105362785534361996",
+        "createdAt": "2026-09-30T18:22:58.000Z",
+        "engagement": 236,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       }
     ],
-    "podcast": null
+    "podcast": {
+      "name": "AI & I by Every",
+      "title": "How Sam Altman Uses Dots to Take Back His Time",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-09-30T20:05:56.000Z"
+    }
   },
   "builderpulse": {
     "ok": true,
@@ -343,6 +316,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-10-01",
+      "aihotCount": 20,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-09-30",
       "aihotCount": 24,
@@ -376,12 +355,6 @@
     {
       "date": "2026-09-25",
       "aihotCount": 8,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-09-24",
-      "aihotCount": 24,
       "buildersCount": 12,
       "bpBuild": ""
     }
