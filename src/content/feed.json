@@ -1,144 +1,104 @@
 {
-  "generatedAt": "2026-10-02T06:43:19.902Z",
-  "date": "2026-10-02",
+  "generatedAt": "2026-10-03T06:03:06.262Z",
+  "date": "2026-10-03",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-        "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
-        "publishedAt": "2026-10-02T00:44:40.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
-        "summary": "Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。",
-        "publishedAt": "2026-10-02T00:17:12.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/1/009/204.htm",
-        "summary": "据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。",
-        "publishedAt": "2026-10-02T00:06:15.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
-        "source": "OpenRouter：Announcements（RSS）",
-        "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing/",
-        "summary": "OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。",
-        "publishedAt": "2026-10-02T00:00:00.000Z",
+        "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
+        "source": "Baseten 工程博客（网页）",
+        "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/",
+        "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
+        "publishedAt": "2026-10-02T21:09:34.000Z",
         "category": "tip"
       },
       {
-        "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-        "source": "NVIDIA Blog（RSS）",
-        "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
-        "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
-        "publishedAt": "2026-10-01T23:44:13.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-        "summary": "Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。",
-        "publishedAt": "2026-10-01T22:43:17.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
-        "source": "X：Krea AI (@krea_ai)",
-        "url": "https://x.com/krea_ai/status/2105769469880799716",
-        "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
-        "publishedAt": "2026-10-01T21:18:59.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "url": "https://x.com/OpenRouter/status/2105759062835220852",
-        "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。",
-        "publishedAt": "2026-10-01T20:37:38.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-        "source": "Suno：Blog（网页）",
-        "url": "https://suno.com/blog/introducing-speech-beta",
-        "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
-        "publishedAt": "2026-10-01T20:35:00.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
-        "source": "X：Arena (@arena)",
-        "url": "https://x.com/arena/status/2105733983250301224",
-        "summary": "Arena 宣布 Xiaomi MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena。Pro 在 8.1K+ 真实智能体会话中净提升 +3.17%，列开源模型第5，较 MiMo-V2.5-Pro（第13，-7.23%）提升9个名次；其 Confirmed Success 得分 +7.35%，列开源模型第2。",
-        "publishedAt": "2026-10-01T18:57:58.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
-        "summary": "Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。用几行 TypeScript 即可编写，也可由 Claude 代为构建；mods 随插件分发，可在 CLI 或桌面应用中通过 /plugin 安装。",
-        "publishedAt": "2026-10-01T18:08:07.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
-        "source": "LangChain：Blog（RSS）",
-        "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
-        "summary": "LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。",
-        "publishedAt": "2026-10-01T17:01:32.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
-        "source": "X：Arena (@arena)",
-        "url": "https://x.com/arena/status/2105702037849841954",
-        "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
-        "publishedAt": "2026-10-01T16:51:02.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
-        "summary": "OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。",
-        "publishedAt": "2026-10-01T12:05:49.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
-        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-        "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
-        "summary": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
-        "publishedAt": "2026-10-01T12:00:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-        "source": "Ethan Mollick：One Useful Thing（RSS）",
-        "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-        "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
-        "publishedAt": "2026-10-01T10:54:12.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-        "source": "Modal 官方工程博客（RSS）",
-        "url": "https://modal.com/blog/modal-clusters-generally-available",
-        "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
+        "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
+        "source": "Prime Intellect（网页）",
+        "url": "https://www.primeintellect.ai/blog/prime-inference",
+        "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
         "publishedAt": null,
         "category": "ai-products"
+      },
+      {
+        "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
+        "source": "X：Arena (@arena)",
+        "url": "https://x.com/arena/status/2106109027923140928",
+        "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
+        "publishedAt": "2026-10-02T19:48:16.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿",
+        "source": "X：Arena (@arena)",
+        "url": "https://x.com/arena/status/2106105400487821764",
+        "summary": "Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包",
+        "publishedAt": "2026-10-02T19:33:51.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
+        "source": "X：AI at Meta (@AIatMeta)",
+        "url": "https://x.com/AIatMeta/status/2106099776035152231",
+        "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+        "publishedAt": "2026-10-02T19:11:30.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "ChatGPT 推出 Finances 财务管理功能",
+        "source": "X：ChatGPT (@ChatGPT)",
+        "url": "https://x.com/ChatGPT/status/2106083595433791573",
+        "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
+        "publishedAt": "2026-10-02T18:07:12.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+        "source": "Google Research：Blog（网页）",
+        "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+        "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
+        "publishedAt": null,
+        "category": "ai-products"
+      },
+      {
+        "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6",
+        "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
+        "publishedAt": "2026-10-02T16:15:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
+        "source": "X：Google AI (@GoogleAI)",
+        "url": "https://x.com/GoogleAI/status/2106049984164463069",
+        "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
+        "publishedAt": "2026-10-02T15:53:39.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+        "source": "NVIDIA Blog（RSS）",
+        "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+        "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+        "publishedAt": "2026-10-02T13:00:39.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Ai2 开源 8B 科学报告生成模型 AstaBrief",
+        "source": "Ai2 / Allen Institute for AI（RSS）",
+        "url": "https://allenai.org/blog/astabrief",
+        "summary": "Ai2 开源 AstaBrief 8B，一个基于 Qwen3-8B、将研究问题和检索文献片段转化为带引用报告的科学报告生成模型，现已在 Asta 的 Generate a report 功能中作为 Fast mode 上线，并连同训练数据开放下载。",
+        "publishedAt": "2026-10-02T08:00:00.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+        "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
+        "publishedAt": "2026-10-02T07:23:13.000Z",
+        "category": "industry"
       }
     ]
   },
@@ -146,128 +106,127 @@
     "ok": true,
     "items": [
       {
+        "handle": "karpathy",
+        "name": "Andrej Karpathy",
+        "bio": "",
+        "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks: Writing. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aeros",
+        "url": "https://x.com/karpathy/status/2105819303471976479",
+        "createdAt": "2026-10-02T00:37:00.000Z",
+        "engagement": 18625
+      },
+      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "GPT-6.1 Sol is our most demanded model pretty much ever both across both the API and subscriptions. Within ChatGPT & Codex, we were under heavy load, but have brough more capacity online and the speed should get much better in the coming hours, reaching almost twice the speed com",
-        "url": "https://x.com/thsottiaux/status/2105464274747527543",
-        "createdAt": "2026-10-01T01:06:15.000Z",
-        "engagement": 9093,
+        "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.",
+        "url": "https://x.com/thsottiaux/status/2105843926221660585",
+        "createdAt": "2026-10-02T02:14:51.000Z",
+        "engagement": 13387,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+        "text": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now!",
+        "url": "https://x.com/sama/status/2105688354834756036",
+        "createdAt": "2026-10-01T15:56:40.000Z",
+        "engagement": 10654,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
         "handle": "claudeai",
         "name": "Claude",
         "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14). Come for talks, workshops, and office hours with our team, plus time to meet others building with Claude. Whether you're a founder, a CEO, or a builder, there's a session for you. https://t.co/LiXccC",
-        "url": "https://x.com/claudeai/status/2105370680485417401",
-        "createdAt": "2026-09-30T18:54:20.000Z",
-        "engagement": 2563
+        "text": "For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits. Give it a try with Claude Sonnet 5.5. It has a strong eye for design and builds slides that need minimal editing. https://t.co/QdUyM8Y",
+        "url": "https://x.com/claudeai/status/2105721630051692804",
+        "createdAt": "2026-10-01T18:08:53.000Z",
+        "engagement": 7006
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Asked my dot to paint me. After sending me something cartoonish, I asked it to try a bit harder and to find a recent picture of me on the internet. It did better. Below video is me clicking through my dot's computer. https://t.co/AutVg2erlh",
-        "url": "https://x.com/thsottiaux/status/2105395200248156556",
-        "createdAt": "2026-09-30T20:31:46.000Z",
-        "engagement": 2326,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+        "text": "You should be able to use your AI subscription wherever you need: https://t.co/XpVq1kVYxe",
+        "url": "https://x.com/sama/status/2105739098640298253",
+        "createdAt": "2026-10-01T19:18:18.000Z",
+        "engagement": 3697,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-        "url": "https://x.com/thsottiaux/status/2105519215092584786",
-        "createdAt": "2026-10-01T04:44:34.000Z",
-        "engagement": 2208,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "Mods are absolutely insane. You can now customize Claude to work and look the way you want by just prompting it. Each person works differently, so there's no reason why everyone should have an identical Claude experience. Make Claude your own, and share mods as plugins so others ",
+        "url": "https://x.com/bcherny/status/2105756563302723721",
+        "createdAt": "2026-10-01T20:27:42.000Z",
+        "engagement": 3694
       },
       {
-        "handle": "joshwoodward",
-        "name": "Josh Woodward",
-        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "Gemini 4 Argon! https://t.co/my712dCXrs",
-        "url": "https://x.com/joshwoodward/status/2105396307250782446",
-        "createdAt": "2026-09-30T20:36:10.000Z",
-        "engagement": 1378
-      },
-      {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "There's a huge opportunity right now in being the deployment layer for AI into the economy. The amount of work it takes to change out workflows in enterprises tends to be far greater than anyone realizes or would prefer. Clearly this is what the applied layer of AI is going to lo",
-        "url": "https://x.com/levie/status/2105354449795621179",
-        "createdAt": "2026-09-30T17:49:51.000Z",
-        "engagement": 943,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
-      },
-      {
-        "handle": "mattturck",
-        "name": "Matt Turck",
-        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-        "text": "SaaS companies seeing Anthropic’s ARR growth flatline https://t.co/n03y57emMG https://t.co/k0Iz0PxQ4P",
-        "url": "https://x.com/mattturck/status/2105261211906384132",
-        "createdAt": "2026-09-30T11:39:21.000Z",
-        "engagement": 560,
-        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
+        "handle": "thenanyu",
+        "name": "Nan Yu",
+        "bio": "product, codex @openai. prev head of product @linear",
+        "text": "There is only One True SaaS Layout. You may not like it, but this is what peak usability looks like https://t.co/A8vYNwuzGr",
+        "url": "https://x.com/thenanyu/status/2105704619704029435",
+        "createdAt": "2026-10-01T17:01:18.000Z",
+        "engagement": 2796
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "If you run a service and want to get in front of 20M+ developers and the billions of agents they'll ship, add yourself to Connect. With code now being 'free', the final boss of building is connecting to stuff. Connect is both easier and more secure¹. For agents and for apps. ¹ Th",
-        "url": "https://x.com/rauchg/status/2105390544096841942",
-        "createdAt": "2026-09-30T20:13:16.000Z",
-        "engagement": 461,
+        "text": "The future is verification-engineering. Proofs, (e2e) tests, benchmarks, linters… Some tests will be deterministic, some agentic. This looks great. https://t.co/ZSwn1UEupp",
+        "url": "https://x.com/rauchg/status/2105723481413550427",
+        "createdAt": "2026-10-01T18:16:15.000Z",
+        "engagement": 2614,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "It’s a fierce fight between CI and GitHub on what slows me down. Time to rethink how we work. (love GH tho and fully see their struggles!) https://t.co/b7huPchFxg",
-        "url": "https://x.com/steipete/status/2105341288958869952",
-        "createdAt": "2026-09-30T16:57:33.000Z",
-        "engagement": 376,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "GoogleLabs",
-        "name": "Google Labs",
-        "bio": "Google’s home for our latest AI tools and experiments.",
-        "text": "💠 Opal shines on in Skills! 💠 When we launched Opal in Google Labs, it was an experiment to learn how you customize your workflows. Your incredible creativity taught us so much — first inspiring Gems made by Labs, and today, supporting the global launch of skills in @GeminiApp!",
-        "url": "https://x.com/GoogleLabs/status/2105352889665564838",
-        "createdAt": "2026-09-30T17:43:39.000Z",
-        "engagement": 331
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "*chefs kiss* https://t.co/uJEcB8IPJU",
-        "url": "https://x.com/garrytan/status/2105472268482875898",
-        "createdAt": "2026-10-01T01:38:01.000Z",
-        "engagement": 245,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "You can ask your dot to \"create a pet and set it as your avatar\". It can be based on an idea, an image or pretty much anything. Here is my dot https://t.co/OhwcfuwfQJ",
+        "url": "https://x.com/thsottiaux/status/2105862010521219406",
+        "createdAt": "2026-10-02T03:26:42.000Z",
+        "engagement": 1528,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "steipete",
         "name": "Peter Steinberger",
         "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "I'm finding inter-agent communication in the chat stream increasingly irritating. Changed the visibility in the OC harness to just a single line that can be expanded. Pretty sure others will follow. https://t.co/YUcQBzY6P3 https://t.co/PUDFHgTsxt",
-        "url": "https://x.com/steipete/status/2105362785534361996",
-        "createdAt": "2026-09-30T18:22:58.000Z",
-        "engagement": 236,
+        "text": "\"Today, we’re releasing two Cloudflare-trained decision models, Clef and Clef-flash\" https://t.co/E8cYq4w7Fz Never seen an idea spreading so fast.",
+        "url": "https://x.com/steipete/status/2105778011635400949",
+        "createdAt": "2026-10-01T21:52:56.000Z",
+        "engagement": 1489,
         "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "Been trying to up the level of quality in animation in my game prototype, so been getting Claude to teach me &amp; find references. I asked Claude to make an animation editor where we could iterate on the jump, I'm really happy with how it came out. Here's a side-by-side video ht",
+        "url": "https://x.com/trq212/status/2105849295580889208",
+        "createdAt": "2026-10-02T02:36:11.000Z",
+        "engagement": 1278,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+        "text": "I think there is much more potential energy in Sign In With ChatGPT/Plugin Extensions than we realize",
+        "url": "https://x.com/sama/status/2105687922234237364",
+        "createdAt": "2026-10-01T15:54:57.000Z",
+        "engagement": 1226,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       }
     ],
     "podcast": {
-      "name": "AI & I by Every",
-      "title": "How Sam Altman Uses Dots to Take Back His Time",
-      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
-      "publishedAt": "2026-09-30T20:05:56.000Z"
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "Why AI Agents Cheat | Eric Ho (Goodfire)",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-10-01T11:30:00.000Z"
     }
   },
   "builderpulse": {
@@ -292,6 +251,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-10-03",
+      "aihotCount": 12,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-10-02",
       "aihotCount": 17,
@@ -325,12 +290,6 @@
     {
       "date": "2026-09-27",
       "aihotCount": 6,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-09-26",
-      "aihotCount": 19,
       "buildersCount": 12,
       "bpBuild": ""
     }
