@@ -1,80 +1,112 @@
 {
-  "generatedAt": "2026-10-06T07:12:45.780Z",
-  "date": "2026-10-06",
+  "generatedAt": "2026-10-07T06:51:57.856Z",
+  "date": "2026-10-07",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "source": "IT之家（RSS）",
-        "url": "https://www.ithome.com/1/009/990.htm",
-        "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-        "publishedAt": "2026-10-06T06:25:15.000Z",
-        "category": "industry"
+        "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+        "source": "X：Arena (@arena)",
+        "url": "https://x.com/arena/status/2107717155374727602",
+        "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+        "publishedAt": "2026-10-07T06:18:23.000Z",
+        "category": "ai-models"
       },
       {
-        "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-        "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
-        "publishedAt": "2026-10-06T05:47:05.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "url": "https://x.com/Khazix0918/status/2107297777583825359",
-        "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
-        "publishedAt": "2026-10-06T02:31:56.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
-        "source": "公众号：数字生命卡兹克",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
-        "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
-        "publishedAt": "2026-10-06T00:18:00.000Z",
-        "category": "tip"
-      },
-      {
-        "title": "Anthropic Cowork 改为云端运行模型推理与 VM",
-        "source": "Simon Willison 博客",
-        "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-        "summary": "Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。",
-        "publishedAt": "2026-10-05T23:56:47.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
-        "source": "SemiAnalysis 长文 RSS（RSS）",
-        "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-        "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
-        "publishedAt": "2026-10-05T20:01:09.000Z",
+        "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+        "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+        "publishedAt": "2026-10-06T23:01:09.228Z",
         "category": "paper"
       },
       {
-        "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
-        "source": "Hacker News：AI 热帖",
-        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-        "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
-        "publishedAt": "2026-10-05T17:53:35.000Z",
+        "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+        "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+        "publishedAt": "2026-10-06T20:57:56.000Z",
         "category": "industry"
       },
       {
-        "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/eu-text-provenance",
-        "summary": "OpenAI 公布应对 EU AI Act 的文本水印方案，发布在模型词选择中加入不可见统计信号的 textGrain 技术，API 客户即日起可对部分模型选择性开启水印，未来数周将在欧盟地区为 ChatGPT 和 Codex 输出添加隐形水印，检测器暂只向获批的研究者和专家机构开放。",
-        "publishedAt": "2026-10-05T15:00:00.000Z",
+        "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+        "source": "X：Tibo (@thsottiaux)",
+        "url": "https://x.com/thsottiaux/status/2107573405553938664",
+        "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 co",
+        "publishedAt": "2026-10-06T20:47:11.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+        "source": "Google DeepMind：Blog（RSS）",
+        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+        "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
+        "publishedAt": "2026-10-06T19:57:04.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
+        "source": "404 Media（RSS）",
+        "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/",
+        "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
+        "publishedAt": "2026-10-06T19:26:09.000Z",
         "category": "industry"
       },
       {
-        "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-        "summary": "OpenAI 宣布在 ChatGPT 推出新的视觉广告格式，本月起在美国于图像生成场景中测试，广告将明确标注且不影响 ChatGPT 的回答。",
-        "publishedAt": "2026-10-05T10:00:00.000Z",
+        "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+        "source": "X：X.PIN (@thexpin)",
+        "url": "https://x.com/thexpin/status/2107524306058289533",
+        "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+        "publishedAt": "2026-10-06T17:32:05.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
+        "source": "Sierra：Blog（RSS）",
+        "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+        "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
+        "publishedAt": "2026-10-06T17:32:00.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
+        "source": "Claude：YouTube（RSS）",
+        "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+        "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
+        "publishedAt": "2026-10-06T17:02:37.000Z",
         "category": "ai-products"
+      },
+      {
+        "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
+        "source": "X：ARC Prize (@arcprize)",
+        "url": "https://x.com/arcprize/status/2107491194007585239",
+        "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
+        "publishedAt": "2026-10-06T15:20:30.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+        "source": "X：Arena (@arena)",
+        "url": "https://x.com/arena/status/2107476436223504484",
+        "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+        "publishedAt": "2026-10-06T14:21:52.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "url": "https://x.com/OpenRouter/status/2107471559040635360",
+        "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+        "publishedAt": "2026-10-06T14:02:29.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
+        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+        "url": "https://claude.dev/blog/claude-code-in-the-cloud/",
+        "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
+        "publishedAt": "2026-10-06T12:00:00.000Z",
+        "category": "tip"
       }
     ]
   },
@@ -85,122 +117,126 @@
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "This might have been my best day so far at oai. Ridiculous amounts of fun and intensity. Future is bright",
-        "url": "https://x.com/thsottiaux/status/2107311729768353844",
-        "createdAt": "2026-10-06T03:27:22.000Z",
-        "engagement": 4611,
+        "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment. Therefore ... the reset has been ",
+        "url": "https://x.com/thsottiaux/status/2107676072871600470",
+        "createdAt": "2026-10-07T03:35:09.000Z",
+        "engagement": 10670,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "I am surprised that people are surprised this is how I prompt Claude. Talk to Claude the way you would a coworker. There's no secret to prompting. There's no need to be overly scaffolded or prescriptive for most tasks -- give Claude a goal, and it will figure it out. Back in the ",
+        "url": "https://x.com/bcherny/status/2107565388250874193",
+        "createdAt": "2026-10-06T20:15:19.000Z",
+        "engagement": 9446
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript. gdp-ts is a library, linter and AI skill for safer API design. Under this contract, sensitive functions require 'proofs' that the caller performed an authorization check. The typechecker verifies these proofs at compil",
-        "url": "https://x.com/rauchg/status/2107119811444748555",
-        "createdAt": "2026-10-05T14:44:46.000Z",
-        "engagement": 2283,
+        "text": "At this rate AI will get us GTA 7 before GTA 6",
+        "url": "https://x.com/rauchg/status/2107449561451274688",
+        "createdAt": "2026-10-06T12:35:04.000Z",
+        "engagement": 5809,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "The real story is this one https://t.co/2ylTT1wMjY",
-        "url": "https://x.com/thsottiaux/status/2107295839655952486",
-        "createdAt": "2026-10-06T02:24:14.000Z",
-        "engagement": 1916,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Sergio is cooking up magic with collaborative space right in ChatGPT. Improving leaps and bounds every day. https://t.co/9fgjS3jjGC",
-        "url": "https://x.com/thsottiaux/status/2107200530477101461",
-        "createdAt": "2026-10-05T20:05:31.000Z",
-        "engagement": 1761,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+        "text": "looking up at the stars with extra awe tonight. \"thy sea is so great and my boat is so small.\"",
+        "url": "https://x.com/sama/status/2107691261776052633",
+        "createdAt": "2026-10-07T04:35:30.000Z",
+        "engagement": 4698,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
         "handle": "trq212",
         "name": "Thariq",
         "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "a big advantage of doing planning like this is that it’s a lot more token efficient compared to raw HTML- the model doesn’t need to remake the components or logic to do common things like state machines, diagrams, code snippets, etc. https://t.co/z2LsVJ9D3W",
-        "url": "https://x.com/trq212/status/2107294499282293017",
-        "createdAt": "2026-10-06T02:18:54.000Z",
-        "engagement": 927,
+        "text": "working at a higher level of abstraction has always required understanding the lower level ones, I don't think coding agents changes this",
+        "url": "https://x.com/trq212/status/2107504677143368163",
+        "createdAt": "2026-10-06T16:14:05.000Z",
+        "engagement": 4493,
         "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "my favorite name for this pattern is \"local hands\", Claude runs in the cloud but can access your files locally- also coming to cowork https://t.co/fLX963TUxY",
-        "url": "https://x.com/trq212/status/2107229483015258493",
-        "createdAt": "2026-10-05T22:00:33.000Z",
-        "engagement": 844,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "ryolu_",
-        "name": "Ryo Lu",
-        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
-        "text": "made a lil thing for language learners: watch Netflix with subtitles in any two languages, plus pronunciation guides for Japanese, Chinese, and Korean. customizable styles, hand-picked defaults. enjoy 🍿 https://t.co/JFw0cfcBOW",
-        "url": "https://x.com/ryolu_/status/2107146629338042853",
-        "createdAt": "2026-10-05T16:31:19.000Z",
-        "engagement": 827
-      },
-      {
-        "handle": "ryolu_",
-        "name": "Ryo Lu",
-        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
-        "text": "remembering Steve i grew up with beige boxes. then i moved to Canada and saw the iMac G4. how can computers be so beautiful? i couldn’t afford a Mac, so i made my PC look like one. changed the icons, the fonts, the windows. learned to make those shiny, lickable buttons. that’s ho",
-        "url": "https://x.com/ryolu_/status/2107246891977335049",
-        "createdAt": "2026-10-05T23:09:44.000Z",
-        "engagement": 593
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Harnesses from labs have an incentive to burn tokens, which means harnesses from startups have a real utility, like how Grep can automatically swap token burn into deterministic tested code that is repeatable just by observing agent use https://t.co/a17UIpSAAW",
-        "url": "https://x.com/garrytan/status/2107129959550685660",
-        "createdAt": "2026-10-05T15:25:05.000Z",
-        "engagement": 553,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "AGI Science Loops are coming, and there will be Muse/Instinct for those AGI Science Loops. Halmos is building that. https://t.co/By7Gr2jOj9",
-        "url": "https://x.com/garrytan/status/2107173670699622830",
-        "createdAt": "2026-10-05T18:18:47.000Z",
-        "engagement": 514,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
         "handle": "amasad",
         "name": "Amjad Masad",
         "bio": "ceo @replit. civilizationist",
-        "text": "The US is catching up on open-weights models. https://t.co/Qb9PjOrqfo",
-        "url": "https://x.com/amasad/status/2107222388429766970",
-        "createdAt": "2026-10-05T21:32:22.000Z",
-        "engagement": 298,
+        "text": "What’s happening in the AI-powered reverse engineering and decompilation is absolutely insane. Pretty soon all software will be de facto open-source. AI is coming for everything and everyone.",
+        "url": "https://x.com/amasad/status/2107671204639465961",
+        "createdAt": "2026-10-07T03:15:48.000Z",
+        "engagement": 3496,
         "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "We should have competence and good outcomes but we can’t do that without leadership and accountability High speed rail has been waylaid into a bulk transfer of taxpayer dollars into special interests with no good working outcome in sight https://t.co/oQrYJdsL6R",
-        "url": "https://x.com/garrytan/status/2107127940635070905",
-        "createdAt": "2026-10-05T15:17:04.000Z",
-        "engagement": 195,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "And we won't unship the improvements. You get to have your cake and eat it too. See you tomorrow for Day 3!",
+        "url": "https://x.com/thsottiaux/status/2107676261099426030",
+        "createdAt": "2026-10-07T03:35:54.000Z",
+        "engagement": 2273,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "The Every team runs as much work as possible through agents. To help the whole team share skills when a new model comes out, they built a company agent on Claude Managed Agents that everyone uses in Slack. Once it caught on internally, they released it to their subscribers. https",
+        "url": "https://x.com/claudeai/status/2107574195978641911",
+        "createdAt": "2026-10-06T20:50:19.000Z",
+        "engagement": 1762
+      },
+      {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+        "text": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible.",
+        "url": "https://x.com/sama/status/2107691577015755196",
+        "createdAt": "2026-10-07T04:36:45.000Z",
+        "engagement": 1698,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+      },
+      {
+        "handle": "sama",
+        "name": "Sam Altman",
+        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+        "text": "thank you to the machines, and the structure of reality, for letting us understand a little more.",
+        "url": "https://x.com/sama/status/2107691262795239805",
+        "createdAt": "2026-10-07T04:35:30.000Z",
+        "engagement": 1510,
+        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Also! Good evening!!",
+        "url": "https://x.com/thsottiaux/status/2107676653895967106",
+        "createdAt": "2026-10-07T03:37:27.000Z",
+        "engagement": 1315,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude Code @anthropicai",
+        "text": "Prompt https://t.co/eUUYfOlppH",
+        "url": "https://x.com/bcherny/status/2107532985897771152",
+        "createdAt": "2026-10-06T18:06:34.000Z",
+        "engagement": 1152
       }
     ],
-    "podcast": null
+    "podcast": {
+      "name": "Unsupervised Learning",
+      "title": "Ep 94: Applied Compute CEO on the Limits of RL, the New AI Hyperscaler &amp; Why Post-Training Wins Inference",
+      "url": "https://www.youtube.com/@RedpointAI",
+      "publishedAt": "2026-10-06T12:50:23.000Z"
+    }
   },
   "builderpulse": {
     "ok": true,
@@ -224,6 +260,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-10-07",
+      "aihotCount": 13,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-10-06",
       "aihotCount": 9,
@@ -257,12 +299,6 @@
     {
       "date": "2026-10-01",
       "aihotCount": 20,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-09-30",
-      "aihotCount": 24,
       "buildersCount": 12,
       "bpBuild": ""
     }
