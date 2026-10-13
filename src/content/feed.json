@@ -1,32 +1,88 @@
 {
-  "generatedAt": "2026-10-12T06:59:28.325Z",
-  "date": "2026-10-12",
+  "generatedAt": "2026-10-13T07:23:29.116Z",
+  "date": "2026-10-13",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "url": "https://x.com/Khazix0918/status/2109501787736813663",
-        "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
-        "publishedAt": "2026-10-12T04:29:53.000Z",
-        "category": "opinion"
+        "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+        "source": "X：Demis Hassabis (@demishassabis)",
+        "url": "https://x.com/demishassabis/status/2109813775377563908",
+        "summary": "Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。",
+        "publishedAt": "2026-10-13T01:09:37.000Z",
+        "category": "industry"
       },
       {
-        "title": "AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star",
-        "source": "公众号：数字生命卡兹克",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686995&idx=1&sn=cc40a3488a2ea7652d2ab589056f40b4",
-        "summary": "开发者Brandon Thomas因不满Adobe订阅违约金，用Claude Opus 5.5以Rust逆向重写了Photoshop等7款Adobe软件并开源，其中PS项目不到10天获4.6万Star。",
-        "publishedAt": "2026-10-12T00:26:00.000Z",
-        "category": "opinion"
+        "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
+        "source": "Ars Technica：AI（RSS）",
+        "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+        "summary": "据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。",
+        "publishedAt": "2026-10-12T20:59:50.000Z",
+        "category": "industry"
       },
       {
-        "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-        "source": "X：Tibo (@thsottiaux)",
-        "url": "https://x.com/thsottiaux/status/2109430343346581527",
-        "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
-        "publishedAt": "2026-10-11T23:45:59.000Z",
+        "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+        "source": "Codex：GitHub Releases（RSS）",
+        "url": "https://github.com/openai/codex/issues/48195",
+        "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
+        "publishedAt": "2026-10-12T19:25:54.721Z",
+        "category": "industry"
+      },
+      {
+        "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
+        "source": "Ars Technica：AI（RSS）",
+        "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+        "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
+        "publishedAt": "2026-10-12T18:21:36.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Meta Muse Wonder 系列上线 Agent Arena，分数即将公布",
+        "source": "X：Arena (@arena)",
+        "url": "https://x.com/arena/status/2109706854700044523",
+        "summary": "Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。",
+        "publishedAt": "2026-10-12T18:04:45.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "AWS 提出 priming 方法，可将预训练 Transformer 改造成混合状态空间架构",
+        "source": "Amazon Science（RSS）",
+        "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+        "summary": "AWS 团队发布论文《Priming: Hybrid state space models from pre-trained Transformers》，提出 priming 方法，复用预训练 Transformer 权重构建混合架构，将预训练成本降低逾 99%，全流程消耗不足源模型 0.5% 的 token 预算。",
+        "publishedAt": "2026-10-12T17:36:18.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "url": "https://x.com/satyanadella/status/2109631106404487523",
+        "summary": "微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。",
+        "publishedAt": "2026-10-12T13:03:45.000Z",
         "category": "ai-products"
+      },
+      {
+        "title": "QGIS 通过 QEP428 禁止 AI 辅助贡献",
+        "source": "Hacker News：AI 热帖",
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "summary": "QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。",
+        "publishedAt": "2026-10-12T11:22:24.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
+        "summary": "Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 353 个开放 Erdős 问题中的 9 个，其中 2 个悬置 56 年。",
+        "publishedAt": "2026-10-12T09:35:54.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
+        "source": "X：Meshy (@MeshyAI)",
+        "url": "https://x.com/MeshyAI/status/2109550836934471864",
+        "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4",
+        "publishedAt": "2026-10-12T07:44:47.000Z",
+        "category": "tip"
       }
     ]
   },
@@ -37,126 +93,126 @@
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Put the reset in the bag. All propagated. https://t.co/HGxaD3Zdcj",
-        "url": "https://x.com/thsottiaux/status/2109132167112782291",
-        "createdAt": "2026-10-11T04:01:09.000Z",
-        "engagement": 4393,
+        "text": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy",
+        "url": "https://x.com/thsottiaux/status/2109873287853707513",
+        "createdAt": "2026-10-13T05:06:06.000Z",
+        "engagement": 2829,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "The day we reach perfection it will be resets from there onwards https://t.co/I6A9WHOjXT",
-        "url": "https://x.com/thsottiaux/status/2109090080497508356",
-        "createdAt": "2026-10-11T01:13:54.000Z",
-        "engagement": 4184,
+        "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
+        "url": "https://x.com/thsottiaux/status/2109892247580000595",
+        "createdAt": "2026-10-13T06:21:26.000Z",
+        "engagement": 2266,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "6.1 Sol ultrafast &gt;&gt;&gt; 6 Astra ~ same cost but whole different game with 250 tpm",
+        "url": "https://x.com/steipete/status/2109730774593487009",
+        "createdAt": "2026-10-12T19:39:48.000Z",
+        "engagement": 2195,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "said that last year, saying it again. vibes coding is a slur. https://t.co/hWBfC1e2NA",
+        "url": "https://x.com/steipete/status/2109724776168300631",
+        "createdAt": "2026-10-12T19:15:58.000Z",
+        "engagement": 1916,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
+        "text": "evergreen https://t.co/vypABFN6PU",
+        "url": "https://x.com/trq212/status/2109717295631372628",
+        "createdAt": "2026-10-12T18:46:14.000Z",
+        "engagement": 1909,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Mashed @poteto on the house.",
+        "url": "https://x.com/thsottiaux/status/2109873307722121591",
+        "createdAt": "2026-10-13T05:06:10.000Z",
+        "engagement": 891,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "All plausible science fiction will be realized within our lifetime. If you’re reading this, you’re one of the luckiest humans to have ever been born (if we play our cards right.)",
-        "url": "https://x.com/rauchg/status/2109038632518782989",
-        "createdAt": "2026-10-10T21:49:28.000Z",
-        "engagement": 2144,
+        "text": "Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures. The whole point of a CLI is to deliver intelligence with zero friction, and be unix-like. 💾 Try https://t.co/OL0LzGtvAw. It's 6mb, starts in milliseconds, model-agnostic. It's tast",
+        "url": "https://x.com/rauchg/status/2109734766107099312",
+        "createdAt": "2026-10-12T19:55:39.000Z",
+        "engagement": 566,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Pro users, would you rather have",
-        "url": "https://x.com/thsottiaux/status/2109152716954222849",
-        "createdAt": "2026-10-11T05:22:48.000Z",
-        "engagement": 1337,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "What a crazy time in AI with Meta now jumping fully into the frontier. Now that there are multiple players pushing the state of the art, this is going to lead to a further acceleration of advances, as well as the lowering cost of tokens for even the highest levels of capability. ",
+        "url": "https://x.com/levie/status/2109711062757216738",
+        "createdAt": "2026-10-12T18:21:28.000Z",
+        "engagement": 519,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+      },
+      {
+        "handle": "joshwoodward",
+        "name": "Josh Woodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "text": "I’ve learned from Lenny for years, but we had never met. What you see is what you get with him: he’s kind, prepared, and deeply curious. Great interviewers do their homework, and you can tell he’s in that league: he took our conversation to places that I’ve never talked about in ",
+        "url": "https://x.com/joshwoodward/status/2109646793713786970",
+        "createdAt": "2026-10-12T14:06:05.000Z",
+        "engagement": 357
+      },
+      {
+        "handle": "ryolu_",
+        "name": "Ryo Lu",
+        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
+        "text": "new on ryOS: Dictionary + Fitness learn new words, pronunciation, 漢字. plan workouts, track body and food with AI. made with @bot @cursor_ai https://t.co/BXEp6UzL3H",
+        "url": "https://x.com/ryolu_/status/2109568690358555064",
+        "createdAt": "2026-10-12T08:55:44.000Z",
+        "engagement": 347
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "If you want to know where all the tokens will get consumed in the future, here it is. Agent swarms will have massive implications in a number of enterprise domains like software development, cyber, life sciences research, AI research, finance, and more. The ability to parallelize",
-        "url": "https://x.com/levie/status/2109079686286565378",
-        "createdAt": "2026-10-11T00:32:36.000Z",
-        "engagement": 333,
+        "text": "Ok this is quite cool research and ultimately must be the eventual architecture of agents. In the limit, AI will obviously be better at determining its own harness once it sees the task at hand, than us being able to do this in advance: https://t.co/jl6ZdeUFY1 https://t.co/7UOyjC",
+        "url": "https://x.com/levie/status/2109788979952558255",
+        "createdAt": "2026-10-12T23:31:05.000Z",
+        "engagement": 311,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "yup if your company slack is not a constant source of wonder and inspiration right now something is wrong https://t.co/5q8OoN1nJx",
-        "url": "https://x.com/danshipper/status/2108941466785439796",
-        "createdAt": "2026-10-10T15:23:22.000Z",
-        "engagement": 330,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "not as clear-cut, but also yes https://t.co/MYVj0Jb29v",
-        "url": "https://x.com/steipete/status/2109022454224150707",
-        "createdAt": "2026-10-10T20:45:11.000Z",
-        "engagement": 285,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "Good post to start thinking through the long term safety approaches to managing intelligence in an enterprise. As agents begin to do vastly more task execution in the organization than humans, our need to secure, govern, control, and audit that work will become paramount. You’ll ",
-        "url": "https://x.com/levie/status/2108952226714865966",
-        "createdAt": "2026-10-10T16:06:07.000Z",
-        "engagement": 238,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "JavaScript is not a serious language 🙃 https://t.co/7yeq9rr025",
-        "url": "https://x.com/steipete/status/2109008513855087082",
-        "createdAt": "2026-10-10T19:49:47.000Z",
-        "engagement": 193,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "thenanyu",
-        "name": "Nan Yu",
-        "bio": "product, codex @openai. prev head of product @linear",
-        "text": "Yeah, I’ve been feeling this too. Agents make engineers extremely powerful, but PMs are generally still bottlenecked on their bandwidth they have to talk to customers. So the ideal ratio is 1:1 https://t.co/fIWDJeHwtT",
-        "url": "https://x.com/thenanyu/status/2108976262698115550",
-        "createdAt": "2026-10-10T17:41:38.000Z",
-        "engagement": 179
-      },
-      {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "incredibly interesting research exploration 👇 https://t.co/IV1qOv6zPx",
-        "url": "https://x.com/danshipper/status/2108893466998571442",
-        "createdAt": "2026-10-10T12:12:38.000Z",
-        "engagement": 120,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
-      },
-      {
-        "handle": "zarazhangrui",
-        "name": "Zara Zhang",
-        "bio": "Builder. Make something people want, then make people want it. Harvard’17. GitHub: https:/",
-        "text": "Code is the new medium for creative self-expression https://t.co/jYeBPExlMV",
-        "url": "https://x.com/zarazhangrui/status/2109087739287384387",
-        "createdAt": "2026-10-11T01:04:36.000Z",
-        "engagement": 78
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Muse Wonder on Vercel AI Gateway Try with 𝚏𝚡 --𝚖𝚘𝚍𝚎𝚕 𝚖𝚎𝚝𝚊/𝚖𝚞𝚜𝚎-𝚠𝚘𝚗𝚍𝚎𝚛-𝟷.𝟶 https://t.co/OI8lTDKnyZ https://t.co/Ckx651xYUJ",
+        "url": "https://x.com/rauchg/status/2109719267344261375",
+        "createdAt": "2026-10-12T18:54:04.000Z",
+        "engagement": 184,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "AI Models Are Now Hiding Their Cheating | Eric Ho (Goodfire)",
-      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
-      "publishedAt": "2026-10-01T11:30:00.000Z"
+      "name": "AI & I by Every",
+      "title": "How Sam Altman Uses Dots to Take Back His Time",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-09-30T20:05:56.000Z"
     }
   },
   "builderpulse": {
@@ -181,6 +237,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-10-13",
+      "aihotCount": 10,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-10-12",
       "aihotCount": 3,
@@ -214,12 +276,6 @@
     {
       "date": "2026-10-07",
       "aihotCount": 13,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-10-06",
-      "aihotCount": 9,
       "buildersCount": 12,
       "bpBuild": ""
     }
