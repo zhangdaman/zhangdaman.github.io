@@ -1,168 +1,120 @@
 {
-  "generatedAt": "2026-10-14T05:51:14.196Z",
-  "date": "2026-10-14",
+  "generatedAt": "2026-10-15T05:35:15.296Z",
+  "date": "2026-10-15",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-        "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
-        "publishedAt": "2026-10-14T02:58:37.000Z",
-        "category": "industry"
+        "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+        "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
+        "publishedAt": "2026-10-15T04:53:56.000Z",
+        "category": "ai-products"
       },
       {
-        "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+        "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
         "source": "X：卡兹克 (@Khazix0918)",
-        "url": "https://x.com/Khazix0918/status/2110174495420064055",
-        "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
-        "publishedAt": "2026-10-14T01:02:59.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-        "source": "公众号：数字生命卡兹克",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-        "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。",
-        "publishedAt": "2026-10-13T22:56:51.000Z",
-        "category": "opinion"
-      },
-      {
-        "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
-        "source": "Johann Rehberger / Embrace The Red（RSS）",
-        "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
-        "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
-        "publishedAt": "2026-10-13T22:00:40.000Z",
-        "category": "paper"
-      },
-      {
-        "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
-        "source": "X：Arena (@arena)",
-        "url": "https://x.com/arena/status/2110120205464846828",
-        "summary": "Arena 宣布 Meta 的 Muse Wonder (Max) 进入 Code Arena: WebDev 榜单第15名（1651分），与 Kimi K3 (Max) 的 1655 分相差 4 分。",
-        "publishedAt": "2026-10-13T21:27:15.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Character.ai 破产文件显示 AI 商业模式难以为继",
-        "source": "404 Media（RSS）",
-        "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-        "summary": "Character.ai 进入破产程序，法院文件显示其商业模式难以支撑开支。公司 2024 年每月 AI 算力支出 1380 万美元、2025 年为 1000 万美元，订阅收入峰值仅每月 280 万美元，含广告的全部收入峰值 530 万美元；2026 年 1 至 8 月算力支出 5610 万美元，8 月时每月仍亏损约 800-900 万美元。",
-        "publishedAt": "2026-10-13T20:06:53.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
-        "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-        "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-        "summary": "OpenAI 宣布在办公室内发现一个隐蔽的录音装置，利用自家模型分析该设备及其来源，确认是一名员工几天前安放。OpenAI 已将此事移交 FBI，FBI 已迅速逮捕相关人员，调查仍在进行中。OpenAI 表示目前没有迹象显示该员工不当访问或外泄模型权重、源代码或客户数据，该员工已被解雇，并将此案视为 AI 协助应对复杂安全威胁的实例。",
-        "publishedAt": "2026-10-13T19:48:42.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR",
-        "source": "Comfy Blog",
-        "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
-        "summary": "NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。",
-        "publishedAt": "2026-10-13T19:41:39.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Gemini 4 Argon 正式 GA，智能指数追平 GPT-6 Astra，Cost per Task 仅为 60%",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "url": "https://x.com/ArtificialAnlys/status/2110068185793970576",
-        "summary": "Gemini 4 Argon 正式进入 GA，在 Artificial Analysis Intelligence Index 上与 GPT-6 Astra 排名持平，Cost per Task 为后者的 60%。",
-        "publishedAt": "2026-10-13T18:00:33.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "url": "https://x.com/OpenRouter/status/2110044453977403412",
-        "summary": "Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon",
-        "publishedAt": "2026-10-13T16:26:15.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
-        "source": "Google Blog：AI（RSS）",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-        "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
-        "publishedAt": "2026-10-13T16:00:00.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
-        "source": "X：ElevenLabs (@elevenlabs)",
-        "url": "https://x.com/ElevenLabs/status/2110037384192774210",
-        "summary": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。",
-        "publishedAt": "2026-10-13T15:58:09.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
-        "source": "Apple：Newsroom（RSS）",
-        "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-        "summary": "Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。",
-        "publishedAt": "2026-10-13T12:59:16.617Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
-        "source": "LangChain：Blog（RSS）",
-        "url": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith",
-        "summary": "LangChain 在 LangSmith 中推出 AI Search 公测，允许用自然语言描述行为来查询 agent 轨迹，例如 PII 泄露或用户受挫等无法靠标签和全文检索回答的问题。",
-        "publishedAt": "2026-10-13T12:59:12.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
-        "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-        "summary": "Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼、德州调查等困境，曾尝试 AI 视频生成、社交信息流和微短剧等转型未果。",
-        "publishedAt": "2026-10-13T12:23:42.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "NVIDIA 官宣 RTX Spark 软件生态就绪，10 月 16 日笔记本上市",
-        "source": "NVIDIA Blog（RSS）",
-        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-        "summary": "NVIDIA 介绍 RTX Spark 平台生态就绪情况，RTX Spark 笔记本将于 10 月 16 日（周五）上市，搭载最高 128GB 统一内存和 1 petaflop AI 算力。",
-        "publishedAt": "2026-10-13T12:00:49.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-        "source": "LangChain：Blog（RSS）",
-        "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-        "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
-        "publishedAt": "2026-10-13T11:56:53.000Z",
+        "url": "https://x.com/Khazix0918/status/2110587546271191166",
+        "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+        "publishedAt": "2026-10-15T04:24:18.000Z",
         "category": "tip"
       },
       {
-        "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a",
-        "summary": "面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。",
-        "publishedAt": "2026-10-13T10:29:21.000Z",
+        "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+        "source": "IT之家·人工智能",
+        "url": "https://www.ithome.com/1/013/160.htm",
+        "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
+        "publishedAt": "2026-10-14T23:39:08.393Z",
+        "category": "industry"
+      },
+      {
+        "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+        "source": "IT之家·人工智能",
+        "url": "https://www.ithome.com/1/013/154.htm",
+        "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
+        "publishedAt": "2026-10-14T23:13:18.290Z",
+        "category": "industry"
+      },
+      {
+        "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+        "source": "X：Gemini (@GeminiApp)",
+        "url": "https://x.com/GeminiApp/status/2110491358498865638",
+        "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
+        "publishedAt": "2026-10-14T22:02:05.000Z",
         "category": "ai-models"
       },
       {
-        "title": "Pydantic AI 创始人 Samuel Colvin：图库是个错误，代码本身就是图",
-        "source": "Pydantic AI 官方文章",
-        "url": "https://pydantic.dev/articles/the-code-is-the-graph",
-        "summary": "Pydantic AI 创始人 Samuel Colvin 发文认为图库是个错误，代码本身就是图，通过类型提示获得类型安全、通过 async 获得并行执行。他提出图 API 存在类似 CAP 定理的取舍，类型安全、并行与快照三者不可兼得，并以此解释为何在 pydantic-graph V2 移除持久化、将持久执行交给 Temporal。",
-        "publishedAt": "2026-10-13T09:00:00.000Z",
-        "category": "opinion"
+        "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+        "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+        "url": "https://x.com/lydiahallie/status/2110484841926152622",
+        "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
+        "publishedAt": "2026-10-14T21:36:11.000Z",
+        "category": "tip"
       },
       {
-        "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
-        "source": "公众号：千问APP（阿里）",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb",
-        "summary": "千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。",
-        "publishedAt": "2026-10-13T08:06:57.000Z",
+        "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "url": "https://x.com/elonmusk/status/2110483960312799675",
+        "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每",
+        "publishedAt": "2026-10-14T21:32:41.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
+        "source": "X：Arena (@arena)",
+        "url": "https://x.com/arena/status/2110465487914295770",
+        "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
+        "publishedAt": "2026-10-14T20:19:17.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+        "source": "The Verge：AI（RSS）",
+        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+        "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+        "publishedAt": "2026-10-14T18:47:54.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
+        "source": "LangChain：Blog（RSS）",
+        "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+        "summary": "LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。",
+        "publishedAt": "2026-10-14T17:00:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
+        "source": "MIT News（RSS）",
+        "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+        "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
+        "publishedAt": "2026-10-14T15:00:00.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
+        "source": "Lovable Blog",
+        "url": "https://lovable.dev/blog/introducing-growth-tools",
+        "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
+        "publishedAt": "2026-10-14T12:50:00.000Z",
         "category": "ai-products"
+      },
+      {
+        "title": "Databricks 讲解如何在 AI Runtime 上将 Qwen 3.8 27B 微调时间缩短 6 倍",
+        "source": "Databricks：Blog（RSS）",
+        "url": "https://www.databricks.com/blog/reducing-qwen-training-time-6x-ai-runtime",
+        "summary": "Databricks 演示通过系统性性能优化，将 Qwen 3.8 27B 在 AI Runtime 上的微调时间从 7 小时 44 分钟降至 1 小时 17 分钟，提速 6 倍。",
+        "publishedAt": "2026-10-14T11:30:00.000Z",
+        "category": "tip"
+      },
+      {
+        "title": "OpenAI 团队分享如何用 GPT-6 系列模型维护大型代码库",
+        "source": "OpenAI Developers：Blog（网页）",
+        "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
+        "summary": "OpenAI Core Experimentation 团队发文介绍用 GPT-6 Astra 和 GPT-6.1 Sol 配合 Codex 做代码维护，包括清理无用代码和陈旧实验、修复 flaky 测试等。",
+        "publishedAt": "2026-10-14T07:00:00.000Z",
+        "category": "tip"
       }
     ]
   },
@@ -173,126 +125,125 @@
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "What would you like with your side of reset? It's done. https://t.co/gpNaB6otgy",
-        "url": "https://x.com/thsottiaux/status/2109873287853707513",
-        "createdAt": "2026-10-13T05:06:06.000Z",
-        "engagement": 2829,
+        "text": "Day 9/ We've rolled out optimizations to how we store state on disk for the chatgpt &amp; codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users running out of disk space.",
+        "url": "https://x.com/thsottiaux/status/2110151780478927344",
+        "createdAt": "2026-10-13T23:32:43.000Z",
+        "engagement": 10742,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
-        "url": "https://x.com/thsottiaux/status/2109892247580000595",
-        "createdAt": "2026-10-13T06:21:26.000Z",
-        "engagement": 2266,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "6.1 Sol ultrafast &gt;&gt;&gt; 6 Astra ~ same cost but whole different game with 250 tpm",
-        "url": "https://x.com/steipete/status/2109730774593487009",
-        "createdAt": "2026-10-12T19:39:48.000Z",
-        "engagement": 2195,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "said that last year, saying it again. vibes coding is a slur. https://t.co/hWBfC1e2NA",
-        "url": "https://x.com/steipete/status/2109724776168300631",
-        "createdAt": "2026-10-12T19:15:58.000Z",
-        "engagement": 1916,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Congrats Gemini team. Never bet against Google, the company that brought us Transformers and has overwhelming data, engineering talent, and compute. Everyone has, rightfully, pivoted back to coding. Coding agents are the killer app of AI. We're firmly at an elysium for developers",
+        "url": "https://x.com/rauchg/status/2110044152482365747",
+        "createdAt": "2026-10-13T16:25:03.000Z",
+        "engagement": 1891,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
         "handle": "trq212",
         "name": "Thariq",
         "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "evergreen https://t.co/vypABFN6PU",
-        "url": "https://x.com/trq212/status/2109717295631372628",
-        "createdAt": "2026-10-12T18:46:14.000Z",
-        "engagement": 1909,
+        "text": "excited to be back home https://t.co/58k27G1wa3",
+        "url": "https://x.com/trq212/status/2110035114432532654",
+        "createdAt": "2026-10-13T15:49:08.000Z",
+        "engagement": 860,
         "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Mashed @poteto on the house.",
-        "url": "https://x.com/thsottiaux/status/2109873307722121591",
-        "createdAt": "2026-10-13T05:06:10.000Z",
-        "engagement": 891,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures. The whole point of a CLI is to deliver intelligence with zero friction, and be unix-like. 💾 Try https://t.co/OL0LzGtvAw. It's 6mb, starts in milliseconds, model-agnostic. It's tast",
-        "url": "https://x.com/rauchg/status/2109734766107099312",
-        "createdAt": "2026-10-12T19:55:39.000Z",
-        "engagement": 566,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "What a crazy time in AI with Meta now jumping fully into the frontier. Now that there are multiple players pushing the state of the art, this is going to lead to a further acceleration of advances, as well as the lowering cost of tokens for even the highest levels of capability. ",
-        "url": "https://x.com/levie/status/2109711062757216738",
-        "createdAt": "2026-10-12T18:21:28.000Z",
-        "engagement": 519,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
         "handle": "joshwoodward",
         "name": "Josh Woodward",
         "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "I’ve learned from Lenny for years, but we had never met. What you see is what you get with him: he’s kind, prepared, and deeply curious. Great interviewers do their homework, and you can tell he’s in that league: he took our conversation to places that I’ve never talked about in ",
-        "url": "https://x.com/joshwoodward/status/2109646793713786970",
-        "createdAt": "2026-10-12T14:06:05.000Z",
-        "engagement": 357
+        "text": "Gemini 4 Argon: At 96 millimeters wide, the hardest part of manufacturing this custom furniture leg was deciding how many stacked spheres to give it. https://t.co/SMgsGxePc5",
+        "url": "https://x.com/joshwoodward/status/2110089824573272547",
+        "createdAt": "2026-10-13T19:26:32.000Z",
+        "engagement": 557
       },
       {
-        "handle": "ryolu_",
-        "name": "Ryo Lu",
-        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
-        "text": "new on ryOS: Dictionary + Fitness learn new words, pronunciation, 漢字. plan workouts, track body and food with AI. made with @bot @cursor_ai https://t.co/BXEp6UzL3H",
-        "url": "https://x.com/ryolu_/status/2109568690358555064",
-        "createdAt": "2026-10-12T08:55:44.000Z",
-        "engagement": 347
+        "handle": "joshwoodward",
+        "name": "Josh Woodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "text": "The latest Gemini model made this https://t.co/SuYGK7UTsb",
+        "url": "https://x.com/joshwoodward/status/2110055636109312264",
+        "createdAt": "2026-10-13T17:10:41.000Z",
+        "engagement": 430
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "Ok this is quite cool research and ultimately must be the eventual architecture of agents. In the limit, AI will obviously be better at determining its own harness once it sees the task at hand, than us being able to do this in advance: https://t.co/jl6ZdeUFY1 https://t.co/7UOyjC",
-        "url": "https://x.com/levie/status/2109788979952558255",
-        "createdAt": "2026-10-12T23:31:05.000Z",
-        "engagement": 311,
+        "text": "At Box, we've been testing Gemini 4 Argon on our Box AI Complex Work eval for the past week. It's a huge upgrade over Gemini 3.1 Pro, jumping by 14 percentage points across all our tests, and firmly at the frontier. In our evaluation, we give the Box Agent (using Gemini 4 Argon) ",
+        "url": "https://x.com/levie/status/2110046686198550539",
+        "createdAt": "2026-10-13T16:35:07.000Z",
+        "engagement": 394,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Muse Wonder on Vercel AI Gateway Try with 𝚏𝚡 --𝚖𝚘𝚍𝚎𝚕 𝚖𝚎𝚝𝚊/𝚖𝚞𝚜𝚎-𝚠𝚘𝚗𝚍𝚎𝚛-𝟷.𝟶 https://t.co/OI8lTDKnyZ https://t.co/Ckx651xYUJ",
-        "url": "https://x.com/rauchg/status/2109719267344261375",
-        "createdAt": "2026-10-12T18:54:04.000Z",
-        "engagement": 184,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Giving your harnesses access to a real browser with your real credentials is a real unlock - highly recommend @AsideAI https://t.co/ZFAFYE7OHy",
+        "url": "https://x.com/garrytan/status/2110053836945756234",
+        "createdAt": "2026-10-13T17:03:32.000Z",
+        "engagement": 342,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "gemini 4 argon really struggles on our senior engineer benchmark task comes in at 21% far below Sol 6 and even Muse: https://t.co/KrkcNrQ1DG https://t.co/Aj9lskuHFT",
+        "url": "https://x.com/danshipper/status/2110056016872427944",
+        "createdAt": "2026-10-13T17:12:12.000Z",
+        "engagement": 244,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+      },
+      {
+        "handle": "joshwoodward",
+        "name": "Josh Woodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "text": "Gemini 4 Argon: How a 24-word prompt built a custom synthesizer that turns galloping horses, rippling water, and your own hands into music. https://t.co/vjsPDalcPx",
+        "url": "https://x.com/joshwoodward/status/2110179883045560674",
+        "createdAt": "2026-10-14T01:24:24.000Z",
+        "engagement": 226
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "MXC.exe https://t.co/6fqwNa2y2D",
+        "url": "https://x.com/amasad/status/2110049740285165779",
+        "createdAt": "2026-10-13T16:47:15.000Z",
+        "engagement": 201,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "brb, adding puppies to all my sites https://t.co/y53CdywLGl",
+        "url": "https://x.com/amasad/status/2110112408463376730",
+        "createdAt": "2026-10-13T20:56:16.000Z",
+        "engagement": 174,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Connie Chan wants China to win the AI race She also has done so much to make San Francisco unsafe for everyone I asked her to resign earlier this year. Instead the legacy Dem machine thinks she is the best choice 🤮 https://t.co/y8bgnf6Yl3 https://t.co/ymn780CuVT",
+        "url": "https://x.com/garrytan/status/2110115691684925777",
+        "createdAt": "2026-10-13T21:09:19.000Z",
+        "engagement": 167,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       }
     ],
     "podcast": {
-      "name": "AI & I by Every",
-      "title": "How Sam Altman Uses Dots to Take Back His Time",
-      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
-      "publishedAt": "2026-09-30T20:05:56.000Z"
+      "name": "Training Data",
+      "title": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-10-13T09:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -317,6 +268,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-10-15",
+      "aihotCount": 14,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-10-14",
       "aihotCount": 20,
@@ -350,12 +307,6 @@
     {
       "date": "2026-10-09",
       "aihotCount": 15,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-10-08",
-      "aihotCount": 17,
       "buildersCount": 12,
       "bpBuild": ""
     }
