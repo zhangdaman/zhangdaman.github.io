@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-10-18T05:27:29.162Z",
-  "date": "2026-10-18",
+  "generatedAt": "2026-10-19T05:45:30.790Z",
+  "date": "2026-10-19",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "url": "https://x.com/Khazix0918/status/2111639562720329976",
-        "summary": "作者分享受邀参加英伟达 RTX Spark 全球开售活动后，深度使用一周华硕 ProArt 创16（128G 统一内存+1T，京东售价 37999 元）的体验，开售时 128G 版本在京东几分钟内被抢空。",
-        "publishedAt": "2026-10-18T02:04:38.000Z",
-        "category": "tip"
+        "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+        "source": "X：Arena (@arena)",
+        "url": "https://x.com/arena/status/2111894091168682086",
+        "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
+        "publishedAt": "2026-10-18T18:56:03.000Z",
+        "category": "ai-models"
       },
       {
-        "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
-        "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-        "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
-        "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。",
-        "publishedAt": "2026-10-17T10:29:00.000Z",
-        "category": "ai-products"
+        "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+        "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+        "publishedAt": "2026-10-18T13:22:26.000Z",
+        "category": "industry"
       },
       {
-        "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
-        "source": "公众号：数字生命卡兹克",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
-        "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
-        "publishedAt": "2026-10-17T10:19:04.000Z",
-        "category": "tip"
+        "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+        "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+        "publishedAt": "2026-10-18T10:52:39.000Z",
+        "category": "industry"
       }
     ]
   },
@@ -34,126 +34,130 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-        "text": "Wow the new roadster looks quite amazing, good job @elonmusk",
-        "url": "https://x.com/sama/status/2111131677351432197",
-        "createdAt": "2026-10-16T16:26:29.000Z",
-        "engagement": 57330,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-        "text": "The back of the Navier-Stokes milestone shirt is the last line of the chain-of-thought from the solution: https://t.co/W7mK8WmCz1",
-        "url": "https://x.com/sama/status/2111139227761266699",
-        "createdAt": "2026-10-16T16:56:29.000Z",
-        "engagement": 9433,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude @anthropicai",
-        "text": "I could not imagine being productive without Claude Code Review. It runs on all of my PRs, and catches almost every bug before it goes it. This is a piece of the secret sauce that lets the team and I move so quickly while raising the quality bar https://t.co/7HdyTFsM0I",
-        "url": "https://x.com/bcherny/status/2111158313463525518",
-        "createdAt": "2026-10-16T18:12:20.000Z",
-        "engagement": 3504
-      },
-      {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude @anthropicai",
-        "text": "Don't sleep on Claude Slides. This is how I make slide decks now -- no more googling \"iphone frame svg\" like the old days Try it: https://t.co/cAWdwarzgp https://t.co/POdqFL9oIP",
-        "url": "https://x.com/bcherny/status/2111158659971699136",
-        "createdAt": "2026-10-16T18:13:42.000Z",
-        "engagement": 3125
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-        "text": "Very happy to see this from Nick! https://t.co/BBSTgPHuy8",
-        "url": "https://x.com/sama/status/2111130577789493706",
-        "createdAt": "2026-10-16T16:22:07.000Z",
-        "engagement": 3035,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Done",
+        "url": "https://x.com/thsottiaux/status/2111566005684289735",
+        "createdAt": "2026-10-17T21:12:21.000Z",
+        "engagement": 6308,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "What is ChatGPT Space, that is the question. Endearingly awkward at times because it's the actual team working on it. What would you like to see next? https://t.co/CYjAOAlCpR",
-        "url": "https://x.com/thsottiaux/status/2111249534072529256",
-        "createdAt": "2026-10-17T00:14:48.000Z",
-        "engagement": 1817,
+        "text": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're still so early.",
+        "url": "https://x.com/thsottiaux/status/2111495392559067199",
+        "createdAt": "2026-10-17T16:31:45.000Z",
+        "engagement": 4428,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "A cardiology fellow built a 3D tool to help trainees learn to read coronary angiograms. https://t.co/IG6JVPawD7",
-        "url": "https://x.com/claudeai/status/2111177843413807120",
-        "createdAt": "2026-10-16T19:29:56.000Z",
-        "engagement": 1573
-      },
-      {
-        "handle": "AmandaAskell",
-        "name": "Amanda Askell",
-        "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI. Personal account. All opini",
-        "text": "the rocket car is cool and i want one",
-        "url": "https://x.com/AmandaAskell/status/2111167134533611801",
-        "createdAt": "2026-10-16T18:47:23.000Z",
-        "engagement": 996
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "And update your app to enjoy this gem https://t.co/oMWhw3ETZ6",
-        "url": "https://x.com/thsottiaux/status/2111245052513259606",
-        "createdAt": "2026-10-16T23:57:00.000Z",
-        "engagement": 697,
+        "text": "Landing sometime today by EOD PST",
+        "url": "https://x.com/thsottiaux/status/2111492738025959922",
+        "createdAt": "2026-10-17T16:21:13.000Z",
+        "engagement": 2652,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. Exactly the opposite is happening where essentially most things ar",
+        "url": "https://x.com/levie/status/2111525362446520466",
+        "createdAt": "2026-10-17T18:30:51.000Z",
+        "engagement": 898,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
         "handle": "amasad",
         "name": "Amjad Masad",
         "bio": "ceo @replit. civilizationist",
-        "text": "Fascinating to see Mathematicians go through all the stages of grief — Denial, Anger, Bargaining, Depression, and Acceptance — in such a compressed window of time. We're at the tail end of depression and entering acceptance. https://t.co/XgPq2mh3JS",
-        "url": "https://x.com/amasad/status/2111206044416500159",
-        "createdAt": "2026-10-16T21:21:59.000Z",
-        "engagement": 691,
+        "text": "To clarify: Replit remains model agnostic. Our users can choose Anthropic models as well as many other supported models. What I meant at TC Disrupt is that OpenAI is now our preferred partner powering Agent based on performance, cost, and strength of our partnership. We believe i",
+        "url": "https://x.com/amasad/status/2111494912562888939",
+        "createdAt": "2026-10-17T16:29:51.000Z",
+        "engagement": 434,
         "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Haiku 5.5 wrote twenty haiku, then drew every frame in JavaScript. https://t.co/LFAPUhmpEE",
-        "url": "https://x.com/claudeai/status/2111177845846495646",
-        "createdAt": "2026-10-16T19:29:56.000Z",
-        "engagement": 654
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Rebuilt the Roadster demo in a playable, highly accurate simulation that retains a lot of the IRL details: https://t.co/6ki8kSJwdP https://t.co/cxd6T88CTc",
-        "url": "https://x.com/rauchg/status/2111313462987231519",
-        "createdAt": "2026-10-17T04:28:50.000Z",
-        "engagement": 624,
+        "text": "“What matters is the end product, whether it's a game or an engine”. Well said! https://t.co/PC90IVIa2y",
+        "url": "https://x.com/rauchg/status/2111643672274165938",
+        "createdAt": "2026-10-18T02:20:58.000Z",
+        "engagement": 393,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "Have to give credit to @amorriscode and team - the Claude Code app is much faster now and arguably simpler to use than ChatGPT. The only things missing still are better browser/computer use, remote control for all threads, and live voice. https://t.co/kWULRv1A1t",
+        "url": "https://x.com/petergyang/status/2111496600522805624",
+        "createdAt": "2026-10-17T16:36:33.000Z",
+        "engagement": 230,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "nyc ily 👋 https://t.co/renM3InhHD",
+        "url": "https://x.com/nikunj/status/2111415330622820739",
+        "createdAt": "2026-10-17T11:13:37.000Z",
+        "engagement": 153,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "introducing the modern venture capital stack (2026): - pre-pre-seed - pre-seed - post-pre-seed - mid-seed - pre-post-seed - post-seed - post-post-seed(?) https://t.co/WSFA45JCLu",
+        "url": "https://x.com/nikunj/status/2111558586421920134",
+        "createdAt": "2026-10-17T20:42:52.000Z",
+        "engagement": 125,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "Tim is so right. Hope the devs building StarCraft 3 sees this tweet and embrace AI to ship before 2030 🙂 https://t.co/OAFYpl4KR2",
+        "url": "https://x.com/petergyang/status/2111663267995361287",
+        "createdAt": "2026-10-18T03:38:50.000Z",
+        "engagement": 72,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "thenanyu",
+        "name": "Nan Yu",
+        "bio": "product, codex @openai. prev head of product @linear",
+        "text": "I had the same conversation reminiscing at a team offsite the other day. “What did we pay attention to before AI?” “😅 Front end JavaScript frameworks” https://t.co/sKe9X8ylhL",
+        "url": "https://x.com/thenanyu/status/2111597172840083574",
+        "createdAt": "2026-10-17T23:16:12.000Z",
+        "engagement": 58
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "If you have way too many apps and agents (45!) connected to your Google account like me, here's a prompt to audit and remove them: \"Help me audit my Google app connections at https://t.co/5eMX9dNhLD 1. Review EVERY app across all connection categories. Ask me which ones I still u",
+        "url": "https://x.com/petergyang/status/2111508293818671449",
+        "createdAt": "2026-10-17T17:23:01.000Z",
+        "engagement": 51,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       }
     ],
     "podcast": {
-      "name": "No Priors",
-      "title": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-10-15T10:00:00.000Z"
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "What Happens When Billions of AI Agents Hit Your Database? (Andy Pavlo)",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-10-08T11:30:00.000Z"
     }
   },
   "builderpulse": {
@@ -178,6 +182,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-10-19",
+      "aihotCount": 3,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-10-18",
       "aihotCount": 3,
@@ -211,12 +221,6 @@
     {
       "date": "2026-10-13",
       "aihotCount": 10,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-10-12",
-      "aihotCount": 3,
       "buildersCount": 12,
       "bpBuild": ""
     }
