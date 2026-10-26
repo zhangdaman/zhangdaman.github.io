@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-25T05:43:22.904Z",
-  "date": "2026-10-25",
+  "generatedAt": "2026-10-26T05:46:58.655Z",
+  "date": "2026-10-26",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-        "source": "X：Ethan Mollick (@emollick)",
-        "url": "https://x.com/emollick/status/2114001653879672877",
-        "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。",
-        "publishedAt": "2026-10-24T14:30:45.000Z",
-        "category": "opinion"
+        "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "url": "https://x.com/Khazix0918/status/2114579883527655853",
+        "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
+        "publishedAt": "2026-10-26T04:48:25.000Z",
+        "category": "tip"
       },
       {
-        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-        "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-        "publishedAt": "2026-10-24T11:12:36.000Z",
-        "category": "paper"
+        "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
+        "source": "X：可灵 Kling AI (@Kling_ai)",
+        "url": "https://x.com/Kling_ai/status/2114574035468386746",
+        "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口",
+        "publishedAt": "2026-10-26T04:25:11.000Z",
+        "category": "ai-products"
       }
     ]
   },
@@ -26,131 +26,130 @@
     "ok": true,
     "items": [
       {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top. The idea that if we work hard and responsibl",
-        "url": "https://x.com/trq212/status/2113844051938054167",
-        "createdAt": "2026-10-24T04:04:29.000Z",
-        "engagement": 10872,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex &amp; work mid conversation does not invalidate cache anymore and a we've also updated the codex cli.",
-        "url": "https://x.com/thsottiaux/status/2113770573994299544",
-        "createdAt": "2026-10-23T23:12:31.000Z",
-        "engagement": 6308,
+        "text": "Day 20/ Rest and reset",
+        "url": "https://x.com/thsottiaux/status/2114200152701575656",
+        "createdAt": "2026-10-25T03:39:31.000Z",
+        "engagement": 6893,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
-        "url": "https://x.com/thsottiaux/status/2113838156193894447",
-        "createdAt": "2026-10-24T03:41:04.000Z",
-        "engagement": 4583,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication. Surprisingly the CLI has grown 2X in usage since de",
-        "url": "https://x.com/thsottiaux/status/2113770862860222611",
-        "createdAt": "2026-10-23T23:13:40.000Z",
-        "engagement": 1306,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "Claude Code @anthropicai. prev YC W20, @spc, @medialab",
-        "text": "also can someone at gmail make it so you can't scan for deactivated email addresses 🫩? I was hoping for a relaxing Friday night",
-        "url": "https://x.com/trq212/status/2113844560074019213",
-        "createdAt": "2026-10-24T04:06:31.000Z",
-        "engagement": 974,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "I’ll wait a bit before thinking about a new phone. https://t.co/6NBtpaSCko https://t.co/Dp5I3B1gim",
-        "url": "https://x.com/steipete/status/2113788999303385180",
-        "createdAt": "2026-10-24T00:25:44.000Z",
-        "engagement": 504,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "Agent swarms for cyber defense is about to be one of the biggest categories in AI. We are going to have agents reviewing our code and infra, testing every permutation of risk, processing gobs of data, and more. Security is one of the best use-cases for swarms because it’s an obvi",
-        "url": "https://x.com/levie/status/2113738768645808277",
-        "createdAt": "2026-10-23T21:06:08.000Z",
-        "engagement": 401,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
-      },
-      {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Thrilled to welcome Jeff and the Chroma team to Replit! They’re pioneers in AI. They were building RAG before it was even a thing! At Replit, they’ll help solve one of the hardest problems in AI: giving agents the context and memory they need to do real work. Massive step toward ",
-        "url": "https://x.com/amasad/status/2113736007111827606",
-        "createdAt": "2026-10-23T20:55:10.000Z",
-        "engagement": 349,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "swyx",
-        "name": "Swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
-        "text": "fake news btw i got him https://t.co/jc8Au9agl5 https://t.co/eunzDKSyLt",
-        "url": "https://x.com/swyx/status/2113811349281345578",
-        "createdAt": "2026-10-24T01:54:33.000Z",
-        "engagement": 278,
-        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Horseshoe theory is real The NIMBY left (nonprofit extractors) and the NIMBY right (boomer landlords) just want to destroy housing affordability and the economy for their own comfort and grift Meanwhile we are just trying to build abundance https://t.co/Ki5lBwIpik",
-        "url": "https://x.com/garrytan/status/2113683853156192695",
-        "createdAt": "2026-10-23T17:27:55.000Z",
-        "engagement": 275,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Connie Chan is a regressive and terrible bureaucrat who wants rents to be $10,000 per month in SF Anti tech, anti housing, anti prosperity, pro grift, pro crime That the Pelosi machine threw their weight behind her and Gary McCoy is a disgraceful joke https://t.co/qqWXGI0atz",
-        "url": "https://x.com/garrytan/status/2113742026999267330",
-        "createdAt": "2026-10-23T21:19:05.000Z",
-        "engagement": 257,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Agents can play \"Ouija\" in the cloud. This class of timing attacks on shared-host VMs has been known since at least 2015¹. With no full solution. The world’s cyber infrastructure runs on “yes, that attack is theoretically possible, but who would have the ingenuity & gall to go th",
-        "url": "https://x.com/rauchg/status/2113759533801877920",
-        "createdAt": "2026-10-23T22:28:39.000Z",
-        "engagement": 176,
+        "text": "There’ll be times where you over-guide the AI. It knows better than you and is more intelligent than you. There’ll be times where you under-guide the AI. It can go off-track, have the wrong biases, or miss context. How well you manage this superpower is the #0 skill I look for.",
+        "url": "https://x.com/rauchg/status/2114085432749347086",
+        "createdAt": "2026-10-24T20:03:39.000Z",
+        "engagement": 2181,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "By midnight PST",
+        "url": "https://x.com/thsottiaux/status/2114200291319124163",
+        "createdAt": "2026-10-25T03:40:04.000Z",
+        "engagement": 1518,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly",
+        "url": "https://x.com/thsottiaux/status/2114237083652882932",
+        "createdAt": "2026-10-25T06:06:16.000Z",
+        "engagement": 1472,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "ryolu_",
+        "name": "Ryo Lu",
+        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
+        "text": "struggle together i learned programming and design by trying, failing, and trying again. when i hit a wall, i figured out how to climb it. read something i barely understood. took things apart. asked someone for help. started over. when i began my career, i kept doing things i ha",
+        "url": "https://x.com/ryolu_/status/2114187405251219954",
+        "createdAt": "2026-10-25T02:48:51.000Z",
+        "engagement": 543
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "I oddly love the models' engineering vernacular: gate, evidence, culprit, durable, provenance, contract… A lot of these stem from most engineering being debugging and understanding existing systems, where you take on the detective / auditor roles. You do forensics. I wonder what ",
+        "url": "https://x.com/rauchg/status/2114164830403989880",
+        "createdAt": "2026-10-25T01:19:09.000Z",
+        "engagement": 227,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "swyx",
+        "name": "Swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
+        "text": "we are hiring writers, reviewers and reporters for the new @latentspacepod editorial team (hit up @ricmac and @adlinzainal) and i’m gonna put a version of this in the welcome package for everyone we hire https://t.co/fYPQURjQoy",
+        "url": "https://x.com/swyx/status/2114145315196711194",
+        "createdAt": "2026-10-25T00:01:36.000Z",
+        "engagement": 176,
+        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "Of all the learning apps that my 4-year-old and I have tried, @once_reading is the only one that we’ve managed to persist in following for months. It works because: 1. It builds a habit where you need to learn with your kid daily 2. It has lightweight gamification like taking a s",
+        "url": "https://x.com/petergyang/status/2114042708105060501",
+        "createdAt": "2026-10-24T17:13:53.000Z",
+        "engagement": 165,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "What’s new in Gstack? https://t.co/RLLZyuDxNt",
+        "url": "https://x.com/garrytan/status/2114090740217499854",
+        "createdAt": "2026-10-24T20:24:45.000Z",
+        "engagement": 142,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "I had trouble believing this is true but shouldn’t have doubted @ArfurGrok Huge bummer for claude users. Anthony and Thariq are two of the best at listening to users. https://t.co/XwQAXb7LYE",
+        "url": "https://x.com/petergyang/status/2114001125636768121",
+        "createdAt": "2026-10-24T14:28:39.000Z",
+        "engagement": 141,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "We’ll likely have 1,000X more tokens flowing through cyber agents soon than we do today. As the surface area of cyber risk increases, at some point soon it will be nearly impossible to keep up with the volume of new risks (we’re essentially already there). Large companies barely ",
+        "url": "https://x.com/levie/status/2114187326406766604",
+        "createdAt": "2026-10-25T02:48:32.000Z",
+        "engagement": 96,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+      },
+      {
+        "handle": "adityaag",
+        "name": "Aditya Agarwal",
+        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Bo",
+        "text": "One weird effect of being max AI pilled is that I have started to really treasure IRL time with my family and my friends. Put on some techno, dance with friends, take your kids to the park. Let the agents cook (or not). But dear god, celebrate humans.",
+        "url": "https://x.com/adityaag/status/2114135237806760097",
+        "createdAt": "2026-10-24T23:21:34.000Z",
+        "engagement": 82,
+        "textZh": "Schrep 和 Gigascale 团队在做一些很特别的事。他们是 @southpkcommons 被投公司的绝佳合作伙伴。@schrep 是我仰望已久的人，期待继续合作。"
       }
     ],
     "podcast": {
-      "name": "No Priors",
-      "title": "Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-10-23T10:00:00.000Z"
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "Jev: The AI That Makes Decisions, Not Text - and Why It Changes Everything (Diogo Almeida)",
+      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
+      "publishedAt": "2026-10-15T11:30:01.000Z"
     }
   },
   "builderpulse": {
@@ -175,6 +174,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-10-26",
+      "aihotCount": 2,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-10-25",
       "aihotCount": 2,
@@ -208,12 +213,6 @@
     {
       "date": "2026-10-20",
       "aihotCount": 19,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-10-19",
-      "aihotCount": 3,
       "buildersCount": 12,
       "bpBuild": ""
     }
