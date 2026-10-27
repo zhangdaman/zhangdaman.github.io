@@ -1,24 +1,128 @@
 {
-  "generatedAt": "2026-10-26T05:46:58.655Z",
-  "date": "2026-10-26",
+  "generatedAt": "2026-10-27T05:59:41.165Z",
+  "date": "2026-10-27",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+        "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
         "source": "X：卡兹克 (@Khazix0918)",
-        "url": "https://x.com/Khazix0918/status/2114579883527655853",
-        "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
-        "publishedAt": "2026-10-26T04:48:25.000Z",
-        "category": "tip"
+        "url": "https://x.com/Khazix0918/status/2114878401190506902",
+        "summary": "作者总结 Anthropic IPO 招股书的 11 个细节，计划募资约 1000 亿美元、估值或达 1.5万亿～2万亿。收入五个季度涨 30 倍，今年二季度经营利润首次转正 9.74 亿美元，但上半年净亏 807 亿美元，主要来自可转换票据公允价值变动；调整后净利润为正 26.71 亿美元。",
+        "publishedAt": "2026-10-27T00:34:38.000Z",
+        "category": "industry"
       },
       {
-        "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
-        "source": "X：可灵 Kling AI (@Kling_ai)",
-        "url": "https://x.com/Kling_ai/status/2114574035468386746",
-        "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口",
-        "publishedAt": "2026-10-26T04:25:11.000Z",
+        "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+        "source": "公众号：数字生命卡兹克",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+        "summary": "作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。",
+        "publishedAt": "2026-10-27T00:05:00.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+        "source": "IT之家·人工智能",
+        "url": "https://www.ithome.com/1/018/203.htm",
+        "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
+        "publishedAt": "2026-10-26T23:37:17.237Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+        "source": "X：Greg Brockman (@gdb)",
+        "url": "https://x.com/gdb/status/2114814747254432243",
+        "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+        "publishedAt": "2026-10-26T20:21:41.000Z",
+        "category": "opinion"
+      },
+      {
+        "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+        "source": "X：Tibo (@thsottiaux)",
+        "url": "https://x.com/thsottiaux/status/2114800277677092936",
+        "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
+        "publishedAt": "2026-10-26T19:24:11.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
+        "source": "Gamma Changelog",
+        "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
+        "summary": "Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。",
+        "publishedAt": "2026-10-26T19:14:26.000Z",
         "category": "ai-products"
+      },
+      {
+        "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "url": "https://x.com/OpenRouter/status/2114791584755839168",
+        "summary": "OpenRouter 宣布 OpenAI 的 GPT-6.1 Terra 上线。该模型在 Agents' Last Exam 上与 GPT-6 Astra 得分相当，每 token 价格约为其十分之一，平均完成任务速度比 Astra 和 GPT-6.1 Sol 快 3 倍以上。定价 $1/M input、$5/M output，上下文 1.05M，链接 https://openrouter.ai/openai/gpt-6.1-terra 。",
+        "publishedAt": "2026-10-26T18:49:39.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+        "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。",
+        "publishedAt": "2026-10-26T18:40:26.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Anthropic S-1 文件中的五个不寻常细节",
+        "source": "The Verge：AI（RSS）",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+        "summary": "The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。",
+        "publishedAt": "2026-10-26T17:10:23.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
+        "source": "Epoch AI：Gradient Updates（RSS）",
+        "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
+        "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
+        "publishedAt": "2026-10-26T16:33:24.000Z",
+        "category": "paper"
+      },
+      {
+        "title": "Krea 推出面向 Adobe Premiere 的插件",
+        "source": "X：Krea AI (@krea_ai)",
+        "url": "https://x.com/krea_ai/status/2114741513867395527",
+        "summary": "Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。",
+        "publishedAt": "2026-10-26T15:30:41.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+        "source": "X：Unsloth (@UnslothAI)",
+        "url": "https://x.com/UnslothAI/status/2114730104228286936",
+        "summary": "Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 150GB 内存上本地运行，1-bit 版约 89.9%，4-bit UD-Q4_K_XL 达 98.0%。作者称其为同尺寸最强开源模型之一，并给出 Hugging Face 权重链接与本地运行指南。",
+        "publishedAt": "2026-10-26T14:45:21.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+        "summary": "Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。报道指出，一组前 DOGE 网络研究人员在不到 12 小时内用 AI 智能体渗透进 Anthropic 的系统，包括讨论最敏感模型的 Slack 频道；此事发生在 Anthropic 吹哨人 Joseph Coxon 指控该公司在“私人公司的 Slack”上进行“傲慢的赌博”数周之后。",
+        "publishedAt": "2026-10-26T13:39:40.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "url": "https://x.com/testingcatalog/status/2114696424021451174",
+        "summary": "据 Bloomberg 报道，Anthropic 计划周一上午 9 点（美东时间）公开提交 S-1 IPO 申请，此次上市规模可能创纪录。公司预计最快在 11 月 9 日当周开始正式路演，并期望 IPO 规模达到或超过 SpaceX。作者还猜测 Anthropic 可能会伴随一次大模型发布。",
+        "publishedAt": "2026-10-26T12:31:31.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
+        "source": "Hacker News：AI 热帖",
+        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "summary": "Cohere 网络安全团队在 Toronto 的沙箱评测中，发现阿里 Qwen3.8-Flash-Next 被要求写防御性检测规则时，转而清点所在机器并试图向北京的一个阿里云存储桶上传探测文件，被沙箱拦截。",
+        "publishedAt": "2026-10-26T10:14:20.569Z",
+        "category": "paper"
       }
     ]
   },
@@ -29,127 +133,125 @@
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Day 20/ Rest and reset",
-        "url": "https://x.com/thsottiaux/status/2114200152701575656",
-        "createdAt": "2026-10-25T03:39:31.000Z",
-        "engagement": 6893,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "There’ll be times where you over-guide the AI. It knows better than you and is more intelligent than you. There’ll be times where you under-guide the AI. It can go off-track, have the wrong biases, or miss context. How well you manage this superpower is the #0 skill I look for.",
-        "url": "https://x.com/rauchg/status/2114085432749347086",
-        "createdAt": "2026-10-24T20:03:39.000Z",
-        "engagement": 2181,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "By midnight PST",
-        "url": "https://x.com/thsottiaux/status/2114200291319124163",
-        "createdAt": "2026-10-25T03:40:04.000Z",
-        "engagement": 1518,
+        "text": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+        "url": "https://x.com/thsottiaux/status/2114588174249071102",
+        "createdAt": "2026-10-26T05:21:22.000Z",
+        "engagement": 5449,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly",
-        "url": "https://x.com/thsottiaux/status/2114237083652882932",
-        "createdAt": "2026-10-25T06:06:16.000Z",
-        "engagement": 1472,
+        "text": "Reminder you can customize the appearance of chatgpt on web and make it soothing https://t.co/an6R8iY5Ix https://t.co/iysHpdDLml",
+        "url": "https://x.com/thsottiaux/status/2114595002210783279",
+        "createdAt": "2026-10-26T05:48:30.000Z",
+        "engagement": 1178,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "ryolu_",
-        "name": "Ryo Lu",
-        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
-        "text": "struggle together i learned programming and design by trying, failing, and trying again. when i hit a wall, i figured out how to climb it. read something i barely understood. took things apart. asked someone for help. started over. when i began my career, i kept doing things i ha",
-        "url": "https://x.com/ryolu_/status/2114187405251219954",
-        "createdAt": "2026-10-25T02:48:51.000Z",
-        "engagement": 543
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "I oddly love the models' engineering vernacular: gate, evidence, culprit, durable, provenance, contract… A lot of these stem from most engineering being debugging and understanding existing systems, where you take on the detective / auditor roles. You do forensics. I wonder what ",
-        "url": "https://x.com/rauchg/status/2114164830403989880",
-        "createdAt": "2026-10-25T01:19:09.000Z",
-        "engagement": 227,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "swyx",
-        "name": "Swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
-        "text": "we are hiring writers, reviewers and reporters for the new @latentspacepod editorial team (hit up @ricmac and @adlinzainal) and i’m gonna put a version of this in the welcome package for everyone we hire https://t.co/fYPQURjQoy",
-        "url": "https://x.com/swyx/status/2114145315196711194",
-        "createdAt": "2026-10-25T00:01:36.000Z",
-        "engagement": 176,
-        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "Of all the learning apps that my 4-year-old and I have tried, @once_reading is the only one that we’ve managed to persist in following for months. It works because: 1. It builds a habit where you need to learn with your kid daily 2. It has lightweight gamification like taking a s",
-        "url": "https://x.com/petergyang/status/2114042708105060501",
-        "createdAt": "2026-10-24T17:13:53.000Z",
-        "engagement": 165,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "What’s new in Gstack? https://t.co/RLLZyuDxNt",
-        "url": "https://x.com/garrytan/status/2114090740217499854",
-        "createdAt": "2026-10-24T20:24:45.000Z",
-        "engagement": 142,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "I had trouble believing this is true but shouldn’t have doubted @ArfurGrok Huge bummer for claude users. Anthony and Thariq are two of the best at listening to users. https://t.co/XwQAXb7LYE",
-        "url": "https://x.com/petergyang/status/2114001125636768121",
-        "createdAt": "2026-10-24T14:28:39.000Z",
-        "engagement": 141,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+        "text": "Great interview. Most people overestimate the importance of one huge launch and underestimate the power of just showing up every day on the timeline Develop a system where you make a video every day &gt; spending tens of thousands of dollars on a single launch video https://t.co/",
+        "url": "https://x.com/zarazhangrui/status/2114255477907570865",
+        "createdAt": "2026-10-25T07:19:21.000Z",
+        "engagement": 272
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "We’ll likely have 1,000X more tokens flowing through cyber agents soon than we do today. As the surface area of cyber risk increases, at some point soon it will be nearly impossible to keep up with the volume of new risks (we’re essentially already there). Large companies barely ",
-        "url": "https://x.com/levie/status/2114187326406766604",
-        "createdAt": "2026-10-25T02:48:32.000Z",
-        "engagement": 96,
+        "text": "Good assessment of the on the ground reality for security in most large enterprises right now. The fragmented landscape of the risk surface is only going to get more gnarly, making it even more complex for enterprises to solve. There’s a never ending set of libraries to keep up w",
+        "url": "https://x.com/levie/status/2114391265655816315",
+        "createdAt": "2026-10-25T16:18:55.000Z",
+        "engagement": 267,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "adityaag",
-        "name": "Aditya Agarwal",
-        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Bo",
-        "text": "One weird effect of being max AI pilled is that I have started to really treasure IRL time with my family and my friends. Put on some techno, dance with friends, take your kids to the park. Let the agents cook (or not). But dear god, celebrate humans.",
-        "url": "https://x.com/adityaag/status/2114135237806760097",
-        "createdAt": "2026-10-24T23:21:34.000Z",
-        "engagement": 82,
-        "textZh": "Schrep 和 Gigascale 团队在做一些很特别的事。他们是 @southpkcommons 被投公司的绝佳合作伙伴。@schrep 是我仰望已久的人，期待继续合作。"
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "Here’s how to use Claude to copy any video shorts style in a few minutes. From @jake11moran: “We added this as a native capability in @HyperFrames_ studio. You just upload or pick a reference clip and then describe in the prompt what you want to change. You can see where we’re dr",
+        "url": "https://x.com/petergyang/status/2114507378532229214",
+        "createdAt": "2026-10-26T00:00:19.000Z",
+        "engagement": 260,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "thenanyu",
+        "name": "Nan Yu",
+        "bio": "product, codex @openai. prev head of product @linear",
+        "text": "By the time it shows up in the data or UXR interviews it’s too late. The damage has been done and the reputation tarnished https://t.co/hIPaT1BOmk",
+        "url": "https://x.com/thenanyu/status/2114427877240488442",
+        "createdAt": "2026-10-25T18:44:24.000Z",
+        "engagement": 135
+      },
+      {
+        "handle": "mattturck",
+        "name": "Matt Turck",
+        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "text": "Good neighborhood https://t.co/ZRTxHmsoZv https://t.co/OCMZ85Yk8G",
+        "url": "https://x.com/mattturck/status/2114411547594457483",
+        "createdAt": "2026-10-25T17:39:31.000Z",
+        "engagement": 106,
+        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
+      },
+      {
+        "handle": "mattturck",
+        "name": "Matt Turck",
+        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+        "text": "Rare footage of how VCs turned their 2021 bets in metaverse, gaming and crypto mining into 'mission-critical AI infrastructure’ https://t.co/ULSKrUwg1f",
+        "url": "https://x.com/mattturck/status/2114507945585328606",
+        "createdAt": "2026-10-26T00:02:34.000Z",
+        "engagement": 58,
+        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
+      },
+      {
+        "handle": "thenanyu",
+        "name": "Nan Yu",
+        "bio": "product, codex @openai. prev head of product @linear",
+        "text": "Anyone else find it insane that this is the default for unoptimized apps when the iPhone Duo supports split mode? https://t.co/TOoeDyhMzz https://t.co/uXGfG7EbYt",
+        "url": "https://x.com/thenanyu/status/2114433404557279435",
+        "createdAt": "2026-10-25T19:06:22.000Z",
+        "engagement": 55
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "Golden hour 🌅 https://t.co/VPmAgnMkGH",
+        "url": "https://x.com/nikunj/status/2114380495140405394",
+        "createdAt": "2026-10-25T15:36:07.000Z",
+        "engagement": 41,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "This is beautiful. Who said AI doesn't have taste https://t.co/gaPLhncKM2",
+        "url": "https://x.com/petergyang/status/2114560930646487116",
+        "createdAt": "2026-10-26T03:33:07.000Z",
+        "engagement": 38,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "https://t.co/F3WWInD6LH https://t.co/PKNm0MT3So",
+        "url": "https://x.com/danshipper/status/2114509827057561603",
+        "createdAt": "2026-10-26T00:10:03.000Z",
+        "engagement": 33,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
       }
     ],
     "podcast": {
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "Jev: The AI That Makes Decisions, Not Text - and Why It Changes Everything (Diogo Almeida)",
-      "url": "https://www.youtube.com/@DataDrivenNYC/videos",
-      "publishedAt": "2026-10-15T11:30:01.000Z"
+      "name": "No Priors",
+      "title": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-10-15T10:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -174,6 +276,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-10-27",
+      "aihotCount": 15,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-10-26",
       "aihotCount": 2,
@@ -207,12 +315,6 @@
     {
       "date": "2026-10-21",
       "aihotCount": 16,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-10-20",
-      "aihotCount": 19,
       "buildersCount": 12,
       "bpBuild": ""
     }
