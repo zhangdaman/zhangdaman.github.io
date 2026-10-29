@@ -1,135 +1,151 @@
 {
-  "generatedAt": "2026-10-28T06:38:51.756Z",
-  "date": "2026-10-28",
+  "generatedAt": "2026-10-29T06:46:02.907Z",
+  "date": "2026-10-29",
   "aihot": {
     "ok": true,
     "items": [
       {
-        "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
+        "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
         "source": "X：Addy Osmani (@addyosmani)",
-        "url": "https://x.com/addyosmani/status/2115326629488824753",
-        "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
-        "publishedAt": "2026-10-28T06:15:43.000Z",
+        "url": "https://x.com/addyosmani/status/2115688494865465370",
+        "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
+        "publishedAt": "2026-10-29T06:13:39.000Z",
         "category": "tip"
       },
       {
-        "title": "Anthropic IPO 最大赢家或为 Amazon 而非 VC",
-        "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-        "summary": "TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。",
-        "publishedAt": "2026-10-28T01:15:28.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-        "source": "公众号：数字生命卡兹克",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-        "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
-        "publishedAt": "2026-10-28T00:22:00.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
-        "source": "TechCrunch：AI（RSS）",
-        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-        "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
-        "publishedAt": "2026-10-27T23:34:27.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Axiom 智能体集群用 24 天完成有限单群分类定理的机器验证",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "url": "https://x.com/rohanpaul_ai/status/2115224910603890778",
-        "summary": "作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。",
-        "publishedAt": "2026-10-27T23:31:32.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-        "source": "X：Gemini (@GeminiApp)",
-        "url": "https://x.com/GeminiApp/status/2115171788812669225",
-        "summary": "Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。",
-        "publishedAt": "2026-10-27T20:00:27.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-        "source": "Azeem Azhar：Exponential View（RSS）",
-        "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-        "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
-        "publishedAt": "2026-10-27T17:31:56.000Z",
-        "category": "opinion"
-      },
-      {
-        "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-        "source": "The Verge：AI（RSS）",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-        "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-        "publishedAt": "2026-10-27T16:51:22.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-        "source": "LangChain：Blog（RSS）",
-        "url": "https://www.langchain.com/blog/design-agent",
-        "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
-        "publishedAt": "2026-10-27T16:45:00.000Z",
+        "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+        "source": "OpenRouter：Announcements（RSS）",
+        "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
+        "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+        "publishedAt": "2026-10-29T00:00:00.000Z",
         "category": "tip"
       },
       {
-        "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
-        "source": "Google DeepMind：Blog（RSS）",
-        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "summary": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
-        "publishedAt": "2026-10-27T16:01:38.000Z",
-        "category": "ai-models"
-      },
-      {
-        "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
-        "source": "Replit：Blog（RSS）",
-        "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
-        "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
-        "publishedAt": "2026-10-27T15:30:00.000Z",
-        "category": "ai-products"
-      },
-      {
-        "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
-        "source": "a16z：News（RSS）",
-        "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-        "summary": "a16z 的 Ben Horowitz 发文解析 Databricks 如何成为智能体时代的公司基础设施，Databricks 已达到 70 亿美元收入运行率、同比增长 80%，估值 1900 亿美元。",
-        "publishedAt": "2026-10-27T14:02:28.000Z",
-        "category": "opinion"
-      },
-      {
-        "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-        "source": "The Decoder：AI News（RSS）",
-        "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
-        "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
-        "publishedAt": "2026-10-27T12:37:24.000Z",
-        "category": "industry"
-      },
-      {
-        "title": "Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定",
-        "source": "Ai2 / Allen Institute for AI（RSS）",
-        "url": "https://allenai.org/blog/novelty-bench",
-        "summary": "Ai2 发布研究 Old Ideas, Novel Problems、配套 benchmark、数据、代码和自动化流水线，测试 LLM 作为研究想法新颖性裁判的可靠性。",
-        "publishedAt": "2026-10-27T08:00:00.000Z",
+        "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+        "source": "IT之家·人工智能",
+        "url": "https://www.ithome.com/1/019/268.htm",
+        "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
+        "publishedAt": "2026-10-28T22:35:25.040Z",
         "category": "paper"
       },
       {
-        "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-        "source": "Latent Space（RSS）",
-        "url": "https://latent.space/p/ainews-anthropic-s1/",
-        "summary": "Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。",
-        "publishedAt": "2026-10-27T07:24:59.000Z",
+        "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+        "source": "X：Sundar Pichai (@sundarpichai)",
+        "url": "https://x.com/sundarpichai/status/2115535455156642066",
+        "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
+        "publishedAt": "2026-10-28T20:05:31.000Z",
         "category": "industry"
       },
       {
-        "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
+        "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
+        "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+        "url": "https://www.wheresyoured.at/exit-liquidity/",
+        "summary": "Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。",
+        "publishedAt": "2026-10-28T17:51:00.000Z",
+        "category": "opinion"
+      },
+      {
+        "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
+        "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
+        "publishedAt": "2026-10-28T17:11:27.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+        "source": "X：Boris Cherny (@bcherny)",
+        "url": "https://x.com/bcherny/status/2115491259381072269",
+        "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
+        "publishedAt": "2026-10-28T17:09:54.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
+        "source": "X：Sundar Pichai (@sundarpichai)",
+        "url": "https://x.com/sundarpichai/status/2115489219804352921",
+        "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
+        "publishedAt": "2026-10-28T17:01:48.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
+        "source": "Google DeepMind：Blog（RSS）",
+        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+        "summary": "Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。",
+        "publishedAt": "2026-10-28T17:00:58.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
+        "source": "Microsoft：Official Blog（RSS）",
+        "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+        "summary": "Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。",
+        "publishedAt": "2026-10-28T16:51:35.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+        "summary": "GitHub 在 GitHub Universe 2026 上提出把 GitHub 打造为完整软件交付系统的愿景，并发布多项产品：GitHub Copilot app 面向智能体交付。",
+        "publishedAt": "2026-10-28T16:09:28.000Z",
+        "category": "ai-products"
+      },
+      {
+        "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
+        "source": "GitHub Blog",
+        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+        "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
+        "publishedAt": "2026-10-28T16:07:40.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程",
+        "source": "a16z：News（RSS）",
+        "url": "https://www.a16z.news/p/the-new-security-agenda",
+        "summary": "a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。",
+        "publishedAt": "2026-10-28T16:00:31.000Z",
+        "category": "opinion"
+      },
+      {
+        "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+        "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+        "url": "https://openmoss.ai/blog/cn/moss-image/",
+        "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
+        "publishedAt": "2026-10-28T16:00:00.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+        "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
+        "publishedAt": "2026-10-28T11:38:17.000Z",
+        "category": "ai-models"
+      },
+      {
+        "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+        "source": "The Decoder：AI News（RSS）",
+        "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
+        "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+        "publishedAt": "2026-10-28T10:56:24.000Z",
+        "category": "industry"
+      },
+      {
+        "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
         "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-        "summary": "OpenAI 宣布扩大与 Oracle 的合作，将 Oracle 应用和数据接入 ChatGPT，并用 OpenAI 模型驱动 Oracle 新产品。",
-        "publishedAt": "2026-10-27T07:00:00.000Z",
+        "url": "https://openai.com/index/the-future-of-the-firm",
+        "summary": "OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列文章，探讨 AI 进入企业组织架构的三种情形：在每位员工之下形成 AI 劳动力 basement、作为同事穿插在现有组织图中、以及夹在人类之间充当协调层。",
+        "publishedAt": "2026-10-28T10:00:00.000Z",
+        "category": "opinion"
+      },
+      {
+        "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
+        "source": "X：Saito 硬地骇客 (@SaitoWu)",
+        "url": "https://x.com/SaitoWu/status/2115376256929948006",
+        "summary": "Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。",
+        "publishedAt": "2026-10-28T09:32:56.000Z",
         "category": "industry"
       }
     ]
@@ -138,127 +154,128 @@
     "ok": true,
     "items": [
       {
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "New in Claude for Legal: a gallery of ready-made artifacts for contract review, regulatory horizon scans, cite checks, and more. Start from the built-in example, add your own documents and connectors, and share it with anyone across the business. https://t.co/Wn2VK2HeMU",
+        "url": "https://x.com/claudeai/status/2115467192276025500",
+        "createdAt": "2026-10-28T15:34:16.000Z",
+        "engagement": 25981
+      },
+      {
         "handle": "trq212",
         "name": "Thariq",
         "bio": "playing WoW forever, formerly Claude Code @anthropicai",
-        "text": "experimenting with a lil personal project: an AI-native macOS dock with custom modes (writing, building, etc.) to help me stay focused my agent is able to customize mode behavior and add new modes, it uses jev to classify my activity + notifications in real time &amp; act on them",
-        "url": "https://x.com/trq212/status/2115135857669881939",
-        "createdAt": "2026-10-27T17:37:40.000Z",
-        "engagement": 8477,
+        "text": "very weird thing happening rn technical people are sad, they think their skills are now useless non-technical people are desperately wishing they were more technical so they could use agents better",
+        "url": "https://x.com/trq212/status/2115544056038350960",
+        "createdAt": "2026-10-28T20:39:42.000Z",
+        "engagement": 24669,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+        "text": "courage in shorter supply than genius",
+        "url": "https://x.com/trq212/status/2115493334324310463",
+        "createdAt": "2026-10-28T17:18:09.000Z",
+        "engagement": 5442,
         "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "https://t.co/Fgy0dBAHsJ has landed",
-        "url": "https://x.com/thsottiaux/status/2115297093879472332",
-        "createdAt": "2026-10-28T04:18:22.000Z",
-        "engagement": 5385,
+        "text": "Pretty wild that this site got 3M views. https://t.co/LPLx981qtn",
+        "url": "https://x.com/thsottiaux/status/2115473170279080149",
+        "createdAt": "2026-10-28T15:58:02.000Z",
+        "engagement": 4823,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
-        "text": "feels like there needs to be a new way to distribute opensource software such that people can modify via agents but also get upstream automatically merged in coding agents can do this but they won’t do it automatically https://t.co/6iejoVGp1D",
-        "url": "https://x.com/trq212/status/2115188992861970693",
-        "createdAt": "2026-10-27T21:08:48.000Z",
-        "engagement": 2518,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Lands by midnight PST.",
-        "url": "https://x.com/thsottiaux/status/2115273253711409208",
-        "createdAt": "2026-10-28T02:43:38.000Z",
-        "engagement": 1672,
+        "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time. We'll have more to share soon. https:",
+        "url": "https://x.com/thsottiaux/status/2115588390414581916",
+        "createdAt": "2026-10-28T23:35:52.000Z",
+        "engagement": 4154,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "swyx",
-        "name": "Swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
-        "text": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. https://t.co/O4SZbwKhoQ https://t.co/kEV0gzb1Q6",
-        "url": "https://x.com/swyx/status/2115089887959359988",
-        "createdAt": "2026-10-27T14:35:00.000Z",
-        "engagement": 1444,
-        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
-        "text": "this is the kind of HCI work I've been wanting to do for a while, but messing with OS internals has always been very time consuming not sharing yet, there are still many edge cases (would not recommend using), but fun to experiment with!",
-        "url": "https://x.com/trq212/status/2115135859075015137",
-        "createdAt": "2026-10-27T17:37:40.000Z",
-        "engagement": 630,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "If I’m investing in frontier AI I would underwrite it mostly on new discovery and its applications like medicine because coding and most of knowledge work is quickly being saturated by sub-frontier models.",
-        "url": "https://x.com/amasad/status/2115207856496480261",
-        "createdAt": "2026-10-27T22:23:46.000Z",
-        "engagement": 623,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "https://t.co/04L6MqJwe8 https://t.co/l0HypHrirg",
-        "url": "https://x.com/rauchg/status/2115161107078021563",
-        "createdAt": "2026-10-27T19:18:00.000Z",
-        "engagement": 466,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "extremely good explanation https://t.co/qikxoeig2o",
-        "url": "https://x.com/danshipper/status/2115080807656419759",
-        "createdAt": "2026-10-27T13:58:55.000Z",
-        "engagement": 453,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG",
-        "url": "https://x.com/thsottiaux/status/2115330127886463244",
-        "createdAt": "2026-10-28T06:29:38.000Z",
-        "engagement": 320,
+        "text": "Day 24/ Text your dot just like anyone else. Makes it super easy to share/forward things, leave it voice notes or you can even go creative with \"Hey Siri, text Iggy to &lt;INSERT WILD REQUEST&gt;\" and sit back and relax. https://t.co/T4t4m1m6DV",
+        "url": "https://x.com/thsottiaux/status/2115622002581188681",
+        "createdAt": "2026-10-29T01:49:26.000Z",
+        "engagement": 2667,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Designers’ contribution to the codebase. https://t.co/FMlhbFzszv https://t.co/IdcnEzDEmW",
-        "url": "https://x.com/amasad/status/2115150680977715419",
-        "createdAt": "2026-10-27T18:36:34.000Z",
-        "engagement": 279,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude @anthropicai",
+        "text": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot. https://t.co/ERZpBFuYSa",
+        "url": "https://x.com/bcherny/status/2115491259381072269",
+        "createdAt": "2026-10-28T17:09:54.000Z",
+        "engagement": 2526
       },
       {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "video creation and game making are going to become widely distributed foundations of knowledge work in the same way doc and deck creation are today",
-        "url": "https://x.com/danshipper/status/2115093098816745910",
-        "createdAt": "2026-10-27T14:47:45.000Z",
-        "engagement": 248,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+        "text": "this is too cute https://t.co/dtttFifGe7",
+        "url": "https://x.com/zarazhangrui/status/2115336629770707254",
+        "createdAt": "2026-10-28T06:55:28.000Z",
+        "engagement": 2231
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+        "text": "I think the same is true of creative fields, like I see artists really worrying about AI but I wish so badly that I could sketch animation ideas and character concepts for my agent to flesh out instead of trying to find examples I don't have the language! https://t.co/Q6EPcpiXtu",
+        "url": "https://x.com/trq212/status/2115641110710419752",
+        "createdAt": "2026-10-29T03:05:22.000Z",
+        "engagement": 1323,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "joshwoodward",
+        "name": "Josh Woodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "text": "2 weeks ago: Gemini 4 Argon Today: Gemini 4 Carbon The frontier is fast, and the internal vibes on this model are good. Rolling out to cyber defenders first, then more widely available as the next step! https://t.co/sUb0q8YCMk",
+        "url": "https://x.com/joshwoodward/status/2115495943948902517",
+        "createdAt": "2026-10-28T17:28:31.000Z",
+        "engagement": 934
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "OpenClaw’s web UI now works offline and uses a smart websocket compression/reconnect logic. Been flying to Vienna today and got plenty work done, despite spotty airplane wifi. https://t.co/7wGhL1zi7Z",
+        "url": "https://x.com/steipete/status/2115397368229060636",
+        "createdAt": "2026-10-28T10:56:49.000Z",
+        "engagement": 732,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "Kinda funny how easy it is to spot bugs by agents vs humans. Someone at Disney still writes code by HAND? https://t.co/kiz2czVU7m",
+        "url": "https://x.com/steipete/status/2115380217938158049",
+        "createdAt": "2026-10-28T09:48:40.000Z",
+        "engagement": 719,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       }
     ],
-    "podcast": null
+    "podcast": {
+      "name": "AI & I by Every",
+      "title": "Can You Use AI To Make Good Art? — With Fred Graver",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-10-28T20:23:44.000Z"
+    }
   },
   "builderpulse": {
     "ok": true,
@@ -282,6 +299,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-10-29",
+      "aihotCount": 18,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-10-28",
       "aihotCount": 16,
@@ -315,12 +338,6 @@
     {
       "date": "2026-10-23",
       "aihotCount": 14,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-10-22",
-      "aihotCount": 15,
       "buildersCount": 12,
       "bpBuild": ""
     }
