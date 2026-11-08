@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T06:50:23.564Z",
-  "date": "2026-11-07",
+  "generatedAt": "2026-11-08T06:56:04.154Z",
+  "date": "2026-11-08",
   "aihot": {
     "ok": true,
     "items": [
@@ -130,131 +130,129 @@
     "ok": true,
     "items": [
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "It's Friday",
-        "url": "https://x.com/thsottiaux/status/2118871902366441879",
-        "createdAt": "2026-11-07T01:03:22.000Z",
-        "engagement": 5888,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
-        "text": "too many people building agents and not enough people using software to improve the quality of fish https://t.co/3ewG2QhovT",
-        "url": "https://x.com/trq212/status/2118859267314958761",
-        "createdAt": "2026-11-07T00:13:10.000Z",
-        "engagement": 2331,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+        "handle": "karpathy",
+        "name": "Andrej Karpathy",
+        "bio": "",
+        "text": "Earlier this week Tristan published his top YouTube channels: https://t.co/NZ3UCNo6cT Which looked excellent so clearly I had to turn it into TristanTube: https://t.co/l0KyW1WdNH 47K super nerdy videos +TV mode for laid back watching. (One-shotted with Claude Code in 3 minutes) h",
+        "url": "https://x.com/karpathy/status/2119114537442189652",
+        "createdAt": "2026-11-07T17:07:31.000Z",
+        "engagement": 6960
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Get me out of the basement https://t.co/SsG3P83NBg https://t.co/eeASj3vnsN",
-        "url": "https://x.com/thsottiaux/status/2118938956301779171",
-        "createdAt": "2026-11-07T05:29:49.000Z",
-        "engagement": 1824,
+        "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus. ✅ Pro 100 = 10X ✅ Pro 200 = 20X ✅ Pro 500 = 50X, access to ultrafast",
+        "url": "https://x.com/thsottiaux/status/2119296267545419987",
+        "createdAt": "2026-11-08T05:09:39.000Z",
+        "engagement": 2842,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
-        "text": "feels like it's really coming together https://t.co/L1WyogpiW1",
-        "url": "https://x.com/trq212/status/2118788283564179513",
-        "createdAt": "2026-11-06T19:31:06.000Z",
-        "engagement": 1338,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Generative UI for conversational agents. Combining @aisdk with Chat SDK and 𝚓𝚜𝚘𝚗-𝚛𝚎𝚗𝚍𝚎𝚛, you can go straight from LLM to UI on platforms like Slack and Teams. I believe this will become the dominant Human-Agent Interaction (HAI) paradigm: https://t.co/MHxtLyoy7t https:/",
-        "url": "https://x.com/rauchg/status/2118856239719608353",
-        "createdAt": "2026-11-07T00:01:08.000Z",
-        "engagement": 1207,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
-        "text": "a pattern I’m liking: creator apps like Instagram Edits and Roblox Studio shipping with built-in MCPs, so agents can do some of the work while power users can collaborate and continue the work in tools that they're used to",
-        "url": "https://x.com/trq212/status/2118822238262853904",
-        "createdAt": "2026-11-06T21:46:02.000Z",
-        "engagement": 1152,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Quite cool what you can do with a single prompt these days 👀",
-        "url": "https://x.com/thsottiaux/status/2118939076791546000",
-        "createdAt": "2026-11-07T05:30:18.000Z",
-        "engagement": 499,
+        "text": "Cyber https://t.co/SEBUvxdyEj",
+        "url": "https://x.com/thsottiaux/status/2118953362725159104",
+        "createdAt": "2026-11-07T06:27:04.000Z",
+        "engagement": 1640,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Somewhere, something incredible is waiting to be known",
-        "url": "https://x.com/rauchg/status/2118916001152803057",
-        "createdAt": "2026-11-07T03:58:36.000Z",
-        "engagement": 376,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Would a Pro 50 make sense? Wdyt? https://t.co/WZi6KGXFc9",
+        "url": "https://x.com/thsottiaux/status/2119305294291612140",
+        "createdAt": "2026-11-08T05:45:31.000Z",
+        "engagement": 1427,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "The Asahi project was all about taking something closed and restricted and opening it up. Adding new restrictions that make it harder for other projects to build on that is not the way. And that AI rejection is just silly. https://t.co/fT4O4wieQm",
+        "url": "https://x.com/steipete/status/2119264334627090514",
+        "createdAt": "2026-11-08T03:02:46.000Z",
+        "engagement": 1097,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "The future is files. And GPUs. https://t.co/fbI1NHn8u5",
-        "url": "https://x.com/levie/status/2118723097901846580",
-        "createdAt": "2026-11-06T15:12:05.000Z",
-        "engagement": 228,
+        "text": "This sounds extreme and I wouldn’t have believed it even a year ago, but we’re starting to see plenty of examples of productivity gains that are an order of magnitude or two above output levels pre-AI. With the right harness, a deep understanding of your domain of what you want t",
+        "url": "https://x.com/levie/status/2119111328099168409",
+        "createdAt": "2026-11-07T16:54:46.000Z",
+        "engagement": 633,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+      },
+      {
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "Really enjoyed Kazakhstan — super AI pilled government. And a great place for the Network School. https://t.co/Mt9rIomS6q",
+        "url": "https://x.com/amasad/status/2119126064815608270",
+        "createdAt": "2026-11-07T17:53:19.000Z",
+        "engagement": 476,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
         "handle": "garrytan",
         "name": "Garry Tan",
         "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Eval-driven development loops for agent skills is necessary. Every new model gets better. You can remove things you don't need anymore. I just removed /investigate as a skill because Opus 5.5 does it better without it. You can feel the AGI tide rising https://t.co/RTpbEAMZVU",
-        "url": "https://x.com/garrytan/status/2118920030243139596",
-        "createdAt": "2026-11-07T04:14:37.000Z",
-        "engagement": 226,
+        "text": "We could have abundance This is going to be the defining political issue of the next decade: can we have human progress in science, medicine and engineering through superintelligence? Or will we choose the darkness? https://t.co/efmVMYZwsM",
+        "url": "https://x.com/garrytan/status/2119146939514278238",
+        "createdAt": "2026-11-07T19:16:16.000Z",
+        "engagement": 335,
         "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "the @every team, nov 2026 so proud of this crew! https://t.co/qXDvQa02CL",
-        "url": "https://x.com/danshipper/status/2118757047026028939",
-        "createdAt": "2026-11-06T17:26:59.000Z",
-        "engagement": 218,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+        "handle": "levie",
+        "name": "Aaron Levie",
+        "bio": "ceo @box - your business lives in content. unleash it with AI",
+        "text": "The interesting thing about AI agents is that as a theoretical matter, their inference can kind of run anywhere. AI is one of the few areas of technology that isn’t *as* sensitive to latency back to the user. Long running agents are now going to be the norm, which means it’s ok t",
+        "url": "https://x.com/levie/status/2118953909524050288",
+        "createdAt": "2026-11-07T06:29:14.000Z",
+        "engagement": 293,
+        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "banger https://t.co/Qm1EH443Nf",
-        "url": "https://x.com/danshipper/status/2118707652918485148",
-        "createdAt": "2026-11-06T14:10:42.000Z",
-        "engagement": 160,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "The Better Lesson: https://t.co/662AivSigr",
+        "url": "https://x.com/amasad/status/2119217304953053419",
+        "createdAt": "2026-11-07T23:55:53.000Z",
+        "engagement": 267,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+        "text": "So many people speak of startup as if their fates are predestined: X idea will never work out; the market for Y is too niche... But startups' fates are MADE, not predetermined. Given one idea, there are 1000 ways to execute it, 100 people will have 100 different approaches. Brill",
+        "url": "https://x.com/zarazhangrui/status/2118968862557475298",
+        "createdAt": "2026-11-07T07:28:40.000Z",
+        "engagement": 151
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "WIRED is a shell of its former self https://t.co/vERIHNqbga",
+        "url": "https://x.com/garrytan/status/2119172824271360124",
+        "createdAt": "2026-11-07T20:59:08.000Z",
+        "engagement": 113,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       }
     ],
     "podcast": {
-      "name": "Latent Space",
-      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
-      "url": "https://www.youtube.com/@LatentSpacePod",
-      "publishedAt": "2026-11-06T14:48:24.000Z"
+      "name": "No Priors",
+      "title": "Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-11-05T11:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -279,6 +277,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-11-08",
+      "aihotCount": 15,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-11-07",
       "aihotCount": 15,
@@ -311,12 +315,6 @@
     },
     {
       "date": "2026-11-02",
-      "aihotCount": 15,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-11-01",
       "aihotCount": 15,
       "buildersCount": 12,
       "bpBuild": ""
