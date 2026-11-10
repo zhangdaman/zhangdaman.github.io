@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T07:40:25.672Z",
-  "date": "2026-11-09",
+  "generatedAt": "2026-11-10T08:00:25.343Z",
+  "date": "2026-11-10",
   "aihot": {
     "ok": true,
     "items": [
@@ -130,126 +130,124 @@
     "ok": true,
     "items": [
       {
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude @anthropicai",
+        "text": "We wanted to do more for the people who’ve been with us the longest. So with Fable 5.2, the longer you’ve been subscribed, the more Fable resets you get. https://t.co/g2Y5cwS0L2 https://t.co/kXTaE829XU",
+        "url": "https://x.com/bcherny/status/2119873095129550880",
+        "createdAt": "2026-11-09T19:21:45.000Z",
+        "engagement": 15035
+      },
+      {
+        "handle": "alexalbert__",
+        "name": "Alex Albert",
+        "bio": "Research @AnthropicAI",
+        "text": "Every time we have a new model, I run the same simple prompt on all my projects: \"Read this entire project and find everything that’s broken, inconsistent, inefficient, or no longer needed. Fix what you’re sure about and list the rest for me to review.\" highly recommend trying",
+        "url": "https://x.com/alexalbert__/status/2119884951550386671",
+        "createdAt": "2026-11-09T20:08:52.000Z",
+        "engagement": 6642
+      },
+      {
+        "handle": "alexalbert__",
+        "name": "Alex Albert",
+        "bio": "Research @AnthropicAI",
+        "text": "btw robotics will fall to the bitter lesson too https://t.co/cqftOw2OAM",
+        "url": "https://x.com/alexalbert__/status/2119869925288558799",
+        "createdAt": "2026-11-09T19:09:10.000Z",
+        "engagement": 2894
+      },
+      {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Built a physical simulation of a record player with WebGL2 and Web Audio. It's *shockingly* accurate: https://t.co/MBNaTfKoai. Instead of playing a song, it works by converting it into the physical shape of a groove. Then a simulated stylus rides those walls 384,000 times a secon",
-        "url": "https://x.com/rauchg/status/2119536313712230802",
-        "createdAt": "2026-11-08T21:03:30.000Z",
-        "engagement": 2385,
+        "text": "At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant. One interesting takeaway: it's very clear that this new generation of models can take on unprecedented bodies of parallel work. To actually seize this intelligence, you need cl",
+        "url": "https://x.com/rauchg/status/2119878364794372162",
+        "createdAt": "2026-11-09T19:42:42.000Z",
+        "engagement": 1965,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "mattturck",
-        "name": "Matt Turck",
-        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-        "text": "Lol not Elon now, after nailing the Tucker Carlson impersonation 😂Absolutely epic run from Jeremy Culhane https://t.co/m26EQ0PBC0",
-        "url": "https://x.com/mattturck/status/2119457959625498698",
-        "createdAt": "2026-11-08T15:52:09.000Z",
-        "engagement": 2156,
-        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
+        "handle": "alexalbert__",
+        "name": "Alex Albert",
+        "bio": "Research @AnthropicAI",
+        "text": "I gave Fable 5.2 a PDF of one of Leonardo da Vinci’s 500-year-old notebooks and it made his inventions real for me to interact with. Such an exciting time for education. Anything from history that’s been stuck on a page can now be something you explore. https://t.co/MVSz3pc4To",
+        "url": "https://x.com/alexalbert__/status/2119916954337349737",
+        "createdAt": "2026-11-09T22:16:02.000Z",
+        "engagement": 1568
       },
       {
-        "handle": "ryolu_",
-        "name": "Ryo Lu",
-        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
-        "text": "when we can do anything, do we still know what we want? the full talk from @aiDotEngineer shanghai. every slide handmade in keynote, subs in 中文 and english https://t.co/EeyHu7l3Fc",
-        "url": "https://x.com/ryolu_/status/2119586846657454152",
-        "createdAt": "2026-11-09T00:24:18.000Z",
-        "engagement": 774
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default. https://t.co/VtVYz5DcAB",
+        "url": "https://x.com/thsottiaux/status/2120021043876106429",
+        "createdAt": "2026-11-10T05:09:39.000Z",
+        "engagement": 1476,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "zarazhangrui",
-        "name": "Zara Zhang",
-        "bio": "Builder. Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
-        "text": "I’ve almost stopped using the term “vibe coding” because there’s a negative connotation to it It implies that you didn’t put a lot of effort or soul into the output and it’s just AI slop But oftentimes people ARE putting their heart and soul into the work even when using AI codin",
-        "url": "https://x.com/zarazhangrui/status/2119592080318341128",
-        "createdAt": "2026-11-09T00:45:06.000Z",
-        "engagement": 416
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "BREAKING: @AnthropicAI just dropped Claude Fable 5.2. It’s a paradigm-shifting model if you have a project ambitious enough to give it. We’ve been testing it at @every, and I’ve seen this crazy explosion of creativity on the team. People are making their own creative software, ga",
+        "url": "https://x.com/danshipper/status/2119869228207546638",
+        "createdAt": "2026-11-09T19:06:23.000Z",
+        "engagement": 829,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "You're really going to want your own software factory https://t.co/lmk0Mati0N",
-        "url": "https://x.com/garrytan/status/2119615647592395037",
-        "createdAt": "2026-11-09T02:18:45.000Z",
-        "engagement": 368,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "So bullish on MCP. Its utility exceeds the \"M\" part: even AI aside, it'll be a civilization-scale accomplishment to get all our systems communicating through one universal open protocol. A missing piece was how to get arbitrary callbacks across sessions. MCP could read and write,",
+        "url": "https://x.com/rauchg/status/2119891138450755670",
+        "createdAt": "2026-11-09T20:33:27.000Z",
+        "engagement": 696,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "A good lesson in AI is that you need to check back in on the latest with every 3 to 6 months to try something that wasn’t possible before and see if it works again. At no point in AI’s history is that more true than today. Just the past six months of model progress around compute",
-        "url": "https://x.com/levie/status/2119502716770902234",
-        "createdAt": "2026-11-08T18:50:00.000Z",
-        "engagement": 297,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Claude Fable 5.2 is available today on all paid plans. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Claude Mythos 5.2. Read more: https://t.co/50jMVOmUG7",
+        "url": "https://x.com/claudeai/status/2119899492778398163",
+        "createdAt": "2026-11-09T21:06:39.000Z",
+        "engagement": 587
       },
       {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "Anecdotally, I think cheating is far more common in Asia. Plenty of guys who have their wife and kids living in the US/Canada, while they do business in Asia and have another girlfriend or even family in a 二奶村. Most of the time their wife knows about this too. Not saying any of t",
-        "url": "https://x.com/petergyang/status/2119556651636441416",
-        "createdAt": "2026-11-08T22:24:19.000Z",
-        "engagement": 294,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "I showed Paul Graham vibe coding before it was called that back in July ‘24, and this was his reaction: https://t.co/K6FaCFefId",
+        "url": "https://x.com/amasad/status/2119965240066752682",
+        "createdAt": "2026-11-10T01:27:54.000Z",
+        "engagement": 477,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
-        "handle": "thenanyu",
-        "name": "Nan Yu",
-        "bio": "product, codex @openai. prev head of product @linear",
-        "text": "This is basically true in all aspects of software. Choose the dumbest architecture that’ll work. choose the dumbest design that gets the job done. Being clever means your users also have to be just as clever to understand your cleverness https://t.co/aUC8OeQjU9",
-        "url": "https://x.com/thenanyu/status/2119462979179892925",
-        "createdAt": "2026-11-08T16:12:06.000Z",
-        "engagement": 274
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "In the second physics problem, Fable 5.2 found the exact limit of the simplest version of a 15-year-old technique known as “modular bootstrapping.” The technique is used to rule out candidate theories of quantum gravity in theoretical universes. https://t.co/sYDD812X0w",
+        "url": "https://x.com/claudeai/status/2119899488995131439",
+        "createdAt": "2026-11-09T21:06:38.000Z",
+        "engagement": 422
       },
       {
-        "handle": "levie",
-        "name": "Aaron Levie",
-        "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "We’re moving from an era of AI where the output comes roughly at the rate that you can chat back and forth with the AI to work with you, to a period where you can set a problem for a set of agents to go off and do an arbitrarily large amount of work for you. This means productivi",
-        "url": "https://x.com/levie/status/2119592025440092192",
-        "createdAt": "2026-11-09T00:44:53.000Z",
-        "engagement": 274,
-        "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
-      },
-      {
-        "handle": "thenanyu",
-        "name": "Nan Yu",
-        "bio": "product, codex @openai. prev head of product @linear",
-        "text": "Software got a lot easier if you know what you wanna build, and a lot harder if you don’t. With clarity, you can straight-shot to the solution. Without it, you’ll ship a pile of junk and spend a lot of money doing it. Pre-AI era you would ship nothing, which is an improvement.",
-        "url": "https://x.com/thenanyu/status/2119462224721002560",
-        "createdAt": "2026-11-08T16:09:06.000Z",
-        "engagement": 204
-      },
-      {
-        "handle": "zarazhangrui",
-        "name": "Zara Zhang",
-        "bio": "Builder. Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
-        "text": "The joy of building a product comes from the collision between the predictability of how technology behaves &amp; the unpredictability of how humans behave",
-        "url": "https://x.com/zarazhangrui/status/2119342420412510686",
-        "createdAt": "2026-11-08T08:13:03.000Z",
-        "engagement": 175
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "My gstack-evals project took a look at this Jev Engineering article and tried to replicate it, and I also told it to try particle-1 and it turns out this article replicates, and particle-1 is even better https://t.co/Lf4QULKRnF https://t.co/FfCzahr6UJ",
-        "url": "https://x.com/garrytan/status/2119624260675350605",
-        "createdAt": "2026-11-09T02:52:59.000Z",
-        "engagement": 148,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "bcherny",
+        "name": "Boris Cherny",
+        "bio": "Claude @anthropicai",
+        "text": "Pro users get one reset, and Max, Ultra, and Team Premium get up to three, depending on how long you've subscribed: https://t.co/JkknwZZGyh",
+        "url": "https://x.com/bcherny/status/2119890820186976763",
+        "createdAt": "2026-11-09T20:32:11.000Z",
+        "engagement": 360
       }
     ],
     "podcast": {
       "name": "Latent Space",
-      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-      "publishedAt": "2026-11-08T21:23:29.000Z"
+      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team",
+      "url": "https://www.youtube.com/@LatentSpacePod",
+      "publishedAt": "2026-11-09T16:41:48.000Z"
     }
   },
   "builderpulse": {
@@ -274,6 +272,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-11-10",
+      "aihotCount": 15,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-11-09",
       "aihotCount": 15,
@@ -306,12 +310,6 @@
     },
     {
       "date": "2026-11-04",
-      "aihotCount": 15,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-11-03",
       "aihotCount": 15,
       "buildersCount": 12,
       "bpBuild": ""
