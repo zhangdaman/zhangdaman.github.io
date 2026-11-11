@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T08:00:25.343Z",
-  "date": "2026-11-10",
+  "generatedAt": "2026-11-11T07:30:05.082Z",
+  "date": "2026-11-11",
   "aihot": {
     "ok": true,
     "items": [
@@ -130,124 +130,126 @@
     "ok": true,
     "items": [
       {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude @anthropicai",
-        "text": "We wanted to do more for the people who’ve been with us the longest. So with Fable 5.2, the longer you’ve been subscribed, the more Fable resets you get. https://t.co/g2Y5cwS0L2 https://t.co/kXTaE829XU",
-        "url": "https://x.com/bcherny/status/2119873095129550880",
-        "createdAt": "2026-11-09T19:21:45.000Z",
-        "engagement": 15035
-      },
-      {
-        "handle": "alexalbert__",
-        "name": "Alex Albert",
-        "bio": "Research @AnthropicAI",
-        "text": "Every time we have a new model, I run the same simple prompt on all my projects: \"Read this entire project and find everything that’s broken, inconsistent, inefficient, or no longer needed. Fix what you’re sure about and list the rest for me to review.\" highly recommend trying",
-        "url": "https://x.com/alexalbert__/status/2119884951550386671",
-        "createdAt": "2026-11-09T20:08:52.000Z",
-        "engagement": 6642
-      },
-      {
-        "handle": "alexalbert__",
-        "name": "Alex Albert",
-        "bio": "Research @AnthropicAI",
-        "text": "btw robotics will fall to the bitter lesson too https://t.co/cqftOw2OAM",
-        "url": "https://x.com/alexalbert__/status/2119869925288558799",
-        "createdAt": "2026-11-09T19:09:10.000Z",
-        "engagement": 2894
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant. One interesting takeaway: it's very clear that this new generation of models can take on unprecedented bodies of parallel work. To actually seize this intelligence, you need cl",
-        "url": "https://x.com/rauchg/status/2119878364794372162",
-        "createdAt": "2026-11-09T19:42:42.000Z",
-        "engagement": 1965,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "alexalbert__",
-        "name": "Alex Albert",
-        "bio": "Research @AnthropicAI",
-        "text": "I gave Fable 5.2 a PDF of one of Leonardo da Vinci’s 500-year-old notebooks and it made his inventions real for me to interact with. Such an exciting time for education. Anything from history that’s been stuck on a page can now be something you explore. https://t.co/MVSz3pc4To",
-        "url": "https://x.com/alexalbert__/status/2119916954337349737",
-        "createdAt": "2026-11-09T22:16:02.000Z",
-        "engagement": 1568
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "Labs innovating together ftw https://t.co/WnRpl5WpUw https://t.co/vJ5ETVAcHr",
+        "url": "https://x.com/thsottiaux/status/2120266880963473789",
+        "createdAt": "2026-11-10T21:26:31.000Z",
+        "engagement": 4001,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default. https://t.co/VtVYz5DcAB",
-        "url": "https://x.com/thsottiaux/status/2120021043876106429",
-        "createdAt": "2026-11-10T05:09:39.000Z",
-        "engagement": 1476,
+        "text": "How many of you have a small business? https://t.co/PduzGjgtLd",
+        "url": "https://x.com/thsottiaux/status/2120267268517249036",
+        "createdAt": "2026-11-10T21:28:04.000Z",
+        "engagement": 3333,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "danshipper",
-        "name": "Dan Shipper",
-        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-        "text": "BREAKING: @AnthropicAI just dropped Claude Fable 5.2. It’s a paradigm-shifting model if you have a project ambitious enough to give it. We’ve been testing it at @every, and I’ve seen this crazy explosion of creativity on the team. People are making their own creative software, ga",
-        "url": "https://x.com/danshipper/status/2119869228207546638",
-        "createdAt": "2026-11-09T19:06:23.000Z",
-        "engagement": 829,
-        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Also new: with interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside your conversation. Make changes yourself, or ask Claude to make them with you. Rolling out on web and desktop. https://t.co/m2x0tcHlLn",
+        "url": "https://x.com/claudeai/status/2120206375137484875",
+        "createdAt": "2026-11-10T17:26:06.000Z",
+        "engagement": 3017
+      },
+      {
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Claude Data (formerly Dashboards) is now generally available on paid plans. Along with dashboards, Claude can draft data stories and narrated videos from your metrics, for you to review before sharing. Certified queries and live sharing are in beta. https://t.co/f5p3yZ2N9X",
+        "url": "https://x.com/claudeai/status/2120206372478566799",
+        "createdAt": "2026-11-10T17:26:05.000Z",
+        "engagement": 1730
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+        "text": "we need fewer one shot demos and more tools that show how you can collaborate with models to bring your vision to life https://t.co/OlEhSqu9Mo",
+        "url": "https://x.com/trq212/status/2120223476279869875",
+        "createdAt": "2026-11-10T18:34:03.000Z",
+        "engagement": 1658,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "\"When the company ran diagnostics on about 700 systems, it found 10,500 vulnerabilities and held an emergency press conference on June 16, applying fixes over three months. However, when it re-ran diagnostics using \"GPT-6 Astra,\" the latest model released by US-based OpenAI, it c",
+        "url": "https://x.com/steipete/status/2120228665946710248",
+        "createdAt": "2026-11-10T18:54:40.000Z",
+        "engagement": 1469,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "These updates are starting to roll out today, so you may not see them all right away. Learn more about Claude Whiteboards, Sheets, Data, and interactive connectors: https://t.co/mLna1Esay5",
+        "url": "https://x.com/claudeai/status/2120206379315261702",
+        "createdAt": "2026-11-10T17:26:07.000Z",
+        "engagement": 1191
+      },
+      {
+        "handle": "joshwoodward",
+        "name": "Josh Woodward",
+        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+        "text": "Right now, Gemini 4 Carbon is in the @GeminiApp for Ultra subscribers worldwide https://t.co/Sl0Jujhqu7",
+        "url": "https://x.com/joshwoodward/status/2120186249281778135",
+        "createdAt": "2026-11-10T16:06:07.000Z",
+        "engagement": 719
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "So bullish on MCP. Its utility exceeds the \"M\" part: even AI aside, it'll be a civilization-scale accomplishment to get all our systems communicating through one universal open protocol. A missing piece was how to get arbitrary callbacks across sessions. MCP could read and write,",
-        "url": "https://x.com/rauchg/status/2119891138450755670",
-        "createdAt": "2026-11-09T20:33:27.000Z",
-        "engagement": 696,
+        "text": "Rust is a superb language and ecosystem, especially given it was invented pre agentic coding. With agents, new languages will blossom, even purpose-built ones for specific usecases, and discretionary C or even LLVM IR, assembly… AI is fluid. No more one-size-fits-all. https://t.c",
+        "url": "https://x.com/rauchg/status/2120337388178379178",
+        "createdAt": "2026-11-11T02:06:41.000Z",
+        "engagement": 530,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Claude Fable 5.2 is available today on all paid plans. Organizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Claude Mythos 5.2. Read more: https://t.co/50jMVOmUG7",
-        "url": "https://x.com/claudeai/status/2119899492778398163",
-        "createdAt": "2026-11-09T21:06:39.000Z",
-        "engagement": 587
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Vercel Security Review, less than 1 week since launch: ✓ 𝟱𝟳,𝟴𝟵𝟳 vulnerabilities identified ✓ 𝟲,𝟬𝟮𝟵 critical or high ✓ 𝟭𝟰,𝟲𝟲𝟱 already patched by Agent I'm shocked at ① the number of critical vulnerabilities that would go unnoticed and ② the ease at which the agent au",
+        "url": "https://x.com/rauchg/status/2120188488628977819",
+        "createdAt": "2026-11-10T16:15:01.000Z",
+        "engagement": 470,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "I showed Paul Graham vibe coding before it was called that back in July ‘24, and this was his reaction: https://t.co/K6FaCFefId",
-        "url": "https://x.com/amasad/status/2119965240066752682",
-        "createdAt": "2026-11-10T01:27:54.000Z",
-        "engagement": 477,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "I don't really care about the stock price but if @AnthropicAI can accelerate cures of all these terrible diseases it'll be one of the most impactful companies in history. I'm actually really glad Dario is focused on this vs. winning on viral shorts and TikTok memes. https://t.co/",
+        "url": "https://x.com/petergyang/status/2120320377163501817",
+        "createdAt": "2026-11-11T00:59:06.000Z",
+        "engagement": 447,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "In the second physics problem, Fable 5.2 found the exact limit of the simplest version of a 15-year-old technique known as “modular bootstrapping.” The technique is used to rule out candidate theories of quantum gravity in theoretical universes. https://t.co/sYDD812X0w",
-        "url": "https://x.com/claudeai/status/2119899488995131439",
-        "createdAt": "2026-11-09T21:06:38.000Z",
-        "engagement": 422
-      },
-      {
-        "handle": "bcherny",
-        "name": "Boris Cherny",
-        "bio": "Claude @anthropicai",
-        "text": "Pro users get one reset, and Max, Ultra, and Team Premium get up to three, depending on how long you've subscribed: https://t.co/JkknwZZGyh",
-        "url": "https://x.com/bcherny/status/2119890820186976763",
-        "createdAt": "2026-11-09T20:32:11.000Z",
-        "engagement": 360
+        "handle": "ryolu_",
+        "name": "Ryo Lu",
+        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
+        "text": "working together with other humans is where the magic happens, not each of us running our own army of agents in silos glad to see this come alive 💛 https://t.co/rGFJITKBNH",
+        "url": "https://x.com/ryolu_/status/2120337691661443081",
+        "createdAt": "2026-11-11T02:07:54.000Z",
+        "engagement": 325
       }
     ],
     "podcast": {
       "name": "Latent Space",
-      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team",
+      "title": "Designing for Agents — Zeno Rocha, Resend",
       "url": "https://www.youtube.com/@LatentSpacePod",
-      "publishedAt": "2026-11-09T16:41:48.000Z"
+      "publishedAt": "2026-11-10T20:06:15.000Z"
     }
   },
   "builderpulse": {
@@ -272,6 +274,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-11-11",
+      "aihotCount": 15,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-11-10",
       "aihotCount": 15,
@@ -304,12 +312,6 @@
     },
     {
       "date": "2026-11-05",
-      "aihotCount": 15,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-11-04",
       "aihotCount": 15,
       "buildersCount": 12,
       "bpBuild": ""
