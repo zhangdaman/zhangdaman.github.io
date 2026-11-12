@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T07:30:05.082Z",
-  "date": "2026-11-11",
+  "generatedAt": "2026-11-12T07:58:00.785Z",
+  "date": "2026-11-12",
   "aihot": {
     "ok": true,
     "items": [
@@ -133,123 +133,126 @@
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Labs innovating together ftw https://t.co/WnRpl5WpUw https://t.co/vJ5ETVAcHr",
-        "url": "https://x.com/thsottiaux/status/2120266880963473789",
-        "createdAt": "2026-11-10T21:26:31.000Z",
-        "engagement": 4001,
+        "text": "It’s been a while without resets. Maybe I should come back out of the basement",
+        "url": "https://x.com/thsottiaux/status/2120410006273380750",
+        "createdAt": "2026-11-11T06:55:15.000Z",
+        "engagement": 17590,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "How many of you have a small business? https://t.co/PduzGjgtLd",
-        "url": "https://x.com/thsottiaux/status/2120267268517249036",
-        "createdAt": "2026-11-10T21:28:04.000Z",
-        "engagement": 3333,
+        "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset.",
+        "url": "https://x.com/thsottiaux/status/2120410480204525936",
+        "createdAt": "2026-11-11T06:57:08.000Z",
+        "engagement": 10794,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Also new: with interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside your conversation. Make changes yourself, or ask Claude to make them with you. Rolling out on web and desktop. https://t.co/m2x0tcHlLn",
-        "url": "https://x.com/claudeai/status/2120206375137484875",
-        "createdAt": "2026-11-10T17:26:06.000Z",
-        "engagement": 3017
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Claude Data (formerly Dashboards) is now generally available on paid plans. Along with dashboards, Claude can draft data stories and narrated videos from your metrics, for you to review before sharing. Certified queries and live sharing are in beta. https://t.co/f5p3yZ2N9X",
-        "url": "https://x.com/claudeai/status/2120206372478566799",
-        "createdAt": "2026-11-10T17:26:05.000Z",
-        "engagement": 1730
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
-        "text": "we need fewer one shot demos and more tools that show how you can collaborate with models to bring your vision to life https://t.co/OlEhSqu9Mo",
-        "url": "https://x.com/trq212/status/2120223476279869875",
-        "createdAt": "2026-11-10T18:34:03.000Z",
-        "engagement": 1658,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "\"When the company ran diagnostics on about 700 systems, it found 10,500 vulnerabilities and held an emergency press conference on June 16, applying fixes over three months. However, when it re-ran diagnostics using \"GPT-6 Astra,\" the latest model released by US-based OpenAI, it c",
-        "url": "https://x.com/steipete/status/2120228665946710248",
-        "createdAt": "2026-11-10T18:54:40.000Z",
-        "engagement": 1469,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "These updates are starting to roll out today, so you may not see them all right away. Learn more about Claude Whiteboards, Sheets, Data, and interactive connectors: https://t.co/mLna1Esay5",
-        "url": "https://x.com/claudeai/status/2120206379315261702",
-        "createdAt": "2026-11-10T17:26:07.000Z",
-        "engagement": 1191
-      },
-      {
-        "handle": "joshwoodward",
-        "name": "Josh Woodward",
-        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "Right now, Gemini 4 Carbon is in the @GeminiApp for Ultra subscribers worldwide https://t.co/Sl0Jujhqu7",
-        "url": "https://x.com/joshwoodward/status/2120186249281778135",
-        "createdAt": "2026-11-10T16:06:07.000Z",
-        "engagement": 719
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "Why are old stories that were not even covered up all that well become sudden international and geopolitical news? The timing is suspicious, so worth asking: who benefits and why now? If Jensen, the premier champion of open models, is taken out then anyone who wants AI closed, ce",
+        "url": "https://x.com/amasad/status/2120671838909194695",
+        "createdAt": "2026-11-12T00:15:41.000Z",
+        "engagement": 3819,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Rust is a superb language and ecosystem, especially given it was invented pre agentic coding. With agents, new languages will blossom, even purpose-built ones for specific usecases, and discretionary C or even LLVM IR, assembly… AI is fluid. No more one-size-fits-all. https://t.c",
-        "url": "https://x.com/rauchg/status/2120337388178379178",
-        "createdAt": "2026-11-11T02:06:41.000Z",
-        "engagement": 530,
+        "text": "PSA: creating wonderful products still requires extraordinary amounts of human focus, effort, motivation, and love. And an attention span.",
+        "url": "https://x.com/rauchg/status/2120601000176439478",
+        "createdAt": "2026-11-11T19:34:11.000Z",
+        "engagement": 3666,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Vercel Security Review, less than 1 week since launch: ✓ 𝟱𝟳,𝟴𝟵𝟳 vulnerabilities identified ✓ 𝟲,𝟬𝟮𝟵 critical or high ✓ 𝟭𝟰,𝟲𝟲𝟱 already patched by Agent I'm shocked at ① the number of critical vulnerabilities that would go unnoticed and ② the ease at which the agent au",
-        "url": "https://x.com/rauchg/status/2120188488628977819",
-        "createdAt": "2026-11-10T16:15:01.000Z",
-        "engagement": 470,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+        "handle": "claudeai",
+        "name": "Claude",
+        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
+        "text": "Mariko Mori has pushed the boundaries of art for three decades. For her retrospective \"All That Shines,\" she used Claude to write code for a computer-generated animation, presented as a new video installation. https://t.co/MtJ1rlClxt",
+        "url": "https://x.com/claudeai/status/2120669165316915259",
+        "createdAt": "2026-11-12T00:05:03.000Z",
+        "engagement": 3614
       },
       {
         "handle": "petergyang",
         "name": "Peter Yang",
         "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "I don't really care about the stock price but if @AnthropicAI can accelerate cures of all these terrible diseases it'll be one of the most impactful companies in history. I'm actually really glad Dario is focused on this vs. winning on viral shorts and TikTok memes. https://t.co/",
-        "url": "https://x.com/petergyang/status/2120320377163501817",
-        "createdAt": "2026-11-11T00:59:06.000Z",
-        "engagement": 447,
+        "text": "Man I am so disappointed in Jensen. So many people looked up to him including me. The story of rising from a dishwasher and waiter to the CEO of the most valuable company in the world. The story of a 41-year marriage to his college sweetheart. What the hell happened man? And of a",
+        "url": "https://x.com/petergyang/status/2120649149389627493",
+        "createdAt": "2026-11-11T22:45:31.000Z",
+        "engagement": 2121,
         "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       },
       {
-        "handle": "ryolu_",
-        "name": "Ryo Lu",
-        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
-        "text": "working together with other humans is where the magic happens, not each of us running our own army of agents in silos glad to see this come alive 💛 https://t.co/rGFJITKBNH",
-        "url": "https://x.com/ryolu_/status/2120337691661443081",
-        "createdAt": "2026-11-11T02:07:54.000Z",
-        "engagement": 325
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+        "text": "Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out so if you’re not one of those please come to mine tomorrow at 5pm it’s called “the sweet side of the bitter lesson” https://t.co/R5nVuHXukK",
+        "url": "https://x.com/trq212/status/2120620900785820143",
+        "createdAt": "2026-11-11T20:53:16.000Z",
+        "engagement": 1263,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "GoogleLabs",
+        "name": "Google Labs",
+        "bio": "Google’s home for our latest AI tools and experiments.",
+        "text": "🚨 NEW LABS EXPERIMENT 🚨 Introducing Tabletop 🎲— our newest experiment built to get your crew from \"we should totally do that\" to \"we’re actually doing this.\" Drop links and files into one shared space, add your crew, and ask Tabletop for whatever you need to create custom spac",
+        "url": "https://x.com/GoogleLabs/status/2120549258692882702",
+        "createdAt": "2026-11-11T16:08:35.000Z",
+        "engagement": 1206
+      },
+      {
+        "handle": "swyx",
+        "name": "Swyx",
+        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
+        "text": "standing room only for @poteto’s keynote https://t.co/1uNkKE62e4 https://t.co/bPauHUJuq5",
+        "url": "https://x.com/swyx/status/2120582147107078356",
+        "createdAt": "2026-11-11T18:19:17.000Z",
+        "engagement": 628,
+        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an engine of our future abundance. His day to day is prime actor work. Would be hard to believe a transition happens without massive market cap implosion. https://t.",
+        "url": "https://x.com/garrytan/status/2120657462353330604",
+        "createdAt": "2026-11-11T23:18:33.000Z",
+        "engagement": 412,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "reading some of these comments makes my brain hurt. oss is already hard enough without politics. https://t.co/TgpI4KxLOS",
+        "url": "https://x.com/steipete/status/2120711266759258616",
+        "createdAt": "2026-11-12T02:52:21.000Z",
+        "engagement": 319,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "adityaag",
+        "name": "Aditya Agarwal",
+        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Bo",
+        "text": "There are basically two kinds of companies to build right now. 1. Diffusion of AI This is the \"vertical SaaS\" of today. There are a bunch of different models for it (FDE company, rollup, horizontal product) but ultimately it all boils down to the same thing: get AI diffused very ",
+        "url": "https://x.com/adityaag/status/2120578134177464356",
+        "createdAt": "2026-11-11T18:03:20.000Z",
+        "engagement": 265,
+        "textZh": "Schrep 和 Gigascale 团队在做一些很特别的事。他们是 @southpkcommons 被投公司的绝佳合作伙伴。@schrep 是我仰望已久的人，期待继续合作。"
       }
     ],
     "podcast": {
-      "name": "Latent Space",
-      "title": "Designing for Agents — Zeno Rocha, Resend",
-      "url": "https://www.youtube.com/@LatentSpacePod",
-      "publishedAt": "2026-11-10T20:06:15.000Z"
+      "name": "AI & I by Every",
+      "title": "A New Vision for Human Work After Automation",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-11-11T15:30:00.000Z"
     }
   },
   "builderpulse": {
@@ -274,6 +277,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-11-12",
+      "aihotCount": 15,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-11-11",
       "aihotCount": 15,
@@ -306,12 +315,6 @@
     },
     {
       "date": "2026-11-06",
-      "aihotCount": 15,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-11-05",
       "aihotCount": 15,
       "buildersCount": 12,
       "bpBuild": ""
