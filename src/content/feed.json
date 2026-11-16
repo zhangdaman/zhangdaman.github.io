@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T07:34:50.702Z",
-  "date": "2026-11-15",
+  "generatedAt": "2026-11-16T07:40:18.783Z",
+  "date": "2026-11-16",
   "aihot": {
     "ok": true,
     "items": [
@@ -130,130 +130,129 @@
     "ok": true,
     "items": [
       {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "We’ve entered Murphy’s world. Anything that can go wrong will go wrong. With billions of things happening at once, recursively interdependent and accelerating rapidly, what’s once considered a rare failure is now a daily thing.",
-        "url": "https://x.com/amasad/status/2121519931741127144",
-        "createdAt": "2026-11-14T08:25:42.000Z",
-        "engagement": 1202,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming &amp; defense factory... What can we do better or improve?",
-        "url": "https://x.com/thsottiaux/status/2121845965997101118",
-        "createdAt": "2026-11-15T06:01:14.000Z",
-        "engagement": 767,
+        "text": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
+        "url": "https://x.com/thsottiaux/status/2122206990101536852",
+        "createdAt": "2026-11-16T05:55:49.000Z",
+        "engagement": 2584,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+        "text": "a new arena and two new characters https://t.co/e8nHEldjoD https://t.co/hLIVplRPrW",
+        "url": "https://x.com/trq212/status/2122154124024381828",
+        "createdAt": "2026-11-16T02:25:45.000Z",
+        "engagement": 967,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "Got to experience the magic of @uisdk. Two prompts of fx + Gemini Argon. Pure Web Components. No framework. The agent reused 14 UI SDK behaviors out of the box 🤯: window resizing, drag, menubar hover-switching, typeahead, roving toolbar focus, 10-band EQ sliders, scoped hotkeys,",
-        "url": "https://x.com/rauchg/status/2121804295381377342",
-        "createdAt": "2026-11-15T03:15:39.000Z",
-        "engagement": 639,
+        "text": "Introducing 𝚡𝚎𝚎𝚝: https://t.co/YaLEMbmKwf. A hermetic, pixel-perfect X post renderer in safe Rust / wasm. Zero browser, network, filesystem, system fonts. Renders a post to PNG in ~1ms (and 0.4 ms for @jack's \"setting up my twttr\" 😁). X is the global town square, and the med",
+        "url": "https://x.com/rauchg/status/2122184794209714368",
+        "createdAt": "2026-11-16T04:27:37.000Z",
+        "engagement": 656,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "joshwoodward",
-        "name": "Josh Woodward",
-        "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "New in Gemini: Connect Google Wallet for personal finance insights This is powerful for things like: + making instant charts to visualize your spend + finding sneaky subscription price hikes + making a holiday budget based on what you actually spent last year https://t.co/wzrBpwY",
-        "url": "https://x.com/joshwoodward/status/2121755282326102417",
-        "createdAt": "2026-11-15T00:00:54.000Z",
-        "engagement": 502
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "It’s been an interesting 48 hours. https://t.co/t4IOusuJn0",
+        "url": "https://x.com/amasad/status/2122185760799609017",
+        "createdAt": "2026-11-16T04:31:28.000Z",
+        "engagement": 512,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
-        "handle": "steipete",
-        "name": "Peter Steinberger",
-        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
-        "text": "🍿 https://t.co/nKrqXP5ZWD",
-        "url": "https://x.com/steipete/status/2121706904917520875",
-        "createdAt": "2026-11-14T20:48:40.000Z",
-        "engagement": 494,
-        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "AI models are getting really good at naming things. I created a little CLI to diagnose system slowdowns, and it named it 𝚑𝚘𝚐 🐖, which I love. Given they're already good at cache invalidation, maybe computer science's hardest problems are solved after all 😂",
+        "url": "https://x.com/rauchg/status/2122127120055034258",
+        "createdAt": "2026-11-16T00:38:27.000Z",
+        "engagement": 467,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Do all this and use it with gbrain :-) https://t.co/WxlVS6Elf9",
-        "url": "https://x.com/garrytan/status/2121768476775989404",
-        "createdAt": "2026-11-15T00:53:20.000Z",
-        "engagement": 466,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "Good summary. https://t.co/KThCywHmZt",
+        "url": "https://x.com/amasad/status/2122062419010961439",
+        "createdAt": "2026-11-15T20:21:21.000Z",
+        "engagement": 354,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "we've been working hard on compounding skills lately (skills that get better every time you use them) and i think @hammer_mt finally cracked it this weekend i made a skill to help us write context window summaries, and used autoresearch to iterate until it hit 80% of my taste on ",
+        "url": "https://x.com/danshipper/status/2122091033001337134",
+        "createdAt": "2026-11-15T22:15:03.000Z",
+        "engagement": 147,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
+      },
+      {
+        "handle": "adityaag",
+        "name": "Aditya Agarwal",
+        "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Bo",
+        "text": "One of our aerospace companies in India shared this with me today morning. The journey to the stars starts with a single plane on a remote runway on an early Sunday morning. Ad Astra. @shreepoorna365 @arctusaerospace https://t.co/XTdk1wVU5q",
+        "url": "https://x.com/adityaag/status/2122003237335343457",
+        "createdAt": "2026-11-15T16:26:11.000Z",
+        "engagement": 127,
+        "textZh": "Schrep 和 Gigascale 团队在做一些很特别的事。他们是 @southpkcommons 被投公司的绝佳合作伙伴。@schrep 是我仰望已久的人，期待继续合作。"
+      },
+      {
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+        "text": "Being good at LinkedIn probably makes you bad at X https://t.co/dFYRSQLn9V",
+        "url": "https://x.com/zarazhangrui/status/2122021380745290202",
+        "createdAt": "2026-11-15T17:38:17.000Z",
+        "engagement": 125
       },
       {
         "handle": "petergyang",
         "name": "Peter Yang",
         "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "Two very useful prompts to try with Fable 5.2: \"/doctor prompt-audit\": Audits your Claude Code setup (Claude md, skills, commands) and proposes fixes. \"/claude-api prompt-audit [skill name]\": Audits one skill in depth. I wish Claude Code auto-suggested running these every time An",
-        "url": "https://x.com/petergyang/status/2121649295950762363",
-        "createdAt": "2026-11-14T16:59:45.000Z",
-        "engagement": 458,
+        "text": "Alright I can't help it: NYTimes published this article that \"US intelligence had believed\" Alice Huang was a spy: https://t.co/DQSjGBRsaE But there's still no proof one way or another whether she was a spy or not, per CNN: https://t.co/c5lwbDl2R5 So where did this spy narrative ",
+        "url": "https://x.com/petergyang/status/2122039657001300125",
+        "createdAt": "2026-11-15T18:50:54.000Z",
+        "engagement": 111,
         "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "An awesome day for humanity ✦ · ✧ · ✦ · ✧ ✧ · ✦ ✧ · ✧ https://t.co/PFq6pBdxcS",
-        "url": "https://x.com/rauchg/status/2121825273373229134",
-        "createdAt": "2026-11-15T04:39:01.000Z",
-        "engagement": 427,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+        "handle": "thenanyu",
+        "name": "Nan Yu",
+        "bio": "product, codex @openai. prev head of product @linear",
+        "text": "It’s cute that my Waymo turns on its windshield wipers in the rain",
+        "url": "https://x.com/thenanyu/status/2122096121946468451",
+        "createdAt": "2026-11-15T22:35:16.000Z",
+        "engagement": 59
       },
       {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Autonomous Businesses are here. https://t.co/4pISz57GP9",
-        "url": "https://x.com/amasad/status/2121765647168483589",
-        "createdAt": "2026-11-15T00:42:05.000Z",
-        "engagement": 314,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Technology is inherently recursively self-improving and the degree of autonomy has been going up overtime. AI is an accelerant but it didn’t not start this cycle. Douglas Engelbart understood this. https://t.co/J3Zp1YNFXC",
-        "url": "https://x.com/amasad/status/2121549054173757554",
-        "createdAt": "2026-11-14T10:21:25.000Z",
-        "engagement": 309,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Subagents on https://t.co/3Z4NESzNKd work so well… extremely delightful. Amazing how much goodness fits in 6.33mb 😁 All my projects are built by planning with the smartest model + delegating to fast model subagents. It's a 1-line instruction in ~/.𝚏𝚡/𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍. https:/",
-        "url": "https://x.com/rauchg/status/2121739228698886454",
-        "createdAt": "2026-11-14T22:57:06.000Z",
-        "engagement": 281,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "swyx",
-        "name": "Swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
-        "text": "obviously correct, we are so suboptimal in AI UX rn it is crazy esp given existence of models too cheap to meter https://t.co/6S0eWejPXK",
-        "url": "https://x.com/swyx/status/2121757606801023085",
-        "createdAt": "2026-11-15T00:10:08.000Z",
-        "engagement": 231,
-        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "Next guest up in this weekly series is @kanavg1, cofounder of @coreauto on Friday, Nov 20th at noon. For this session, we'll be chatting about all things RL (methods, synthetic data, loops, automation etc) Format: > 60 minute sessions (IRL only) in SF > For the first 45 mins, I g",
+        "url": "https://x.com/nikunj/status/2122042319419609105",
+        "createdAt": "2026-11-15T19:01:29.000Z",
+        "engagement": 59,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
       }
     ],
     "podcast": {
-      "name": "Unsupervised Learning",
-      "title": "Ep 97: Jev Creator on Decision Models, Benchmark Fatigue &amp; Why the Labs Missed It",
-      "url": "https://www.youtube.com/@RedpointAI",
-      "publishedAt": "2026-11-05T14:05:50.000Z"
+      "name": "No Priors",
+      "title": "Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-11-05T11:00:00.000Z"
     }
   },
   "builderpulse": {
@@ -278,6 +277,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-11-16",
+      "aihotCount": 15,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-11-15",
       "aihotCount": 15,
@@ -310,12 +315,6 @@
     },
     {
       "date": "2026-11-10",
-      "aihotCount": 15,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-11-09",
       "aihotCount": 15,
       "buildersCount": 12,
       "bpBuild": ""
