@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T08:13:48.782Z",
-  "date": "2026-11-18",
+  "generatedAt": "2026-11-19T08:24:53.059Z",
+  "date": "2026-11-19",
   "aihot": {
     "ok": true,
     "items": [
@@ -130,130 +130,127 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-        "text": "6.2 Sol and Astra are out. These models can do amazing things and are very token-efficient; we hope people will get great value from them. In particular, 6.2 Sol ultrafast is something I think people will really enjoy. https://t.co/KNjtDKRwj7",
-        "url": "https://x.com/sama/status/2122798039899263456",
-        "createdAt": "2026-11-17T21:04:27.000Z",
-        "engagement": 8006,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and th",
-        "url": "https://x.com/thsottiaux/status/2122929634916679820",
-        "createdAt": "2026-11-18T05:47:21.000Z",
-        "engagement": 3605,
+        "text": "How is 6.2 Sol treating you today?",
+        "url": "https://x.com/thsottiaux/status/2123113107048501273",
+        "createdAt": "2026-11-18T17:56:24.000Z",
+        "engagement": 6138,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "sama",
         "name": "Sam Altman",
         "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-        "text": "Although the new models are very smart, we have more work ahead of us on making the models nice to work with, and will prioritize that for upcoming releases. But even if it takes a little extra work, the intelligence and capability are extraordinary.",
-        "url": "https://x.com/sama/status/2122798042734633452",
-        "createdAt": "2026-11-17T21:04:27.000Z",
-        "engagement": 3081,
+        "text": "So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day. Greg’s role at OpenAI has evolved from writing code 100 hours a week in the early days to no",
+        "url": "https://x.com/sama/status/2123103873166381287",
+        "createdAt": "2026-11-18T17:19:43.000Z",
+        "engagement": 4257,
         "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
       },
       {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "Only three people to remove from the board? Easy work 15% shareholder vote coming https://t.co/X2nvAhGcpi",
-        "url": "https://x.com/garrytan/status/2122910329537728747",
-        "createdAt": "2026-11-18T04:30:38.000Z",
-        "engagement": 2839,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+        "text": "this is one of those reasons why I don't think most people will really generate their own software good software is a set of strong opinions and I'd rather have something that's been really thought through by someone else",
+        "url": "https://x.com/trq212/status/2123106370161705127",
+        "createdAt": "2026-11-18T17:29:38.000Z",
+        "engagement": 3303,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "thsottiaux",
         "name": "Thibault Sottiaux",
         "bio": "Codex & ChatGPT @OpenAI",
-        "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
-        "url": "https://x.com/thsottiaux/status/2122754551187132438",
-        "createdAt": "2026-11-17T18:11:38.000Z",
-        "engagement": 2438,
+        "text": "GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations. I do get the feedback on its communication style and we're working on that, but for really the hardest tasks in the world it does seem to be in a league of its o",
+        "url": "https://x.com/thsottiaux/status/2123175166519992652",
+        "createdAt": "2026-11-18T22:03:01.000Z",
+        "engagement": 3121,
         "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+        "text": "making your own software is tough, even with AI, because it's hard to know what you really want I didn't end up sticking with this, the modes weren't the right way for me to organize my work gonna a different take that’s more to-do oriented https://t.co/6iejoVGp1D",
+        "url": "https://x.com/trq212/status/2123106368492298653",
+        "createdAt": "2026-11-18T17:29:38.000Z",
+        "engagement": 1821,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "Ok this happens a lot so I thought I’ll lay it out here.. founder friend: my pitch isn’t working on the fundraising side. haaalp. *proceeds to give me the pitch* me: ambition is what’s being rewarded right now. what do you believe to be true if everything you laid out works? thin",
+        "url": "https://x.com/nikunj/status/2123066196052381864",
+        "createdAt": "2026-11-18T14:50:00.000Z",
+        "engagement": 1069,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "I’m being pitched a new inference neocloud company on average every two days. No exaggeration. I take every entrepreneur seriously and I look deeply into each. But it’s hard to fathom this being sustainable. At the same time, AI Gateway token demand on Vercel has been ~40% MoM co",
+        "url": "https://x.com/rauchg/status/2123203741570740504",
+        "createdAt": "2026-11-18T23:56:33.000Z",
+        "engagement": 1043,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "One of the most impressive things I've seen, and I think this is an important advancement to the state of the art. Message boards were the enabling technology of both the Navier-Stokes math breakthrough and even the OpenAI/HuggingFace cyber feat. We built a message board infrastr",
+        "url": "https://x.com/rauchg/status/2123237505810178434",
+        "createdAt": "2026-11-19T02:10:43.000Z",
+        "engagement": 876,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "GoogleLabs",
+        "name": "Google Labs",
+        "bio": "Google’s home for our latest AI tools and experiments.",
+        "text": "🚨NEW EXPERIMENT 🚨 Please join us in welcoming Stitch Loop, an always-on product agent that works non-stop to help lean teams build better products. Join the waitlist: https://t.co/L0cp6slvxZ https://t.co/Ym6uf756GB",
+        "url": "https://x.com/GoogleLabs/status/2123102389775573314",
+        "createdAt": "2026-11-18T17:13:49.000Z",
+        "engagement": 816
       },
       {
         "handle": "joshwoodward",
         "name": "Josh Woodward",
         "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
-        "text": "Gemini can now do your tasks free of charge in six countries! We’ve built it for anyone who has tasks piling up during all the classes, meetings, and school drop-offs that fill the day. Our goal is for Gemini to get the job done and save you time and money along the way. 3 major ",
-        "url": "https://x.com/joshwoodward/status/2122737427970425171",
-        "createdAt": "2026-11-17T17:03:36.000Z",
-        "engagement": 659
+        "text": "Introducing Gemini 4 Neon. The shipping continues! Frontier-grade intelligence that’s faster, cheaper, and follows complex instructions well. So good to use! https://t.co/HWBTt61dLn",
+        "url": "https://x.com/joshwoodward/status/2123177835254952348",
+        "createdAt": "2026-11-18T22:13:37.000Z",
+        "engagement": 413
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "If you have Pro 200/500, I do recommend trying out 6.2 Sol ultrafast, it's quite the blast to use and a completely different feel. I'm excited to keep pushing in bringing these speeds to more users over time.",
-        "url": "https://x.com/thsottiaux/status/2122929829863735594",
-        "createdAt": "2026-11-18T05:48:08.000Z",
-        "engagement": 622,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "zarazhangrui",
+        "name": "Zara Zhang",
+        "bio": "Builder. Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+        "text": "Instead of being massively viral for 1 day, it's much better to be just a little bit viral every week, and watch it compound Build a system that consistently delivers high-quality content over a long period of time",
+        "url": "https://x.com/zarazhangrui/status/2122953849120153714",
+        "createdAt": "2026-11-18T07:23:34.000Z",
+        "engagement": 375
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "Actually a huge deal for web performance. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 𝚟𝚒𝚝𝚊𝚕𝚜 is so smart… self-optimizing software is here! https://t.co/rTkIyaUmLh",
-        "url": "https://x.com/rauchg/status/2122830064152899991",
-        "createdAt": "2026-11-17T23:11:42.000Z",
-        "engagement": 514,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "swyx",
-        "name": "Swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
-        "text": "devin bots are multi-agent teams done right: - always on, proactive (but tuned for ROI) - own outcomes not tasks (but can collab w others) - manages teams of subagents (and reviews itself) - available everywhere (call text slack whatever hello @interaction) - consistent reporting",
-        "url": "https://x.com/swyx/status/2122746401482592549",
-        "createdAt": "2026-11-17T17:39:15.000Z",
-        "engagement": 312,
-        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
-      },
-      {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch",
-        "bio": "@vercel CEO",
-        "text": "OpenAI just put out the most cybersecurity-capable models in the world. Excellent timing. Important signal: @vercel DeepsecBench is a stealth cyber benchmark. No lab has had access to the codebases to train on. https://t.co/14WK4F7irU https://t.co/TXMgZ8URsA",
-        "url": "https://x.com/rauchg/status/2122812237169426606",
-        "createdAt": "2026-11-17T22:00:51.000Z",
-        "engagement": 281,
-        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
-      },
-      {
-        "handle": "swyx",
-        "name": "Swyx",
-        "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
-        "text": "the fact that nobody with decisionmaking power saw this coming a mile away and vetoed the 6.2 astra ad is my primary critique of the astra launch the model itself is solid minor version improvement guys, efficiency is one of the three most impt RL objectives rn and they are world",
-        "url": "https://x.com/swyx/status/2122862646265520150",
-        "createdAt": "2026-11-18T01:21:10.000Z",
-        "engagement": 241,
-        "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
-      },
-      {
-        "handle": "garrytan",
-        "name": "Garry Tan",
-        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
-        "text": "If you’re a shareholder, employee or former employee your voice is needed here https://t.co/w6gz1FYpKZ",
-        "url": "https://x.com/garrytan/status/2122913046603649325",
-        "createdAt": "2026-11-18T04:41:26.000Z",
-        "engagement": 226,
-        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
+        "handle": "GoogleLabs",
+        "name": "Google Labs",
+        "bio": "Google’s home for our latest AI tools and experiments.",
+        "text": "Create a world from one sentence, then change it while you’re standing inside 🌐 Project Genie now runs on @GoogleDeepMind’s Genie 4. Here’s what’s new: — Prompt mid-session to edit your world live — Create worlds conversationally with the help of a new agent — Explore & remix ot",
+        "url": "https://x.com/GoogleLabs/status/2123118145552749015",
+        "createdAt": "2026-11-18T18:16:26.000Z",
+        "engagement": 295
       }
     ],
     "podcast": {
-      "name": "Latent Space",
-      "title": "Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs",
-      "url": "https://www.youtube.com/watch?v=8cGfJOU3AlQ",
-      "publishedAt": "2026-11-16T21:27:06.000Z"
+      "name": "AI & I by Every",
+      "title": "Notion’s Founder on the One Thing Your AI Is Missing",
+      "url": "https://www.youtube.com/watch?v=PGWvMrF4XIA",
+      "publishedAt": "2026-11-18T18:19:30.000Z"
     }
   },
   "builderpulse": {
@@ -278,6 +275,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-11-19",
+      "aihotCount": 15,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-11-18",
       "aihotCount": 15,
@@ -310,12 +313,6 @@
     },
     {
       "date": "2026-11-13",
-      "aihotCount": 15,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-11-12",
       "aihotCount": 15,
       "buildersCount": 12,
       "bpBuild": ""
