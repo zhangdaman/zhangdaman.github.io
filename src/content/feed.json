@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T10:40:58.786Z",
-  "date": "2026-11-24",
+  "generatedAt": "2026-11-25T09:34:45.539Z",
+  "date": "2026-11-25",
   "aihot": {
     "ok": true,
     "items": [
@@ -130,124 +130,131 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-        "text": "Jensen!",
-        "url": "https://x.com/sama/status/2124887162206495228",
-        "createdAt": "2026-11-23T15:25:52.000Z",
-        "engagement": 88325,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "trq212",
-        "name": "Thariq",
-        "bio": "at your service, formerly Claude Code @anthropicai",
-        "text": "they cut the scene in Hitchhiker's Guide where the computer follows 42 with 500 million pages of Lean",
-        "url": "https://x.com/trq212/status/2124767804247379968",
-        "createdAt": "2026-11-23T07:31:35.000Z",
-        "engagement": 11113,
-        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
-      },
-      {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "There’s now one way to connect your tools to Claude, teach it a new skill, or do both. Connectors and skills come together as plugins. Live on Free, Pro, Max, and Ultra plans, with Team and Enterprise coming soon. Browse 10,000+ plugins: https://t.co/gSwpY9HDPY https://t.co/K78lw",
-        "url": "https://x.com/claudeai/status/2124970294523945328",
-        "createdAt": "2026-11-23T20:56:12.000Z",
-        "engagement": 7080
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+        "url": "https://x.com/thsottiaux/status/2125299248782778588",
+        "createdAt": "2026-11-24T18:43:21.000Z",
+        "engagement": 5449,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
       },
       {
         "handle": "bcherny",
         "name": "Boris Cherny",
         "bio": "Claude @anthropicai",
-        "text": "A year ago we launched Opus 4.5, the first model to write 100% of my code. Shipping PRs hasn’t caught up, so today we’re launching Claude Ship in beta for Team and Enterprise. I use it all day every day and can’t imagine shipping without it. https://t.co/IfK0Oua6rZ",
-        "url": "https://x.com/bcherny/status/2124961485801836573",
-        "createdAt": "2026-11-23T20:21:12.000Z",
-        "engagement": 6121
+        "text": "Really excited about this one. MCP servers can now ship with their own skills, so Claude Code knows how to use them out of the box. https://t.co/Z0TQVOfGTz",
+        "url": "https://x.com/bcherny/status/2125292098165612585",
+        "createdAt": "2026-11-24T18:14:56.000Z",
+        "engagement": 5312
       },
       {
-        "handle": "claudeai",
-        "name": "Claude",
-        "bio": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to ",
-        "text": "Zero data retention (ZDR) with Enterprise Frontier Safeguards (EFS) is now in public beta for eligible businesses. It looks for misuse across many requests while remaining compatible with ZDR. We developed it with over 100 customers. Read more: https://t.co/M8riFzHDPY https://t.c",
-        "url": "https://x.com/claudeai/status/2124929944530587712",
-        "createdAt": "2026-11-23T18:15:52.000Z",
-        "engagement": 5348
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "You should feel a significant jump in quality of answers on ChatGPT once rolled out to you. Together with all the investments we are making across simplifying the app, making it faster and merging chat & work, it's going to be quite the improvement in day to day experience by the",
-        "url": "https://x.com/thsottiaux/status/2124998553856844186",
-        "createdAt": "2026-11-23T22:48:30.000Z",
-        "engagement": 4374,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
-      },
-      {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-        "text": "This is really really good: https://t.co/LcWViyLKii",
-        "url": "https://x.com/sama/status/2124894264564092952",
-        "createdAt": "2026-11-23T15:54:05.000Z",
-        "engagement": 4317,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
-      },
-      {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system. https://t.co/5YtdTspKBk",
-        "url": "https://x.com/thsottiaux/status/2124923055072043052",
-        "createdAt": "2026-11-23T17:48:30.000Z",
-        "engagement": 2716,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "at your service, formerly Claude Code @anthropicai",
+        "text": "you have to be bad at it for a while https://t.co/s5ECrbQ3sG",
+        "url": "https://x.com/trq212/status/2125156290494353663",
+        "createdAt": "2026-11-24T09:15:17.000Z",
+        "engagement": 2090,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "amasad",
         "name": "Amjad Masad",
         "bio": "ceo @replit. civilizationist",
-        "text": "Great meeting with VP @JDVance on Friday to discuss American AI leadership, cybersecurity, and modernizing our nation’s software infrastructure. We also discussed an issue close to my heart: American leadership in open-weight AI. Our allies want sovereign AI and are increasingly ",
-        "url": "https://x.com/amasad/status/2125008810041610359",
-        "createdAt": "2026-11-23T23:29:15.000Z",
-        "engagement": 1962,
+        "text": "America can build the best frontier models and still lose the global AI race. Which is why Jensen’s return matters far beyond Nvidia. Governments around the world want sovereign AI: models they can run on their own soil, on their own infrastructure, under their own control. If Am",
+        "url": "https://x.com/amasad/status/2125353849057853876",
+        "createdAt": "2026-11-24T22:20:19.000Z",
+        "engagement": 706,
         "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
+      },
+      {
+        "handle": "steipete",
+        "name": "Peter Steinberger",
+        "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster t",
+        "text": "What a year this has been! Time to reflect and do a blog post over the holidays. OC is in a great place, we found a niche in prosumer and enterprise adoption. The multiplayer team feature is best in class. Shipping reliable and free open source is also really really hard, and wak",
+        "url": "https://x.com/steipete/status/2125422797304549672",
+        "createdAt": "2026-11-25T02:54:17.000Z",
+        "engagement": 621,
+        "textZh": "我让 Codex 在我分心、需要我解除 block 时主动找我——偶尔就会听到它在跟我说话，感觉太酷了。比如发版流程涉及 npm 且被 1Password 锁着，它就会来找我。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "I've been using Gemini 4 Neon and @antigravity all weekend and made a free video course on how you can get the most out of this combo. Some takeaways: 1. Orchestrator and /swarm are very useful for planning and building with multiple agents. At one point, I had 42 agents running ",
+        "url": "https://x.com/petergyang/status/2125246815884984398",
+        "createdAt": "2026-11-24T15:15:00.000Z",
+        "engagement": 619,
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+      },
+      {
+        "handle": "thsottiaux",
+        "name": "Thibault Sottiaux",
+        "bio": "Codex & ChatGPT @OpenAI",
+        "text": "https://t.co/SY2X7f40c5",
+        "url": "https://x.com/thsottiaux/status/2125299436964479474",
+        "createdAt": "2026-11-24T18:44:06.000Z",
+        "engagement": 326,
+        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+      },
+      {
+        "handle": "garrytan",
+        "name": "Garry Tan",
+        "bio": "President & CEO @ycombinator —Founder @garryslist—Creator of GStack & GBrain—designer/engi",
+        "text": "YC is the YC for hard tech https://t.co/NWlfp6U19R",
+        "url": "https://x.com/garrytan/status/2125258221946630432",
+        "createdAt": "2026-11-24T16:00:20.000Z",
+        "engagement": 322,
+        "textZh": "想最快体验 GStack /office-hours 来打磨你的产品想法？点这里一键开始。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "I asked Fable to study all my https://t.co/3Z4NESzNKd coding sessions and decide whether Opus or Gemini Neon is best. Think of it as a 'personal eval'. It picked Neon. Google being so, so back seems widely (and wildly) under-discussed. https://t.co/W6s4WZPvnU",
-        "url": "https://x.com/rauchg/status/2124880074168242369",
-        "createdAt": "2026-11-23T14:57:42.000Z",
-        "engagement": 1836,
+        "text": "Good stuff https://t.co/tqfvBrVMo7",
+        "url": "https://x.com/rauchg/status/2125330925324300725",
+        "createdAt": "2026-11-24T20:49:13.000Z",
+        "engagement": 254,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "The main reason https://t.co/3Z4NESzNKd is a CLI (in this day and age!) is that it's a thin wrapper around 𝚕𝚒𝚋𝚏𝚡. The goal is to produce the smallest and most intelligent coding agent kernel, that's embeddable on any surface: browsers, servers, mobile, desktop, OS, ADEs… htt",
+        "url": "https://x.com/rauchg/status/2125320020666565096",
+        "createdAt": "2026-11-24T20:05:54.000Z",
+        "engagement": 240,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
         "handle": "amasad",
         "name": "Amjad Masad",
         "bio": "ceo @replit. civilizationist",
-        "text": "The man is severely underpaid. https://t.co/tPp4K55neH",
-        "url": "https://x.com/amasad/status/2125001371472871659",
-        "createdAt": "2026-11-23T22:59:42.000Z",
-        "engagement": 1568,
+        "text": "Unlike say electricity, token demand grows in step functions as we find ways to put more compute to use on behalf of a single user. auto-complete -> chat -> agent -> long-running autonomous agents -> swarms Each harness innovation unlocks an order of magnitude more potential toke",
+        "url": "https://x.com/amasad/status/2125287538911072753",
+        "createdAt": "2026-11-24T17:56:49.000Z",
+        "engagement": 226,
         "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Worth listening to if you're curious what goes on in the minds of the people at OpenAI who are obsessively trying to patch all the flaws in OSS software and infrastructure we all rely on https://t.co/afNTCaRewj",
-        "url": "https://x.com/thsottiaux/status/2125027477877887231",
-        "createdAt": "2026-11-24T00:43:26.000Z",
-        "engagement": 1563,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "amasad",
+        "name": "Amjad Masad",
+        "bio": "ceo @replit. civilizationist",
+        "text": "3B local Muse 🤯 https://t.co/psL7dzZOiu",
+        "url": "https://x.com/amasad/status/2125414100692041797",
+        "createdAt": "2026-11-25T02:19:44.000Z",
+        "engagement": 195,
+        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
       }
     ],
-    "podcast": null
+    "podcast": {
+      "name": "Unsupervised Learning",
+      "title": "Ep 98: China Expert on Jensen’s Return",
+      "url": "https://www.youtube.com/watch?v=gkd5eOQGASU",
+      "publishedAt": "2026-11-24T13:05:03.000Z"
+    }
   },
   "builderpulse": {
     "ok": true,
@@ -271,6 +278,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-11-25",
+      "aihotCount": 15,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-11-24",
       "aihotCount": 15,
@@ -303,12 +316,6 @@
     },
     {
       "date": "2026-11-19",
-      "aihotCount": 15,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-11-18",
       "aihotCount": 15,
       "buildersCount": 12,
       "bpBuild": ""
