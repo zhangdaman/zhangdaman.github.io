@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T09:26:54.890Z",
-  "date": "2026-11-27",
+  "generatedAt": "2026-11-28T08:41:06.302Z",
+  "date": "2026-11-28",
   "aihot": {
     "ok": true,
     "items": [
@@ -130,130 +130,130 @@
     "ok": true,
     "items": [
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-        "text": "I am thankful for a lot of things in life, but my family is the best thing that has ever happened to me. The two most common things people said to me before having kids is that it's better than anyone can explain to you and it goes very fast; these are both true and I don't have ",
-        "url": "https://x.com/sama/status/2125983591389974980",
-        "createdAt": "2026-11-26T16:02:41.000Z",
-        "engagement": 13699,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "at your service @openai, formerly Claude Code @anthropicai",
+        "text": "Models should be scored more like an RPG stat sheet than a leaderboard. https://t.co/dVkFqXXgNE",
+        "url": "https://x.com/trq212/status/2126386932989210714",
+        "createdAt": "2026-11-27T18:45:25.000Z",
+        "engagement": 4987,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
-        "handle": "thsottiaux",
-        "name": "Thibault Sottiaux",
-        "bio": "Codex & ChatGPT @OpenAI",
-        "text": "Banked reset is online",
-        "url": "https://x.com/thsottiaux/status/2125853628250599730",
-        "createdAt": "2026-11-26T07:26:16.000Z",
-        "engagement": 8182,
-        "textZh": "我们该把 Codex 改名叫 ChadGPT 吗？"
+        "handle": "ryolu_",
+        "name": "Ryo Lu",
+        "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can m",
+        "text": "the race is not inevitable last year was fun. the models weren't that good yet, so i had to care about every detail. i pushed each thing until it had my thoughts and my designs. the tool helped. i did the driving. now the roles have flipped. we describe and watch things come back",
+        "url": "https://x.com/ryolu_/status/2126382660780167304",
+        "createdAt": "2026-11-27T18:28:27.000Z",
+        "engagement": 1932
       },
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-        "text": "Ven was one of the earliest believers that we could use our then-current model to solve millenium prize problems. There are a lot of brilliant people in the world, but being brilliant and also having correctly-placed confidence and courage to keep pushing on something that others",
-        "url": "https://x.com/sama/status/2125990371897557278",
-        "createdAt": "2026-11-26T16:29:38.000Z",
-        "engagement": 7096,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+        "handle": "nikunj",
+        "name": "Nikunj Kothari",
+        "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlas",
+        "text": "The greatest tragedy right now in Silicon Valley that NO one wants to talk about is how some startups are \"reselling\" compute and calling it revenue.. not inference, just straight up selling compute to other companies. And, no their primary business is NOT selling compute. In thi",
+        "url": "https://x.com/nikunj/status/2126326428522442812",
+        "createdAt": "2026-11-27T14:45:00.000Z",
+        "engagement": 761,
+        "textZh": "你只需要买入 237 号公路沿线几乎每家上市公司，就能实现改变命运的财富积累。"
       },
       {
-        "handle": "sama",
-        "name": "Sam Altman",
-        "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
-        "text": "Oh, one thing about kids: Most good things get a little less satisfying the 100th time you do them. A quiet evening hanging out with your kids, even doing very mundane stuff, is in the rare category of something repetitive just getting better and better.",
-        "url": "https://x.com/sama/status/2125984053119836399",
-        "createdAt": "2026-11-26T16:04:31.000Z",
-        "engagement": 2163,
-        "textZh": "OpenAI Foundation 在做很多很有意义的事。帮助社会增强对 AI 的抵御韧性，会是极其重要的议题。后续还有更多动作，敬请期待。"
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "at your service @openai, formerly Claude Code @anthropicai",
+        "text": "for example I asked both Claude (left) and Codex (right) to generate images for this tweet Claude's looks better and has thought about the problem ore (+creativity, +endurance) but Codex sticks to the spirit of what I want more (+ wisdom, +alignment) https://t.co/RQVXsJ3R2O",
+        "url": "https://x.com/trq212/status/2126386934918651919",
+        "createdAt": "2026-11-27T18:45:26.000Z",
+        "engagement": 489,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
+      },
+      {
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Everyday is breakthrough day",
+        "url": "https://x.com/rauchg/status/2126503317786530105",
+        "createdAt": "2026-11-28T02:27:54.000Z",
+        "engagement": 274,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "trq212",
+        "name": "Thariq",
+        "bio": "at your service @openai, formerly Claude Code @anthropicai",
+        "text": "this is also a call for evals",
+        "url": "https://x.com/trq212/status/2126386936579600522",
+        "createdAt": "2026-11-27T18:45:26.000Z",
+        "engagement": 255,
+        "textZh": "一直在问 Anthropic 同事们他们怎么跟上 Claude 的进展、真正理解内部在做什么。Suzanne 分享的这个方法是我最喜欢的之一。"
       },
       {
         "handle": "levie",
         "name": "Aaron Levie",
         "bio": "ceo @box - your business lives in content. unleash it with AI",
-        "text": "Huge opportunity right now to build new services firms from the ground up, or transform existing ones, with agents at the center. The expertise that services firms in theory should have is as important as ever because you still need deep domain understanding to get the most out o",
-        "url": "https://x.com/levie/status/2125983542475894821",
-        "createdAt": "2026-11-26T16:02:30.000Z",
-        "engagement": 940,
+        "text": "This is the diffusion challenge and opportunity in a nutshell. Most people will probably get stuck with the use-cases that initially wowed them with AI, and have little incentive to move onto the next thing that will unlock another level of productivity. Even a large number of or",
+        "url": "https://x.com/levie/status/2126389098227376238",
+        "createdAt": "2026-11-27T18:54:02.000Z",
+        "engagement": 248,
         "textZh": "进入 AI agent 时代，核心问题来了：当你和竞争对手用的是同一批 AI 模型，竞争优势从哪来？那些能把内部积累的知识、数据资产和行业特定工作流真正接入 AI 的公司，才能保持领先。自建技术栈还是用最好的外部工具，是一个关键变量。但核心是：企业必须找到方式，长期守住自己独特数据、流程和专业经验所创造的价值。我们在 Box 越来越清楚地看到这一点——客户希望把机构知识发挥出来，同时保留随时接入任意 AI 模型的灵活性。这会成为未来企业战略的核心原则。"
       },
       {
         "handle": "rauchg",
         "name": "Guillermo Rauch",
         "bio": "@vercel CEO",
-        "text": "I'm thankful for all the optimists. Americans are a profoundly optimistic bunch, and I think it's one of the things you really appreciate and are drawn to as an immigrant. In order to define the future and lead the world, you must possess a positive vision of what's to come. Thes",
-        "url": "https://x.com/rauchg/status/2126037393241424065",
-        "createdAt": "2026-11-26T19:36:29.000Z",
-        "engagement": 768,
+        "text": "I love asking agents to investigate and describe the never-seen-before simulated universe they're in. https://t.co/pLBfp8Mzxt",
+        "url": "https://x.com/rauchg/status/2126416639344472142",
+        "createdAt": "2026-11-27T20:43:28.000Z",
+        "engagement": 143,
         "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
       },
       {
-        "handle": "amasad",
-        "name": "Amjad Masad",
-        "bio": "ceo @replit. civilizationist",
-        "text": "Google really cooked with Gemini 4. Take them for a ride on Replit! https://t.co/RqvuIxh3lZ",
-        "url": "https://x.com/amasad/status/2126018746884243652",
-        "createdAt": "2026-11-26T18:22:23.000Z",
-        "engagement": 460,
-        "textZh": "一句 prompt 搞定一整套生意：网站、移动 App、变现方案、Delaware 注册公司——全流程，免费开始。"
-      },
-      {
-        "handle": "zarazhangrui",
-        "name": "Zara Zhang",
-        "bio": "Builder. Harvard’17. Instagram: https://t.co/aJqTEMrL2L YouTube: https://t.co/8xzbGWtf6w G",
-        "text": "12 tips for people who posted on LinkedIn but now wanna post on X A lot of people I know are moving their posting from LinkedIn to X. When they ask me how I grew 80k followers on X in one year, here’s what I tell them: 1. LinkedIn is a stage. X is a party. First you find your cro",
-        "url": "https://x.com/zarazhangrui/status/2126055939749118294",
-        "createdAt": "2026-11-26T20:50:10.000Z",
-        "engagement": 355
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "Hey look @elonmusk is giving a SpaceX share to every kid in America I wonder whether NY Times covered this: https://t.co/GfgcssTSBR https://t.co/cGuTqBPpRO",
-        "url": "https://x.com/petergyang/status/2126046533904896077",
-        "createdAt": "2026-11-26T20:12:48.000Z",
-        "engagement": 276,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
-      },
-      {
-        "handle": "petergyang",
-        "name": "Peter Yang",
-        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
-        "text": "This is awesome I just set up Trump accounts for my kids, thank you @elonmusk! One day I hope to take them to see a Starship launch. https://t.co/FQJctoRzzH",
-        "url": "https://x.com/petergyang/status/2126042318793064914",
-        "createdAt": "2026-11-26T19:56:03.000Z",
-        "engagement": 195,
-        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
+        "handle": "danshipper",
+        "name": "Dan Shipper",
+        "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+        "text": "if you like me have looked at the exponential increase in AI capabilities you see in graphs with awe, fear, and foreboding I wrote about why they’re an effective way to measure AI capabilities in a lab. And why they’re nonsense when used to predict the future of human work: https",
+        "url": "https://x.com/danshipper/status/2126397711033438535",
+        "createdAt": "2026-11-27T19:28:15.000Z",
+        "engagement": 129,
+        "textZh": "你不用每周七天连轴转——让一群 Codex 一直跑着 /goal 就行了。不过你大概还是会想这么干。"
       },
       {
         "handle": "swyx",
         "name": "Swyx",
         "bio": "achieve ambition with intentionality, intensity, integrity & insanity. affiliations: - @sm",
-        "text": "i think agentic payments is one of the most divisive yet important themes to get right for 2028. no real in between, either you get in early or you declare its basically never gonna happen https://t.co/p6dDMMMvZ5 https://t.co/7eUeZpn97a",
-        "url": "https://x.com/swyx/status/2126106139582677088",
-        "createdAt": "2026-11-27T00:09:39.000Z",
-        "engagement": 81,
+        "text": "worthwhile talk on whats going on with the neolab reinventions https://t.co/OHtWw6m1Vp https://t.co/gJ228bXl5V",
+        "url": "https://x.com/swyx/status/2126528882262348003",
+        "createdAt": "2026-11-28T04:09:29.000Z",
+        "engagement": 119,
         "textZh": "标题低估了这个内容——这期 @workos 的分享表现很好，是好几周来第一个真正能挑战 @mattpocockuk 的。团队正在做 A/B 测试。"
       },
       {
-        "handle": "mattturck",
-        "name": "Matt Turck",
-        "bio": "VC at @FirstMarkCap. Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-        "text": "\"Thankful to VCs for their thought leadership, podcasts and market maps\" -- no founder yet (but it's still early on Thanksgiving day)",
-        "url": "https://x.com/mattturck/status/2126068708527198482",
-        "createdAt": "2026-11-26T21:40:55.000Z",
+        "handle": "rauchg",
+        "name": "Guillermo Rauch",
+        "bio": "@vercel CEO",
+        "text": "Wow! @floraai is incredible, so this is high praise https://t.co/w31uccw3hF",
+        "url": "https://x.com/rauchg/status/2126434620816384451",
+        "createdAt": "2026-11-27T21:54:55.000Z",
+        "engagement": 98,
+        "textZh": "MiniMax M3 现在在 Next.js agent 评测榜上已经是开源模型第一名。紧跟 Opus 和 GPT-5，但价格便宜 10 倍（现在通过 ▲ AI Gateway 还能再便宜 20 倍！）。"
+      },
+      {
+        "handle": "petergyang",
+        "name": "Peter Yang",
+        "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides a",
+        "text": "GTA 6: Lucia is a much better character than Jason. Jason is boring as hell and feels like he was meant to be a player avatar.",
+        "url": "https://x.com/petergyang/status/2126483723759882600",
+        "createdAt": "2026-11-28T01:10:02.000Z",
         "engagement": 63,
-        "textZh": "CEO：「我们现在已经有数以万计的 AI agent 在大规模生产环境跑着。」\nCTO：[图]"
+        "textZh": "我用得最多的技能，没有之一，哈哈哈。"
       }
     ],
     "podcast": {
       "name": "Latent Space",
-      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
-      "url": "https://www.youtube.com/watch?v=Qe9d9dWyED0",
-      "publishedAt": "2026-11-25T22:28:01.000Z"
+      "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "url": "https://www.youtube.com/@LatentSpacePod",
+      "publishedAt": "2026-11-27T22:19:18.000Z"
     }
   },
   "builderpulse": {
@@ -278,6 +278,12 @@
     }
   },
   "archive": [
+    {
+      "date": "2026-11-28",
+      "aihotCount": 15,
+      "buildersCount": 12,
+      "bpBuild": ""
+    },
     {
       "date": "2026-11-27",
       "aihotCount": 15,
@@ -310,12 +316,6 @@
     },
     {
       "date": "2026-11-22",
-      "aihotCount": 15,
-      "buildersCount": 12,
-      "bpBuild": ""
-    },
-    {
-      "date": "2026-11-21",
       "aihotCount": 15,
       "buildersCount": 12,
       "bpBuild": ""
